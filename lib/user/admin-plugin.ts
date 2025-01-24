@@ -60,7 +60,7 @@ export function isAdminEnabled(): boolean {
 }
 
 if (!isAdminEnabled()) {
-  console.warn('ADMIN_USERNAME and/or ADMIN_PASSWORD environment variables are not set.');
+  console.warn('Admin disabled, ADMIN_USERNAME ADMIN_PASSWORD environment variables are not set.');
 }
 
 function verifyBasicAuth(authHeader: string | null): boolean {
@@ -76,15 +76,14 @@ const adminPageHtml = `
   <meta name="color-scheme" content="light dark" />
   <meta name="viewport="width=device-width, initial-scale=1" />
   <h1>Admin</h1>
-    ${
-  actions.map((action) => `
+    ${actions.map((action) => `
       <div>
         <a href="/admin/${action.route}">
           <button>${action.name}</button>
         </a>
       </div>
     `).join('')
-}
+  }
 `;
 
 export function adminPlugin(app: App<State>) {

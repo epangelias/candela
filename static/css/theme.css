@@ -634,3 +634,22 @@ form[data-loading='true'] {
     }
   }
 }
+
+
+
+
+/* Details */
+
+details:has(summary) {
+  cursor: pointer;
+
+  summary {
+    color: var(--fg3);
+  }
+
+  &[open] {
+    summary {
+      margin-bottom: var(--spacing-2);
+    }
+  }
+}
