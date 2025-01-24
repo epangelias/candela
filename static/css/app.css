@@ -1,0 +1,46 @@
+.app-ui {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    width: 100%;
+    max-width: var(--content-width);
+
+    .view {
+        height: 100%;
+    }
+
+    .tabs {
+        display: flex;
+        gap: var(--spacing);
+
+        button {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex: 1;
+            gap: var(--spacing);
+
+            svg {
+                width: 1.5rem;
+                height: 1.5rem;
+            }
+
+            &:not([data-selected="true"]) {
+                background-color: var(--bg3);
+                color: var(--fg2);
+            }
+
+        }
+    }
+}
+
+@media (max-width: 800px) {
+    .title {
+        display: none;
+    }
+}
+
+main:has(.app-ui) {
+    height: 100%;
+}

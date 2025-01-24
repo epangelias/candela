@@ -45,7 +45,7 @@ export const handler = define.handlers({
 });
 
 export default define.page<typeof handler>(() => (
-  <Page>
+  <Page hideHeader={true} hideBanner={true}>
     <div>
       <h1>Sign Up</h1>
       <Form method='POST'>

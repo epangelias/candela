@@ -7,7 +7,7 @@ export default define.page(() => (
     <div>
       <ol>
         <li>
-          Tab the share button <IconShare2 />
+          Tab the share button <IconShare2 width={24} height={24} />
         </li>
         <li>Choose "Add to Home Screen"</li>
         <li>That's it!</li>
