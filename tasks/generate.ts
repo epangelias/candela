@@ -8,6 +8,24 @@ import { Builder } from 'fresh/dev';
 import { app } from '@/main.ts';
 import { delay } from '@std/async/delay';
 import { Spinner } from 'jsr:@std/cli@1.0.9/unstable-spinner';
+import { createCanvas, Image } from "jsr:@gfx/canvas@0.5.6";
+
+async function convertSVGToImage() {
+  spinner.message = 'Converting SVG to PNG...';
+
+  const image = new Image();
+  image.src = site.icon;
+
+  const canvas = createCanvas(128, 128);
+  const ctx = canvas.getContext("2d");
+  ctx.drawImage(image, 0, 0, 128, 128);
+  const pngData = canvas.encode('webp', 100);
+  await Deno.writeFile("./test.png", pngData);
+}
+
+convertSVGToImage();
+
+Deno.exit();
 
 const localURL = 'http://0.0.0.0:8000';
 

@@ -5,7 +5,7 @@ export const site = {
   icon: Meth.emojiToUrl('🕯️'),
   themeColor: "#eb9a52",
   backgroundColor: "#222222",
-  description: 'A lamp to my feet and a light to my path.',
+  description: 'A lamp to my feet, a light to my path.',
   email: "you@example.com",
   lang: "en-US"
 };
