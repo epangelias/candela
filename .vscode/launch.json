@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "request": "launch",
+      "name": "Launch Program",
+      "type": "node",
+      "program": "${workspaceFolder}/tasks/dev.ts",
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "DENO_FUTURE": "1"
+      },
+      "runtimeExecutable": "/home/jaden/.deno/bin/deno",
+      "runtimeArgs": [
+        "run",
+        "-A",
+        "--env",
+        "--inspect-wait"
+      ],
+      "attachSimplePort": 9229
+    }
+  ]
+}
