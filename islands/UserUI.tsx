@@ -7,7 +7,8 @@ export function UserUI({ error, message }: { error?: string; message?: string })
   const global = useGlobal();
 
   return (
-    <>
+    <div class='user-ui'>
+      <h1>Options</h1>
       {global.user.value?.hasSubscribed && global.stripeEnabled && (
         <p>
           <a href='/user/subscription' target='_blank'>Manage Subscription</a>
@@ -26,7 +27,7 @@ export function UserUI({ error, message }: { error?: string; message?: string })
         </p>
       )}
 
-      <Form method='POST'>
+      <Form method='POST' action='/user'>
         <Field name='name' label='Name' required autofocus defaultValue={global.user.value?.name} />
         <Field name='email' label='Email' required autofocus defaultValue={global.user.value?.email} />
 
@@ -34,6 +35,6 @@ export function UserUI({ error, message }: { error?: string; message?: string })
         {message && <span class='message' role='status' aria-live='polite'>{message}</span>}
         {error && <span class='error-message' role='alert' aria-live='assertive'>{error}</span>}
       </Form>
-    </>
+    </div>
   );
 }

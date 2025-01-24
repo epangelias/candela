@@ -3,7 +3,7 @@ import { JSX } from 'preact';
 import { useSignal } from '@preact/signals';
 import { useAlert } from '@/islands/Alert.tsx';
 
-export function Form(props: JSX.HTMLAttributes<HTMLFormElement> & { method?: string }) {
+export function Form(props: JSX.HTMLAttributes<HTMLFormElement> & { method?: string; action: string }) {
   const isLoading = useSignal(false);
   const { showError, showSuccess, hideAlert, AlertBox } = useAlert();
 

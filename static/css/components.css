@@ -125,7 +125,7 @@
 .banner-closed-button {
   position: absolute;
   z-index: 100;
-  top: 63px;
+  top: var(--spacing);
   right: var(--spacing);
   float: right;
   padding: 0 var(--spacing);

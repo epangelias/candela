@@ -4,7 +4,9 @@ import InfoBible from 'tabler-icons/bible';
 import ChatIcon from 'tabler-icons/message-circle';
 import WordsIcon from 'tabler-icons/brain';
 import SearchIcon from 'tabler-icons/search';
+import OptionsIcon from 'tabler-icons/settings';
 import { useComputed, useSignal } from '@preact/signals';
+import { UserUI } from '@/islands/UserUI.tsx';
 
 export function AppUI({ chatData }: { chatData: ChatData }) {
   const tabs = [
@@ -27,6 +29,11 @@ export function AppUI({ chatData }: { chatData: ChatData }) {
       title: 'Verse Search',
       content: <p>Search</p>,
       icon: SearchIcon,
+    },
+    {
+      title: 'Options',
+      content: <UserUI />,
+      icon: OptionsIcon,
     },
   ];
 
