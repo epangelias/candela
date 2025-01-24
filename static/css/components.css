@@ -285,4 +285,9 @@
 
 .onboard-section {
   padding: var(--spacing-2);
+
+  img {
+    margin-left: -15px;
+    margin-bottom: var(--spacing);
+  }
 }

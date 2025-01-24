@@ -3,6 +3,7 @@ import { site } from '@/app/site.ts';
 import { UserMenu } from '@/islands/UserMenu.tsx';
 import IconBolt from 'tabler-icons/bolt';
 import IconBoltOff from 'tabler-icons/bolt-off';
+import { asset } from 'fresh/runtime';
 
 export function Header() {
   const global = useGlobal();
@@ -12,7 +13,7 @@ export function Header() {
       <header>
         <div class='left'>
           <a href='/' class='logo' aria-label='Go to home page'>
-            <img src={site.icon} width={48} height={48} alt='' />
+            <img src={asset(site.icon)} width={48} height={48} alt='' />
             <span>{site.name}</span>
           </a>
         </div>

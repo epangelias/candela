@@ -4,6 +4,7 @@ import { site } from '@/app/site.ts';
 import { STATUS_CODE } from '@std/http/status';
 import { setUserData } from '@/lib/user/user-data.ts';
 import { State, UserData } from '@/app/types.ts';
+import { asset } from 'fresh/runtime';
 
 // import * as webPushTypes from 'npm:@types/web-push';
 // const webPush = _webPush as typeof webPushTypes;
@@ -35,7 +36,7 @@ export async function sendNotificationToUser(user: UserData, title: string, mess
 
   for (const subscription of user.pushSubscriptions) {
     try {
-      const data = { body: message, icon: site.icon, title };
+      const data = { body: message, icon: asset("/img/icon"), title };
       await webPush.sendNotification(subscription, JSON.stringify(data), { TTL: 60 });
       console.log('Sent!', { subscription, data });
     } catch (_e) {

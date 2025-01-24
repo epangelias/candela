@@ -8,24 +8,7 @@ import { Builder } from 'fresh/dev';
 import { app } from '@/main.ts';
 import { delay } from '@std/async/delay';
 import { Spinner } from 'jsr:@std/cli@1.0.9/unstable-spinner';
-import { createCanvas, Image } from "jsr:@gfx/canvas@0.5.6";
 
-async function convertSVGToImage() {
-  spinner.message = 'Converting SVG to PNG...';
-
-  const image = new Image();
-  image.src = site.icon;
-
-  const canvas = createCanvas(128, 128);
-  const ctx = canvas.getContext("2d");
-  ctx.drawImage(image, 0, 0, 128, 128);
-  const pngData = canvas.encode('webp', 100);
-  await Deno.writeFile("./test.png", pngData);
-}
-
-convertSVGToImage();
-
-Deno.exit();
 
 const localURL = 'http://0.0.0.0:8000';
 
@@ -43,11 +26,27 @@ try {
   await delay(1000);
 }
 
+// const generatedIconPath = Path.join(import.meta.dirname!, '../static/img/icon.png');
+// async function convertToImage() {
+//   spinner.message = 'Converting Icon...';
+
+//   const browser = await puppeteer.launch({ browser: "chrome", headless: false });
+//   const page = await browser.newPage();
+//   page.setViewport({ width: 1024, height: 1024 });
+//   await page.goto(site.icon);
+//   await delay(3000);
+//   await page.screenshot({
+//     path: generatedIconPath,
+//     omitBackground: true
+//   });
+//   await browser.close();
+// }
+
 async function takeScreenshot(filename: string, width: number, height: number) {
   spinner.message = 'Generating screenshot...';
 
   const path = Path.join(import.meta.dirname!, '../static/img/' + filename);
-  const browser = await puppeteer.launch({ browser: 'firefox', headless: true });
+  const browser = await puppeteer.launch({ browser: 'chrome', headless: true });
 
   try {
     const page = await browser.newPage();
@@ -81,8 +80,8 @@ async function generateAssets(inputIcon: string, outputDir: string) {
 
 async function URLtoPath(url: string) {
   const res = await fetch(url);
-  const contentType = res.headers.get('content-type')?.split('/')[1].split('+')[0];
-  const filePath = Path.join(import.meta.dirname!, `../static/img/gen/icon.${contentType}`);
+  // const contentType = res.headers.get('content-type')?.split('/')[1].split('+')[0];
+  const filePath = Path.join(import.meta.dirname!, `../static/img/gen/icon`);//.${contentType}`);
   const imageData = new Uint8Array(await res.arrayBuffer());
   await Deno.writeFile(filePath, imageData);
   return filePath;

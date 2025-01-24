@@ -7,7 +7,7 @@ import { UserData } from '@/app/types.ts';
 export async function sendEmailVerification(baseUrl: string, user: UserData) {
   const code = await generateEmailVerificationCode(user);
 
-  const logo = site.icon.startsWith('/') ? baseUrl + asset(site.icon) : site.icon;
+  const logo = asset("/img/icon");
   const link = `${baseUrl}/user/verify-email?code=${code}`;
   console.log(link);
 
@@ -59,7 +59,7 @@ export async function sendPasswordVerification(baseUrl: string, user: UserData) 
   const link = `${baseUrl}/user/reset-password?code=${code}`;
   console.log(link);
 
-  const logo = site.icon.startsWith('/') ? baseUrl + asset(site.icon) : site.icon;
+  const logo = asset("/img/icon");
 
   await sendMail({
     fromName: `${site.name}`,
