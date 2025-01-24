@@ -11,11 +11,6 @@ import { UserUI } from '@/islands/UserUI.tsx';
 export function AppUI({ chatData }: { chatData: ChatData }) {
   const tabs = [
     {
-      title: 'Texts',
-      content: <p>Texts</p>,
-      icon: InfoBible,
-    },
-    {
       title: 'Chat',
       content: <ChatBox data={chatData} />,
       icon: ChatIcon,
@@ -26,7 +21,12 @@ export function AppUI({ chatData }: { chatData: ChatData }) {
       icon: WordsIcon,
     },
     {
-      title: 'Verse Search',
+      title: 'Texts',
+      content: <p>Texts</p>,
+      icon: InfoBible,
+    },
+    {
+      title: 'Search',
       content: <p>Search</p>,
       icon: SearchIcon,
     },
