@@ -20,6 +20,8 @@
             justify-content: center;
             flex: 1;
             gap: var(--spacing);
+            padding-left: 0;
+            padding-right: 0;
 
             svg {
                 width: 1.5rem;

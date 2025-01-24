@@ -1,8 +1,9 @@
 import ChatBox from '@/islands/ChatBox.tsx';
 import { ChatData } from '@/app/types.ts';
-import { OutOfTokensDialog } from '@/islands/OutOfTokensDialog.tsx';
 import InfoBible from 'tabler-icons/bible';
 import ChatIcon from 'tabler-icons/message-circle';
+import WordsIcon from 'tabler-icons/brain';
+import SearchIcon from 'tabler-icons/search';
 import { useComputed, useSignal } from '@preact/signals';
 
 export function AppUI({ chatData }: { chatData: ChatData }) {
@@ -16,6 +17,16 @@ export function AppUI({ chatData }: { chatData: ChatData }) {
       title: 'Chat',
       content: <ChatBox data={chatData} />,
       icon: ChatIcon,
+    },
+    {
+      title: 'Words',
+      content: <p>Words</p>,
+      icon: WordsIcon,
+    },
+    {
+      title: 'Verse Search',
+      content: <p>Search</p>,
+      icon: SearchIcon,
     },
   ];
 

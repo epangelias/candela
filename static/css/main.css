@@ -26,6 +26,7 @@ main {
   /* Full width if contains chat box */
   &:has(.app-ui) {
     padding-top: 0;
+    padding-bottom: var(--spacing);
     height: 100%;
     width: 100%;
   }
