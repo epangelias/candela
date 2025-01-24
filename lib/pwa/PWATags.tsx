@@ -9,7 +9,7 @@ export function PWATags() {
       <meta name='msapplication-tap-highlight' content='no' />
       <meta name='theme-color' content={site.themeColor} />
       <meta name='format-detection' content='telephone=no' />
-      <meta name='apple-mobile-web-app-status-bar-style' content='black-translucent' />
+      <meta name='apple-mobile-web-app-status-bar-style' content='black' />
       <link rel='manifest' href={asset('/manifest.json')} />
 
       <link rel='apple-touch-icon' href={asset('/img/gen/apple-icon-180.png')} />
