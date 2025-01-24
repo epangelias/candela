@@ -35,6 +35,11 @@ export function UserUI({ error, message }: { error?: string; message?: string })
         {message && <span class='message' role='status' aria-live='polite'>{message}</span>}
         {error && <span class='error-message' role='alert' aria-live='assertive'>{error}</span>}
       </Form>
+
+      <p>
+        <br />
+        <a href='/user/signout'>Sign Out</a>
+      </p>
     </div>
   );
 }
