@@ -1,8 +1,8 @@
-import { Meth } from "@/lib/utils/meth.ts";
+// import { Meth } from "@/lib/utils/meth.ts";
+// icon: Meth.emojiToUrl('🕯️'),
 
 export const site = {
   name: "Candela",
-  // icon: Meth.emojiToUrl('🕯️'),
   icon: '/img/icon.png',
   themeColor: "#eb9a52",
   backgroundColor: "#222222",
