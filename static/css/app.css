@@ -6,15 +6,26 @@
     width: 100%;
     max-width: var(--content-width);
 
-    .view {
+    .views {
         height: 100%;
 
-        .user-ui {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
+
+        .view {
+            display: none;
+
+            &[data-current="true"] {
+                display: block;
+            }
+
             height: 100%;
+
+            .user-ui {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                height: 100%;
+            }
         }
     }
 

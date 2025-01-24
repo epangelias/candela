@@ -43,8 +43,8 @@ export function AppUI({ chatData }: { chatData: ChatData }) {
 
   return (
     <div class='app-ui'>
-      <div class='view'>
-        {currentTab.value.content}
+      <div class='views'>
+        {tabs.map((tab, id) => <div class='view' data-current={id == currentTabID.value}>{tab.content}</div>)}
       </div>
 
       <div class='tabs'>

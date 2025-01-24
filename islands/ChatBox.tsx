@@ -99,7 +99,7 @@ export default function ChatBox({ data }: { data: ChatData }) {
   }
 
   function handleKeyPress(e: KeyboardEvent) {
-    if (!e.shiftKey && e.key == 'Enter') {
+    if (e.shiftKey && e.key == 'Enter') {
       e.preventDefault();
       const textarea = e.currentTarget as HTMLTextAreaElement;
       (textarea.nextSibling as HTMLButtonElement).click();
