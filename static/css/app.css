@@ -6,18 +6,22 @@
     width: 100%;
     max-width: var(--content-width);
 
-    .views {
-        height: 100%;
 
+    .views {
+        display: flex;
+        height: 100%;
+        flex: 1;
+        overflow: auto;
 
         .view {
             display: none;
+            height: 100%;
+            width: 100%;
 
             &[data-current="true"] {
                 display: block;
             }
 
-            height: 100%;
 
             .user-ui {
                 display: flex;
@@ -25,6 +29,41 @@
                 justify-content: center;
                 align-items: center;
                 height: 100%;
+            }
+
+            .search-ui {
+                height: 100%;
+                padding: var(--spacing);
+                padding-top: var(--spacing-2);
+                display: flex;
+                flex-direction: column;
+
+                form {
+                    display: flex;
+                    flex-direction: row;
+                    width: 100%;
+                    align-items: center;
+
+                    .field {
+                        flex: 1;
+
+                        input {
+                            width: 100%;
+                        }
+                    }
+
+                    button {
+                        padding: 4px var(--spacing);
+                    }
+
+                }
+
+                ul {
+                    padding: 0;
+                    list-style: none;
+                    height: 100%;
+                    overflow: auto;
+                }
             }
         }
     }

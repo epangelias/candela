@@ -7,6 +7,7 @@ import SearchIcon from 'tabler-icons/search';
 import OptionsIcon from 'tabler-icons/settings';
 import { useComputed, useSignal } from '@preact/signals';
 import { UserUI } from '@/islands/UserUI.tsx';
+import { SearchUI } from '@/islands/SearchUI.tsx';
 
 export function AppUI({ chatData }: { chatData: ChatData }) {
   const tabs = [
@@ -27,7 +28,7 @@ export function AppUI({ chatData }: { chatData: ChatData }) {
     },
     {
       title: 'Search',
-      content: <p>Search</p>,
+      content: <SearchUI />,
       icon: SearchIcon,
     },
     {
@@ -38,8 +39,6 @@ export function AppUI({ chatData }: { chatData: ChatData }) {
   ];
 
   const currentTabID = useSignal(0);
-
-  const currentTab = useComputed(() => tabs[currentTabID.value]);
 
   return (
     <div class='app-ui'>
