@@ -10,7 +10,7 @@ const manifest = {
   id: site.name.toLowerCase(),
   start_url: '/',
   lang: site.lang,
-  // theme_color: site.themeColor,
+  theme_color: site.themeColor,
   background_color: site.backgroundColor,
   display: 'standalone',
   description: site.description,

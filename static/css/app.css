@@ -43,6 +43,7 @@
                     flex-direction: row;
                     width: 100%;
                     align-items: center;
+                    padding-bottom: var(--spacing);
 
                     .field {
                         flex: 1;
