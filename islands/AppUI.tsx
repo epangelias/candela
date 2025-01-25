@@ -8,6 +8,7 @@ import OptionsIcon from 'tabler-icons/settings';
 import { useComputed, useSignal } from '@preact/signals';
 import { UserUI } from '@/islands/UserUI.tsx';
 import { SearchUI } from '@/islands/SearchUI.tsx';
+import { IS_BROWSER } from 'fresh/runtime';
 
 export function AppUI({ chatData }: { chatData: ChatData }) {
   const tabs = [
@@ -38,7 +39,17 @@ export function AppUI({ chatData }: { chatData: ChatData }) {
     },
   ];
 
-  const currentTabID = useSignal(0);
+  function getTabFromHash() {
+    const data = localStorage.getItem('current-tab');
+    return data ? +data : 0;
+  }
+
+  const currentTabID = useSignal(getTabFromHash());
+
+  function setTab(id: number) {
+    currentTabID.value = id;
+    localStorage.setItem('current-tab', id + '');
+  }
 
   return (
     <div class='app-ui'>
@@ -48,7 +59,7 @@ export function AppUI({ chatData }: { chatData: ChatData }) {
 
       <div class='tabs'>
         {tabs.map((tab, id) => (
-          <button data-selected={currentTabID.value == id} onClick={() => currentTabID.value = id}>
+          <button data-selected={currentTabID.value == id} onClick={() => setTab(id)}>
             <span class='title'>{tab.title}</span> <tab.icon />
           </button>
         ))}
