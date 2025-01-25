@@ -59,14 +59,16 @@
 
                 }
 
-                .smart-search {
-                    color: var(--primary);
-                }
+                .smart-search {}
 
                 ul {
                     padding: 0;
                     list-style: none;
-                    opacity: 0.8;
+
+                    p,
+                    h3 {
+                        color: var(--fg3);
+                    }
                 }
 
                 .results {
