@@ -22,8 +22,10 @@ export const handler = define.handlers({
 
         getClient();
 
+        const prompt = `The verse that is most relevant to the query "${query}"`;
+
         const resultsData = await client.search({
-            term: query as string,
+            term: prompt,
             mode: "vector",
         });
 
