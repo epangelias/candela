@@ -29,8 +29,6 @@ export const handler = define.handlers({
             mode: "vector",
         });
 
-        console.log(resultsData)
-
         const results = resultsData?.hits.map(r => ({ name: r.document.verse_name, description: r.document.verse_text }))
 
         return Response.json(results);

@@ -59,6 +59,10 @@
 
                 }
 
+                .smart-search {
+                    color: var(--primary);
+                }
+
                 ul {
                     padding: 0;
                     list-style: none;

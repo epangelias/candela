@@ -11,6 +11,7 @@ interface SearchResult {
 
 export function SearchUI() {
   const searchResults = useSignal<SearchResult[]>([]);
+  const smartSearchHTML = useSignal('');
   const loading = useSignal(false);
 
   async function onSubmit(e: SubmitEvent) {
@@ -27,11 +28,17 @@ export function SearchUI() {
       form.reset();
 
       searchResults.value = [];
+      smartSearchHTML.value = '<p><div class="loader"></div></p>';
 
       searchResults.value = await fetchOrError('/api/search', {
         method: 'POST',
         body: { query },
       });
+
+      smartSearchHTML.value = (await fetchOrError<{ html: string }>('/api/smart-search', {
+        method: 'POST',
+        body: { query },
+      })).html;
     } catch (e) {
     } finally {
       loading.value = false;
@@ -47,6 +54,9 @@ export function SearchUI() {
         </button>
       </form>
       <ul>
+        <li class='smart-search'>
+          <div dangerouslySetInnerHTML={{ __html: smartSearchHTML.value }}></div>
+        </li>
         {searchResults.value.map((result) => (
           <li>
             <h3>{result.name}</h3>
