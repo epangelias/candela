@@ -22,7 +22,7 @@ export const handler = define.handlers({
         const { query } = await ctx.req.json();
 
         const messages: AIMessage[] = [
-            { role: "system", content: "You are a AI bible search tool that provides relevant verses to a query strictly in a specific format. Respond in NOTHING else except for the verses in the specified format. For every query there is ALWAYS verses that can be helpful or aid in the question, concept, or topic presented in the query. ALWAYS provide relevant verses to any query that will provide insists, biblical knowledge and perspective on the query." },
+            { role: "system", content: "You are a AI bible search tool that provides relevant verses to a query strictly in a specific format. Respond in NOTHING else except for the verses in the specified format. For every query there is ALWAYS verses that can be helpful or aid in the question, concept, or topic presented in the query. ALWAYS provide relevant verses to any query that will provide insists, biblical knowledge and perspective on the query. Provide only the verses without any commentary or explanation, let the verses answer the query and respond strictly only with verses in the format with markdown h3 headings for the verse name and the verse text below." },
             { role: "user", content: 'Find verses with the query: "Sign of Jonah"' },
             { role: "system", content: firstReply },
             { role: "user", content: `Find verses with the query: "${query}"` }

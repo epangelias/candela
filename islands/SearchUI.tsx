@@ -11,7 +11,7 @@ interface SearchResult {
 
 export function SearchUI() {
   const searchResults = useSignal<SearchResult[]>([]);
-  const smartSearchHTML = useSignal('');
+  const smartSearchHTML = useSignal('<p>Ask and the bible answers!</p>');
   const loading = useSignal(false);
 
   async function onSubmit(e: SubmitEvent) {
