@@ -55,7 +55,7 @@ export async function sendNotificationToUser(user: UserData, title: string, mess
 }
 
 export function pushPlugin(app: App<State>) {
-  app.get('/api/vapid-public-key', () => Response.json(VAPID_PUBLIC_KEY));
+  app.get('/api/vapid-public-key', () => Response.json(VAPID_PUBLIC_KEY || ''));
   app.post('/api/subscribe-notifications', async (ctx) => {
     const user = ctx.state.user;
     if (!user) throw new HttpError(STATUS_CODE.Unauthorized);
