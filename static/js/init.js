@@ -24,6 +24,7 @@ document.addEventListener('touchstart', () => {}, { passive: true });
 // Field sizing polyfill
 
 (() => {
+  return;
   if (CSS.supports('field-sizing', 'content')) return;
 
   const adjustSize = (textarea) => {
