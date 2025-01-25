@@ -13,6 +13,7 @@ export function SearchUI() {
   const searchResults = useSignal<SearchResult[]>([]);
   const smartSearchHTML = useSignal('<p>Ask and the bible answers!</p>');
   const loading = useSignal(false);
+  const currentQuery = useSignal('');
 
   async function onSubmit(e: SubmitEvent) {
     try {
@@ -22,6 +23,8 @@ export function SearchUI() {
 
       const formData = new FormData(form);
       const query = formData.get('query');
+
+      currentQuery.value = query;
 
       loading.value = true;
 
@@ -54,6 +57,7 @@ export function SearchUI() {
         </button>
       </form>
       <div class='results'>
+        {currentQuery.value && <h2>"{currentQuery.value}"</h2>}
         <div class='smart-search' dangerouslySetInnerHTML={{ __html: smartSearchHTML.value }}></div>
         <ul>
           {searchResults.value.map((result) => (
