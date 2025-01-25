@@ -1,6 +1,9 @@
 import { useEffect } from 'preact/hooks';
 import { useSignal } from '@preact/signals';
 import InfoIcon from 'tabler-icons/alert-circle-filled';
+import { getContent } from '@/islands/Content.tsx';
+import { useGlobal } from '@/islands/Global.tsx';
+import { IS_BROWSER } from 'fresh/runtime';
 
 interface AlertInfo {
   message: string;

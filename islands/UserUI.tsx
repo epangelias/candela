@@ -2,7 +2,7 @@ import { useGlobal } from '@/islands/Global.tsx';
 import { Field } from '@/components/Field.tsx';
 import { Form } from '@/islands/Form.tsx';
 import { FormButton } from '@/components/FormButton.tsx';
-import { Content, getContent } from '@/islands/Content.tsx';
+import { Content, getContent, SelectLanguage } from '@/islands/Content.tsx';
 
 export function UserUI({ error, message }: { error?: string; message?: string }) {
   const global = useGlobal();
@@ -34,16 +34,7 @@ export function UserUI({ error, message }: { error?: string; message?: string })
         <Field name='name' label={getContent('Name')} required autofocus defaultValue={global.user.value?.name} />
         <Field name='email' label={getContent('Email')} required autofocus defaultValue={global.user.value?.email} />
 
-        <div class='field'>
-          <label for='field-language'>
-            <Content>Language</Content>
-          </label>
-          <select name='language' id='field-language'>
-            <option value='en'>English</option>
-            <option value='es'>Español</option>
-            <option value='la'>Latin</option>
-          </select>
-        </div>
+        <SelectLanguage />
 
         <FormButton class='wide'>{getContent('Save')}</FormButton>
         {message && <span class='message' role='status' aria-live='polite'>{message}</span>}
@@ -52,7 +43,7 @@ export function UserUI({ error, message }: { error?: string; message?: string })
 
       <p>
         <br />
-        <a href='/user/signout'>{getContent('Sign Out')}</a>
+        <a href='/user/signout'>{getContent('SignOut')}</a>
       </p>
     </div>
   );

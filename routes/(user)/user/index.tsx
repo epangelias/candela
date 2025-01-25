@@ -6,6 +6,8 @@ import { STATUS_CODE } from '@std/http/status';
 import { Meth } from '@/lib/utils/meth.ts';
 import { Page } from '@/components/Page.tsx';
 import { sendEmailVerification } from '@/app/email.ts';
+import { getContent } from '@/islands/Content.tsx';
+import { getContentUser } from '@/lib/utils/lang.ts';
 
 export const handler = define.handlers({
   GET: (ctx) => {
@@ -26,7 +28,7 @@ export const handler = define.handlers({
       });
 
       if (newUser.email != user.email) await sendEmailVerification(ctx.url.origin, user);
-      return new Response('Saved!');
+      return new Response(getContentUser(ctx.state.user, 'Saved'));
     } catch (e) {
       throw new HttpError(400, Meth.getErrorMessage(e));
     }

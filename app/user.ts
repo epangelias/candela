@@ -19,7 +19,7 @@ export function stripUserData(user?: UserData) {
   } as Partial<UserData>;
 }
 
-export function createUser(name: string, email: string, password: string, isPremium: boolean) {
+export function createUser(name: string, email: string, password: string, language: string, isPremium: boolean) {
   return createUserData({
     name,
     email,
@@ -30,7 +30,7 @@ export function createUser(name: string, email: string, password: string, isPrem
     isEmailVerified: false,
     hasVerifiedEmail: false,
     pushSubscriptions: [],
-    language: 'en',
+    language: language,
   });
 }
 

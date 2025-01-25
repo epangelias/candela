@@ -37,7 +37,7 @@ export type GlobalData = {
 };
 
 export interface State {
-  user?: UserData;
+  user: UserData | null;
   auth?: string;
 }
 

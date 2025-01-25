@@ -3,6 +3,7 @@ import SearchIcon from 'tabler-icons/search';
 import { useSignal } from '@preact/signals';
 import { fetchOrError } from '@/lib/utils/fetch.ts';
 import { Loader } from '@/components/Loader.tsx';
+import { getContent } from '@/islands/Content.tsx';
 
 interface SearchResult {
   name: string;
@@ -11,7 +12,7 @@ interface SearchResult {
 
 export function SearchUI() {
   const searchResults = useSignal<SearchResult[]>([]);
-  const smartSearchHTML = useSignal('<p>Ask and the bible answers!</p>');
+  const smartSearchHTML = useSignal(`<p>${getContent('AskAndTheBibleAnswers')}</p>`);
   const loading = useSignal(false);
   const currentQuery = useSignal('');
 
@@ -51,7 +52,7 @@ export function SearchUI() {
   return (
     <div class='search-ui'>
       <form onSubmit={onSubmit}>
-        <Field type='search' name='query' placeholder='Search' required />
+        <Field type='search' name='query' placeholder={getContent('Search')} required />
         <button disabled={loading.value}>
           {loading.value ? <Loader width={24} height={24} /> : <SearchIcon width={24} height={24} />}
         </button>

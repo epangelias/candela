@@ -9,6 +9,7 @@ import { createUser } from '@/app/user.ts';
 import { Field } from '@/components/Field.tsx';
 import { Form } from '@/islands/Form.tsx';
 import { FormButton } from '@/components/FormButton.tsx';
+import { SelectLanguage } from '@/islands/Content.tsx';
 
 const HAS_SIGN_UP_CODE = Deno.env.has('SIGN_UP_CODE');
 const SIGN_UP_CODE = Deno.env.get('SIGN_UP_CODE');
@@ -19,13 +20,13 @@ export const handler = define.handlers({
   POST: async (ctx) => {
     limiter.request();
 
-    const { name, email, password, signupCode } = Meth.formDataToObject(await ctx.req.formData());
+    const { name, email, password, signupCode, language } = Meth.formDataToObject(await ctx.req.formData());
 
     try {
       const correctCode = HAS_SIGN_UP_CODE && signupCode && signupCode == SIGN_UP_CODE;
       if (signupCode && !correctCode) throw new Error('Invalid sign up code');
 
-      const user = await createUser(name, email, password, !!correctCode);
+      const user = await createUser(name, email, password, language, !!correctCode);
 
       try {
         await sendEmailVerification(ctx.url.origin, user);
@@ -50,6 +51,7 @@ export default define.page<typeof handler>(() => (
       <h1>Sign Up</h1>
       <Form method='POST'>
         <Field name='name' label='Name' required autofocus />
+        <SelectLanguage />
         <Field name='email' label='Email' type='email' required />
         <Field name='password' label='Password' type='password' required />
 

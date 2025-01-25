@@ -9,31 +9,32 @@ import { useComputed, useSignal } from '@preact/signals';
 import { UserUI } from '@/islands/UserUI.tsx';
 import { SearchUI } from '@/islands/SearchUI.tsx';
 import { IS_BROWSER } from 'fresh/runtime';
+import { getContent } from '@/islands/Content.tsx';
 
 export function AppUI({ chatData }: { chatData: ChatData }) {
   const tabs = [
     {
-      title: 'Chat',
+      title: getContent('Chat'),
       content: <ChatBox data={chatData} />,
       icon: ChatIcon,
     },
     {
-      title: 'Words',
+      title: getContent('Words'),
       content: <p>Words</p>,
       icon: WordsIcon,
     },
     {
-      title: 'Texts',
+      title: getContent('Texts'),
       content: <p>Texts</p>,
       icon: InfoBible,
     },
     {
-      title: 'Search',
+      title: getContent('Search'),
       content: <SearchUI />,
       icon: SearchIcon,
     },
     {
-      title: 'Options',
+      title: getContent('Options'),
       content: <UserUI />,
       icon: OptionsIcon,
     },
