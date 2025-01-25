@@ -1,15 +1,15 @@
 import { define } from '@/lib/utils/utils.ts';
-
-// import { OramaClient } from "npm:@oramacloud/client";
+// 
+import { OramaClient } from "@oramacloud/client";
 
 let client: OramaClient;
 
 function getClient() {
-    // if (!client) return client = new OramaClient({
-    //     endpoint: "https://cloud.orama.run/v1/indexes/bible-dpqd9u",
-    //     api_key: Deno.env.get("ORAMA_API_KEY")!,
-    // });
-    // return client;
+    if (!client) return client = new OramaClient({
+        endpoint: "https://cloud.orama.run/v1/indexes/bible-dpqd9u",
+        api_key: Deno.env.get("ORAMA_API_KEY")!,
+    });
+    return client;
 }
 
 
