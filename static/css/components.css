@@ -43,6 +43,7 @@
   }
 
   .messages {
+    font-size: 1.1rem;
     flex: 1;
     padding-top: var(--spacing-2);
     height: 100%;

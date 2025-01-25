@@ -59,15 +59,13 @@
 
                 }
 
-                .smart-search {}
-
                 ul {
                     padding: 0;
                     list-style: none;
 
                     p,
                     h3 {
-                        color: var(--fg3);
+                        opacity: 0.7;
                     }
                 }
 
