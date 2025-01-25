@@ -12,6 +12,7 @@ function getClient() {
     return client;
 }
 
+if (Deno.env.get('GITHUB_ACTIONS')! == "true") getClient();
 
 
 
