@@ -108,7 +108,7 @@
             color: #000000;
 
             &[data-selected="true"] {
-                background-color: var(--primary);
+                background-color: var(--accent);
                 color: #d49139;
             }
         }

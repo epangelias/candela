@@ -28,14 +28,15 @@ const createFirstMessage = (name: string, language: string) => {
 
 
 export async function getChatData(user: UserData) {
-  const path = ['chat', user.id, user.language];
+  const lang = user.language || 'en';
+  const path = ['chat', user.id, lang];
   const data = await db.get<ChatData>(path);
   if (data.versionstamp == null) {
     const chatData: ChatData = {
       userId: user.id,
       messages: [
-        { role: 'system', content: createSystemPrompt(user.name, user.language) },
-        { role: 'assistant', content: createFirstMessage(user.name, user.language) },
+        { role: 'system', content: createSystemPrompt(user.name, lang) },
+        { role: 'assistant', content: createFirstMessage(user.name, lang) },
       ],
     };
     await db.set(path, chatData);
