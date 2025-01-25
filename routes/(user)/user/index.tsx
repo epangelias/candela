@@ -17,10 +17,12 @@ export const handler = define.handlers({
     try {
       const user = ctx.state.user;
       if (!user) throw new HttpError(STATUS_CODE.Unauthorized);
-      const { email, name } = Meth.formDataToObject(await ctx.req.formData());
+      const { email, name, language } = Meth.formDataToObject(await ctx.req.formData());
+
       const newUser = await setUserData(user.id, (u) => {
         u.name = name;
         u.email = email;
+        u.language = language;
       });
 
       if (newUser.email != user.email) await sendEmailVerification(ctx.url.origin, user);

@@ -5,6 +5,7 @@ import { isStripeEnabled, stripe } from '@/lib/stripe/stripe.ts';
 import { generateCode, hashText } from '@/lib/utils/crypto.ts';
 import { UserData } from '@/app/types.ts';
 import { validation } from '@/lib/user/validation.ts';
+import { validateLanguage } from '@/lib/utils/lang.ts';
 
 // DB
 
@@ -110,6 +111,7 @@ export async function setUserData(userId: string, getNewUser: (user: UserData) =
 
   validation('email', user.email, { email: true, min: 5, max: 320 });
   validation('name', user.name, { textAndSpaces: true, min: 3, max: 100 });
+  if (!validateLanguage(user.language)) throw new Error('Invalid language');
 
   const emailChanged = old.value.email != user.email;
   const nameChanged = old.value.name != user.name;
