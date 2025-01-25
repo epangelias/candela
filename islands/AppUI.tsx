@@ -40,6 +40,7 @@ export function AppUI({ chatData }: { chatData: ChatData }) {
   ];
 
   function getTabFromHash() {
+    if (!IS_BROWSER) return 0;
     const data = localStorage.getItem('current-tab');
     return data ? +data : 0;
   }
@@ -48,6 +49,7 @@ export function AppUI({ chatData }: { chatData: ChatData }) {
 
   function setTab(id: number) {
     currentTabID.value = id;
+    if (!IS_BROWSER) return;
     localStorage.setItem('current-tab', id + '');
   }
 
