@@ -22,7 +22,7 @@ export default function ChatBox({ data }: { data: ChatData }) {
 
   if (!global.user.value) return <></>;
 
-  useEffect(() => syncSSE('/api/chatdata', { data: chatData }), []);
+  useEffect(() => syncSSE('/api/chatdata', { data: chatData }), [global.user.value.language]);
 
   useEffect(() => {
     scrollToBottom(50);

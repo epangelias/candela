@@ -8,7 +8,7 @@ import { ChatData } from '@/app/types.ts';
 export const handler = define.handlers(async (ctx) => {
   if (!ctx.state.user) throw new HttpError(STATUS_CODE.Unauthorized);
 
-  const path = ['chat', ctx.state.user.id];
+  const path = ['chat', ctx.state.user.id, ctx.state.user.language];
 
   if (ctx.req.method == 'GET') {
     return StreamSSR({ watchKey: path });

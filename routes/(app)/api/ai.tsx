@@ -16,7 +16,7 @@ export const handler = define.handlers({
     if (!chatData) throw new HttpError(STATUS_CODE.NotFound);
 
     const saveMessages = async (messages: AIMessage[]) => {
-      await setChatData({ ...chatData, messages });
+      await setChatData({ ...chatData, messages }, user.language);
       await setUserData(user.id, (u) => u.tokens--);
     };
 
