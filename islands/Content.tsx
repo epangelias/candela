@@ -1,5 +1,6 @@
 import { getLanguageContent, LangContentName } from '@/lib/utils/lang.ts';
 import { useGlobal } from '@/islands/Global.tsx';
+import { JSX } from 'preact/jsx-runtime';
 
 function getDefaultLanguage(): string {
   const browserLang = navigator.language || 'en';
@@ -21,9 +22,9 @@ export function getContent(name: LangContentName) {
   return getLanguageContent(getLanguage(), name);
 }
 
-export function SelectLanguage() {
+export function SelectLanguage(props: { hidden: boolean } = { hidden: false }) {
   return (
-    <div class='field'>
+    <div class='field' style={{ display: props.hidden ? 'none' : 'block' }}>
       <label for='field-language'>
         <Content>Language</Content>
       </label>

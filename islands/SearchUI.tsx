@@ -4,6 +4,8 @@ import { useSignal } from '@preact/signals';
 import { fetchOrError } from '@/lib/utils/fetch.ts';
 import { Loader } from '@/components/Loader.tsx';
 import { getContent } from '@/islands/Content.tsx';
+import { useEffect } from 'preact/hooks';
+import { useGlobal } from '@/islands/Global.tsx';
 
 interface SearchResult {
   name: string;
@@ -12,9 +14,14 @@ interface SearchResult {
 
 export function SearchUI() {
   const searchResults = useSignal<SearchResult[]>([]);
-  const smartSearchHTML = useSignal(`<p>${getContent('AskAndTheBibleAnswers')}</p>`);
+  const smartSearchHTML = useSignal('');
   const loading = useSignal(false);
   const currentQuery = useSignal('');
+  const global = useGlobal();
+
+  useEffect(() => {
+    smartSearchHTML.value = `<p>${getContent('AskAndTheBibleAnswers')}</p>`;
+  }, [global.user.value?.language]);
 
   async function onSubmit(e: SubmitEvent) {
     try {
