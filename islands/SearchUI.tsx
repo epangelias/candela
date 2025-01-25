@@ -53,17 +53,17 @@ export function SearchUI() {
           {loading.value ? <Loader width={24} height={24} /> : <SearchIcon width={24} height={24} />}
         </button>
       </form>
-      <ul>
-        <li class='smart-search'>
-          <div dangerouslySetInnerHTML={{ __html: smartSearchHTML.value }}></div>
-        </li>
-        {searchResults.value.map((result) => (
-          <li>
-            <h3>{result.name}</h3>
-            <p>{result.description}</p>
-          </li>
-        ))}
-      </ul>
+      <div class='results'>
+        <div class='smart-search' dangerouslySetInnerHTML={{ __html: smartSearchHTML.value }}></div>
+        <ul>
+          {searchResults.value.map((result) => (
+            <li>
+              <h3>{result.name}</h3>
+              <p>{result.description}</p>
+            </li>
+          ))}
+        </ul>
+      </div>
     </div>
   );
 }
