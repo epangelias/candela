@@ -26,7 +26,7 @@ export const handler = define.handlers({
 
         const resultsData = await client.search({
             term: prompt,
-            mode: "vector",
+            mode: "hybrid",
         });
 
         const results = resultsData?.hits.map(r => ({ name: r.document.verse_name, description: r.document.verse_text }))

@@ -17,12 +17,14 @@ For as Jonas was a sign unto the Ninevites, so shall also the Son of man be to t
 ### Luke 11:32
 The men of Nineveh shall rise up in the judgment with this generation, and shall condemn it: for they repented at the preaching of Jonas; and, behold, a greater than Jonas is here.  `;
 
+const secondReply = ``
+
 export const handler = define.handlers({
     POST: async (ctx) => {
         const { query } = await ctx.req.json();
 
         const messages: AIMessage[] = [
-            { role: "system", content: "You are a AI bible search tool that provides relevant verses to a query strictly in a specific format. Respond in NOTHING else except for the verses in the specified format. For every query there is ALWAYS verses that can be helpful or aid in the question, concept, or topic presented in the query. ALWAYS provide relevant verses to any query that will provide insists, biblical knowledge and perspective on the query. Provide only the verses without any commentary or explanation, let the verses answer the query and respond strictly only with verses in the format with markdown h3 headings (With ###) for the verse name and the verse text below. If you don't know what the query means, simply try your best to provide relevant verses. NEVER paraphrase the verses, you may include multiple verses if necessary but try to stick to just one." },
+            { role: "system", content: "You are a AI bible search tool that provides relevant verses to a query strictly in a specific format. Respond in NOTHING else except for the verses in the specified format. For every query there is ALWAYS verses that can be helpful or aid in the question, concept, or topic presented in the query. ALWAYS provide relevant verses to any query no mater what it is, provide verses that will provide insists, biblical knowledge and perspective on the query. Provide only the verses without any commentary or explanation, let the verses alone. If you don't know what the query means, simply try your best to provide relevant verses. NEVER paraphrase the verses, you may include multiple verses each section if necessary but try to stick to just one verse per section. This will be in markdown format with an H3 (###) for the verse title, then the verse test in the KJV for each verse." },
             { role: "user", content: 'Find verses with the query: "Sign of Jonah"' },
             { role: "system", content: firstReply },
             { role: "user", content: `Find verses with the query: "${query}"` }

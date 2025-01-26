@@ -5,7 +5,7 @@ import ChatIcon from 'tabler-icons/message-circle';
 import WordsIcon from 'tabler-icons/brain';
 import SearchIcon from 'tabler-icons/search';
 import OptionsIcon from 'tabler-icons/settings';
-import { useComputed, useSignal } from '@preact/signals';
+import { useSignal } from '@preact/signals';
 import { UserUI } from '@/islands/UserUI.tsx';
 import { SearchUI } from '@/islands/SearchUI.tsx';
 import { IS_BROWSER } from 'fresh/runtime';
@@ -41,9 +41,9 @@ export function AppUI({ chatData }: { chatData: ChatData }) {
   ];
 
   function getTabFromHash() {
-    if (!IS_BROWSER) return 0;
+    if (!IS_BROWSER) return 2;
     const data = localStorage.getItem('current-tab');
-    return data ? +data : 0;
+    return data ? +data : 2;
   }
 
   const currentTabID = useSignal(getTabFromHash());
