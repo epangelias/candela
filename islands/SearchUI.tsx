@@ -6,6 +6,7 @@ import { Loader } from '@/components/Loader.tsx';
 import { getContent } from '@/islands/Content.tsx';
 import { useEffect } from 'preact/hooks';
 import { useGlobal } from '@/islands/Global.tsx';
+import { IS_BROWSER } from 'fresh/runtime';
 
 interface SearchResult {
   name: string;
@@ -20,8 +21,8 @@ export function SearchUI() {
   const global = useGlobal();
 
   useEffect(() => {
-    smartSearchHTML.value = `<p>${getContent('AskAndTheBibleAnswers')}</p>`;
-  }, [global.user.value?.language]);
+    if (IS_BROWSER) smartSearchHTML.value = `<p>${getContent('AskAndTheBibleAnswers', global)}</p>`;
+  }, [global.user.value]);
 
   async function onSubmit(e: SubmitEvent) {
     try {

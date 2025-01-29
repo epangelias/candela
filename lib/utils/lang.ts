@@ -59,6 +59,40 @@ const languages: Record<string, LanguageData> = {
             Saved: 'Servata',
         }
     },
+    he: {
+        name: 'עברית',
+        content: {
+            Options: 'אפשרויות',
+            Name: 'שם',
+            Email: 'אימייל',
+            Language: 'שפה',
+            Save: 'שמור',
+            SignOut: 'התנתק',
+            Search: 'חפש',
+            Texts: 'טקסטים',
+            Words: 'מילים',
+            Chat: 'צ\'אט',
+            AskAndTheBibleAnswers: 'שאל והתנ"ך יענה!',
+            Saved: 'נשמר',
+        }
+    },
+    gr: {
+        name: 'Ελληνικά',
+        content: {
+            Options: 'Επιλογές',
+            Name: 'Όνομα',
+            Email: 'Ηλεκτρονικό ταχυδρομείο',
+            Language: 'Γλώσσα',
+            Save: 'Αποθήκευση',
+            SignOut: 'Αποσύνδεση',
+            Search: 'Αναζήτηση',
+            Texts: 'Κείμενα',
+            Words: 'Λέξεις',
+            Chat: 'Συζήτηση',
+            AskAndTheBibleAnswers: 'Ρώτα και η Βίβλος απαντά!',
+            Saved: 'Αποθηκεύτηκε',
+        }
+    },
 };
 
 export function validateLanguage(lang: string) {

@@ -1,25 +1,29 @@
 import { getLanguageContent, LangContentName } from '@/lib/utils/lang.ts';
 import { useGlobal } from '@/islands/Global.tsx';
-import { JSX } from 'preact/jsx-runtime';
+import { GlobalData } from '@/app/types.ts';
 
 function getDefaultLanguage(): string {
   const browserLang = navigator.language || 'en';
-  const supportedLanguages = ['en', 'es', 'la'];
+  const supportedLanguages = ['en', 'es', 'la', 'gr', 'he'];
   const defaultLanguage = supportedLanguages.includes(browserLang.substring(0, 2)) ? browserLang.substring(0, 2) : 'en';
   return defaultLanguage;
 }
 
-function getLanguage() {
-  const global = useGlobal();
-  return global.user.value?.language || getDefaultLanguage();
+function getLanguage(global = useGlobal()) {
+  try {
+    return global?.user.value?.language || getDefaultLanguage();
+  } catch (e) {
+    console.error('getLanguage() needs to be passed global');
+  }
+  return getDefaultLanguage();
 }
 
 export function Content({ children }: { children: string }) {
   return getLanguageContent(getLanguage(), children as LangContentName);
 }
 
-export function getContent(name: LangContentName) {
-  return getLanguageContent(getLanguage(), name);
+export function getContent(name: LangContentName, global = useGlobal()) {
+  return getLanguageContent(getLanguage(global), name);
 }
 
 export function SelectLanguage(props: { hidden: boolean } = { hidden: false }) {
@@ -32,6 +36,8 @@ export function SelectLanguage(props: { hidden: boolean } = { hidden: false }) {
         <option value='en'>English</option>
         <option value='es'>Español</option>
         <option value='la'>Latin</option>
+        <option value='gr'>Greek</option>
+        <option value='he'>Hebrew</option>
       </select>
     </div>
   );
