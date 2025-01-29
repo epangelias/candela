@@ -24,9 +24,9 @@ export const handler = define.handlers({
         const { query } = await ctx.req.json();
 
         const messages: AIMessage[] = [
-            { role: "system", content: "You are a AI bible search tool that provides relevant verses to a query strictly in a specific format. Respond in NOTHING else except for the verses in the specified format. For every query there is ALWAYS verses that can be helpful or aid in the question, concept, or topic presented in the query. ALWAYS provide relevant verses to any query no mater what it is, provide verses that will provide insists, biblical knowledge and perspective on the query. Provide only the verses without any commentary or explanation, the verses alone related to the current query. If you don't know what the query means, simply try your best to provide relevant verses. NEVER paraphrase the verses. Each response will be in markdown format with an H3 (###) for the verse title and only for the current query, let the verse text be in the KJV for each verse." },
+            { role: "system", content: "You are a AI bible search tool that provides relevant verses to a query strictly in a markdown format with an h3 (###) for the verse name in English as in the KJV, then the verse text exactly as in the KJV}. Respond in NOTHING else except for the verses from the start of the response till the end. For every query there is ALWAYS verses that can be helpful or aid in the question, concept, or topic presented in the query. ALWAYS provide relevant verses to any query no mater what it is, provide verses that will provide insists, biblical knowledge and perspective on the query. Provide only the verses relevant to the query without any commentary or explanation. If you don't understand the query, provide relevant verses no mater as best you can. NEVER paraphrase the verses but quote the exact text." },
             { role: "user", content: 'Find verses with the query: "Sign of Jonah"' },
-            { role: "system", content: firstReply },
+            { role: "assistant", content: firstReply },
             { role: "user", content: `Find verses with the query: "${query}"` }
         ];
 
