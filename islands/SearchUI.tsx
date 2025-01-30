@@ -24,20 +24,21 @@ export function SearchUI() {
     if (IS_BROWSER) smartSearchHTML.value = `<p>${getContent('AskAndTheBibleAnswers', global)}</p>`;
   }, [global.user.value]);
 
-  async function onSubmit(e: SubmitEvent) {
+  useEffect(() => {
+    if (
+      global.pageState.currentTab.value?.id == 'search' && global.pageState.selection.value &&
+      !global.pageState.selectionUsed.value
+    ) {
+      global.pageState.selectionUsed.value = true;
+      search(global.pageState.selection.value);
+    }
+  }, [global.pageState.currentTab.value]);
+
+  async function search(query: string) {
     try {
-      e.preventDefault();
-
-      const form = e.currentTarget as HTMLFormElement;
-
-      const formData = new FormData(form);
-      const query = formData.get('query');
-
       currentQuery.value = query;
 
       loading.value = true;
-
-      form.reset();
 
       searchResults.value = [];
       smartSearchHTML.value = '<p><div class="loader"></div></p>';
@@ -55,6 +56,19 @@ export function SearchUI() {
     } finally {
       loading.value = false;
     }
+  }
+
+  async function onSubmit(e: SubmitEvent) {
+    e.preventDefault();
+
+    const form = e.currentTarget as HTMLFormElement;
+
+    const formData = new FormData(form);
+    const query = formData.get('query') as string;
+
+    form.reset();
+
+    await search(query);
   }
 
   return (

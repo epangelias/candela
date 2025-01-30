@@ -78,6 +78,8 @@
         }
     }
 
+
+
     .tabs {
         display: flex;
         gap: var(--spacing);
@@ -90,18 +92,29 @@
             gap: var(--spacing);
             padding-left: 0;
             padding-right: 0;
+            background-color: var(--bg3);
+            color: var(--fg2);
+            border: 2px solid var(--primary);
 
             svg {
                 width: 1.5rem;
                 height: 1.5rem;
             }
 
-            &:not([data-selected="true"]) {
-                background-color: var(--bg3);
-                color: var(--fg2);
+
+
+            &:disabled {
+                scale: 0.9;
+                border-color: transparent;
             }
 
+
         }
+
+
+    }
+
+    .tabs:not(:has(button:disabled)) {
 
         button:nth-child(3) {
             background-color: #d49139;
@@ -111,6 +124,16 @@
                 background-color: var(--accent);
                 color: #d49139;
             }
+
+        }
+
+        button[data-selected="true"] {
+            background-color: var(--accent);
+            color: var(--on-accent);
+        }
+
+        button {
+            border-color: transparent;
         }
     }
 }

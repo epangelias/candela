@@ -2,6 +2,7 @@ import { ComponentChildren } from 'preact';
 import { usePWA } from '@/lib/pwa/usePWA.ts';
 import { Signal } from '@preact/signals';
 import { AIMessage } from '@/lib/ai/oai.ts';
+import { PageState } from '@/app/SelectionState.tsx';
 
 export interface BannerData {
   name: string;
@@ -34,6 +35,7 @@ export type GlobalData = {
   mailEnabled: boolean;
   stripeEnabled: boolean;
   pushEnabled: boolean;
+  pageState: PageState;
 };
 
 export interface State {

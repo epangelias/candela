@@ -28,6 +28,16 @@ export default function ChatBox({ data }: { data: ChatData }) {
     scrollToBottom(50);
   }, [chatData.value]);
 
+  useEffect(() => {
+    if (
+      global.pageState.currentTab.value?.id == 'chat' && global.pageState.selection.value &&
+      !global.pageState.selectionUsed.value
+    ) {
+      global.pageState.selectionUsed.value = true;
+      ask(`Explain: "${global.pageState.selection.value}"`);
+    }
+  }, [global.pageState.currentTab.value]);
+
   function addMessage(message: AIMessage) {
     chatData.value.messages.push(message);
     chatData.value = { ...chatData.value };
@@ -47,17 +57,22 @@ export default function ChatBox({ data }: { data: ChatData }) {
   }
 
   async function onSubmit(e: SubmitEvent) {
+    if (!inputRef.current) return;
+
     e.preventDefault();
 
     try {
       global.pwa.requestSubscription();
     } catch (e) {}
 
+    await ask(inputRef.current.value);
+  }
+
+  async function ask(query: string) {
     if (!checkCanGenerate()) return showOutOfTokensDialog();
-    if (!inputRef.current) return;
 
     generating.value = true;
-    addMessage({ role: 'user', content: inputRef.current.value });
+    addMessage({ role: 'user', content: query });
     inputRef.current.value = '';
     scrollToBottom();
     await sendSSE('/api/chatdata', chatData.value);
