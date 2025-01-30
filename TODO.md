@@ -1,0 +1,2 @@
+- Make prompts in english, but tell to respond in selected language
+- Make it so that it translates question if not in target language
