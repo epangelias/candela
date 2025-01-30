@@ -9,6 +9,7 @@ import { delay } from '@std/async/delay';
 import ArrowUp from 'tabler-icons/arrow-up';
 import { useAlert } from '@/islands/Alert.tsx';
 import { Loader } from '@/components/Loader.tsx';
+import { getContent } from '@/islands/Content.tsx';
 
 export default function ChatBox({ data }: { data: ChatData }) {
   const global = useGlobal();
@@ -34,7 +35,8 @@ export default function ChatBox({ data }: { data: ChatData }) {
       !global.pageState.selectionUsed.value
     ) {
       global.pageState.selectionUsed.value = true;
-      ask(`Explain: "${global.pageState.selection.value}"`);
+
+      ask(`${getContent('Explain', global)}: "${global.pageState.selection.value}"`);
     }
   }, [global.pageState.currentTab.value]);
 

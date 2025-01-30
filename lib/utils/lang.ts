@@ -1,6 +1,6 @@
 import { UserData } from '@/app/types.ts';
 
-export type LangContentName = 'Options' | 'Name' | 'Email' | 'Language' | 'Save' | 'SignOut' | 'Search' | 'Texts' | 'Words' | 'Chat' | 'AskAndTheBibleAnswers' | 'Saved';
+export type LangContentName = 'Options' | 'Name' | 'Email' | 'Language' | 'Save' | 'SignOut' | 'Search' | 'Texts' | 'Words' | 'Chat' | 'AskAndTheBibleAnswers' | 'Saved' | 'Explain';
 
 interface LanguageData {
     name: string;
@@ -23,6 +23,7 @@ const languages: Record<string, LanguageData> = {
             Chat: 'Chat',
             AskAndTheBibleAnswers: 'Ask and the Bible Answers!',
             Saved: 'Saved',
+            Explain: 'Explain',
         }
     },
     es: {
@@ -40,6 +41,7 @@ const languages: Record<string, LanguageData> = {
             Chat: 'Chat',
             AskAndTheBibleAnswers: '¡Preguntar y las Respuestas Bíblicas!',
             Saved: 'Guardado',
+            Explain: 'Explicar',
         }
     },
     la: {
@@ -57,6 +59,7 @@ const languages: Record<string, LanguageData> = {
             Chat: 'Colloquium',
             AskAndTheBibleAnswers: 'Interrogare et Responsa Biblica!',
             Saved: 'Servata',
+            Explain: 'Explica',
         }
     },
     he: {
@@ -74,6 +77,7 @@ const languages: Record<string, LanguageData> = {
             Chat: 'צ\'אט',
             AskAndTheBibleAnswers: 'שאל והתנ"ך יענה!',
             Saved: 'נשמר',
+            Explain: 'בֵּאֵר',
         }
     },
     gr: {
@@ -91,6 +95,7 @@ const languages: Record<string, LanguageData> = {
             Chat: 'Συζήτηση',
             AskAndTheBibleAnswers: 'Ρώτα και η Βίβλος απαντά!',
             Saved: 'Αποθηκεύτηκε',
+            Explain: 'ἐξηγέομαι',
         }
     },
 };
