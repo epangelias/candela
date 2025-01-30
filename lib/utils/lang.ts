@@ -1,6 +1,6 @@
 import { UserData } from '@/app/types.ts';
 
-export type LangContentName = 'Options' | 'Name' | 'Email' | 'Language' | 'Save' | 'SignOut' | 'Search' | 'Texts' | 'Words' | 'Chat' | 'AskAndTheBibleAnswers' | 'Saved' | 'Explain';
+export type LangContentName = 'Options' | 'Name' | 'Email' | 'Language' | 'Save' | 'SignOut' | 'Search' | 'Texts' | 'Words' | 'Chat' | 'AskAndTheBibleAnswers' | 'Saved' | 'Explain' | 'NativeLanguage' | 'Default';
 
 interface LanguageData {
     name: string;
@@ -24,6 +24,8 @@ const languages: Record<string, LanguageData> = {
             AskAndTheBibleAnswers: 'Ask and the Bible Answers!',
             Saved: 'Saved',
             Explain: 'Explain',
+            NativeLanguage: 'Native Language',
+            Default: "Default",
         }
     },
     es: {
@@ -42,6 +44,8 @@ const languages: Record<string, LanguageData> = {
             AskAndTheBibleAnswers: '¡Preguntar y las Respuestas Bíblicas!',
             Saved: 'Guardado',
             Explain: 'Explicar',
+            NativeLanguage: 'Idioma Nativo',
+            Default: 'Predeterminado',
         }
     },
     la: {
@@ -60,6 +64,8 @@ const languages: Record<string, LanguageData> = {
             AskAndTheBibleAnswers: 'Interrogare et Responsa Biblica!',
             Saved: 'Servata',
             Explain: 'Explica',
+            NativeLanguage: 'Lingua Nativa',
+            Default: "Praedefinitus",
         }
     },
     he: {
@@ -78,6 +84,8 @@ const languages: Record<string, LanguageData> = {
             AskAndTheBibleAnswers: 'שאל והתנ"ך יענה!',
             Saved: 'נשמר',
             Explain: 'בֵּאֵר',
+            NativeLanguage: 'שָׁפַת אֲבוֹת',
+            Default: "בָּרוּת",
         }
     },
     gr: {
@@ -96,6 +104,8 @@ const languages: Record<string, LanguageData> = {
             AskAndTheBibleAnswers: 'Ρώτα και η Βίβλος απαντά!',
             Saved: 'Αποθηκεύτηκε',
             Explain: 'ἐξηγέομαι',
+            NativeLanguage: 'Ἡ Πατρίᾳ Γλῶσσα',
+            Default: 'Πρότυπον',
         }
     },
 };

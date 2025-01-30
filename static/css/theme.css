@@ -408,6 +408,12 @@ pre {
   overflow-x: auto;
   white-space: pre-wrap;
   font-size: 12px;
+
+  code {
+    background-color: transparent;
+    padding: 0;
+    overflow: hidden;
+  }
 }
 
 /* Other */

@@ -19,16 +19,16 @@ export const handler = define.handlers({
     try {
       const user = ctx.state.user;
       if (!user) throw new HttpError(STATUS_CODE.Unauthorized);
-      const { email, name, language } = Meth.formDataToObject(await ctx.req.formData());
-
+      const { email, name, language, nativeLanguage } = Meth.formDataToObject(await ctx.req.formData());
       const newUser = await setUserData(user.id, (u) => {
         u.name = name;
         u.email = email;
         u.language = language;
+        u.nativeLanguage = nativeLanguage || '';
       });
 
       if (newUser.email != user.email) await sendEmailVerification(ctx.url.origin, user);
-      return new Response(getContentUser(ctx.state.user, 'Saved'));
+      return new Response(getContentUser(newUser, 'Saved'));
     } catch (e) {
       throw new HttpError(400, Meth.getErrorMessage(e));
     }

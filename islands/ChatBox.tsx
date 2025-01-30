@@ -19,7 +19,8 @@ export default function ChatBox({ data }: { data: ChatData }) {
   const inputRef = useRef<HTMLTextAreaElement>(null);
   const { showError, AlertBox } = useAlert();
 
-  const checkCanGenerate = () => global.user.value && (global.user.value.tokens! > 0 || global.user.value.isSubscribed);
+  const checkCanGenerate = () =>
+    global.user.value && (global.user.value.tokens! > 0 || global.user.value.isSubscribed) && !generating.value;
 
   if (!global.user.value) return <></>;
 
@@ -36,7 +37,7 @@ export default function ChatBox({ data }: { data: ChatData }) {
     ) {
       global.pageState.selectionUsed.value = true;
 
-      ask(`${getContent('Explain', global)}: "${global.pageState.selection.value}"`);
+      ask(`${getContent('Explain', global)} "${global.pageState.selection.value}"`);
     }
   }, [global.pageState.currentTab.value]);
 

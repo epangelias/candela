@@ -16,6 +16,7 @@ export function stripUserData(user?: UserData) {
     email: user.email,
     hasVerifiedEmail: user.hasVerifiedEmail,
     language: user.language,
+    nativeLanguage: user.nativeLanguage,
   } as Partial<UserData>;
 }
 
@@ -31,6 +32,7 @@ export function createUser(name: string, email: string, password: string, langua
     hasVerifiedEmail: false,
     pushSubscriptions: [],
     language: language,
+    nativeLanguage: language,
   });
 }
 

@@ -26,6 +26,7 @@ export interface UserData {
   hasVerifiedEmail: boolean;
   pushSubscriptions: PushSubscription[];
   language?: string;
+  nativeLanguage?: string;
 }
 
 export type GlobalData = {

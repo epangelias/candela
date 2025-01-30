@@ -15,7 +15,7 @@ export const app = new App<State>();
 
 setProductionMode(import.meta.main);
 
-autoSendFollowUps(app);
+// autoSendFollowUps(app);
 stripePlugin(app);
 pushPlugin(app);
 userPlugin(app);
