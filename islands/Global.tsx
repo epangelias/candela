@@ -33,8 +33,10 @@ export function Global({ children, user, mailEnabled, stripeEnabled, pushEnabled
     const setSelection = () => {
       const selection = globalThis.getSelection()?.toString() || '';
       if (selection != global.pageState.selection.value) {
-        global.pageState.selectionUsed.value = false;
-        global.pageState.selection.value = selection;
+        setTimeout(() => {
+          global.pageState.selectionUsed.value = false;
+          global.pageState.selection.value = selection;
+        }, 50);
       }
     };
     document.addEventListener('selectionchange', setSelection);
