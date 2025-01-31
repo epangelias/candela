@@ -17,6 +17,7 @@ export default function WordsUI({ data }: { data: WordsData }) {
   const global = useGlobal();
   const wordsData = useSignal<WordsData>(data);
   const scrollableRef = useRef<HTMLDivElement>(null);
+  const formRef = useRef<HTMLFormElement>(null);
   const { showError, AlertBox } = useAlert();
 
   const checkCanGenerate = () => global.user.value && (global.user.value.tokens! > 0 || global.user.value.isSubscribed);
@@ -31,12 +32,14 @@ export default function WordsUI({ data }: { data: WordsData }) {
 
   useEffect(() => {
     if (
-      global.pageState.currentTab.value?.id == 'chat' && global.pageState.selection.value &&
+      global.pageState.currentTab.value?.id == 'words' && global.pageState.selection.value &&
       !global.pageState.selectionUsed.value
     ) {
       global.pageState.selectionUsed.value = true;
 
-      alert('Adding word ' + global.pageState.selection.value);
+      if (!formRef.current) return;
+      formRef.current.reset();
+      formRef.current.elements['word'].value = global.pageState.selection.value;
     }
   }, [global.pageState.currentTab.value]);
 
@@ -55,7 +58,7 @@ export default function WordsUI({ data }: { data: WordsData }) {
   return (
     <>
       <div class='words-ui'>
-        <form style={{ flexDirection: 'row', padding: '10px' }}>
+        <form style={{ flexDirection: 'row', padding: '10px' }} ref={formRef}>
           <input name='word' placeholder='Word' />
           <input name='meaning' placeholder='Meaning' style={{ flex: '1' }} />
           <button>

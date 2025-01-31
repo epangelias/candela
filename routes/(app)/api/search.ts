@@ -24,12 +24,19 @@ export const handler = define.handlers({
 
         const prompt = `The verse that is most relevant to the query "${query}"`;
 
-        const resultsData = await client.search({
+        const resultsDataVector = await client.search({
             term: prompt,
-            mode: "hybrid",
+            mode: "vector",
         });
 
-        const results = resultsData?.hits.map(r => ({ name: r.document.verse_name, description: r.document.verse_text }))
+        const resultsDataText = await client.search({
+            term: prompt,
+            mode: "fulltext",
+        });
+
+        const resultsData = [resultsDataVector?.hits, resultsDataText?.hits].flat().filter((x) => x !== undefined);;
+
+        const results = resultsData.map(r => ({ name: r.document.verse_name, description: r.document.verse_text }))
 
         return Response.json(results);
     }
