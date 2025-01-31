@@ -12,6 +12,7 @@ import { Loader } from '@/components/Loader.tsx';
 import { getContent } from '@/islands/Content.tsx';
 import IconAdd from 'tabler-icons/plus';
 import { Field } from '@/components/Field.tsx';
+import { generateCode } from '@/lib/utils/crypto.ts';
 
 export default function WordsUI({ data }: { data: WordsData }) {
   const global = useGlobal();
@@ -55,17 +56,48 @@ export default function WordsUI({ data }: { data: WordsData }) {
     }
   }
 
+  async function onSubmit(e: SubmitEvent) {
+    e.preventDefault();
+    const form = e.currentTarget as HTMLFormElement;
+    const formData = new FormData(form);
+    const word = formData.get('word') as string;
+    const meaning = formData.get('meaning') as string;
+    await addWord(word, meaning);
+    form.reset();
+  }
+
+  async function addWord(word: string, meaning: string) {
+    wordsData.value.words.push({
+      created: Date.now(),
+      id: generateCode(),
+      word,
+      meaning,
+      level: 0,
+    });
+    wordsData.value = { ...wordsData.value };
+    await sendSSE('/api/wordsdata', wordsData.value);
+    scrollToBottom();
+  }
+
   return (
     <>
       <div class='words-ui'>
-        <form style={{ flexDirection: 'row', padding: '10px' }} ref={formRef}>
-          <input name='word' placeholder='Word' />
-          <input name='meaning' placeholder='Meaning' style={{ flex: '1' }} />
+        <form style={{ flexDirection: 'row', padding: '10px' }} ref={formRef} onSubmit={onSubmit}>
+          <input name='word' placeholder='Word' autocomplete='off' required />
+          <input name='meaning' placeholder='Meaning' style={{ flex: '1' }} autocomplete='off' required />
           <button>
             <IconAdd width={28} />
           </button>
         </form>
         <div className='scrollable' ref={scrollableRef}>
+          <ul>
+            {wordsData.value.words.map((word) => (
+              <li key={word.word} key={word.id}>
+                <span>{word.word}</span>
+                <span>{word.meaning}</span>
+              </li>
+            ))}
+          </ul>
         </div>
       </div>
 
