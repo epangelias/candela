@@ -108,6 +108,10 @@
                 border-color: transparent;
             }
 
+            &:hover {
+                background-color: var(--bg4);
+            }
+
 
         }
 

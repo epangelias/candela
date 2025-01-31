@@ -29,6 +29,22 @@ export interface UserData {
   nativeLanguage?: string;
 }
 
+export interface WordData {
+  id: string;
+  word: string;
+  meaning: string;
+  level: 0;
+  created: number;
+}
+
+export interface WordsData {
+  id: string;
+  created: number;
+  language: string;
+  words: WordData[];
+  userId: string;
+}
+
 export type GlobalData = {
   user: Signal<Partial<UserData> | null>;
   outOfTokens: Signal<boolean>;

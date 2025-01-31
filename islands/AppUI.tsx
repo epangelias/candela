@@ -1,5 +1,5 @@
 import ChatBox from '@/islands/ChatBox.tsx';
-import { ChatData } from '@/app/types.ts';
+import { ChatData, WordsData } from '@/app/types.ts';
 import InfoBible from 'tabler-icons/bible';
 import ChatIcon from 'tabler-icons/message-circle';
 import WordsIcon from 'tabler-icons/brain';
@@ -13,6 +13,7 @@ import { getContent } from '@/islands/Content.tsx';
 import { useEffect } from 'preact/hooks';
 import { useGlobal } from '@/islands/Global.tsx';
 import { ComponentChildren } from 'preact';
+import WordsUI from '@/islands/WordsUI.tsx';
 
 export interface TabData {
   id: string;
@@ -22,7 +23,7 @@ export interface TabData {
   passSelection: boolean;
 }
 
-export function AppUI({ chatData }: { chatData: ChatData }) {
+export function AppUI({ chatData, wordsData }: { chatData: ChatData; wordsData: WordsData }) {
   const global = useGlobal();
 
   const tabs: TabData[] = [
@@ -36,7 +37,7 @@ export function AppUI({ chatData }: { chatData: ChatData }) {
     {
       id: 'words',
       title: getContent('Words'),
-      content: <p>Words</p>,
+      content: <WordsUI data={wordsData} />,
       icon: WordsIcon,
       passSelection: true,
     },
