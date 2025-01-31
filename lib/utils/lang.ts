@@ -5,11 +5,13 @@ export type LangContentName = 'Options' | 'Name' | 'Email' | 'Language' | 'Save'
 interface LanguageData {
     name: string;
     content: Record<LangContentName, string>;
+    defaultTranslation: string;
 }
 
-const languages: Record<string, LanguageData> = {
+export const LANGUAGES: Record<string, LanguageData> = {
     en: {
         name: 'English',
+        defaultTranslation: "King James Version",
         content: {
             Options: 'Options',
             Name: 'Name',
@@ -30,6 +32,7 @@ const languages: Record<string, LanguageData> = {
     },
     es: {
         name: 'Español',
+        defaultTranslation: "Reina-Valera 1960",
         content: {
             Options: 'Opciones',
             Name: 'Nombre',
@@ -50,6 +53,7 @@ const languages: Record<string, LanguageData> = {
     },
     la: {
         name: 'Latin',
+        defaultTranslation: "Jerome's Vulgate",
         content: {
             Options: 'Optiones',
             Name: 'Nomen',
@@ -70,6 +74,7 @@ const languages: Record<string, LanguageData> = {
     },
     he: {
         name: 'עברית',
+        defaultTranslation: "Masoretic",
         content: {
             Options: 'אפשרויות',
             Name: 'שם',
@@ -90,6 +95,7 @@ const languages: Record<string, LanguageData> = {
     },
     gr: {
         name: 'Ελληνικά',
+        defaultTranslation: "Septuagint & Textus Receptus",
         content: {
             Options: 'Επιλογές',
             Name: 'Όνομα',
@@ -111,13 +117,13 @@ const languages: Record<string, LanguageData> = {
 };
 
 export function validateLanguage(lang: string) {
-    return lang in languages;
+    return lang in LANGUAGES;
 }
 
 export function getLanguageContent(lang: string, name: LangContentName) {
-    return languages[lang].content[name];
+    return LANGUAGES[lang].content[name];
 }
 
 export function getContentUser(user: UserData | null, name: LangContentName) {
-    return languages[user?.language || 'en'].content[name];
+    return LANGUAGES[user?.language || 'en'].content[name];
 }
