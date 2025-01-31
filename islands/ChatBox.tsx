@@ -65,7 +65,7 @@ export default function ChatBox({ data }: { data: ChatData }) {
     e.preventDefault();
 
     try {
-      global.pwa.requestSubscription();
+      // global.pwa.requestSubscription();
     } catch (e) {}
 
     await ask(inputRef.current.value);
