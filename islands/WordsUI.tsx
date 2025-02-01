@@ -1,17 +1,13 @@
 import { useSignal } from '@preact/signals';
-import { sendSSE, syncSSE, watchSSE } from '@/lib/stream/stream-client.ts';
-import { AIMessage } from '@/lib/ai/oai.ts';
+import { sendSSE, syncSSE } from '@/lib/stream/stream-client.ts';
 import { useEffect, useRef } from 'preact/hooks';
 import { useGlobal } from '@/islands/Global.tsx';
-import { ChatData, WordsData } from '@/app/types.ts';
-import { showOutOfTokensDialog } from '@/islands/OutOfTokensDialog.tsx';
+import { WordData, WordsData } from '@/app/types.ts';
 import { delay } from '@std/async/delay';
-import ArrowUp from 'tabler-icons/arrow-up';
+import IconUnchecked from 'tabler-icons/square';
+import IconChecked from 'tabler-icons/square-check-filled';
 import { useAlert } from '@/islands/Alert.tsx';
-import { Loader } from '@/components/Loader.tsx';
-import { getContent } from '@/islands/Content.tsx';
 import IconAdd from 'tabler-icons/plus';
-import { Field } from '@/components/Field.tsx';
 import { generateCode } from '@/lib/utils/crypto.ts';
 
 export default function WordsUI({ data }: { data: WordsData }) {
@@ -82,26 +78,35 @@ export default function WordsUI({ data }: { data: WordsData }) {
   return (
     <>
       <div class='words-ui'>
-        <form style={{ flexDirection: 'row', padding: '10px' }} ref={formRef} onSubmit={onSubmit}>
+        <form ref={formRef} onSubmit={onSubmit}>
           <input name='word' placeholder='Word' autocomplete='off' required />
-          <input name='meaning' placeholder='Meaning' style={{ flex: '1' }} autocomplete='off' required />
+          <input name='meaning' placeholder='Meaning' autocomplete='off' required />
           <button>
             <IconAdd width={28} />
           </button>
         </form>
-        <div className='scrollable' ref={scrollableRef}>
+        <div className='words' ref={scrollableRef}>
           <ul>
-            {wordsData.value.words.map((word) => (
-              <li key={word.word} key={word.id}>
-                <span>{word.word}</span>
-                <span>{word.meaning}</span>
-              </li>
-            ))}
+            {wordsData.value.words.map(Word)}
           </ul>
         </div>
       </div>
 
       <AlertBox />
     </>
+  );
+}
+
+export function Word(word: WordData) {
+  const selected = useSignal(false);
+
+  return (
+    <li key={word.id}>
+      <button class='icon' onClick={() => selected.value = !selected.value}>
+        {selected.value ? <IconChecked width={24} height={24} /> : <IconUnchecked width={24} height={24} />}
+      </button>
+      <span class='word'>{word.word}</span>
+      <span class='meaning'>{word.meaning}</span>
+    </li>
   );
 }

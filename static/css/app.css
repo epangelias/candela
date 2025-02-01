@@ -156,3 +156,56 @@
 main:has(.app-ui) {
     height: 100%;
 }
+
+
+
+/* Words UI */
+
+.words-ui {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+
+    form {
+        display: flex;
+        flex-direction: row;
+        padding: var(--spacing);
+
+        [name="meaning"] {
+            flex: 1;
+        }
+    }
+
+    .words {
+        overflow-y: auto;
+        height: 100%;
+        max-height: 100%;
+        padding-top: var(--spacing-2);
+
+        ul {
+            padding: 0;
+            margin: 0;
+
+            li {
+                align-items: center;
+                margin: var(--spacing) 0;
+                font-size: 1.1rem;
+                list-style: none;
+                display: flex;
+                gap: var(--spacing);
+
+                .word {
+                    width: 150px;
+                }
+
+                .icon {
+                    background-color: transparent;
+                    color: var(--fg4);
+                    padding: 0;
+                    display: flex;
+                    align-items: center;
+                }
+            }
+        }
+    }
+}
