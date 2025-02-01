@@ -192,7 +192,7 @@ main:has(.app-ui) {
                 font-size: 1.1rem;
                 list-style: none;
                 display: flex;
-                gap: var(--spacing);
+                gap: var(--spacing-2);
 
                 .word {
                     width: 150px;
