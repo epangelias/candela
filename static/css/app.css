@@ -155,6 +155,12 @@
         width: 1.8rem !important;
         height: 1.8rem !important;
     }
+
+    .toolbar {
+        button.icon span {
+            display: none;
+        }
+    }
 }
 
 main:has(.app-ui) {
@@ -193,6 +199,32 @@ main:has(.app-ui) {
             padding: 0 var(--spacing);
             display: flex;
             align-items: center;
+        }
+    }
+
+
+    .toolbar {
+        display: flex;
+        flex-wrap: wrap;
+        gap: var(--spacing);
+        margin-top: var(--spacing);
+
+        & button.icon {
+            background-color: transparent;
+            color: var(--fg3);
+            padding: var(--spacing);
+            display: flex;
+            align-items: center;
+            gap: 4px;
+
+            &:hover:not(:disabled) {
+                color: var(--fg2);
+            }
+
+            &:first-child {
+                padding-left: 0;
+                padding-right: 0;
+            }
         }
     }
 

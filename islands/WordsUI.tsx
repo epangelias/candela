@@ -9,6 +9,8 @@ import IconChecked from 'tabler-icons/square-check-filled';
 import IconTrash from 'tabler-icons/trash';
 import { useAlert } from '@/islands/Alert.tsx';
 import IconAdd from 'tabler-icons/plus';
+import IconArrowUp from 'tabler-icons/arrow-up';
+import IconArrowDown from 'tabler-icons/arrow-down';
 import { generateCode } from '@/lib/utils/crypto.ts';
 import { showOutOfTokensDialog } from '@/islands/OutOfTokensDialog.tsx';
 import { Loader } from '@/components/Loader.tsx';
@@ -74,13 +76,18 @@ export default function WordsUI({ data }: { data: WordsData }) {
       if (!ids.length) return;
       wordsData.value.words = wordsData.value.words.filter((w) => !ids.includes(w.id));
       wordsData.value = { ...wordsData.value };
-      await sendSSE('/api/wordsdata', wordsData.value);
       selectedWords.value = new Set();
+      await sendSSE('/api/wordsdata', wordsData.value);
     } catch (e) {
       throw e;
     } finally {
       loading.value = false;
     }
+  }
+
+  function toggleMainCheck() {
+    if (selectedWords.value.size) selectedWords.value = new Set();
+    else selectedWords.value = new Set(wordsData.value.words.map((w) => w.id));
   }
 
   function Word(word: WordData) {
@@ -130,8 +137,22 @@ export default function WordsUI({ data }: { data: WordsData }) {
           </button>
         </form>
         <div className='toolbar'>
+          <button class='icon' onClick={toggleMainCheck}>
+            {selectedWords.value.size
+              ? <IconChecked width={24} height={24} />
+              : <IconUnchecked width={24} height={24} />}
+          </button>
           <button disabled={!selectedWords.value.size || loading.value} onClick={deleteWords} class='icon'>
-            <IconTrash />
+            <IconTrash width={28} />
+            <span>Delete</span>
+          </button>
+          <button disabled={!selectedWords.value.size || loading.value} onClick={deleteWords} class='icon'>
+            <IconArrowUp width={28} />
+            <span>Promote</span>
+          </button>
+          <button disabled={!selectedWords.value.size || loading.value} onClick={deleteWords} class='icon'>
+            <IconArrowDown width={28} />
+            <span>Demote</span>
           </button>
           {loading.value && <Loader width={24} />}
         </div>
