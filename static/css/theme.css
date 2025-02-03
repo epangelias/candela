@@ -67,7 +67,7 @@
 
 /* General Styles */
 
-* {
+div {
   touch-action: manipulation;
   /* scroll-behavior: smooth; */
   -webkit-text-size-adjust: 100%;
@@ -76,6 +76,7 @@
   margin: 0;
   accent-color: var(--accent);
   box-sizing: border-box;
+  overflow: visible;
 }
 
 *::before,
