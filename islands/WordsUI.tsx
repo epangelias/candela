@@ -51,9 +51,9 @@ export default function WordsUI({ data }: { data: WordsData }) {
     const formData = new FormData(form);
     const word = formData.get('word') as string;
     const meaning = formData.get('meaning') as string;
+    (document.querySelector('[name="word"]') as HTMLInputElement)?.focus();
     await addWord(word, meaning);
     form.reset();
-    (document.querySelector('[name="word"]') as HTMLInputElement)?.focus();
   }
 
   async function addWord(word: string, meaning: string) {
