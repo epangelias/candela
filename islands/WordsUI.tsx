@@ -23,6 +23,7 @@ export default function WordsUI({ data }: { data: WordsData }) {
   const { showError, AlertBox } = useAlert();
   const selectedWords = useSignal<Set<string>>(new Set());
   const loading = useSignal(false);
+  const wordsDataSorted = useMemo(() => wordsData.value.words.sort((a, b) => a.level - b.level), [wordsData.value]);
 
   const checkCanGenerate = () => global.user.value && (global.user.value.tokens! > 0 || global.user.value.isSubscribed);
 
@@ -70,7 +71,6 @@ export default function WordsUI({ data }: { data: WordsData }) {
 
   async function deleteWords() {
     try {
-      if (!checkCanGenerate()) return showOutOfTokensDialog();
       loading.value = true;
       const ids = Array.from(selectedWords.value);
       if (!ids.length) return;
@@ -79,7 +79,45 @@ export default function WordsUI({ data }: { data: WordsData }) {
       selectedWords.value = new Set();
       await sendSSE('/api/wordsdata', wordsData.value);
     } catch (e) {
-      throw e;
+      showError(e instanceof Error ? e.message : 'An error occurred');
+    } finally {
+      loading.value = false;
+    }
+  }
+
+  async function promoteWords() {
+    try {
+      loading.value = true;
+      const ids = Array.from(selectedWords.value);
+      if (!ids.length) return;
+      wordsData.value.words = wordsData.value.words.map((w) => {
+        if (ids.includes(w.id)) w.level++;
+        return w;
+      });
+      wordsData.value = { ...wordsData.value };
+      selectedWords.value = new Set();
+      await sendSSE('/api/wordsdata', wordsData.value);
+    } catch (e) {
+      showError(e instanceof Error ? e.message : 'An error occurred');
+    } finally {
+      loading.value = false;
+    }
+  }
+
+  async function demoteWords() {
+    try {
+      loading.value = true;
+      const ids = Array.from(selectedWords.value);
+      if (!ids.length) return;
+      wordsData.value.words = wordsData.value.words.map((w) => {
+        if (ids.includes(w.id)) w.level--;
+        return w;
+      });
+      wordsData.value = { ...wordsData.value };
+      selectedWords.value = new Set();
+      await sendSSE('/api/wordsdata', wordsData.value);
+    } catch (e) {
+      showError(e instanceof Error ? e.message : 'An error occurred');
     } finally {
       loading.value = false;
     }
@@ -115,13 +153,16 @@ export default function WordsUI({ data }: { data: WordsData }) {
       await sendSSE('/api/wordsdata', wordsData.value);
     }
 
+    const hideWord = word.level % 2 == 0 && word.level != 0 && !selected;
+    const hideMeaning = word.level % 2 == 1 && !selected;
+
     return (
       <li key={word.id} data-selected={selected}>
         <button class='icon' onClick={handleClick}>
           {selected ? <IconChecked width={24} height={24} /> : <IconUnchecked width={24} height={24} />}
         </button>
-        <span class='word' onClick={editWord}>{word.word}</span>
-        <span class='meaning' onClick={editMeaning}>{word.meaning}</span>
+        <span class='word' onClick={editWord} data-hide={hideWord}>{word.word}</span>
+        <span class='meaning' onClick={editMeaning} data-hide={hideMeaning}>{word.meaning}</span>
       </li>
     );
   }
@@ -137,28 +178,28 @@ export default function WordsUI({ data }: { data: WordsData }) {
           </button>
         </form>
         <div className='toolbar'>
-          <button class='icon' onClick={toggleMainCheck}>
+          <button class='icon' onClick={toggleMainCheck} data-selected={!!selectedWords.value.size}>
             {selectedWords.value.size
               ? <IconChecked width={24} height={24} />
               : <IconUnchecked width={24} height={24} />}
+          </button>
+          <button disabled={!selectedWords.value.size || loading.value} onClick={demoteWords} class='icon'>
+            <IconArrowUp width={28} />
+            <span>Promote</span>
+          </button>
+          <button disabled={!selectedWords.value.size || loading.value} onClick={promoteWords} class='icon'>
+            <IconArrowDown width={28} />
+            <span>Demote</span>
           </button>
           <button disabled={!selectedWords.value.size || loading.value} onClick={deleteWords} class='icon'>
             <IconTrash width={28} />
             <span>Delete</span>
           </button>
-          <button disabled={!selectedWords.value.size || loading.value} onClick={deleteWords} class='icon'>
-            <IconArrowUp width={28} />
-            <span>Promote</span>
-          </button>
-          <button disabled={!selectedWords.value.size || loading.value} onClick={deleteWords} class='icon'>
-            <IconArrowDown width={28} />
-            <span>Demote</span>
-          </button>
           {loading.value && <Loader width={24} />}
         </div>
         <div className='words' ref={scrollableRef}>
           <ul>
-            {wordsData.value.words.map(Word)}
+            {wordsDataSorted.map(Word)}
           </ul>
         </div>
       </div>

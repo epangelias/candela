@@ -33,7 +33,7 @@ export interface WordData {
   id: string;
   word: string;
   meaning: string;
-  level: 0;
+  level: number;
   created: number;
 }
 
