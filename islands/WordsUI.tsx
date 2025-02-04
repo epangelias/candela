@@ -111,6 +111,7 @@ export default function WordsUI({ data }: { data: WordsData }) {
       if (!ids.length) return;
       wordsData.value.words = wordsData.value.words.map((w) => {
         if (ids.includes(w.id)) w.level--;
+        if (w.level < 0) w.level = 0;
         return w;
       });
       wordsData.value = { ...wordsData.value };
