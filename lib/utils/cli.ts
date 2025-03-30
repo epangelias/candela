@@ -1,3 +1,4 @@
+import { esbuildResolutionToURL } from 'https://jsr.io/@luca/esbuild-deno-loader/0.11.1/src/shared.ts';
 import * as Color from 'jsr:@std/fmt/colors';
 
 function errorCLI(message: string) {
@@ -51,3 +52,13 @@ export async function $(...args: string[]) {
     return { result, ok: true };
   }
 }
+
+
+
+export async function downloadFile(url: string, outputPath: string) {
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`Failed to fetch ${url}: ${res.statusText}`);
+  const data = await res.arrayBuffer();
+  const unit8Array = new Uint8Array(data);
+  await Deno.writeFile(outputPath, unit8Array);
+};

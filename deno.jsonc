@@ -4,6 +4,7 @@
     "dev": "deno run -A --env --watch=static/,routes/ tasks/dev.ts",
     "build": "deno run -A --env tasks/build.ts",
     "start": "deno run -A --env main.ts",
+    "bibles": "deno run -A --env tasks/bibles.ts",
     "update": "deno run -A --env -r jsr:@fresh/update .",
     "generate": "deno run -A --env tasks/generate.ts",
     "stripe-init": "deno run -A --env tasks/stripe-init.ts"
