@@ -99,7 +99,9 @@ export const handler = define.handlers({
 
         const result = await generateChatCompletion(undefined, messages);
 
-        const content = result.choices[0].message.content!;
+        let content = result.choices[0].message.content!;
+
+        content = content.replace(/<think>[\s\S]*<\/think>/, '');
 
         const html = await renderMarkdown(content);
 

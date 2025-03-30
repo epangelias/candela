@@ -79,6 +79,7 @@ div {
   overflow: visible;
 }
 
+*,
 *::before,
 *::after {
   box-sizing: border-box;

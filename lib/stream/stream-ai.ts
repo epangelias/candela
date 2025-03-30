@@ -14,6 +14,16 @@ interface Options {
   onCancel?: (messages: AIMessage[]) => void;
 }
 
+function removeThinkTags(input: string): string {
+  if (input.includes('<think>') && !input.includes('</think>')) {
+    const seconds = new Date().getSeconds();
+    const mod = seconds % 4;
+    const dots = [".", "..", "...", ""][mod];
+    return `Thinking${dots}`;
+  }
+  return input.replace(/<think>[\s\S]*?<\/think>/g, '');
+}
+
 export function StreamAI({ messages, options, onChunk, onEnd, onCancel }: Options) {
   let stream: Stream<ChatCompletionChunk>;
 
@@ -42,20 +52,20 @@ export function StreamAI({ messages, options, onChunk, onEnd, onCancel }: Option
         const deltaContent = token.choices[0].delta.content;
         if (typeof deltaContent == 'undefined') break;
         content += deltaContent;
-        const html = insertLoaderToHTML(await renderMarkdown(content));
+        const html = insertLoaderToHTML(await renderMarkdown(removeThinkTags(content)));
         message.content = content;
         message.html = html;
         send(message);
       }
 
-      message.html = await renderMarkdown(content);
+      message.html = await renderMarkdown(removeThinkTags(content));
       send(message);
       stream.controller.abort();
       send(null);
       await trigger(onEnd);
     },
     async onCancel() {
-      message.html = await renderMarkdown(message.content);
+      message.html = await renderMarkdown(removeThinkTags(message.content));
       await trigger(onCancel);
       stream?.controller?.abort();
     },

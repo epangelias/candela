@@ -21,7 +21,10 @@ main {
   flex-direction: column;
   justify-content: center;
   padding: var(--spacing-2) var(--spacing);
+  box-sizing: border-box;
   width: 100% !important;
+  overscroll-behavior: none;
+  overflow: hidden;
 
   /* Full width if contains chat box */
   &:has(.app-ui) {
