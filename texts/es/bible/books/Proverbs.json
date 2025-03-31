@@ -1,0 +1,4767 @@
+{
+  "name": "Proverbs",
+  "order": 20,
+  "chapters": [
+    {
+      "name": "Proverbs 1",
+      "chapter": 1,
+      "verses": [
+        {
+          "name": "Proverbs 1:1",
+          "verse": 1,
+          "text": "LOS proverbios de Salomón, hijo de David, rey de Israel: "
+        },
+        {
+          "name": "Proverbs 1:2",
+          "verse": 2,
+          "text": "Para entender sabiduría y doctrina; para conocer las razones prudentes; "
+        },
+        {
+          "name": "Proverbs 1:3",
+          "verse": 3,
+          "text": "Para recibir el consejo de prudencia, justicia, y juicio y equidad; "
+        },
+        {
+          "name": "Proverbs 1:4",
+          "verse": 4,
+          "text": "Para dar sagacidad á los simples, y á los jóvenes inteligencia y cordura. "
+        },
+        {
+          "name": "Proverbs 1:5",
+          "verse": 5,
+          "text": "Oirá el sabio, y aumentará el saber; y el entendido adquirirá consejo; "
+        },
+        {
+          "name": "Proverbs 1:6",
+          "verse": 6,
+          "text": "Para entender parábola y declaración; palabras de sabios, y sus dichos oscuros. "
+        },
+        {
+          "name": "Proverbs 1:7",
+          "verse": 7,
+          "text": "El principio de la sabiduría es el temor de Jehová: los insensatos desprecian la sabiduría y la enseñanza. "
+        },
+        {
+          "name": "Proverbs 1:8",
+          "verse": 8,
+          "text": "Oye, hijo mío, la doctrina de tu padre, y no desprecies la dirección de tu madre: "
+        },
+        {
+          "name": "Proverbs 1:9",
+          "verse": 9,
+          "text": "Porque adorno de gracia serán á tu cabeza, y collares á tu cuello. "
+        },
+        {
+          "name": "Proverbs 1:10",
+          "verse": 10,
+          "text": "Hijo mío, si los pecadores te quisieren engañar, no consientas. "
+        },
+        {
+          "name": "Proverbs 1:11",
+          "verse": 11,
+          "text": "Si dijeren: Ven con nosotros, pongamos asechanzas á la sangre, acechemos sin motivo al inocente; "
+        },
+        {
+          "name": "Proverbs 1:12",
+          "verse": 12,
+          "text": "Los tragaremos vivos como el sepulcro, y enteros, como los que caen en sima; "
+        },
+        {
+          "name": "Proverbs 1:13",
+          "verse": 13,
+          "text": "Hallaremos riquezas de todas suertes, henchiremos nuestras casas de despojos; "
+        },
+        {
+          "name": "Proverbs 1:14",
+          "verse": 14,
+          "text": "Echa tu suerte entre nosotros; tengamos todos una bolsa: "
+        },
+        {
+          "name": "Proverbs 1:15",
+          "verse": 15,
+          "text": "Hijo mío, no andes en camino con ellos; aparta tu pie de sus veredas: "
+        },
+        {
+          "name": "Proverbs 1:16",
+          "verse": 16,
+          "text": "Porque sus pies correrán al mal, é irán presurosos á derramar sangre. "
+        },
+        {
+          "name": "Proverbs 1:17",
+          "verse": 17,
+          "text": "Porque en vano se tenderá la red ante los ojos de toda ave; "
+        },
+        {
+          "name": "Proverbs 1:18",
+          "verse": 18,
+          "text": "Mas ellos á su propia sangre ponen asechanzas, y á sus almas tienden lazo. "
+        },
+        {
+          "name": "Proverbs 1:19",
+          "verse": 19,
+          "text": "Tales son las sendas de todo el que es dado á la codicia, la cual prenderá el alma de sus poseedores. "
+        },
+        {
+          "name": "Proverbs 1:20",
+          "verse": 20,
+          "text": "La sabiduría clama de fuera, da su voz en las plazas: "
+        },
+        {
+          "name": "Proverbs 1:21",
+          "verse": 21,
+          "text": "Clama en los principales lugares de concurso; en las entradas de las puertas de la ciudad dice sus razones: "
+        },
+        {
+          "name": "Proverbs 1:22",
+          "verse": 22,
+          "text": "¿Hasta cuándo, oh simples, amaréis la simpleza, y los burladores desearán el burlar, y los insensatos aborrecerán la ciencia? "
+        },
+        {
+          "name": "Proverbs 1:23",
+          "verse": 23,
+          "text": "Volveos á mi reprensión: he aquí yo os derramaré mi espíritu, y os haré saber mis palabras. "
+        },
+        {
+          "name": "Proverbs 1:24",
+          "verse": 24,
+          "text": "Por cuanto llamé, y no quisisteis; extendí mi mano, y no hubo quien escuchase; "
+        },
+        {
+          "name": "Proverbs 1:25",
+          "verse": 25,
+          "text": "Antes desechasteis todo consejo mío, y mi reprensión no quisisteis: "
+        },
+        {
+          "name": "Proverbs 1:26",
+          "verse": 26,
+          "text": "También yo me reiré en vuestra calamidad, y me burlaré cuando os viniere lo que teméis; "
+        },
+        {
+          "name": "Proverbs 1:27",
+          "verse": 27,
+          "text": "Cuando viniere como una destrucción lo que teméis, y vuestra calamidad llegare como un torbellino; cuando sobre vosotros viniere tribulación y angustia. "
+        },
+        {
+          "name": "Proverbs 1:28",
+          "verse": 28,
+          "text": "Entonces me llamarán, y no responderé; buscarme han de mañana, y no me hallarán: "
+        },
+        {
+          "name": "Proverbs 1:29",
+          "verse": 29,
+          "text": "Por cuanto aborrecieron la sabiduría, y no escogieron el temor de Jehová, "
+        },
+        {
+          "name": "Proverbs 1:30",
+          "verse": 30,
+          "text": "Ni quisieron mi consejo, y menospreciaron toda reprensión mía: "
+        },
+        {
+          "name": "Proverbs 1:31",
+          "verse": 31,
+          "text": "Comerán pues del fruto de su camino, y se hartarán de sus consejos. "
+        },
+        {
+          "name": "Proverbs 1:32",
+          "verse": 32,
+          "text": "Porque el reposo de los ignorantes los matará, y la prosperidad de los necios los echará á perder. "
+        },
+        {
+          "name": "Proverbs 1:33",
+          "verse": 33,
+          "text": "Mas el que me oyere, habitará confiadamente, y vivirá reposado, sin temor de mal.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 2",
+      "chapter": 2,
+      "verses": [
+        {
+          "name": "Proverbs 2:1",
+          "verse": 1,
+          "text": "HIJO mío, si tomares mis palabras, y mis mandamientos guardares dentro de ti, "
+        },
+        {
+          "name": "Proverbs 2:2",
+          "verse": 2,
+          "text": "Haciendo estar atento tu oído á la sabiduría; si inclinares tu corazón á la prudencia; "
+        },
+        {
+          "name": "Proverbs 2:3",
+          "verse": 3,
+          "text": "Si clamares á la inteligencia, y á la prudencia dieres tu voz; "
+        },
+        {
+          "name": "Proverbs 2:4",
+          "verse": 4,
+          "text": "Si como á la plata la buscares, y la escudriñares como á tesoros; "
+        },
+        {
+          "name": "Proverbs 2:5",
+          "verse": 5,
+          "text": "Entonces entenderás el temor de Jehová, y hallarás el conocimiento de Dios. "
+        },
+        {
+          "name": "Proverbs 2:6",
+          "verse": 6,
+          "text": "Porque Jehová da la sabiduría, y de su boca viene el conocimiento y la inteligencia. "
+        },
+        {
+          "name": "Proverbs 2:7",
+          "verse": 7,
+          "text": "El provee de sólida sabiduría á los rectos: es escudo á los que caminan rectamente. "
+        },
+        {
+          "name": "Proverbs 2:8",
+          "verse": 8,
+          "text": "Es el que guarda las veredas del juicio, y preserva el camino de sus santos. "
+        },
+        {
+          "name": "Proverbs 2:9",
+          "verse": 9,
+          "text": "Entonces entenderás justicia, juicio, y equidad, y todo buen camino. "
+        },
+        {
+          "name": "Proverbs 2:10",
+          "verse": 10,
+          "text": "Cuando la sabiduría entrare en tu corazón, y la ciencia fuere dulce á tu alma, "
+        },
+        {
+          "name": "Proverbs 2:11",
+          "verse": 11,
+          "text": "El consejo te guardará, te preservará la inteligencia: "
+        },
+        {
+          "name": "Proverbs 2:12",
+          "verse": 12,
+          "text": "Para librarte del mal camino, de los hombres que hablan perversidades; "
+        },
+        {
+          "name": "Proverbs 2:13",
+          "verse": 13,
+          "text": "Que dejan las veredas derechas, por andar en caminos tenebrosos; "
+        },
+        {
+          "name": "Proverbs 2:14",
+          "verse": 14,
+          "text": "Que se alegran haciendo mal, que se huelgan en las perversidades del vicio; "
+        },
+        {
+          "name": "Proverbs 2:15",
+          "verse": 15,
+          "text": "Cuyas veredas son torcidas, y torcidos sus caminos. "
+        },
+        {
+          "name": "Proverbs 2:16",
+          "verse": 16,
+          "text": "Para librarte de la mujer extraña, de la ajena que halaga con sus palabras; "
+        },
+        {
+          "name": "Proverbs 2:17",
+          "verse": 17,
+          "text": "Que desampara el príncipe de su mocedad, y se olvida del pacto de su Dios. "
+        },
+        {
+          "name": "Proverbs 2:18",
+          "verse": 18,
+          "text": "Por lo cual su casa está inclinada á la muerte, y sus veredas hacia los muertos: "
+        },
+        {
+          "name": "Proverbs 2:19",
+          "verse": 19,
+          "text": "Todos los que á ella entraren, no volverán, ni tomarán las veredas de la vida. "
+        },
+        {
+          "name": "Proverbs 2:20",
+          "verse": 20,
+          "text": "Para que andes por el camino de los buenos, y guardes las veredas de los justos. "
+        },
+        {
+          "name": "Proverbs 2:21",
+          "verse": 21,
+          "text": "Porque los rectos habitarán la tierra, y los perfectos permanecerán en ella; "
+        },
+        {
+          "name": "Proverbs 2:22",
+          "verse": 22,
+          "text": "Mas los impíos serán cortados de la tierra, y los prevaricadores serán de ella desarraigados.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 3",
+      "chapter": 3,
+      "verses": [
+        {
+          "name": "Proverbs 3:1",
+          "verse": 1,
+          "text": "HIJO mío, no te olvides de mi ley; y tu corazón guarde mis mandamientos: "
+        },
+        {
+          "name": "Proverbs 3:2",
+          "verse": 2,
+          "text": "Porque largura de días, y años de vida y paz te aumentarán. "
+        },
+        {
+          "name": "Proverbs 3:3",
+          "verse": 3,
+          "text": "Misericordia y verdad no te desamparen; átalas á tu cuello, escríbelas en la tabla de tu corazón: "
+        },
+        {
+          "name": "Proverbs 3:4",
+          "verse": 4,
+          "text": "Y hallarás gracia y buena opinión en los ojos de Dios y de los hombres. "
+        },
+        {
+          "name": "Proverbs 3:5",
+          "verse": 5,
+          "text": "Fíate de Jehová de todo tu corazón, y no estribes en tu prudencia. "
+        },
+        {
+          "name": "Proverbs 3:6",
+          "verse": 6,
+          "text": "Reconócelo en todos tus caminos, y él enderezará tus veredas. "
+        },
+        {
+          "name": "Proverbs 3:7",
+          "verse": 7,
+          "text": "No seas sabio en tu opinión: teme á Jehová, y apártate del mal; "
+        },
+        {
+          "name": "Proverbs 3:8",
+          "verse": 8,
+          "text": "Porque será medicina á tu ombligo, y tuétano á tus huesos. "
+        },
+        {
+          "name": "Proverbs 3:9",
+          "verse": 9,
+          "text": "Honra á Jehová de tu sustancia, y de las primicias de todos tus frutos; "
+        },
+        {
+          "name": "Proverbs 3:10",
+          "verse": 10,
+          "text": "Y serán llenas tus trojes con abundancia, y tus lagares rebosarán de mosto. "
+        },
+        {
+          "name": "Proverbs 3:11",
+          "verse": 11,
+          "text": "No deseches, hijo mío, el castigo de Jehová; ni te fatigues de su corrección: "
+        },
+        {
+          "name": "Proverbs 3:12",
+          "verse": 12,
+          "text": "Porque al que ama castiga, como el padre al hijo á quien quiere. "
+        },
+        {
+          "name": "Proverbs 3:13",
+          "verse": 13,
+          "text": "Bienaventurado el hombre que halla la sabiduría, y que obtiene la inteligencia: "
+        },
+        {
+          "name": "Proverbs 3:14",
+          "verse": 14,
+          "text": "Porque su mercadería es mejor que la mercadería de la plata, y sus frutos más que el oro fino. "
+        },
+        {
+          "name": "Proverbs 3:15",
+          "verse": 15,
+          "text": "Más preciosa es que las piedras preciosas; y todo lo que puedes desear, no se puede comparar á ella. "
+        },
+        {
+          "name": "Proverbs 3:16",
+          "verse": 16,
+          "text": "Largura de días está en su mano derecha; en su izquierda riquezas y honra. "
+        },
+        {
+          "name": "Proverbs 3:17",
+          "verse": 17,
+          "text": "Sus caminos son caminos deleitosos, y todas sus veredas paz. "
+        },
+        {
+          "name": "Proverbs 3:18",
+          "verse": 18,
+          "text": "Ella es árbol de vida á los que de ella asen: y bienaventurados son los que la mantienen. "
+        },
+        {
+          "name": "Proverbs 3:19",
+          "verse": 19,
+          "text": "Jehová con sabiduría fundó la tierra; afirmó los cielos con inteligencia. "
+        },
+        {
+          "name": "Proverbs 3:20",
+          "verse": 20,
+          "text": "Con su ciencia se partieron los abismos, y destilan el rocío los cielos. "
+        },
+        {
+          "name": "Proverbs 3:21",
+          "verse": 21,
+          "text": "Hijo mío, no se aparten estas cosas de tus ojos; guarda la ley y el consejo; "
+        },
+        {
+          "name": "Proverbs 3:22",
+          "verse": 22,
+          "text": "Y serán vida á tu alma, y gracia á tu cuello. "
+        },
+        {
+          "name": "Proverbs 3:23",
+          "verse": 23,
+          "text": "Entonces andarás por tu camino confiadamente, y tu pie no tropezará. "
+        },
+        {
+          "name": "Proverbs 3:24",
+          "verse": 24,
+          "text": "Cuando te acostares, no tendrás temor; antes te acostarás, y tu sueño será suave. "
+        },
+        {
+          "name": "Proverbs 3:25",
+          "verse": 25,
+          "text": "No tendrás temor de pavor repentino, ni de la ruina de los impíos cuando viniere: "
+        },
+        {
+          "name": "Proverbs 3:26",
+          "verse": 26,
+          "text": "Porque Jehová será tu confianza, y él preservará tu pie de ser preso. "
+        },
+        {
+          "name": "Proverbs 3:27",
+          "verse": 27,
+          "text": "No detengas el bien de sus dueños, cuando tuvieres poder para hacerlo. "
+        },
+        {
+          "name": "Proverbs 3:28",
+          "verse": 28,
+          "text": "No digas á tu prójimo: Ve, y vuelve, y mañana te daré; cuando tienes contigo qué darle. "
+        },
+        {
+          "name": "Proverbs 3:29",
+          "verse": 29,
+          "text": "No intentes mal contra tu prójimo, estando él confiado de ti. "
+        },
+        {
+          "name": "Proverbs 3:30",
+          "verse": 30,
+          "text": "No pleitees con alguno sin razón, si él no te ha hecho agravio. "
+        },
+        {
+          "name": "Proverbs 3:31",
+          "verse": 31,
+          "text": "No envidies al hombre injusto, ni escojas alguno de sus caminos. "
+        },
+        {
+          "name": "Proverbs 3:32",
+          "verse": 32,
+          "text": "Porque el perverso es abominado de Jehová: mas su secreto es con los rectos. "
+        },
+        {
+          "name": "Proverbs 3:33",
+          "verse": 33,
+          "text": "La maldición de Jehová está en la casa del impío; mas él bendecirá la morada de los justos. "
+        },
+        {
+          "name": "Proverbs 3:34",
+          "verse": 34,
+          "text": "Ciertamente él escarnecerá á los escarnecedores, y á los humildes dará gracia. "
+        },
+        {
+          "name": "Proverbs 3:35",
+          "verse": 35,
+          "text": "Los sabios heredarán honra: mas los necios sostendrán ignominia.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 4",
+      "chapter": 4,
+      "verses": [
+        {
+          "name": "Proverbs 4:1",
+          "verse": 1,
+          "text": "OID, hijos, la doctrina de un padre, y estad atentos para que conozcáis cordura. "
+        },
+        {
+          "name": "Proverbs 4:2",
+          "verse": 2,
+          "text": "Porque os doy buena enseñanza; no desamparéis mi ley. "
+        },
+        {
+          "name": "Proverbs 4:3",
+          "verse": 3,
+          "text": "Porque yo fuí hijo de mi padre, delicado y único delante de mi madre. "
+        },
+        {
+          "name": "Proverbs 4:4",
+          "verse": 4,
+          "text": "Y él me enseñaba, y me decía: Mantenga tu corazón mis razones, guarda mis mandamientos, y vivirás: "
+        },
+        {
+          "name": "Proverbs 4:5",
+          "verse": 5,
+          "text": "Adquiere sabiduría, adquiere inteligencia; no te olvides ni te apartes de las razones de mi boca; "
+        },
+        {
+          "name": "Proverbs 4:6",
+          "verse": 6,
+          "text": "No la dejes, y ella te guardará; ámala, y te conservará. "
+        },
+        {
+          "name": "Proverbs 4:7",
+          "verse": 7,
+          "text": "Sabiduría ante todo: adquiere sabiduría: y ante toda tu posesión adquiere inteligencia. "
+        },
+        {
+          "name": "Proverbs 4:8",
+          "verse": 8,
+          "text": "Engrandécela, y ella te engrandecerá: ella te honrará, cuando tú la hubieres abrazado. "
+        },
+        {
+          "name": "Proverbs 4:9",
+          "verse": 9,
+          "text": "Adorno de gracia dará á tu cabeza: corona de hermosura te entregará. "
+        },
+        {
+          "name": "Proverbs 4:10",
+          "verse": 10,
+          "text": "Oye, hijo mío, y recibe mis razones; y se te multiplicarán años de vida. "
+        },
+        {
+          "name": "Proverbs 4:11",
+          "verse": 11,
+          "text": "Por el camino de la sabiduría te he encaminado, y por veredas derechas te he hecho andar. "
+        },
+        {
+          "name": "Proverbs 4:12",
+          "verse": 12,
+          "text": "Cuando anduvieres no se estrecharán tus pasos; y si corrieres, no tropezarás. "
+        },
+        {
+          "name": "Proverbs 4:13",
+          "verse": 13,
+          "text": "Ten el consejo, no lo dejes; guárdalo, porque eso es tu vida. "
+        },
+        {
+          "name": "Proverbs 4:14",
+          "verse": 14,
+          "text": "No entres por la vereda de los impíos, ni vayas por el camino de los malos. "
+        },
+        {
+          "name": "Proverbs 4:15",
+          "verse": 15,
+          "text": "Desampárala, no pases por ella; apártate de ella, pasa. "
+        },
+        {
+          "name": "Proverbs 4:16",
+          "verse": 16,
+          "text": "Porque no duermen ellos, si no hicieren mal; y pierden su sueño, si no han hecho caer. "
+        },
+        {
+          "name": "Proverbs 4:17",
+          "verse": 17,
+          "text": "Porque comen pan de maldad, y beben vino de robos. "
+        },
+        {
+          "name": "Proverbs 4:18",
+          "verse": 18,
+          "text": "Mas la senda de los justos es como la luz de la aurora, que va en aumento hasta que el día es perfecto. "
+        },
+        {
+          "name": "Proverbs 4:19",
+          "verse": 19,
+          "text": "El camino de los impíos es como la oscuridad: no saben en qué tropiezan. "
+        },
+        {
+          "name": "Proverbs 4:20",
+          "verse": 20,
+          "text": "Hijo mío, está atento á mis palabras; inclina tu oído á mis razones. "
+        },
+        {
+          "name": "Proverbs 4:21",
+          "verse": 21,
+          "text": "No se aparten de tus ojos; guárdalas en medio de tu corazón. "
+        },
+        {
+          "name": "Proverbs 4:22",
+          "verse": 22,
+          "text": "Porque son vida á los que las hallan, y medicina á toda su carne. "
+        },
+        {
+          "name": "Proverbs 4:23",
+          "verse": 23,
+          "text": "Sobre toda cosa guardada guarda tu corazón; porque de él mana la vida. "
+        },
+        {
+          "name": "Proverbs 4:24",
+          "verse": 24,
+          "text": "Aparta de ti la perversidad de la boca, y aleja de ti la iniquidad de labios. "
+        },
+        {
+          "name": "Proverbs 4:25",
+          "verse": 25,
+          "text": "Tus ojos miren lo recto, y tus párpados en derechura delante de ti. "
+        },
+        {
+          "name": "Proverbs 4:26",
+          "verse": 26,
+          "text": "Examina la senda de tus pies, y todos tus caminos sean ordenados. "
+        },
+        {
+          "name": "Proverbs 4:27",
+          "verse": 27,
+          "text": "No te apartes á diestra, ni á siniestra: aparta tu pie del mal.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 5",
+      "chapter": 5,
+      "verses": [
+        {
+          "name": "Proverbs 5:1",
+          "verse": 1,
+          "text": "HIJO mío, está atento á mi sabiduría, y á mi inteligencia inclina tu oído; "
+        },
+        {
+          "name": "Proverbs 5:2",
+          "verse": 2,
+          "text": "Para que guardes consejo, y tus labios conserven la ciencia. "
+        },
+        {
+          "name": "Proverbs 5:3",
+          "verse": 3,
+          "text": "Porque los labios de la extraña destilan miel, y su paladar es más blando que el aceite: "
+        },
+        {
+          "name": "Proverbs 5:4",
+          "verse": 4,
+          "text": "Mas su fin es amargo como el ajenjo, agudo como cuchillo de dos filos. "
+        },
+        {
+          "name": "Proverbs 5:5",
+          "verse": 5,
+          "text": "Sus pies descienden á la muerte; sus pasos sustentan el sepulcro: "
+        },
+        {
+          "name": "Proverbs 5:6",
+          "verse": 6,
+          "text": "Sus caminos son instables; no los conocerás, si no considerares el camino de vida. "
+        },
+        {
+          "name": "Proverbs 5:7",
+          "verse": 7,
+          "text": "Ahora pues, hijos, oidme, y no os apartéis de las razones de mi boca. "
+        },
+        {
+          "name": "Proverbs 5:8",
+          "verse": 8,
+          "text": "Aleja de ella tu camino, y no te acerques á la puerta de su casa; "
+        },
+        {
+          "name": "Proverbs 5:9",
+          "verse": 9,
+          "text": "Porque no des á los extraños tu honor, y tus años á cruel; "
+        },
+        {
+          "name": "Proverbs 5:10",
+          "verse": 10,
+          "text": "Porque no se harten los extraños de tu fuerza, y tus trabajos estén en casa del extraño; "
+        },
+        {
+          "name": "Proverbs 5:11",
+          "verse": 11,
+          "text": "Y gimas en tus postrimerías, cuando se consumiere tu carne y tu cuerpo, "
+        },
+        {
+          "name": "Proverbs 5:12",
+          "verse": 12,
+          "text": "Y digas: ¡Cómo aborrecí el consejo, y mi corazón menospreció la reprensión; "
+        },
+        {
+          "name": "Proverbs 5:13",
+          "verse": 13,
+          "text": "Y no oí la voz de los que me adoctrinaban, y á los que me enseñaban no incliné mi oído! "
+        },
+        {
+          "name": "Proverbs 5:14",
+          "verse": 14,
+          "text": "Casi en todo mal he estado, en medio de la sociedad y de la congregación. "
+        },
+        {
+          "name": "Proverbs 5:15",
+          "verse": 15,
+          "text": "Bebe el agua de tu cisterna, y los raudales de tu pozo. "
+        },
+        {
+          "name": "Proverbs 5:16",
+          "verse": 16,
+          "text": "Derrámense por de fuera tus fuentes, en las plazas los ríos de aguas. "
+        },
+        {
+          "name": "Proverbs 5:17",
+          "verse": 17,
+          "text": "Sean para ti solo, y no para los extraños contigo. "
+        },
+        {
+          "name": "Proverbs 5:18",
+          "verse": 18,
+          "text": "Sea bendito tu manantial; y alégrate con la mujer de tu mocedad. "
+        },
+        {
+          "name": "Proverbs 5:19",
+          "verse": 19,
+          "text": "Como cierva amada y graciosa corza, sus pechos te satisfagan en todo tiempo; y en su amor recréate siempre. "
+        },
+        {
+          "name": "Proverbs 5:20",
+          "verse": 20,
+          "text": "¿Y por qué, hijo mío, andarás ciego con la ajena, y abrazarás el seno de la extraña? "
+        },
+        {
+          "name": "Proverbs 5:21",
+          "verse": 21,
+          "text": "Pues que los caminos del hombre están ante los ojos de Jehová, y él considera todas sus veredas. "
+        },
+        {
+          "name": "Proverbs 5:22",
+          "verse": 22,
+          "text": "Prenderán al impío sus propias iniquidades, y detenido será con las cuerdas de su pecado. "
+        },
+        {
+          "name": "Proverbs 5:23",
+          "verse": 23,
+          "text": "El morirá por falta de corrección; y errará por la grandeza de su locura.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 6",
+      "chapter": 6,
+      "verses": [
+        {
+          "name": "Proverbs 6:1",
+          "verse": 1,
+          "text": "HIJO mío, si salieres fiador por tu amigo, si tocaste tu mano por el extraño, "
+        },
+        {
+          "name": "Proverbs 6:2",
+          "verse": 2,
+          "text": "Enlazado eres con las palabras de tu boca, y preso con las razones de tu boca. "
+        },
+        {
+          "name": "Proverbs 6:3",
+          "verse": 3,
+          "text": "Haz esto ahora, hijo mío, y líbrate, ya que has caído en la mano de tu prójimo: ve, humíllate, y asegúrate de tu amigo. "
+        },
+        {
+          "name": "Proverbs 6:4",
+          "verse": 4,
+          "text": "No des sueño á tus ojos, ni á tus párpados adormecimiento. "
+        },
+        {
+          "name": "Proverbs 6:5",
+          "verse": 5,
+          "text": "Escápate como el corzo de la mano del cazador, y como el ave de la mano del parancero. "
+        },
+        {
+          "name": "Proverbs 6:6",
+          "verse": 6,
+          "text": "Ve á la hormiga, oh perezoso, mira sus caminos, y sé sabio; "
+        },
+        {
+          "name": "Proverbs 6:7",
+          "verse": 7,
+          "text": "La cual no teniendo capitán, ni gobernador, ni señor, "
+        },
+        {
+          "name": "Proverbs 6:8",
+          "verse": 8,
+          "text": "Prepara en el verano su comida y allega en el tiempo de la siega su mantenimiento. "
+        },
+        {
+          "name": "Proverbs 6:9",
+          "verse": 9,
+          "text": "Perezoso, ¿hasta cuándo has de dormir? ¿cuándo te levantarás de tu sueño? "
+        },
+        {
+          "name": "Proverbs 6:10",
+          "verse": 10,
+          "text": "Un poco de sueño, un poco de dormitar, y cruzar por un poco las manos para reposo: "
+        },
+        {
+          "name": "Proverbs 6:11",
+          "verse": 11,
+          "text": "Así vendrá tu necesidad como caminante, y tu pobreza como hombre de escudo. "
+        },
+        {
+          "name": "Proverbs 6:12",
+          "verse": 12,
+          "text": "El hombre malo, el hombre depravado, anda en perversidad de boca; "
+        },
+        {
+          "name": "Proverbs 6:13",
+          "verse": 13,
+          "text": "Guiña de sus ojos, habla con sus pies, indica con sus dedos; "
+        },
+        {
+          "name": "Proverbs 6:14",
+          "verse": 14,
+          "text": "Perversidades hay en su corazón, anda pensando mal en todo tiempo; enciende rencillas. "
+        },
+        {
+          "name": "Proverbs 6:15",
+          "verse": 15,
+          "text": "Por tanto su calamidad vendrá de repente; súbitamente será quebrantado, y no habrá remedio. "
+        },
+        {
+          "name": "Proverbs 6:16",
+          "verse": 16,
+          "text": "Seis cosas aborrece Jehová, y aun siete abomina su alma: "
+        },
+        {
+          "name": "Proverbs 6:17",
+          "verse": 17,
+          "text": "Los ojos altivos, la lengua mentirosa, las manos derramadoras de sangre inocente, "
+        },
+        {
+          "name": "Proverbs 6:18",
+          "verse": 18,
+          "text": "El corazón que maquina pensamientos inicuos, los pies presurosos para correr al mal, "
+        },
+        {
+          "name": "Proverbs 6:19",
+          "verse": 19,
+          "text": "El testigo falso que habla mentiras, y el que enciende rencillas entre los hermanos. "
+        },
+        {
+          "name": "Proverbs 6:20",
+          "verse": 20,
+          "text": "Guarda, hijo mío, el mandamiento de tu padre, y no dejes la enseñanza de tu madre: "
+        },
+        {
+          "name": "Proverbs 6:21",
+          "verse": 21,
+          "text": "Atalos siempre en tu corazón, enlázalos á tu cuello. "
+        },
+        {
+          "name": "Proverbs 6:22",
+          "verse": 22,
+          "text": "Te guiarán cuando anduvieres; cuando durmieres te guardarán; hablarán contigo cuando despertares. "
+        },
+        {
+          "name": "Proverbs 6:23",
+          "verse": 23,
+          "text": "Porque el mandamiento es antorcha, y la enseñanza luz; y camino de vida las reprensiones de la enseñanza: "
+        },
+        {
+          "name": "Proverbs 6:24",
+          "verse": 24,
+          "text": "Para que te guarden de la mala mujer, de la blandura de la lengua de la extraña. "
+        },
+        {
+          "name": "Proverbs 6:25",
+          "verse": 25,
+          "text": "No codicies su hermosura en tu corazón, ni ella te prenda con sus ojos: "
+        },
+        {
+          "name": "Proverbs 6:26",
+          "verse": 26,
+          "text": "Porque á causa de la mujer ramera es reducido el hombre á un bocado de pan; y la mujer caza la preciosa alma del varón. "
+        },
+        {
+          "name": "Proverbs 6:27",
+          "verse": 27,
+          "text": "¿Tomará el hombre fuego en su seno, sin que sus vestidos se quemen? "
+        },
+        {
+          "name": "Proverbs 6:28",
+          "verse": 28,
+          "text": "¿Andará el hombre sobre las brasas, sin que sus pies se abrasen? "
+        },
+        {
+          "name": "Proverbs 6:29",
+          "verse": 29,
+          "text": "Así el que entrare á la mujer de su prójimo; no será sin culpa cualquiera que la tocare. "
+        },
+        {
+          "name": "Proverbs 6:30",
+          "verse": 30,
+          "text": "No tienen en poco al ladrón, cuando hurtare para saciar su alma teniendo hambre: "
+        },
+        {
+          "name": "Proverbs 6:31",
+          "verse": 31,
+          "text": "Empero tomado, paga las setenas, da toda la sustancia de su casa. "
+        },
+        {
+          "name": "Proverbs 6:32",
+          "verse": 32,
+          "text": "Mas el que comete adulterio con la mujer, es falto de entendimiento: corrompe su alma el que tal hace. "
+        },
+        {
+          "name": "Proverbs 6:33",
+          "verse": 33,
+          "text": "Plaga y vergüenza hallará; y su afrenta nunca será raída. "
+        },
+        {
+          "name": "Proverbs 6:34",
+          "verse": 34,
+          "text": "Porque los celos son el furor del hombre, y no perdonará en el día de la venganza. "
+        },
+        {
+          "name": "Proverbs 6:35",
+          "verse": 35,
+          "text": "No tendrá respeto á ninguna redención; ni querrá perdonar, aunque multipliques los dones.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 7",
+      "chapter": 7,
+      "verses": [
+        {
+          "name": "Proverbs 7:1",
+          "verse": 1,
+          "text": "HIJO mío, guarda mis razones, y encierra contigo mis mandamientos. "
+        },
+        {
+          "name": "Proverbs 7:2",
+          "verse": 2,
+          "text": "Guarda mis mandamientos, y vivirás; y mi ley como las niñas de tus ojos. "
+        },
+        {
+          "name": "Proverbs 7:3",
+          "verse": 3,
+          "text": "Lígalos á tus dedos; escríbelos en la tabla de tu corazón. "
+        },
+        {
+          "name": "Proverbs 7:4",
+          "verse": 4,
+          "text": "Di á la sabiduría: Tú eres mi hermana; y á la inteligencia llama parienta: "
+        },
+        {
+          "name": "Proverbs 7:5",
+          "verse": 5,
+          "text": "Para que te guarden de la mujer ajena, y de la extraña que ablanda sus palabras. "
+        },
+        {
+          "name": "Proverbs 7:6",
+          "verse": 6,
+          "text": "Porque mirando yo por la ventana de mi casa, por mi celosía, "
+        },
+        {
+          "name": "Proverbs 7:7",
+          "verse": 7,
+          "text": "Vi entre los simples, consideré entre los jóvenes, un mancebo falto de entendimiento, "
+        },
+        {
+          "name": "Proverbs 7:8",
+          "verse": 8,
+          "text": "El cual pasaba por la calle, junto á la esquina de aquella, é iba camino de su casa, "
+        },
+        {
+          "name": "Proverbs 7:9",
+          "verse": 9,
+          "text": "A la tarde del día, ya que oscurecía, en la oscuridad y tiniebla de la noche. "
+        },
+        {
+          "name": "Proverbs 7:10",
+          "verse": 10,
+          "text": "Y he aquí, una mujer que le sale al encuentro con atavío de ramera, astuta de corazón, "
+        },
+        {
+          "name": "Proverbs 7:11",
+          "verse": 11,
+          "text": "Alborotadora y rencillosa, sus pies no pueden estar en casa; "
+        },
+        {
+          "name": "Proverbs 7:12",
+          "verse": 12,
+          "text": "Unas veces de fuera, ó bien por las plazas, acechando por todas las esquinas. "
+        },
+        {
+          "name": "Proverbs 7:13",
+          "verse": 13,
+          "text": "Y traba de él, y bésalo; desvergonzó su rostro, y díjole: "
+        },
+        {
+          "name": "Proverbs 7:14",
+          "verse": 14,
+          "text": "Sacrificios de paz había prometido, hoy he pagado mis votos; "
+        },
+        {
+          "name": "Proverbs 7:15",
+          "verse": 15,
+          "text": "Por tanto he salido á encontrarte, buscando diligentemente tu rostro, y te he hallado. "
+        },
+        {
+          "name": "Proverbs 7:16",
+          "verse": 16,
+          "text": "Con paramentos he ataviado mi cama, recamados con cordoncillo de Egipto. "
+        },
+        {
+          "name": "Proverbs 7:17",
+          "verse": 17,
+          "text": "He sahumado mi cámara con mirra, áloes, y cinamomo. "
+        },
+        {
+          "name": "Proverbs 7:18",
+          "verse": 18,
+          "text": "Ven, embriaguémonos de amores hasta la mañana; alegrémonos en amores. "
+        },
+        {
+          "name": "Proverbs 7:19",
+          "verse": 19,
+          "text": "Porque el marido no está en casa, hase ido á un largo viaje: "
+        },
+        {
+          "name": "Proverbs 7:20",
+          "verse": 20,
+          "text": "El saco de dinero llevó en su mano; el día señalado volverá á su casa. "
+        },
+        {
+          "name": "Proverbs 7:21",
+          "verse": 21,
+          "text": "Rindiólo con la mucha suavidad de sus palabras, obligóle con la blandura de sus labios. "
+        },
+        {
+          "name": "Proverbs 7:22",
+          "verse": 22,
+          "text": "Vase en pos de ella luego, como va el buey al degolladero, y como el loco á las prisiones para ser castigado; "
+        },
+        {
+          "name": "Proverbs 7:23",
+          "verse": 23,
+          "text": "Como el ave que se apresura al lazo, y no sabe que es contra su vida, hasta que la saeta traspasó su hígado. "
+        },
+        {
+          "name": "Proverbs 7:24",
+          "verse": 24,
+          "text": "Ahora pues, hijos, oidme, y estad atentos á las razones de mi boca. "
+        },
+        {
+          "name": "Proverbs 7:25",
+          "verse": 25,
+          "text": "No se aparte á sus caminos tu corazón; no yerres en sus veredas. "
+        },
+        {
+          "name": "Proverbs 7:26",
+          "verse": 26,
+          "text": "Porque á muchos ha hecho caer heridos; y aun los más fuertes han sido muertos por ella. "
+        },
+        {
+          "name": "Proverbs 7:27",
+          "verse": 27,
+          "text": "Caminos del sepulcro son su casa, que descienden á las cámaras de la muerte.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 8",
+      "chapter": 8,
+      "verses": [
+        {
+          "name": "Proverbs 8:1",
+          "verse": 1,
+          "text": "¿NO clama la sabiduría, y da su voz la inteligencia? "
+        },
+        {
+          "name": "Proverbs 8:2",
+          "verse": 2,
+          "text": "En los altos cabezos, junto al camino, á las encrucijadas de las veredas se para; "
+        },
+        {
+          "name": "Proverbs 8:3",
+          "verse": 3,
+          "text": "En el lugar de las puertas, á la entrada de la ciudad, á la entrada de las puertas da voces: "
+        },
+        {
+          "name": "Proverbs 8:4",
+          "verse": 4,
+          "text": "Oh hombres, á vosotros clamo; y mi voz es á los hijos de los hombres. "
+        },
+        {
+          "name": "Proverbs 8:5",
+          "verse": 5,
+          "text": "Entended, simples, discreción; y vosotros, locos, entrad en cordura. "
+        },
+        {
+          "name": "Proverbs 8:6",
+          "verse": 6,
+          "text": "Oid, porque hablaré cosas excelentes; y abriré mis labios para cosas rectas. "
+        },
+        {
+          "name": "Proverbs 8:7",
+          "verse": 7,
+          "text": "Porque mi boca hablará verdad, y la impiedad abominan mis labios. "
+        },
+        {
+          "name": "Proverbs 8:8",
+          "verse": 8,
+          "text": "En justicia son todas las razones de mi boca; no hay en ellas cosa perversa ni torcida. "
+        },
+        {
+          "name": "Proverbs 8:9",
+          "verse": 9,
+          "text": "Todas ellas son rectas al que entiende, y razonables á los que han hallado sabiduría. "
+        },
+        {
+          "name": "Proverbs 8:10",
+          "verse": 10,
+          "text": "Recibid mi enseñanza, y no plata; y ciencia antes que el oro escogido. "
+        },
+        {
+          "name": "Proverbs 8:11",
+          "verse": 11,
+          "text": "Porque mejor es la sabiduría que las piedras preciosas; y todas las cosas que se pueden desear, no son de comparar con ella. "
+        },
+        {
+          "name": "Proverbs 8:12",
+          "verse": 12,
+          "text": "Yo, la sabiduría, habito con la discreción, y hallo la ciencia de los consejos. "
+        },
+        {
+          "name": "Proverbs 8:13",
+          "verse": 13,
+          "text": "El temor de Jehová es aborrecer el mal; la soberbia y la arrogancia, y el mal camino y la boca perversa, aborrezco. "
+        },
+        {
+          "name": "Proverbs 8:14",
+          "verse": 14,
+          "text": "Conmigo está el consejo y el ser; yo soy la inteligencia; mía es la fortaleza. "
+        },
+        {
+          "name": "Proverbs 8:15",
+          "verse": 15,
+          "text": "Por mí reinan los reyes, y los príncipes determinan justicia. "
+        },
+        {
+          "name": "Proverbs 8:16",
+          "verse": 16,
+          "text": "Por mí dominan los príncipes, y todos los gobernadores juzgan la tierra. "
+        },
+        {
+          "name": "Proverbs 8:17",
+          "verse": 17,
+          "text": "Yo amo á los que me aman; y me hallan los que madrugando me buscan. "
+        },
+        {
+          "name": "Proverbs 8:18",
+          "verse": 18,
+          "text": "Las riquezas y la honra están conmigo; sólidas riquezas, y justicia. "
+        },
+        {
+          "name": "Proverbs 8:19",
+          "verse": 19,
+          "text": "Mejor es mi fruto que el oro, y que el oro refinado; y mi rédito mejor que la plata escogida. "
+        },
+        {
+          "name": "Proverbs 8:20",
+          "verse": 20,
+          "text": "Por vereda de justicia guiaré, por en medio de sendas de juicio; "
+        },
+        {
+          "name": "Proverbs 8:21",
+          "verse": 21,
+          "text": "Para hacer heredar á mis amigos el ser, y que yo hincha sus tesoros. "
+        },
+        {
+          "name": "Proverbs 8:22",
+          "verse": 22,
+          "text": "Jehová me poseía en el principio de su camino, ya de antiguo, antes de sus obras. "
+        },
+        {
+          "name": "Proverbs 8:23",
+          "verse": 23,
+          "text": "Eternalmente tuve el principado, desde el principio, antes de la tierra. "
+        },
+        {
+          "name": "Proverbs 8:24",
+          "verse": 24,
+          "text": "Antes de los abismos fuí engendrada; antes que fuesen las fuentes de las muchas aguas. "
+        },
+        {
+          "name": "Proverbs 8:25",
+          "verse": 25,
+          "text": "Antes que los montes fuesen fundados, antes de los collados, era yo engendrada: "
+        },
+        {
+          "name": "Proverbs 8:26",
+          "verse": 26,
+          "text": "No había aún hecho la tierra, ni las campiñas, ni el principio del polvo del mundo. "
+        },
+        {
+          "name": "Proverbs 8:27",
+          "verse": 27,
+          "text": "Cuando formaba los cielos, allí estaba yo; cuando señalaba por compás la sobrefaz del abismo; "
+        },
+        {
+          "name": "Proverbs 8:28",
+          "verse": 28,
+          "text": "Cuando afirmaba los cielos arriba, cuando afirmaba las fuentes del abismo; "
+        },
+        {
+          "name": "Proverbs 8:29",
+          "verse": 29,
+          "text": "Cuando ponía á la mar su estatuto, y á las aguas, que no pasasen su mandamiento; cuando establecía los fundamentos de la tierra; "
+        },
+        {
+          "name": "Proverbs 8:30",
+          "verse": 30,
+          "text": "Con él estaba yo ordenándolo todo; y fuí su delicia todos los días, teniendo solaz delante de él en todo tiempo. "
+        },
+        {
+          "name": "Proverbs 8:31",
+          "verse": 31,
+          "text": "Huélgome en la parte habitable de su tierra; y mis delicias son con los hijos de los hombres. "
+        },
+        {
+          "name": "Proverbs 8:32",
+          "verse": 32,
+          "text": "Ahora pues, hijos, oidme; y bienaventurados los que guardaren mis caminos. "
+        },
+        {
+          "name": "Proverbs 8:33",
+          "verse": 33,
+          "text": "Atended el consejo, y sed sabios, y no lo menospreciéis. "
+        },
+        {
+          "name": "Proverbs 8:34",
+          "verse": 34,
+          "text": "Bienaventurado el hombre que me oye, velando á mis puertas cada día, guardando los umbrales de mis entradas. "
+        },
+        {
+          "name": "Proverbs 8:35",
+          "verse": 35,
+          "text": "Porque el que me hallare, hallará la vida, y alcanzará el favor de Jehová. "
+        },
+        {
+          "name": "Proverbs 8:36",
+          "verse": 36,
+          "text": "Mas el que peca contra mí, defrauda su alma: todos los que me aborrecen, aman la muerte.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 9",
+      "chapter": 9,
+      "verses": [
+        {
+          "name": "Proverbs 9:1",
+          "verse": 1,
+          "text": "LA sabiduría edificó su casa, labró sus siete columnas; "
+        },
+        {
+          "name": "Proverbs 9:2",
+          "verse": 2,
+          "text": "Mató sus víctimas, templó su vino, y puso su mesa. "
+        },
+        {
+          "name": "Proverbs 9:3",
+          "verse": 3,
+          "text": "Envió sus criadas; sobre lo más alto de la ciudad clamó: "
+        },
+        {
+          "name": "Proverbs 9:4",
+          "verse": 4,
+          "text": "Cualquiera simple, venga acá. A los faltos de cordura dijo: "
+        },
+        {
+          "name": "Proverbs 9:5",
+          "verse": 5,
+          "text": "Venid, comed mi pan, y bebed del vino que yo he templado. "
+        },
+        {
+          "name": "Proverbs 9:6",
+          "verse": 6,
+          "text": "Dejad las simplezas, y vivid; y andad por el camino de la inteligencia. "
+        },
+        {
+          "name": "Proverbs 9:7",
+          "verse": 7,
+          "text": "El que corrige al escarnecedor, afrenta se acarrea: el que reprende al impío, se atrae mancha. "
+        },
+        {
+          "name": "Proverbs 9:8",
+          "verse": 8,
+          "text": "No reprendas al escarnecedor, porque no te aborrezca; corrige al sabio, y te amará. "
+        },
+        {
+          "name": "Proverbs 9:9",
+          "verse": 9,
+          "text": "Da al sabio, y será más sabio: enseña al justo, y acrecerá su saber. "
+        },
+        {
+          "name": "Proverbs 9:10",
+          "verse": 10,
+          "text": "El temor de Jehová es el principio de la sabiduría; y la ciencia de los santos es inteligencia. "
+        },
+        {
+          "name": "Proverbs 9:11",
+          "verse": 11,
+          "text": "Porque por mí se aumentarán tus días, y años de vida se te añadirán. "
+        },
+        {
+          "name": "Proverbs 9:12",
+          "verse": 12,
+          "text": "Si fueres sabio, para ti lo serás: mas si fueres escarnecedor, pagarás tú solo. "
+        },
+        {
+          "name": "Proverbs 9:13",
+          "verse": 13,
+          "text": "La mujer loca es alborotadora; es simple é ignorante. "
+        },
+        {
+          "name": "Proverbs 9:14",
+          "verse": 14,
+          "text": "Siéntase en una silla á la puerta de su casa, en lo alto de la ciudad, "
+        },
+        {
+          "name": "Proverbs 9:15",
+          "verse": 15,
+          "text": "Para llamar á los que pasan por el camino, que van por sus caminos derechos. "
+        },
+        {
+          "name": "Proverbs 9:16",
+          "verse": 16,
+          "text": "Cualquiera simple, dice, venga acá. A los faltos de cordura dijo: "
+        },
+        {
+          "name": "Proverbs 9:17",
+          "verse": 17,
+          "text": "Las aguas hurtadas son dulces, y el pan comido en oculto es suave. "
+        },
+        {
+          "name": "Proverbs 9:18",
+          "verse": 18,
+          "text": "Y no saben que allí están los muertos; que sus convidados están en los profundos de la sepultura.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 10",
+      "chapter": 10,
+      "verses": [
+        {
+          "name": "Proverbs 10:1",
+          "verse": 1,
+          "text": "Las sentencias de Salomón. EL hijo sabio alegra al padre; y el hijo necio es tristeza de su madre. "
+        },
+        {
+          "name": "Proverbs 10:2",
+          "verse": 2,
+          "text": "Los tesoros de maldad no serán de provecho: mas la justicia libra de muerte. "
+        },
+        {
+          "name": "Proverbs 10:3",
+          "verse": 3,
+          "text": "Jehová no dejará hambrear el alma del justo: mas la iniquidad lanzará á los impíos. "
+        },
+        {
+          "name": "Proverbs 10:4",
+          "verse": 4,
+          "text": "La mano negligente hace pobre: mas la mano de los diligentes enriquece. "
+        },
+        {
+          "name": "Proverbs 10:5",
+          "verse": 5,
+          "text": "El que recoge en el estío es hombre entendido: el que duerme en el tiempo de la siega es hombre afrentoso. "
+        },
+        {
+          "name": "Proverbs 10:6",
+          "verse": 6,
+          "text": "Bendiciones sobre la cabeza del justo: mas violencia cubrirá la boca de los impíos. "
+        },
+        {
+          "name": "Proverbs 10:7",
+          "verse": 7,
+          "text": "La memoria del justo será bendita: mas el nombre de los impíos se pudrirá. "
+        },
+        {
+          "name": "Proverbs 10:8",
+          "verse": 8,
+          "text": "El sabio de corazón recibirá los mandamientos: mas el loco de labios caerá. "
+        },
+        {
+          "name": "Proverbs 10:9",
+          "verse": 9,
+          "text": "El que camina en integridad, anda confiado: mas el que pervierte sus caminos, será quebrantado. "
+        },
+        {
+          "name": "Proverbs 10:10",
+          "verse": 10,
+          "text": "El que guiña del ojo acarrea tristeza; y el loco de labios será castigado. "
+        },
+        {
+          "name": "Proverbs 10:11",
+          "verse": 11,
+          "text": "Vena de vida es la boca del justo: mas violencia cubrirá la boca de los impíos. "
+        },
+        {
+          "name": "Proverbs 10:12",
+          "verse": 12,
+          "text": "El odio despierta rencillas: mas la caridad cubrirá todas las faltas. "
+        },
+        {
+          "name": "Proverbs 10:13",
+          "verse": 13,
+          "text": "En los labios del prudente se halla sabiduría: y vara á las espaldas del falto de cordura. "
+        },
+        {
+          "name": "Proverbs 10:14",
+          "verse": 14,
+          "text": "Los sabios guardan la sabiduría: mas la boca del loco es calamidad cercana. "
+        },
+        {
+          "name": "Proverbs 10:15",
+          "verse": 15,
+          "text": "Las riquezas del rico son su ciudad fuerte; y el desmayo de los pobres es su pobreza. "
+        },
+        {
+          "name": "Proverbs 10:16",
+          "verse": 16,
+          "text": "La obra del justo es para vida; mas el fruto del impío es para pecado. "
+        },
+        {
+          "name": "Proverbs 10:17",
+          "verse": 17,
+          "text": "Camino á la vida es guardar la corrección: mas el que deja la reprensión, yerra. "
+        },
+        {
+          "name": "Proverbs 10:18",
+          "verse": 18,
+          "text": "El que encubre el odio es de labios mentirosos; y el que echa mala fama es necio. "
+        },
+        {
+          "name": "Proverbs 10:19",
+          "verse": 19,
+          "text": "En las muchas palabras no falta pecado: mas el que refrena sus labios es prudente. "
+        },
+        {
+          "name": "Proverbs 10:20",
+          "verse": 20,
+          "text": "Plata escogida es la lengua del justo: mas el entendimiento de los impíos es como nada. "
+        },
+        {
+          "name": "Proverbs 10:21",
+          "verse": 21,
+          "text": "Los labios del justo apacientan á muchos: mas los necios por falta de entendimiento mueren. "
+        },
+        {
+          "name": "Proverbs 10:22",
+          "verse": 22,
+          "text": "La bendición de Jehová es la que enriquece, y no añade tristeza con ella. "
+        },
+        {
+          "name": "Proverbs 10:23",
+          "verse": 23,
+          "text": "Hacer abominación es como risa al insensato: mas el hombre entendido sabe. "
+        },
+        {
+          "name": "Proverbs 10:24",
+          "verse": 24,
+          "text": "Lo que el impío teme, eso le vendrá: mas á los justos les será dado lo que desean. "
+        },
+        {
+          "name": "Proverbs 10:25",
+          "verse": 25,
+          "text": "Como pasa el torbellino, así el malo no permanece: mas el justo, fundado para siempre. "
+        },
+        {
+          "name": "Proverbs 10:26",
+          "verse": 26,
+          "text": "Como el vinagre á los dientes, y como el humo á los ojos, así es el perezoso á los que lo envían. "
+        },
+        {
+          "name": "Proverbs 10:27",
+          "verse": 27,
+          "text": "El temor de Jehová aumentará los días: mas los años de los impíos serán acortados. "
+        },
+        {
+          "name": "Proverbs 10:28",
+          "verse": 28,
+          "text": "La esperanza de los justos es alegría; mas la esperanza de los impíos perecerá. "
+        },
+        {
+          "name": "Proverbs 10:29",
+          "verse": 29,
+          "text": "Fortaleza es al perfecto el camino de Jehová: mas espanto es á los que obran maldad. "
+        },
+        {
+          "name": "Proverbs 10:30",
+          "verse": 30,
+          "text": "El justo eternalmente no será removido: mas los impíos no habitarán la tierra. "
+        },
+        {
+          "name": "Proverbs 10:31",
+          "verse": 31,
+          "text": "La boca del justo producirá sabiduría: mas la lengua perversa será cortada. "
+        },
+        {
+          "name": "Proverbs 10:32",
+          "verse": 32,
+          "text": "Los labios del justo conocerán lo que agrada: mas la boca de los impíos habla perversidades.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 11",
+      "chapter": 11,
+      "verses": [
+        {
+          "name": "Proverbs 11:1",
+          "verse": 1,
+          "text": "EL peso falso abominación es á Jehová: mas la pesa cabal le agrada. "
+        },
+        {
+          "name": "Proverbs 11:2",
+          "verse": 2,
+          "text": "Cuando viene la soberbia, viene también la deshonra: mas con los humildes es la sabiduría. "
+        },
+        {
+          "name": "Proverbs 11:3",
+          "verse": 3,
+          "text": "La integridad de los rectos los encaminará: mas destruirá á los pecadores la perversidad de ellos. "
+        },
+        {
+          "name": "Proverbs 11:4",
+          "verse": 4,
+          "text": "No aprovecharán las riquezas en el día de la ira: mas la justicia librará de muerte. "
+        },
+        {
+          "name": "Proverbs 11:5",
+          "verse": 5,
+          "text": "La justicia del perfecto enderezará su camino: mas el impío por su impiedad caerá. "
+        },
+        {
+          "name": "Proverbs 11:6",
+          "verse": 6,
+          "text": "La justicia de los rectos los librará: mas los pecadores en su pecado serán presos. "
+        },
+        {
+          "name": "Proverbs 11:7",
+          "verse": 7,
+          "text": "Cuando muere el hombre impío, perece su esperanza; y la espectativa de los malos perecerá. "
+        },
+        {
+          "name": "Proverbs 11:8",
+          "verse": 8,
+          "text": "El justo es librado de la tribulación: mas el impío viene en lugar suyo. "
+        },
+        {
+          "name": "Proverbs 11:9",
+          "verse": 9,
+          "text": "El hipócrita con la boca daña á su prójimo: mas los justos son librados con la sabiduría. "
+        },
+        {
+          "name": "Proverbs 11:10",
+          "verse": 10,
+          "text": "En el bien de los justos la ciudad se alegra: mas cuando los impíos perecen, hay fiestas. "
+        },
+        {
+          "name": "Proverbs 11:11",
+          "verse": 11,
+          "text": "Por la bendición de los rectos la ciudad será engrandecida: mas por la boca de los impíos ella será trastornada. "
+        },
+        {
+          "name": "Proverbs 11:12",
+          "verse": 12,
+          "text": "El que carece de entendimiento, menosprecia á su prójimo: mas el hombre prudente calla. "
+        },
+        {
+          "name": "Proverbs 11:13",
+          "verse": 13,
+          "text": "El que anda en chismes, descubre el secreto: mas el de espíritu fiel encubre la cosa. "
+        },
+        {
+          "name": "Proverbs 11:14",
+          "verse": 14,
+          "text": "Cuando faltaren las industrias, caerá el pueblo: mas en la multitud de consejeros hay salud. "
+        },
+        {
+          "name": "Proverbs 11:15",
+          "verse": 15,
+          "text": "Con ansiedad será afligido el que fiare al extraño: mas el que aborreciere las fianzas vivirá confiado. "
+        },
+        {
+          "name": "Proverbs 11:16",
+          "verse": 16,
+          "text": "La mujer graciosa tendrá honra: y los fuertes tendrán riquezas. "
+        },
+        {
+          "name": "Proverbs 11:17",
+          "verse": 17,
+          "text": "A su alma hace bien el hombre misericordioso: mas el cruel atormenta su carne. "
+        },
+        {
+          "name": "Proverbs 11:18",
+          "verse": 18,
+          "text": "El impío hace obra falsa: mas el que sembrare justicia, tendrá galardón firme. "
+        },
+        {
+          "name": "Proverbs 11:19",
+          "verse": 19,
+          "text": "Como la justicia es para vida, así el que sigue el mal es para su muerte. "
+        },
+        {
+          "name": "Proverbs 11:20",
+          "verse": 20,
+          "text": "Abominación son á Jehová los perversos de corazón: mas los perfectos de camino le son agradables. "
+        },
+        {
+          "name": "Proverbs 11:21",
+          "verse": 21,
+          "text": "Aunque llegue la mano á la mano, el malo no quedará sin castigo: mas la simiente de los justos escapará. "
+        },
+        {
+          "name": "Proverbs 11:22",
+          "verse": 22,
+          "text": "Zarcillo de oro en la nariz del puerco, es la mujer hermosa y apartada de razón. "
+        },
+        {
+          "name": "Proverbs 11:23",
+          "verse": 23,
+          "text": "El deseo de los justos es solamente bien: mas la esperanza de los impíos es enojo. "
+        },
+        {
+          "name": "Proverbs 11:24",
+          "verse": 24,
+          "text": "Hay quienes reparten, y les es añadido más: y hay quienes son escasos más de lo que es justo, mas vienen á pobreza. "
+        },
+        {
+          "name": "Proverbs 11:25",
+          "verse": 25,
+          "text": "El alma liberal será engordada: y el que saciare, él también será saciado. "
+        },
+        {
+          "name": "Proverbs 11:26",
+          "verse": 26,
+          "text": "Al que retiene el grano, el pueblo lo maldecirá: mas bendición será sobre la cabeza del que vende. "
+        },
+        {
+          "name": "Proverbs 11:27",
+          "verse": 27,
+          "text": "El que madruga al bien, buscará favor: mas el que busca el mal, vendrále. "
+        },
+        {
+          "name": "Proverbs 11:28",
+          "verse": 28,
+          "text": "El que confía en sus riquezas, caerá: mas los justos reverdecerán como ramos. "
+        },
+        {
+          "name": "Proverbs 11:29",
+          "verse": 29,
+          "text": "El que turba su casa heredará viento; y el necio será siervo del sabio de corazón. "
+        },
+        {
+          "name": "Proverbs 11:30",
+          "verse": 30,
+          "text": "El fruto del justo es árbol de vida: y el que prende almas, es sabio. "
+        },
+        {
+          "name": "Proverbs 11:31",
+          "verse": 31,
+          "text": "Ciertamente el justo será pagado en la tierra: ¡cuánto más el impío y el pecador!  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 12",
+      "chapter": 12,
+      "verses": [
+        {
+          "name": "Proverbs 12:1",
+          "verse": 1,
+          "text": "EL que ama la corrección ama la sabiduría: mas el que aborrece la reprensión, es ignorante. "
+        },
+        {
+          "name": "Proverbs 12:2",
+          "verse": 2,
+          "text": "El bueno alcanzará favor de Jehová: mas él condenará al hombre de malos pensamientos. "
+        },
+        {
+          "name": "Proverbs 12:3",
+          "verse": 3,
+          "text": "El hombre no se afirmará por medio de la impiedad: mas la raíz de los justos no será movida. "
+        },
+        {
+          "name": "Proverbs 12:4",
+          "verse": 4,
+          "text": "La mujer virtuosa corona es de su marido: mas la mala, como carcoma en sus huesos. "
+        },
+        {
+          "name": "Proverbs 12:5",
+          "verse": 5,
+          "text": "Los pensamientos de los justos son rectitud; mas los consejos de los impíos, engaño. "
+        },
+        {
+          "name": "Proverbs 12:6",
+          "verse": 6,
+          "text": "Las palabras de los impíos son para acechar la sangre: mas la boca de los rectos los librará. "
+        },
+        {
+          "name": "Proverbs 12:7",
+          "verse": 7,
+          "text": "Dios trastornará á los impíos, y no serán más: mas la casa de los justos permanecerá. "
+        },
+        {
+          "name": "Proverbs 12:8",
+          "verse": 8,
+          "text": "Según su sabiduría es alabado el hombre: mas el perverso de corazón será en menosprecio. "
+        },
+        {
+          "name": "Proverbs 12:9",
+          "verse": 9,
+          "text": "Mejor es el que es menospreciado y tiene servidores, que el que se precia, y carece de pan. "
+        },
+        {
+          "name": "Proverbs 12:10",
+          "verse": 10,
+          "text": "El justo atiende á la vida de su bestia: mas las entrañas de los impíos son crueles. "
+        },
+        {
+          "name": "Proverbs 12:11",
+          "verse": 11,
+          "text": "El que labra su tierra, se hartará de pan: mas el que sigue los vagabundos es falto de entendimiento. "
+        },
+        {
+          "name": "Proverbs 12:12",
+          "verse": 12,
+          "text": "Desea el impío la red de los malos: mas la raíz de los justos dará fruto. "
+        },
+        {
+          "name": "Proverbs 12:13",
+          "verse": 13,
+          "text": "El impío es enredado en la prevaricación de sus labios: mas el justo saldrá de la tribulación. "
+        },
+        {
+          "name": "Proverbs 12:14",
+          "verse": 14,
+          "text": "El hombre será harto de bien del fruto de su boca: y la paga de las manos del hombre le será dada. "
+        },
+        {
+          "name": "Proverbs 12:15",
+          "verse": 15,
+          "text": "El camino del necio es derecho en su opinión: mas el que obedece al consejo es sabio. "
+        },
+        {
+          "name": "Proverbs 12:16",
+          "verse": 16,
+          "text": "El necio luego al punto da á conocer su ira: mas el que disimula la injuria es cuerdo. "
+        },
+        {
+          "name": "Proverbs 12:17",
+          "verse": 17,
+          "text": "El que habla verdad, declara justicia; mas el testigo mentiroso, engaño. "
+        },
+        {
+          "name": "Proverbs 12:18",
+          "verse": 18,
+          "text": "Hay quienes hablan como dando estocadas de espada: mas la lengua de los sabios es medicina. "
+        },
+        {
+          "name": "Proverbs 12:19",
+          "verse": 19,
+          "text": "El labio de verdad permanecerá para siempre: mas la lengua de mentira por un momento. "
+        },
+        {
+          "name": "Proverbs 12:20",
+          "verse": 20,
+          "text": "Engaño hay en el corazón de los que piensan mal: mas alegría en el de los que piensan bien. "
+        },
+        {
+          "name": "Proverbs 12:21",
+          "verse": 21,
+          "text": "Ninguna adversidad acontecerá al justo: mas los impíos serán llenos de mal. "
+        },
+        {
+          "name": "Proverbs 12:22",
+          "verse": 22,
+          "text": "Los labios mentirosos son abominación á Jehová: mas los obradores de verdad su contentamiento. "
+        },
+        {
+          "name": "Proverbs 12:23",
+          "verse": 23,
+          "text": "El hombre cuerdo encubre la ciencia: mas el corazón de los necios publica la necedad. "
+        },
+        {
+          "name": "Proverbs 12:24",
+          "verse": 24,
+          "text": "La mano de los diligentes se enseñoreará: mas la negligencia será tributaria. "
+        },
+        {
+          "name": "Proverbs 12:25",
+          "verse": 25,
+          "text": "El cuidado congojoso en el corazón del hombre, lo abate; mas la buena palabra lo alegra. "
+        },
+        {
+          "name": "Proverbs 12:26",
+          "verse": 26,
+          "text": "El justo hace ventaja á su prójimo: mas el camino de los impíos les hace errar. "
+        },
+        {
+          "name": "Proverbs 12:27",
+          "verse": 27,
+          "text": "El indolente no chamuscará su caza: mas el haber precioso del hombre es la diligencia. "
+        },
+        {
+          "name": "Proverbs 12:28",
+          "verse": 28,
+          "text": "En el camino de la justicia está la vida; y la senda de su vereda no es muerte.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 13",
+      "chapter": 13,
+      "verses": [
+        {
+          "name": "Proverbs 13:1",
+          "verse": 1,
+          "text": "EL hijo sabio toma el consejo del padre: mas el burlador no escucha las reprensiones. "
+        },
+        {
+          "name": "Proverbs 13:2",
+          "verse": 2,
+          "text": "Del fruto de su boca el hombre comerá bien: mas el alma de los prevaricadores hallará mal. "
+        },
+        {
+          "name": "Proverbs 13:3",
+          "verse": 3,
+          "text": "El que guarda su boca guarda su alma: mas el que mucho abre sus labios tendrá calamidad. "
+        },
+        {
+          "name": "Proverbs 13:4",
+          "verse": 4,
+          "text": "Desea, y nada alcanza el alma del perezoso: mas el alma de los diligentes será engordada. "
+        },
+        {
+          "name": "Proverbs 13:5",
+          "verse": 5,
+          "text": "El justo aborrece la palabra de mentira: mas el impío se hace odioso é infame. "
+        },
+        {
+          "name": "Proverbs 13:6",
+          "verse": 6,
+          "text": "La justicia guarda al de perfecto camino: mas la impiedad trastornará al pecador. "
+        },
+        {
+          "name": "Proverbs 13:7",
+          "verse": 7,
+          "text": "Hay quienes se hacen ricos, y no tienen nada: y hay quienes se hacen pobres, y tienen muchas riquezas. "
+        },
+        {
+          "name": "Proverbs 13:8",
+          "verse": 8,
+          "text": "La redención de la vida del hombre son sus riquezas: pero el pobre no oye censuras. "
+        },
+        {
+          "name": "Proverbs 13:9",
+          "verse": 9,
+          "text": "La luz de los justos se alegrará: mas apagaráse la lámpara de los impíos. "
+        },
+        {
+          "name": "Proverbs 13:10",
+          "verse": 10,
+          "text": "Ciertamente la soberbia parirá contienda: mas con los avisados es la sabiduría. "
+        },
+        {
+          "name": "Proverbs 13:11",
+          "verse": 11,
+          "text": "Disminuiránse las riquezas de vanidad: empero multiplicará el que allega con su mano. "
+        },
+        {
+          "name": "Proverbs 13:12",
+          "verse": 12,
+          "text": "La esperanza que se prolonga, es tormento del corazón: mas árbol de vida es el deseo cumplido. "
+        },
+        {
+          "name": "Proverbs 13:13",
+          "verse": 13,
+          "text": "El que menosprecia la palabra, perecerá por ello: mas el que teme el mandamiento, será recompensado. "
+        },
+        {
+          "name": "Proverbs 13:14",
+          "verse": 14,
+          "text": "La ley del sabio es manantial de vida, para apartarse de los lazos de la muerte. "
+        },
+        {
+          "name": "Proverbs 13:15",
+          "verse": 15,
+          "text": "El buen entendimiento conciliará gracia: mas el camino de los prevaricadores es duro. "
+        },
+        {
+          "name": "Proverbs 13:16",
+          "verse": 16,
+          "text": "Todo hombre cuerdo obra con sabiduría: mas el necio manifestará necedad. "
+        },
+        {
+          "name": "Proverbs 13:17",
+          "verse": 17,
+          "text": "El mal mensajero caerá en mal: mas el mensajero fiel es medicina. "
+        },
+        {
+          "name": "Proverbs 13:18",
+          "verse": 18,
+          "text": "Pobreza y vergüenza tendrá el que menosprecia el consejo: mas el que guarda la corrección, será honrado. "
+        },
+        {
+          "name": "Proverbs 13:19",
+          "verse": 19,
+          "text": "El deseo cumplido deleita el alma: pero apartarse del mal es abominación á los necios. "
+        },
+        {
+          "name": "Proverbs 13:20",
+          "verse": 20,
+          "text": "El que anda con los sabios, sabio será; mas el que se allega á los necios, será quebrantado. "
+        },
+        {
+          "name": "Proverbs 13:21",
+          "verse": 21,
+          "text": "Mal perseguirá á los pecadores: mas á los justos les será bien retribuído. "
+        },
+        {
+          "name": "Proverbs 13:22",
+          "verse": 22,
+          "text": "El bueno dejará herederos á los hijos de los hijos; y el haber del pecador, para el justo está guardado. "
+        },
+        {
+          "name": "Proverbs 13:23",
+          "verse": 23,
+          "text": "En el barbecho de los pobres hay mucho pan: mas piérdese por falta de juicio. "
+        },
+        {
+          "name": "Proverbs 13:24",
+          "verse": 24,
+          "text": "El que detiene el castigo, á su hijo aborrece: mas el que lo ama, madruga á castigarlo. "
+        },
+        {
+          "name": "Proverbs 13:25",
+          "verse": 25,
+          "text": "El justo come hasta saciar su alma: mas el vientre de los impíos tendrá necesidad.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 14",
+      "chapter": 14,
+      "verses": [
+        {
+          "name": "Proverbs 14:1",
+          "verse": 1,
+          "text": "LA mujer sabia edifica su casa: mas la necia con sus manos la derriba. "
+        },
+        {
+          "name": "Proverbs 14:2",
+          "verse": 2,
+          "text": "El que camina en su rectitud teme á Jehová: mas el pervertido en sus caminos lo menosprecia. "
+        },
+        {
+          "name": "Proverbs 14:3",
+          "verse": 3,
+          "text": "En la boca del necio está la vara de la soberbia: mas los labios de los sabios los guardarán. "
+        },
+        {
+          "name": "Proverbs 14:4",
+          "verse": 4,
+          "text": "Sin bueyes el granero está limpio: mas por la fuerza del buey hay abundancia de pan. "
+        },
+        {
+          "name": "Proverbs 14:5",
+          "verse": 5,
+          "text": "El testigo verdadero no mentirá: mas el testigo falso hablará mentiras. "
+        },
+        {
+          "name": "Proverbs 14:6",
+          "verse": 6,
+          "text": "Busca el escarnecedor la sabiduría, y no la halla: mas la sabiduría al hombre entendido es fácil. "
+        },
+        {
+          "name": "Proverbs 14:7",
+          "verse": 7,
+          "text": "Vete de delante del hombre necio, porque en él no advertirás labios de ciencia. "
+        },
+        {
+          "name": "Proverbs 14:8",
+          "verse": 8,
+          "text": "La ciencia del cuerdo es entender su camino: mas la indiscreción de los necios es engaño. "
+        },
+        {
+          "name": "Proverbs 14:9",
+          "verse": 9,
+          "text": "Los necios se mofan del pecado: mas entre los rectos hay favor. "
+        },
+        {
+          "name": "Proverbs 14:10",
+          "verse": 10,
+          "text": "El corazón conoce la amargura de su alma; y extraño no se entrometerá en su alegría. "
+        },
+        {
+          "name": "Proverbs 14:11",
+          "verse": 11,
+          "text": "La casa de los impíos será asolada: mas florecerá la tienda de los rectos. "
+        },
+        {
+          "name": "Proverbs 14:12",
+          "verse": 12,
+          "text": "Hay camino que al hombre parece derecho; empero su fin son caminos de muerte. "
+        },
+        {
+          "name": "Proverbs 14:13",
+          "verse": 13,
+          "text": "Aun en la risa tendrá dolor el corazón; y el término de la alegría es congoja. "
+        },
+        {
+          "name": "Proverbs 14:14",
+          "verse": 14,
+          "text": "De sus caminos será harto el apartado de razón: y el hombre de bien estará contento del suyo. "
+        },
+        {
+          "name": "Proverbs 14:15",
+          "verse": 15,
+          "text": "El simple cree á toda palabra: mas el avisado entiende sus pasos. "
+        },
+        {
+          "name": "Proverbs 14:16",
+          "verse": 16,
+          "text": "El sabio teme, y se aparta del mal: mas el necio se arrebata, y confía. "
+        },
+        {
+          "name": "Proverbs 14:17",
+          "verse": 17,
+          "text": "El que presto se enoja, hará locura: y el hombre malicioso será aborrecido. "
+        },
+        {
+          "name": "Proverbs 14:18",
+          "verse": 18,
+          "text": "Los simples heredarán necedad: mas los cuerdos se coronarán de sabiduría. "
+        },
+        {
+          "name": "Proverbs 14:19",
+          "verse": 19,
+          "text": "Los malos se inclinarán delante de los buenos, y los impíos á las puertas del justo. "
+        },
+        {
+          "name": "Proverbs 14:20",
+          "verse": 20,
+          "text": "El pobre es odioso aun á su amigo: pero muchos son los que aman al rico. "
+        },
+        {
+          "name": "Proverbs 14:21",
+          "verse": 21,
+          "text": "Peca el que menosprecia á su prójimo: mas el que tiene misericordia de los pobres, es bienaventurado. "
+        },
+        {
+          "name": "Proverbs 14:22",
+          "verse": 22,
+          "text": "¿No yerran los que piensan mal? Misericordia empero y verdad alcanzarán los que piensan bien. "
+        },
+        {
+          "name": "Proverbs 14:23",
+          "verse": 23,
+          "text": "En toda labor hay fruto: mas la palabra de los labios solamente empobrece. "
+        },
+        {
+          "name": "Proverbs 14:24",
+          "verse": 24,
+          "text": "Las riquezas de los sabios son su corona: mas es infatuación la insensatez de los necios. "
+        },
+        {
+          "name": "Proverbs 14:25",
+          "verse": 25,
+          "text": "El testigo verdadero libra las almas: mas el engañoso hablará mentiras. "
+        },
+        {
+          "name": "Proverbs 14:26",
+          "verse": 26,
+          "text": "En el temor de Jehová está la fuerte confianza; y esperanza tendrán sus hijos. "
+        },
+        {
+          "name": "Proverbs 14:27",
+          "verse": 27,
+          "text": "El temor de Jehová es manantial de vida, para apartarse de los lazos de la muerte. "
+        },
+        {
+          "name": "Proverbs 14:28",
+          "verse": 28,
+          "text": "En la multitud de pueblo está la gloria del rey: y en la falta de pueblo la flaqueza del príncipe. "
+        },
+        {
+          "name": "Proverbs 14:29",
+          "verse": 29,
+          "text": "El que tarde se aira, es grande de entendimiento: mas el corto de espíritu engrandece el desatino. "
+        },
+        {
+          "name": "Proverbs 14:30",
+          "verse": 30,
+          "text": "El corazón apacible es vida de las carnes: mas la envidia, pudrimiento de huesos. "
+        },
+        {
+          "name": "Proverbs 14:31",
+          "verse": 31,
+          "text": "El que oprime al pobre, afrenta á su Hacedor: mas el que tiene misericordia del pobre, lo honra. "
+        },
+        {
+          "name": "Proverbs 14:32",
+          "verse": 32,
+          "text": "Por su maldad será lanzado el impío: mas el justo en su muerte tiene esperanza. "
+        },
+        {
+          "name": "Proverbs 14:33",
+          "verse": 33,
+          "text": "En el corazón del cuerdo reposa la sabiduría; y es conocida en medio de los necios. "
+        },
+        {
+          "name": "Proverbs 14:34",
+          "verse": 34,
+          "text": "La justicia engrandece la nación: mas el pecado es afrenta de las naciones. "
+        },
+        {
+          "name": "Proverbs 14:35",
+          "verse": 35,
+          "text": "La benevolencia del rey es para con el ministro entendido: mas su enojo contra el que lo avergüenza.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 15",
+      "chapter": 15,
+      "verses": [
+        {
+          "name": "Proverbs 15:1",
+          "verse": 1,
+          "text": "LA blanda respuesta quita la ira: mas la palabra áspera hace subir el furor. "
+        },
+        {
+          "name": "Proverbs 15:2",
+          "verse": 2,
+          "text": "La lengua de los sabios adornará la sabiduría: mas la boca de los necios hablará sandeces. "
+        },
+        {
+          "name": "Proverbs 15:3",
+          "verse": 3,
+          "text": "Los ojos de Jehová están en todo lugar, mirando á los malos y á los buenos. "
+        },
+        {
+          "name": "Proverbs 15:4",
+          "verse": 4,
+          "text": "La sana lengua es árbol de vida: mas la perversidad en ella es quebrantamiento de espíritu. "
+        },
+        {
+          "name": "Proverbs 15:5",
+          "verse": 5,
+          "text": "El necio menosprecia el consejo de su padre: mas el que guarda la corrección, vendrá á ser cuerdo. "
+        },
+        {
+          "name": "Proverbs 15:6",
+          "verse": 6,
+          "text": "En la casa del justo hay gran provisión; empero turbación en las ganancias del impío. "
+        },
+        {
+          "name": "Proverbs 15:7",
+          "verse": 7,
+          "text": "Los labios de los sabios esparcen sabiduría: mas no así el corazón de los necios. "
+        },
+        {
+          "name": "Proverbs 15:8",
+          "verse": 8,
+          "text": "El sacrificio de los impíos es abominación á Jehová: mas la oración de los rectos es su gozo. "
+        },
+        {
+          "name": "Proverbs 15:9",
+          "verse": 9,
+          "text": "Abominación es á Jehová el camino del impío: mas él ama al que sigue justicia. "
+        },
+        {
+          "name": "Proverbs 15:10",
+          "verse": 10,
+          "text": "La reconvención es molesta al que deja el camino: y el que aborreciere la corrección, morirá. "
+        },
+        {
+          "name": "Proverbs 15:11",
+          "verse": 11,
+          "text": "El infierno y la perdición están delante de Jehová: ¡cuánto más los corazones de los hombres! "
+        },
+        {
+          "name": "Proverbs 15:12",
+          "verse": 12,
+          "text": "El escarnecedor no ama al que le reprende; ni se allega á los sabios. "
+        },
+        {
+          "name": "Proverbs 15:13",
+          "verse": 13,
+          "text": "El corazón alegre hermosea el rostro: mas por el dolor de corazón el espíritu se abate. "
+        },
+        {
+          "name": "Proverbs 15:14",
+          "verse": 14,
+          "text": "El corazón entendido busca la sabiduría: mas la boca de los necios pace necedad. "
+        },
+        {
+          "name": "Proverbs 15:15",
+          "verse": 15,
+          "text": "Todos los días del afligido son trabajosos: mas el de corazón contento tiene un convite continuo. "
+        },
+        {
+          "name": "Proverbs 15:16",
+          "verse": 16,
+          "text": "Mejor es lo poco con el temor de Jehová, que el gran tesoro donde hay turbación. "
+        },
+        {
+          "name": "Proverbs 15:17",
+          "verse": 17,
+          "text": "Mejor es la comida de legumbres donde hay amor, que de buey engordado donde hay odio. "
+        },
+        {
+          "name": "Proverbs 15:18",
+          "verse": 18,
+          "text": "El hombre iracundo mueve contiendas: mas el que tarde se enoja, apaciguará la rencilla. "
+        },
+        {
+          "name": "Proverbs 15:19",
+          "verse": 19,
+          "text": "El camino del perezoso es como seto de espinos: mas la vereda de los rectos como una calzada. "
+        },
+        {
+          "name": "Proverbs 15:20",
+          "verse": 20,
+          "text": "El hijo sabio alegra al padre: mas el hombre necio menosprecia á su madre. "
+        },
+        {
+          "name": "Proverbs 15:21",
+          "verse": 21,
+          "text": "La necedad es alegría al falto de entendimiento: mas el hombre entendido enderezará su proceder. "
+        },
+        {
+          "name": "Proverbs 15:22",
+          "verse": 22,
+          "text": "Los pensamientos son frustrados donde no hay consejo; mas en la multitud de consejeros se afirman. "
+        },
+        {
+          "name": "Proverbs 15:23",
+          "verse": 23,
+          "text": "Alégrase el hombre con la respuesta de su boca: y la palabra á su tiempo, ¡cuán buena es! "
+        },
+        {
+          "name": "Proverbs 15:24",
+          "verse": 24,
+          "text": "El camino de la vida es hacia arriba al entendido, para apartarse del infierno abajo. "
+        },
+        {
+          "name": "Proverbs 15:25",
+          "verse": 25,
+          "text": "Jehová asolará la casa de los soberbios: mas él afirmará el término de la viuda. "
+        },
+        {
+          "name": "Proverbs 15:26",
+          "verse": 26,
+          "text": "Abominación son á Jehová los pensamientos del malo: mas las expresiones de los limpios son limpias. "
+        },
+        {
+          "name": "Proverbs 15:27",
+          "verse": 27,
+          "text": "Alborota su casa el codicioso: mas el que aborrece las dádivas vivirá. "
+        },
+        {
+          "name": "Proverbs 15:28",
+          "verse": 28,
+          "text": "El corazón del justo piensa para responder: mas la boca de los impíos derrama malas cosas. "
+        },
+        {
+          "name": "Proverbs 15:29",
+          "verse": 29,
+          "text": "Lejos está Jehová de los impíos: mas él oye la oración de los justos. "
+        },
+        {
+          "name": "Proverbs 15:30",
+          "verse": 30,
+          "text": "La luz de los ojos alegra el corazón; y la buena fama engorda los huesos. "
+        },
+        {
+          "name": "Proverbs 15:31",
+          "verse": 31,
+          "text": "La oreja que escucha la corrección de vida, entre los sabios morará. "
+        },
+        {
+          "name": "Proverbs 15:32",
+          "verse": 32,
+          "text": "El que tiene en poco la disciplina, menosprecia su alma: mas el que escucha la corrección, tiene entendimiento. "
+        },
+        {
+          "name": "Proverbs 15:33",
+          "verse": 33,
+          "text": "El temor de Jehová es enseñanza de sabiduría: y delante de la honra está la humildad.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 16",
+      "chapter": 16,
+      "verses": [
+        {
+          "name": "Proverbs 16:1",
+          "verse": 1,
+          "text": "DEL hombre son las disposiciones del corazón: mas de Jehová la respuesta de la lengua. "
+        },
+        {
+          "name": "Proverbs 16:2",
+          "verse": 2,
+          "text": "Todos los caminos del hombre son limpios en su opinión: mas Jehová pesa los espíritus. "
+        },
+        {
+          "name": "Proverbs 16:3",
+          "verse": 3,
+          "text": "Encomienda á Jehová tus obras, y tus pensamientos serán afirmados. "
+        },
+        {
+          "name": "Proverbs 16:4",
+          "verse": 4,
+          "text": "Todas las cosas ha hecho Jehová por sí mismo, y aun al impío para el día malo. "
+        },
+        {
+          "name": "Proverbs 16:5",
+          "verse": 5,
+          "text": "Abominación es á Jehová todo altivo de corazón: aunque esté mano sobre mano, no será reputado inocente. "
+        },
+        {
+          "name": "Proverbs 16:6",
+          "verse": 6,
+          "text": "Con misericordia y verdad se corrige el pecado: y con el temor de Jehová se apartan del mal los hombres. "
+        },
+        {
+          "name": "Proverbs 16:7",
+          "verse": 7,
+          "text": "Cuando los caminos del hombre son agradables á Jehová, aun á sus enemigos pacificará con él. "
+        },
+        {
+          "name": "Proverbs 16:8",
+          "verse": 8,
+          "text": "Mejor es lo poco con justicia, que la muchedumbre de frutos sin derecho. "
+        },
+        {
+          "name": "Proverbs 16:9",
+          "verse": 9,
+          "text": "El corazón del hombre piensa su camino: mas Jehová endereza sus pasos. "
+        },
+        {
+          "name": "Proverbs 16:10",
+          "verse": 10,
+          "text": "Adivinación está en los labios del rey: en juicio no prevaricará su boca. "
+        },
+        {
+          "name": "Proverbs 16:11",
+          "verse": 11,
+          "text": "Peso y balanzas justas son de Jehová: obra suya son todas las pesas de la bolsa. "
+        },
+        {
+          "name": "Proverbs 16:12",
+          "verse": 12,
+          "text": "Abominación es á los reyes hacer impiedad: porque con justicia será afirmado el trono. "
+        },
+        {
+          "name": "Proverbs 16:13",
+          "verse": 13,
+          "text": "Los labios justos son el contentamiento de los reyes; y aman al que habla lo recto. "
+        },
+        {
+          "name": "Proverbs 16:14",
+          "verse": 14,
+          "text": "La ira del rey es mensajero de muerte: mas el hombre sabio la evitará. "
+        },
+        {
+          "name": "Proverbs 16:15",
+          "verse": 15,
+          "text": "En la alegría del rostro del rey está la vida; y su benevolencia es como nube de lluvia tardía. "
+        },
+        {
+          "name": "Proverbs 16:16",
+          "verse": 16,
+          "text": "Mejor es adquirir sabiduría que oro preciado; y adquirir inteligencia vale más que la plata. "
+        },
+        {
+          "name": "Proverbs 16:17",
+          "verse": 17,
+          "text": "El camino de los rectos es apartarse del mal: su alma guarda el que guarda su camino. "
+        },
+        {
+          "name": "Proverbs 16:18",
+          "verse": 18,
+          "text": "Antes del quebrantamiento es la soberbia; y antes de la caída la altivez de espíritu. "
+        },
+        {
+          "name": "Proverbs 16:19",
+          "verse": 19,
+          "text": "Mejor es humillar el espíritu con los humildes, que partir despojos con los soberbios. "
+        },
+        {
+          "name": "Proverbs 16:20",
+          "verse": 20,
+          "text": "El entendido en la palabra, hallará el bien: y el que confía en Jehová, él es bienaventurado. "
+        },
+        {
+          "name": "Proverbs 16:21",
+          "verse": 21,
+          "text": "El sabio de corazón es llamado entendido: y la dulzura de labios aumentará la doctrina. "
+        },
+        {
+          "name": "Proverbs 16:22",
+          "verse": 22,
+          "text": "Manantial de vida es el entendimiento al que lo posee: mas la erudición de los necios es necedad. "
+        },
+        {
+          "name": "Proverbs 16:23",
+          "verse": 23,
+          "text": "El corazón del sabio hace prudente su boca; y con sus labios aumenta la doctrina. "
+        },
+        {
+          "name": "Proverbs 16:24",
+          "verse": 24,
+          "text": "Panal de miel son los dichos suaves: suavidad al alma y medicina á los huesos. "
+        },
+        {
+          "name": "Proverbs 16:25",
+          "verse": 25,
+          "text": "Hay camino que parece derecho al hombre, mas su salida son caminos de muerte. "
+        },
+        {
+          "name": "Proverbs 16:26",
+          "verse": 26,
+          "text": "El alma del que trabaja, trabaja para sí; porque su boca le constriñe. "
+        },
+        {
+          "name": "Proverbs 16:27",
+          "verse": 27,
+          "text": "El hombre perverso cava el mal; y en sus labios hay como llama de fuego. "
+        },
+        {
+          "name": "Proverbs 16:28",
+          "verse": 28,
+          "text": "El hombre perverso levanta contienda; y el chismoso aparta los mejores amigos. "
+        },
+        {
+          "name": "Proverbs 16:29",
+          "verse": 29,
+          "text": "El hombre malo lisonjea á su prójimo, y le hace andar por el camino no bueno: "
+        },
+        {
+          "name": "Proverbs 16:30",
+          "verse": 30,
+          "text": "Cierra sus ojos para pensar perversidades; mueve sus labios, efectúa el mal. "
+        },
+        {
+          "name": "Proverbs 16:31",
+          "verse": 31,
+          "text": "Corona de honra es la vejez, que se hallará en el camino de justicia. "
+        },
+        {
+          "name": "Proverbs 16:32",
+          "verse": 32,
+          "text": "Mejor es el que tarde se aira que el fuerte; y el que se enseñorea de su espíritu, que el que toma una ciudad. "
+        },
+        {
+          "name": "Proverbs 16:33",
+          "verse": 33,
+          "text": "La suerte se echa en el seno: mas de Jehová es el juicio de ella.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 17",
+      "chapter": 17,
+      "verses": [
+        {
+          "name": "Proverbs 17:1",
+          "verse": 1,
+          "text": "MEJOR es un bocado seco, y en paz, que la casa de contienda llena de víctimas. "
+        },
+        {
+          "name": "Proverbs 17:2",
+          "verse": 2,
+          "text": "El siervo prudente se enseñoreará del hijo que deshonra, y entre los hermanos partirá la herencia. "
+        },
+        {
+          "name": "Proverbs 17:3",
+          "verse": 3,
+          "text": "El crisol para la plata, y la hornaza para el oro: mas Jehová prueba los corazones. "
+        },
+        {
+          "name": "Proverbs 17:4",
+          "verse": 4,
+          "text": "El malo está atento al labio inicuo; y el mentiroso escucha á la lengua detractora. "
+        },
+        {
+          "name": "Proverbs 17:5",
+          "verse": 5,
+          "text": "El que escarnece al pobre, afrenta á su Hacedor: y el que se alegra en la calamidad, no quedará sin castigo. "
+        },
+        {
+          "name": "Proverbs 17:6",
+          "verse": 6,
+          "text": "Corona de los viejos son los hijos de los hijos; y la honra de los hijos, sus padres. "
+        },
+        {
+          "name": "Proverbs 17:7",
+          "verse": 7,
+          "text": "No conviene al necio la altilocuencia: ¡cuánto menos al príncipe el labio mentiroso! "
+        },
+        {
+          "name": "Proverbs 17:8",
+          "verse": 8,
+          "text": "Piedra preciosa es el cohecho en ojos de sus dueños: á donde quiera que se vuelve, da prosperidad. "
+        },
+        {
+          "name": "Proverbs 17:9",
+          "verse": 9,
+          "text": "El que cubre la prevaricación, busca amistad: mas el que reitera la palabra, aparta al amigo. "
+        },
+        {
+          "name": "Proverbs 17:10",
+          "verse": 10,
+          "text": "Aprovecha la reprensión en el entendido, más que si cien veces hiriese en el necio. "
+        },
+        {
+          "name": "Proverbs 17:11",
+          "verse": 11,
+          "text": "El rebelde no busca sino mal; y mensajero cruel será contra él enviado. "
+        },
+        {
+          "name": "Proverbs 17:12",
+          "verse": 12,
+          "text": "Mejor es se encuentre un hombre con una osa á la cual han robado sus cachorros, que con un fatuo en su necedad. "
+        },
+        {
+          "name": "Proverbs 17:13",
+          "verse": 13,
+          "text": "El que da mal por bien, no se apartará el mal de su casa. "
+        },
+        {
+          "name": "Proverbs 17:14",
+          "verse": 14,
+          "text": "El que comienza la pendencia es como quien suelta las aguas: deja pues la porfía, antes que se enmarañe. "
+        },
+        {
+          "name": "Proverbs 17:15",
+          "verse": 15,
+          "text": "El que justifica al impío, y el que condena al justo, ambos á dos son abominación á Jehová. "
+        },
+        {
+          "name": "Proverbs 17:16",
+          "verse": 16,
+          "text": "¿De qué sirve el precio en la mano del necio para comprar sabiduría, no teniendo entendimiento? "
+        },
+        {
+          "name": "Proverbs 17:17",
+          "verse": 17,
+          "text": "En todo tiempo ama el amigo; y el hermano para la angustia es nacido. "
+        },
+        {
+          "name": "Proverbs 17:18",
+          "verse": 18,
+          "text": "El hombre falto de entendimiento toca la mano, fiando á otro delante de su amigo. "
+        },
+        {
+          "name": "Proverbs 17:19",
+          "verse": 19,
+          "text": "La prevaricación ama el que ama pleito; y el que alza su portada, quebrantamiento busca. "
+        },
+        {
+          "name": "Proverbs 17:20",
+          "verse": 20,
+          "text": "El perverso de corazón nunca hallará bien: y el que revuelve con su lengua, caerá en mal. "
+        },
+        {
+          "name": "Proverbs 17:21",
+          "verse": 21,
+          "text": "El que engendra al necio, para su tristeza lo engendra: y el padre del fatuo no se alegrará. "
+        },
+        {
+          "name": "Proverbs 17:22",
+          "verse": 22,
+          "text": "El corazón alegre produce buena disposición: mas el espíritu triste seca los huesos. "
+        },
+        {
+          "name": "Proverbs 17:23",
+          "verse": 23,
+          "text": "El impío toma dádiva del seno, para pervertir las sendas del derecho. "
+        },
+        {
+          "name": "Proverbs 17:24",
+          "verse": 24,
+          "text": "En el rostro del entendido aparece la sabiduría: mas los ojos del necio vagan hasta el cabo de la tierra. "
+        },
+        {
+          "name": "Proverbs 17:25",
+          "verse": 25,
+          "text": "El hijo necio es enojo á su padre, y amargura á la que lo engendró. "
+        },
+        {
+          "name": "Proverbs 17:26",
+          "verse": 26,
+          "text": "Ciertamente no es bueno condenar al justo, ni herir á los príncipes que hacen lo recto. "
+        },
+        {
+          "name": "Proverbs 17:27",
+          "verse": 27,
+          "text": "Detiene sus dichos el que tiene sabiduría: de prudente espíritu es el hombre entendido. "
+        },
+        {
+          "name": "Proverbs 17:28",
+          "verse": 28,
+          "text": "Aun el necio cuando calla, es contado por sabio: el que cierra sus labios es entendido.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 18",
+      "chapter": 18,
+      "verses": [
+        {
+          "name": "Proverbs 18:1",
+          "verse": 1,
+          "text": "SEGÚN su antojo busca el que se desvía, y se entremete en todo negocio. "
+        },
+        {
+          "name": "Proverbs 18:2",
+          "verse": 2,
+          "text": "No toma placer el necio en la inteligencia, sino en lo que su corazón se descubre. "
+        },
+        {
+          "name": "Proverbs 18:3",
+          "verse": 3,
+          "text": "Cuando viene el impío, viene también el menosprecio, y con el deshonrador la afrenta. "
+        },
+        {
+          "name": "Proverbs 18:4",
+          "verse": 4,
+          "text": "Aguas profundas son las palabras de la boca del hombre; y arroyo revertiente, la fuente de la sabiduría. "
+        },
+        {
+          "name": "Proverbs 18:5",
+          "verse": 5,
+          "text": "Tener respeto á la persona del impío, para hacer caer al justo de su derecho, no es bueno. "
+        },
+        {
+          "name": "Proverbs 18:6",
+          "verse": 6,
+          "text": "Los labios del necio vienen con pleito; y su boca á cuestiones llama. "
+        },
+        {
+          "name": "Proverbs 18:7",
+          "verse": 7,
+          "text": "La boca del necio es quebrantamiento para sí, y sus labios son lazos para su alma. "
+        },
+        {
+          "name": "Proverbs 18:8",
+          "verse": 8,
+          "text": "Las palabras del chismoso parecen blandas, y descienden hasta lo íntimo del vientre. "
+        },
+        {
+          "name": "Proverbs 18:9",
+          "verse": 9,
+          "text": "También el que es negligente en su obra es hermano del hombre disipador. "
+        },
+        {
+          "name": "Proverbs 18:10",
+          "verse": 10,
+          "text": "Torre fuerte es el nombre de Jehová: á él correrá el justo, y será levantado. "
+        },
+        {
+          "name": "Proverbs 18:11",
+          "verse": 11,
+          "text": "Las riquezas del rico son la ciudad de su fortaleza, y como un muro alto en su imaginación. "
+        },
+        {
+          "name": "Proverbs 18:12",
+          "verse": 12,
+          "text": "Antes del quebrantamiento se eleva el corazón del hombre, y antes de la honra es el abatimiento. "
+        },
+        {
+          "name": "Proverbs 18:13",
+          "verse": 13,
+          "text": "El que responde palabra antes de oir, le es fatuidad y oprobio. "
+        },
+        {
+          "name": "Proverbs 18:14",
+          "verse": 14,
+          "text": "El ánimo del hombre soportará su enfermedad: mas ¿quién soportará al ánimo angustiado? "
+        },
+        {
+          "name": "Proverbs 18:15",
+          "verse": 15,
+          "text": "El corazón del entendido adquiere sabiduría; y el oído de los sabios busca la ciencia. "
+        },
+        {
+          "name": "Proverbs 18:16",
+          "verse": 16,
+          "text": "El presente del hombre le ensancha el camino, y le lleva delante de los grandes. "
+        },
+        {
+          "name": "Proverbs 18:17",
+          "verse": 17,
+          "text": "El primero en su propia causa parece justo; y su adversario viene, y le sondea. "
+        },
+        {
+          "name": "Proverbs 18:18",
+          "verse": 18,
+          "text": "La suerte pone fin á los pleitos, y desparte los fuertes. "
+        },
+        {
+          "name": "Proverbs 18:19",
+          "verse": 19,
+          "text": "El hermano ofendido es más tenaz que una ciudad fuerte: y las contiendas de los hermanos son como cerrojos de alcázar. "
+        },
+        {
+          "name": "Proverbs 18:20",
+          "verse": 20,
+          "text": "Del fruto de la boca del hombre se hartará su vientre; hartaráse del producto de sus labios. "
+        },
+        {
+          "name": "Proverbs 18:21",
+          "verse": 21,
+          "text": "La muerte y la vida están en poder de la lengua; y el que la ama comerá de sus frutos. "
+        },
+        {
+          "name": "Proverbs 18:22",
+          "verse": 22,
+          "text": "El que halló esposa halló el bien, y alcanzó la benevolencia de Jehová. "
+        },
+        {
+          "name": "Proverbs 18:23",
+          "verse": 23,
+          "text": "El pobre habla con ruegos; mas el rico responde durezas. "
+        },
+        {
+          "name": "Proverbs 18:24",
+          "verse": 24,
+          "text": "El hombre que tiene amigos, ha de mostrarse amigo: y amigo hay más conjunto que el hermano.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 19",
+      "chapter": 19,
+      "verses": [
+        {
+          "name": "Proverbs 19:1",
+          "verse": 1,
+          "text": "MEJOR es el pobre que camina en su sencillez, que el de perversos labios y fatuo. "
+        },
+        {
+          "name": "Proverbs 19:2",
+          "verse": 2,
+          "text": "El alma sin ciencia no es buena; y el presuroso de pies peca. "
+        },
+        {
+          "name": "Proverbs 19:3",
+          "verse": 3,
+          "text": "La insensatez del hombre tuerce su camino; y contra Jehová se aira su corazón. "
+        },
+        {
+          "name": "Proverbs 19:4",
+          "verse": 4,
+          "text": "Las riquezas allegan muchos amigos: mas el pobre, de su amigo es apartado. "
+        },
+        {
+          "name": "Proverbs 19:5",
+          "verse": 5,
+          "text": "El testigo falso no quedará sin castigo; y el que habla mentiras no escapará. "
+        },
+        {
+          "name": "Proverbs 19:6",
+          "verse": 6,
+          "text": "Muchos rogarán al príncipe: mas cada uno es amigo del hombre que da. "
+        },
+        {
+          "name": "Proverbs 19:7",
+          "verse": 7,
+          "text": "Todos los hermanos del pobre le aborrecen: ¡cuánto más sus amigos se alejarán de él! buscará la palabra y no la hallará. "
+        },
+        {
+          "name": "Proverbs 19:8",
+          "verse": 8,
+          "text": "El que posee entendimiento, ama su alma: el que guarda la inteligencia, hallará el bien. "
+        },
+        {
+          "name": "Proverbs 19:9",
+          "verse": 9,
+          "text": "El testigo falso no quedará sin castigo; y el que habla mentiras, perecerá. "
+        },
+        {
+          "name": "Proverbs 19:10",
+          "verse": 10,
+          "text": "No conviene al necio el deleite: ¡cuánto menos al siervo ser señor de los príncipes! "
+        },
+        {
+          "name": "Proverbs 19:11",
+          "verse": 11,
+          "text": "La cordura del hombre detiene su furor; y su honra es disimular la ofensa. "
+        },
+        {
+          "name": "Proverbs 19:12",
+          "verse": 12,
+          "text": "Como el bramido del cachorro de león es la ira del rey; y su favor como el rocío sobre la hierba. "
+        },
+        {
+          "name": "Proverbs 19:13",
+          "verse": 13,
+          "text": "Dolor es para su padre el hijo necio; y gotera continua las contiendas de la mujer. "
+        },
+        {
+          "name": "Proverbs 19:14",
+          "verse": 14,
+          "text": "La casa y las riquezas herencia son de los padres: mas de Jehová la mujer prudente. "
+        },
+        {
+          "name": "Proverbs 19:15",
+          "verse": 15,
+          "text": "La pereza hace caer en sueño; y el alma negligente hambreará. "
+        },
+        {
+          "name": "Proverbs 19:16",
+          "verse": 16,
+          "text": "El que guarda el mandamiento, guarda su alma: mas el que menospreciare sus caminos, morirá. "
+        },
+        {
+          "name": "Proverbs 19:17",
+          "verse": 17,
+          "text": "A Jehová empresta el que da al pobre, y él le dará su paga. "
+        },
+        {
+          "name": "Proverbs 19:18",
+          "verse": 18,
+          "text": "Castiga á tu hijo en tanto que hay esperanza; mas no se excite tu alma para destruirlo. "
+        },
+        {
+          "name": "Proverbs 19:19",
+          "verse": 19,
+          "text": "El de grande ira llevará la pena: y si usa de violencias, añadirá nuevos males. "
+        },
+        {
+          "name": "Proverbs 19:20",
+          "verse": 20,
+          "text": "Escucha el consejo, y recibe la corrección, para que seas sabio en tu vejez. "
+        },
+        {
+          "name": "Proverbs 19:21",
+          "verse": 21,
+          "text": "Muchos pensamientos hay en el corazón del hombre; mas el consejo de Jehová permanecerá. "
+        },
+        {
+          "name": "Proverbs 19:22",
+          "verse": 22,
+          "text": "Contentamiento es á los hombres hacer misericordia: pero mejor es el pobre que el mentiroso. "
+        },
+        {
+          "name": "Proverbs 19:23",
+          "verse": 23,
+          "text": "El temor de Jehová es para vida; y con él vivirá el hombre, lleno de reposo; no será visitado de mal. "
+        },
+        {
+          "name": "Proverbs 19:24",
+          "verse": 24,
+          "text": "El perezoso esconde su mano en el seno: aun á su boca no la llevará. "
+        },
+        {
+          "name": "Proverbs 19:25",
+          "verse": 25,
+          "text": "Hiere al escarnecedor, y el simple se hará avisado; y corrigiendo al entendido, entenderá ciencia. "
+        },
+        {
+          "name": "Proverbs 19:26",
+          "verse": 26,
+          "text": "El que roba á su padre y ahuyenta á su madre, hijo es avergonzador y deshonrador. "
+        },
+        {
+          "name": "Proverbs 19:27",
+          "verse": 27,
+          "text": "Cesa, hijo mío, de oir la enseñanza que induce á divagar de las razones de sabiduría. "
+        },
+        {
+          "name": "Proverbs 19:28",
+          "verse": 28,
+          "text": "El testigo perverso se burlará del juicio; y la boca de los impíos encubrirá la iniquidad. "
+        },
+        {
+          "name": "Proverbs 19:29",
+          "verse": 29,
+          "text": "Aparejados están juicios para los escarnecedores, y azotes para los cuerpos de los insensatos.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 20",
+      "chapter": 20,
+      "verses": [
+        {
+          "name": "Proverbs 20:1",
+          "verse": 1,
+          "text": "EL vino es escarnecedor, la cerveza alborotadora; y cualquiera que por ello errare, no será sabio. "
+        },
+        {
+          "name": "Proverbs 20:2",
+          "verse": 2,
+          "text": "Como bramido de cachorro de león es el terror del rey: el que lo hace enfurecerse, peca contra su alma. "
+        },
+        {
+          "name": "Proverbs 20:3",
+          "verse": 3,
+          "text": "Honra es del hombre dejarse de contienda: mas todo insensato se envolverá en ella. "
+        },
+        {
+          "name": "Proverbs 20:4",
+          "verse": 4,
+          "text": "El perezoso no ara á causa del invierno; pedirá pues en la siega, y no hallará. "
+        },
+        {
+          "name": "Proverbs 20:5",
+          "verse": 5,
+          "text": "Como aguas profundas es el consejo en el corazón del hombre: mas el hombre entendido lo alcanzará. "
+        },
+        {
+          "name": "Proverbs 20:6",
+          "verse": 6,
+          "text": "Muchos hombres publican cada uno su liberalidad: mas hombre de verdad, ¿quién lo hallará? "
+        },
+        {
+          "name": "Proverbs 20:7",
+          "verse": 7,
+          "text": "El justo que camina en su integridad, bienaventurados serán sus hijos después de él. "
+        },
+        {
+          "name": "Proverbs 20:8",
+          "verse": 8,
+          "text": "El rey que se sienta en el trono de juicio, con su mirar disipa todo mal. "
+        },
+        {
+          "name": "Proverbs 20:9",
+          "verse": 9,
+          "text": "¿Quién podrá decir: Yo he limpiado mi corazón, limpio estoy de mi pecado? "
+        },
+        {
+          "name": "Proverbs 20:10",
+          "verse": 10,
+          "text": "Doble pesa y doble medida, abominación son á Jehová ambas cosas. "
+        },
+        {
+          "name": "Proverbs 20:11",
+          "verse": 11,
+          "text": "Aun el muchacho es conocido por sus hechos, si su obra fuere limpia y recta. "
+        },
+        {
+          "name": "Proverbs 20:12",
+          "verse": 12,
+          "text": "El oído que oye, y el ojo que ve, ambas cosas ha igualmente hecho Jehová. "
+        },
+        {
+          "name": "Proverbs 20:13",
+          "verse": 13,
+          "text": "No ames el sueño, porque no te empobrezcas; abre tus ojos, y te hartarás de pan. "
+        },
+        {
+          "name": "Proverbs 20:14",
+          "verse": 14,
+          "text": "El que compra dice: malo es, malo es: mas en apartándose, se alaba. "
+        },
+        {
+          "name": "Proverbs 20:15",
+          "verse": 15,
+          "text": "Hay oro y multitud de piedras preciosas: mas los labios sabios son vaso precioso. "
+        },
+        {
+          "name": "Proverbs 20:16",
+          "verse": 16,
+          "text": "Quítale su ropa al que salió por fiador del extraño; y tómale prenda al que fía la extraña. "
+        },
+        {
+          "name": "Proverbs 20:17",
+          "verse": 17,
+          "text": "Sabroso es al hombre el pan de mentira; mas después su boca será llena de cascajo. "
+        },
+        {
+          "name": "Proverbs 20:18",
+          "verse": 18,
+          "text": "Los pensamientos con el consejo se ordenan: y con industria se hace la guerra. "
+        },
+        {
+          "name": "Proverbs 20:19",
+          "verse": 19,
+          "text": "El que descubre el secreto, en chismes anda: no te entrometas, pues, con el que lisonjea con sus labios. "
+        },
+        {
+          "name": "Proverbs 20:20",
+          "verse": 20,
+          "text": "El que maldice á su padre ó á su madre, su lámpara será apagada en oscuridad tenebrosa. "
+        },
+        {
+          "name": "Proverbs 20:21",
+          "verse": 21,
+          "text": "La herencia adquirida de priesa al principio, aun su postrimería no será bendita. "
+        },
+        {
+          "name": "Proverbs 20:22",
+          "verse": 22,
+          "text": "No digas, yo me vengaré; espera á Jehová, y él te salvará. "
+        },
+        {
+          "name": "Proverbs 20:23",
+          "verse": 23,
+          "text": "Abominación son á Jehová las pesas dobles; y el peso falso no es bueno. "
+        },
+        {
+          "name": "Proverbs 20:24",
+          "verse": 24,
+          "text": "De Jehová son los pasos del hombre: ¿cómo pues entenderá el hombre su camino? "
+        },
+        {
+          "name": "Proverbs 20:25",
+          "verse": 25,
+          "text": "Lazo es al hombre el devorar lo santo, y andar pesquisando después de los votos. "
+        },
+        {
+          "name": "Proverbs 20:26",
+          "verse": 26,
+          "text": "El rey sabio esparce los impíos, y sobre ellos hace tornar la rueda. "
+        },
+        {
+          "name": "Proverbs 20:27",
+          "verse": 27,
+          "text": "Candela de Jehová es el alma del hombre, que escudriña lo secreto del vientre. "
+        },
+        {
+          "name": "Proverbs 20:28",
+          "verse": 28,
+          "text": "Misericordia y verdad guardan al rey; y con clemencia sustenta su trono. "
+        },
+        {
+          "name": "Proverbs 20:29",
+          "verse": 29,
+          "text": "La gloria de los jóvenes es su fortaleza, y la hermosura de los viejos la vejez. "
+        },
+        {
+          "name": "Proverbs 20:30",
+          "verse": 30,
+          "text": "Las señales de las heridas son medicina para lo malo: y las llagas llegan á lo más secreto del vientre.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 21",
+      "chapter": 21,
+      "verses": [
+        {
+          "name": "Proverbs 21:1",
+          "verse": 1,
+          "text": "COMO los repartimientos de las aguas, así está el corazón del rey en la mano de Jehová: á todo lo que quiere lo inclina. "
+        },
+        {
+          "name": "Proverbs 21:2",
+          "verse": 2,
+          "text": "Todo camino del hombre es recto en su opinión: mas Jehová pesa los corazones. "
+        },
+        {
+          "name": "Proverbs 21:3",
+          "verse": 3,
+          "text": "Hacer justicia y juicio es á Jehová más agradable que sacrificio. "
+        },
+        {
+          "name": "Proverbs 21:4",
+          "verse": 4,
+          "text": "Altivez de ojos, y orgullo de corazón, y el brillo de los impíos, son pecado. "
+        },
+        {
+          "name": "Proverbs 21:5",
+          "verse": 5,
+          "text": "Los pensamientos del solícito ciertamente van á abundancia; mas todo presuroso, indefectiblemente á pobreza. "
+        },
+        {
+          "name": "Proverbs 21:6",
+          "verse": 6,
+          "text": "Allegar tesoros con lengua de mentira, es vanidad desatentada de aquellos que buscan la muerte. "
+        },
+        {
+          "name": "Proverbs 21:7",
+          "verse": 7,
+          "text": "La rapiña de los impíos los destruirá; por cuanto no quisieron hacer juicio. "
+        },
+        {
+          "name": "Proverbs 21:8",
+          "verse": 8,
+          "text": "El camino del hombre perverso es torcido y extraño: mas la obra del limpio es recta. "
+        },
+        {
+          "name": "Proverbs 21:9",
+          "verse": 9,
+          "text": "Mejor es vivir en un rincón de zaquizamí, que con la mujer rencillosa en espaciosa casa. "
+        },
+        {
+          "name": "Proverbs 21:10",
+          "verse": 10,
+          "text": "El alma del impío desea mal: su prójimo no le parece bien. "
+        },
+        {
+          "name": "Proverbs 21:11",
+          "verse": 11,
+          "text": "Cuando el escarnecedor es castigado, el simple se hace sabio; y cuando se amonestare al sabio, aprenderá ciencia. "
+        },
+        {
+          "name": "Proverbs 21:12",
+          "verse": 12,
+          "text": "Considera el justo la casa del impío: cómo los impíos son trastornados por el mal. "
+        },
+        {
+          "name": "Proverbs 21:13",
+          "verse": 13,
+          "text": "El que cierra su oído al clamor del pobre, también él clamará, y no será oído. "
+        },
+        {
+          "name": "Proverbs 21:14",
+          "verse": 14,
+          "text": "El presente en secreto amansa el furor, y el don en el seno, la fuerte ira. "
+        },
+        {
+          "name": "Proverbs 21:15",
+          "verse": 15,
+          "text": "Alegría es al justo hacer juicio; mas quebrantamiento á los que hacen iniquidad. "
+        },
+        {
+          "name": "Proverbs 21:16",
+          "verse": 16,
+          "text": "El hombre que se extravía del camino de la sabiduría, vendrá á parar en la compañía de los muertos. "
+        },
+        {
+          "name": "Proverbs 21:17",
+          "verse": 17,
+          "text": "Hombre necesitado será el que ama el deleite: y el que ama el vino y ungüentos no enriquecerá. "
+        },
+        {
+          "name": "Proverbs 21:18",
+          "verse": 18,
+          "text": "El rescate del justo es el impío, y por los rectos el prevaricador. "
+        },
+        {
+          "name": "Proverbs 21:19",
+          "verse": 19,
+          "text": "Mejor es morar en tierra del desierto, que con la mujer rencillosa é iracunda. "
+        },
+        {
+          "name": "Proverbs 21:20",
+          "verse": 20,
+          "text": "Tesoro codiciable y pingüe hay en la casa del sabio; mas el hombre insensato lo disipará. "
+        },
+        {
+          "name": "Proverbs 21:21",
+          "verse": 21,
+          "text": "El que sigue la justicia y la misericordia, hallará la vida, la justicia, y la honra. "
+        },
+        {
+          "name": "Proverbs 21:22",
+          "verse": 22,
+          "text": "La ciudad de los fuertes tomó el sabio, y derribó la fuerza en que ella confiaba. "
+        },
+        {
+          "name": "Proverbs 21:23",
+          "verse": 23,
+          "text": "El que guarda su boca y su lengua, su alma guarda de angustias. "
+        },
+        {
+          "name": "Proverbs 21:24",
+          "verse": 24,
+          "text": "Soberbio y presuntuoso escarnecedor es el nombre del que obra con orgullosa saña. "
+        },
+        {
+          "name": "Proverbs 21:25",
+          "verse": 25,
+          "text": "El deseo del perezoso le mata, porque sus manos no quieren trabajar. "
+        },
+        {
+          "name": "Proverbs 21:26",
+          "verse": 26,
+          "text": "Hay quien todo el día codicia: mas el justo da, y no desperdicia. "
+        },
+        {
+          "name": "Proverbs 21:27",
+          "verse": 27,
+          "text": "El sacrificio de los impíos es abominación: ¡cuánto más ofreciéndolo con maldad! "
+        },
+        {
+          "name": "Proverbs 21:28",
+          "verse": 28,
+          "text": "El testigo mentiroso perecerá: mas el hombre que oye, permanecerá en su dicho. "
+        },
+        {
+          "name": "Proverbs 21:29",
+          "verse": 29,
+          "text": "El hombre impío afirma su rostro: mas el recto ordena sus caminos. "
+        },
+        {
+          "name": "Proverbs 21:30",
+          "verse": 30,
+          "text": "No hay sabiduría, ni inteligencia, ni consejo, contra Jehová. "
+        },
+        {
+          "name": "Proverbs 21:31",
+          "verse": 31,
+          "text": "El caballo se apareja para el día de la batalla: mas de Jehová es el salvar.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 22",
+      "chapter": 22,
+      "verses": [
+        {
+          "name": "Proverbs 22:1",
+          "verse": 1,
+          "text": "DE más estima es la buena fama que las muchas riquezas; y la buena gracia más que la plata y el oro. "
+        },
+        {
+          "name": "Proverbs 22:2",
+          "verse": 2,
+          "text": "El rico y el pobre se encontraron: á todos ellos hizo Jehová. "
+        },
+        {
+          "name": "Proverbs 22:3",
+          "verse": 3,
+          "text": "El avisado ve el mal, y escóndese: mas los simples pasan, y reciben el daño. "
+        },
+        {
+          "name": "Proverbs 22:4",
+          "verse": 4,
+          "text": "Riquezas, y honra, y vida, son la remuneración de la humildad y del temor de Jehová. "
+        },
+        {
+          "name": "Proverbs 22:5",
+          "verse": 5,
+          "text": "Espinas y lazos hay en el camino del perverso: el que guarda su alma se alejará de ellos. "
+        },
+        {
+          "name": "Proverbs 22:6",
+          "verse": 6,
+          "text": "Instruye al niño en su carrera: aun cuando fuere viejo no se apartará de ella. "
+        },
+        {
+          "name": "Proverbs 22:7",
+          "verse": 7,
+          "text": "El rico se enseñoreará de los pobres; y el que toma prestado, siervo es del que empresta. "
+        },
+        {
+          "name": "Proverbs 22:8",
+          "verse": 8,
+          "text": "El que sembrare iniquidad, iniquidad segará: y consumiráse la vara de su ira. "
+        },
+        {
+          "name": "Proverbs 22:9",
+          "verse": 9,
+          "text": "El ojo misericordioso será bendito, porque dió de su pan al indigente. "
+        },
+        {
+          "name": "Proverbs 22:10",
+          "verse": 10,
+          "text": "Echa fuera al escarnecedor, y saldrá la contienda, y cesará el pleito y la afrenta. "
+        },
+        {
+          "name": "Proverbs 22:11",
+          "verse": 11,
+          "text": "El que ama la limpieza de corazón, por la gracia de sus labios su amigo será el rey. "
+        },
+        {
+          "name": "Proverbs 22:12",
+          "verse": 12,
+          "text": "Los ojos de Jehová miran por la ciencia; mas él trastorna las cosas de los prevaricadores. "
+        },
+        {
+          "name": "Proverbs 22:13",
+          "verse": 13,
+          "text": "Dice el perezoso: El león está fuera; en mitad de las calles seré muerto. "
+        },
+        {
+          "name": "Proverbs 22:14",
+          "verse": 14,
+          "text": "Sima profunda es la boca de las extrañas: aquel contra el cual estuviere Jehová airado, caerá en ella. "
+        },
+        {
+          "name": "Proverbs 22:15",
+          "verse": 15,
+          "text": "La necedad está ligada en el corazón del muchacho; mas la vara de la corrección la hará alejar de él. "
+        },
+        {
+          "name": "Proverbs 22:16",
+          "verse": 16,
+          "text": "El que oprime al pobre para aumentarse él, y que da al rico, ciertamente será pobre. "
+        },
+        {
+          "name": "Proverbs 22:17",
+          "verse": 17,
+          "text": "Inclina tu oído, y oye las palabras de los sabios, y pon tu corazón á mi sabiduría: "
+        },
+        {
+          "name": "Proverbs 22:18",
+          "verse": 18,
+          "text": "Porque es cosa deleitable, si las guardares en tus entrañas; y que juntamente sean ordenadas en tus labios. "
+        },
+        {
+          "name": "Proverbs 22:19",
+          "verse": 19,
+          "text": "Para que tu confianza sea en Jehová, te las he hecho saber hoy á ti también. "
+        },
+        {
+          "name": "Proverbs 22:20",
+          "verse": 20,
+          "text": "¿No te he escrito tres veces en consejos y ciencia, "
+        },
+        {
+          "name": "Proverbs 22:21",
+          "verse": 21,
+          "text": "Para hacerte saber la certidumbre de las razones verdaderas, para que puedas responder razones de verdad á los que á ti enviaren? "
+        },
+        {
+          "name": "Proverbs 22:22",
+          "verse": 22,
+          "text": "No robes al pobre, porque es pobre, ni quebrantes en la puerta al afligido: "
+        },
+        {
+          "name": "Proverbs 22:23",
+          "verse": 23,
+          "text": "Porque Jehová juzgará la causa de ellos, y despojará el alma de aquellos que los despojaren. "
+        },
+        {
+          "name": "Proverbs 22:24",
+          "verse": 24,
+          "text": "No te entrometas con el iracundo, ni te acompañes con el hombre de enojos; "
+        },
+        {
+          "name": "Proverbs 22:25",
+          "verse": 25,
+          "text": "Porque no aprendas sus maneras, y tomes lazo para tu alma. "
+        },
+        {
+          "name": "Proverbs 22:26",
+          "verse": 26,
+          "text": "No estés entre los que tocan la mano, entre los que fían por deudas. "
+        },
+        {
+          "name": "Proverbs 22:27",
+          "verse": 27,
+          "text": "Si no tuvieres para pagar, ¿por qué han de quitar tu cama de debajo de ti? "
+        },
+        {
+          "name": "Proverbs 22:28",
+          "verse": 28,
+          "text": "No traspases el término antiguo que pusieron tus padres. "
+        },
+        {
+          "name": "Proverbs 22:29",
+          "verse": 29,
+          "text": "¿Has visto hombre solícito en su obra? delante de los reyes estará; no estará delante de los de baja suerte.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 23",
+      "chapter": 23,
+      "verses": [
+        {
+          "name": "Proverbs 23:1",
+          "verse": 1,
+          "text": "CUANDO te sentares á comer con algún señor, considera bien lo que estuviere delante de ti; "
+        },
+        {
+          "name": "Proverbs 23:2",
+          "verse": 2,
+          "text": "Y pon cuchillo á tu garganta, si tienes gran apetito. "
+        },
+        {
+          "name": "Proverbs 23:3",
+          "verse": 3,
+          "text": "No codicies sus manjares delicados, porque es pan engañoso. "
+        },
+        {
+          "name": "Proverbs 23:4",
+          "verse": 4,
+          "text": "No trabajes por ser rico; pon coto á tu prudencia. "
+        },
+        {
+          "name": "Proverbs 23:5",
+          "verse": 5,
+          "text": "¿Has de poner tus ojos en las riquezas, siendo ningunas? porque hacerse han alas, como alas de águila, y volarán al cielo. "
+        },
+        {
+          "name": "Proverbs 23:6",
+          "verse": 6,
+          "text": "No comas pan de hombre de mal ojo, ni codicies sus manjares: "
+        },
+        {
+          "name": "Proverbs 23:7",
+          "verse": 7,
+          "text": "Porque cual es su pensamiento en su alma, tal es él. Come y bebe, te dirá; mas su corazón no está contigo. "
+        },
+        {
+          "name": "Proverbs 23:8",
+          "verse": 8,
+          "text": "Vomitarás la parte que tú comiste, y perderás tus suaves palabras. "
+        },
+        {
+          "name": "Proverbs 23:9",
+          "verse": 9,
+          "text": "No hables á oídos del necio; porque menospreciará la prudencia de tus razones. "
+        },
+        {
+          "name": "Proverbs 23:10",
+          "verse": 10,
+          "text": "No traspases el término antiguo, ni entres en la heredad de los huérfanos: "
+        },
+        {
+          "name": "Proverbs 23:11",
+          "verse": 11,
+          "text": "Porque el defensor de ellos es el Fuerte, el cual juzgará la causa de ellos contra ti. "
+        },
+        {
+          "name": "Proverbs 23:12",
+          "verse": 12,
+          "text": "Aplica tu corazón á la enseñanza, y tus oídos á las palabras de sabiduría. "
+        },
+        {
+          "name": "Proverbs 23:13",
+          "verse": 13,
+          "text": "No rehuses la corrección del muchacho: porque si lo hirieres con vara, no morirá. "
+        },
+        {
+          "name": "Proverbs 23:14",
+          "verse": 14,
+          "text": "Tú lo herirás con vara, y librarás su alma del infierno. "
+        },
+        {
+          "name": "Proverbs 23:15",
+          "verse": 15,
+          "text": "Hijo mío, si tu corazón fuere sabio, también á mí se me alegrará el corazón; "
+        },
+        {
+          "name": "Proverbs 23:16",
+          "verse": 16,
+          "text": "Mis entrañas también se alegrarán, cuando tus labios hablaren cosas rectas. "
+        },
+        {
+          "name": "Proverbs 23:17",
+          "verse": 17,
+          "text": "No tenga tu corazón envidia de los pecadores, antes persevera en el temor de Jehová todo tiempo: "
+        },
+        {
+          "name": "Proverbs 23:18",
+          "verse": 18,
+          "text": "Porque ciertamente hay fin, y tu esperanza no será cortada. "
+        },
+        {
+          "name": "Proverbs 23:19",
+          "verse": 19,
+          "text": "Oye tú, hijo mío, y sé sabio, y endereza tu corazón al camino. "
+        },
+        {
+          "name": "Proverbs 23:20",
+          "verse": 20,
+          "text": "No estés con los bebedores de vino, ni con los comedores de carne: "
+        },
+        {
+          "name": "Proverbs 23:21",
+          "verse": 21,
+          "text": "Porque el bebedor y el comilón empobrecerán: y el sueño hará vestir vestidos rotos. "
+        },
+        {
+          "name": "Proverbs 23:22",
+          "verse": 22,
+          "text": "Oye á tu padre, á aquel que te engendró; y cuando tu madre envejeciere, no la menosprecies. "
+        },
+        {
+          "name": "Proverbs 23:23",
+          "verse": 23,
+          "text": "Compra la verdad, y no la vendas; la sabiduría, la enseñanza, y la inteligencia. "
+        },
+        {
+          "name": "Proverbs 23:24",
+          "verse": 24,
+          "text": "Mucho se alegrará el padre del justo: y el que engendró sabio se gozará con él. "
+        },
+        {
+          "name": "Proverbs 23:25",
+          "verse": 25,
+          "text": "Alégrense tu padre y tu madre, y gócese la que te engendró. "
+        },
+        {
+          "name": "Proverbs 23:26",
+          "verse": 26,
+          "text": "Dame, hijo mío, tu corazón, y miren tus ojos por mis caminos. "
+        },
+        {
+          "name": "Proverbs 23:27",
+          "verse": 27,
+          "text": "Porque sima profunda es la ramera, y pozo angosto la extraña. "
+        },
+        {
+          "name": "Proverbs 23:28",
+          "verse": 28,
+          "text": "También ella, como robador, acecha, y multiplica entre los hombres los prevaricadores. "
+        },
+        {
+          "name": "Proverbs 23:29",
+          "verse": 29,
+          "text": "¿Para quién será el ay? ¿para quién el ay? ¿para quién las rencillas? ¿para quién las quejas? ¿para quién las heridas en balde? ¿para quién lo amoratado de los ojos? "
+        },
+        {
+          "name": "Proverbs 23:30",
+          "verse": 30,
+          "text": "Para los que se detienen mucho en el vino, para los que van buscando la mistura. "
+        },
+        {
+          "name": "Proverbs 23:31",
+          "verse": 31,
+          "text": "No mires al vino cuando rojea, cuando resplandece su color en el vaso: éntrase suavemente; "
+        },
+        {
+          "name": "Proverbs 23:32",
+          "verse": 32,
+          "text": "Mas al fin como serpiente morderá, y como basilisco dará dolor: "
+        },
+        {
+          "name": "Proverbs 23:33",
+          "verse": 33,
+          "text": "Tus ojos mirarán las extrañas, y tu corazón hablará perversidades. "
+        },
+        {
+          "name": "Proverbs 23:34",
+          "verse": 34,
+          "text": "Y serás como el que yace en medio de la mar, ó como el que está en la punta de un mastelero. "
+        },
+        {
+          "name": "Proverbs 23:35",
+          "verse": 35,
+          "text": "Y dirás: Hiriéronme, mas no me dolió; azotáronme, mas no lo sentí; cuando despertare, aun lo tornaré á buscar.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 24",
+      "chapter": 24,
+      "verses": [
+        {
+          "name": "Proverbs 24:1",
+          "verse": 1,
+          "text": "NO tengas envidia de los hombres malos, ni desees estar con ellos: "
+        },
+        {
+          "name": "Proverbs 24:2",
+          "verse": 2,
+          "text": "Porque su corazón piensa en robar, é iniquidad hablan sus labios. "
+        },
+        {
+          "name": "Proverbs 24:3",
+          "verse": 3,
+          "text": "Con sabiduría se edificará la casa, y con prudencia se afirmará: "
+        },
+        {
+          "name": "Proverbs 24:4",
+          "verse": 4,
+          "text": "Y con ciencia se henchirán las cámaras de todo bien preciado y agradable. "
+        },
+        {
+          "name": "Proverbs 24:5",
+          "verse": 5,
+          "text": "El hombre sabio es fuerte; y de pujante vigor el hombre docto. "
+        },
+        {
+          "name": "Proverbs 24:6",
+          "verse": 6,
+          "text": "Porque con ingenio harás la guerra: y la salud está en la multitud de consejeros. "
+        },
+        {
+          "name": "Proverbs 24:7",
+          "verse": 7,
+          "text": "Alta está para el insensato la sabiduría: en la puerta no abrirá él su boca. "
+        },
+        {
+          "name": "Proverbs 24:8",
+          "verse": 8,
+          "text": "Al que piensa mal hacer le llamarán hombre de malos pensamientos. "
+        },
+        {
+          "name": "Proverbs 24:9",
+          "verse": 9,
+          "text": "El pensamiento del necio es pecado: y abominación á los hombres el escarnecedor. "
+        },
+        {
+          "name": "Proverbs 24:10",
+          "verse": 10,
+          "text": "Si fueres flojo en el día de trabajo, tu fuerza será reducida. "
+        },
+        {
+          "name": "Proverbs 24:11",
+          "verse": 11,
+          "text": "Si dejares de librar los que son tomados para la muerte, y los que son llevados al degolladero; "
+        },
+        {
+          "name": "Proverbs 24:12",
+          "verse": 12,
+          "text": "Si dijeres: Ciertamente no lo supimos; ¿no lo entenderá el que pesa los corazones? El que mira por tu alma, él lo conocerá, y dará al hombre según sus obras. "
+        },
+        {
+          "name": "Proverbs 24:13",
+          "verse": 13,
+          "text": "Come, hijo mío, de la miel, porque es buena, y del panal dulce á tu paladar: "
+        },
+        {
+          "name": "Proverbs 24:14",
+          "verse": 14,
+          "text": "Tal será el conocimiento de la sabiduría á tu alma: si la hallares tendrá recompensa, y al fin tu esperanza no será cortada. "
+        },
+        {
+          "name": "Proverbs 24:15",
+          "verse": 15,
+          "text": "Oh impío, no aceches la tienda del justo, no saquees su cámara; "
+        },
+        {
+          "name": "Proverbs 24:16",
+          "verse": 16,
+          "text": "Porque siete veces cae el justo, y se torna á levantar; mas los impíos caerán en el mal. "
+        },
+        {
+          "name": "Proverbs 24:17",
+          "verse": 17,
+          "text": "Cuando cayere tu enemigo, no te huelgues; y cuando tropezare, no se alegre tu corazón: "
+        },
+        {
+          "name": "Proverbs 24:18",
+          "verse": 18,
+          "text": "Porque Jehová no lo mire, y le desagrade, y aparte de sobre él su enojo. "
+        },
+        {
+          "name": "Proverbs 24:19",
+          "verse": 19,
+          "text": "No te entrometas con los malignos, ni tengas envidia de los impíos; "
+        },
+        {
+          "name": "Proverbs 24:20",
+          "verse": 20,
+          "text": "Porque para el malo no habrá buen fin, y la candela de los impíos será apagada. "
+        },
+        {
+          "name": "Proverbs 24:21",
+          "verse": 21,
+          "text": "Teme á Jehová, hijo mío, y al rey; no te entrometas con los veleidosos: "
+        },
+        {
+          "name": "Proverbs 24:22",
+          "verse": 22,
+          "text": "Porque su quebrantamiento se levantará de repente; y el quebrantamiento de ambos, ¿quién lo comprende? "
+        },
+        {
+          "name": "Proverbs 24:23",
+          "verse": 23,
+          "text": "También estas cosas pertenecen á los sabios. Tener respeto á personas en el juicio no es bueno. "
+        },
+        {
+          "name": "Proverbs 24:24",
+          "verse": 24,
+          "text": "El que dijere al malo, Justo eres, los pueblos lo maldecirán, y le detestarán las naciones: "
+        },
+        {
+          "name": "Proverbs 24:25",
+          "verse": 25,
+          "text": "Mas los que lo reprenden, serán agradables, y sobre ellos vendrá bendición de bien. "
+        },
+        {
+          "name": "Proverbs 24:26",
+          "verse": 26,
+          "text": "Besados serán los labios del que responde palabras rectas. "
+        },
+        {
+          "name": "Proverbs 24:27",
+          "verse": 27,
+          "text": "Apresta tu obra de afuera, y disponla en tu heredad; y después edificarás tu casa. "
+        },
+        {
+          "name": "Proverbs 24:28",
+          "verse": 28,
+          "text": "No seas sin causa testigo contra tu prójimo; y no lisonjees con tus labios. "
+        },
+        {
+          "name": "Proverbs 24:29",
+          "verse": 29,
+          "text": "No digas: Como me hizo, así le haré; daré el pago al hombre según su obra. "
+        },
+        {
+          "name": "Proverbs 24:30",
+          "verse": 30,
+          "text": "Pasé junto á la heredad del hombre perezoso, y junto á la viña del hombre falto de entendimiento; "
+        },
+        {
+          "name": "Proverbs 24:31",
+          "verse": 31,
+          "text": "Y he aquí que por toda ella habían ya crecido espinas, ortigas habían ya cubierto su haz, y su cerca de piedra estaba ya destruída. "
+        },
+        {
+          "name": "Proverbs 24:32",
+          "verse": 32,
+          "text": "Y yo miré, y púselo en mi corazón: vilo, y tomé consejo. "
+        },
+        {
+          "name": "Proverbs 24:33",
+          "verse": 33,
+          "text": "Un poco de sueño, cabeceando otro poco, poniendo mano sobre mano otro poco para dormir; "
+        },
+        {
+          "name": "Proverbs 24:34",
+          "verse": 34,
+          "text": "Así vendrá como caminante tu necesidad, y tu pobreza como hombre de escudo.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 25",
+      "chapter": 25,
+      "verses": [
+        {
+          "name": "Proverbs 25:1",
+          "verse": 1,
+          "text": "TAMBIÉN estos son proverbios de Salomón, los cuales copiaron los varones de Ezechîas, rey de Judá. "
+        },
+        {
+          "name": "Proverbs 25:2",
+          "verse": 2,
+          "text": "Gloria de Dios es encubrir la palabra; mas honra del rey es escudriñar la palabra. "
+        },
+        {
+          "name": "Proverbs 25:3",
+          "verse": 3,
+          "text": "Para la altura de los cielos, y para la profundidad de la tierra, y para el corazón de los reyes, no hay investigación. "
+        },
+        {
+          "name": "Proverbs 25:4",
+          "verse": 4,
+          "text": "Quita las escorias de la plata, y saldrá vaso al fundidor. "
+        },
+        {
+          "name": "Proverbs 25:5",
+          "verse": 5,
+          "text": "Aparta al impío de la presencia del rey, y su trono se afirmará en justicia. "
+        },
+        {
+          "name": "Proverbs 25:6",
+          "verse": 6,
+          "text": "No te alabes delante del rey, ni estés en el lugar de los grandes: "
+        },
+        {
+          "name": "Proverbs 25:7",
+          "verse": 7,
+          "text": "Porque mejor es que se te diga, Sube acá, que no que seas humillado delante del príncipe que miraron tus ojos. "
+        },
+        {
+          "name": "Proverbs 25:8",
+          "verse": 8,
+          "text": "No salgas á pleito presto, no sea que no sepas qué hacer al fin, después que tu prójimo te haya dejado confuso. "
+        },
+        {
+          "name": "Proverbs 25:9",
+          "verse": 9,
+          "text": "Trata tu causa con tu compañero y no descubras el secreto á otro. "
+        },
+        {
+          "name": "Proverbs 25:10",
+          "verse": 10,
+          "text": "No sea que te deshonre el que lo oyere, y tu infamia no pueda repararse. "
+        },
+        {
+          "name": "Proverbs 25:11",
+          "verse": 11,
+          "text": "Manzana de oro con figuras de plata es la palabra dicha como conviene. "
+        },
+        {
+          "name": "Proverbs 25:12",
+          "verse": 12,
+          "text": "Como zarcillo de oro y joyel de oro fino, es el que reprende al sabio que tiene oído dócil. "
+        },
+        {
+          "name": "Proverbs 25:13",
+          "verse": 13,
+          "text": "Como frío de nieve en tiempo de la siega, así es el mensajero fiel á los que lo envían: pues al alma de su señor da refrigerio. "
+        },
+        {
+          "name": "Proverbs 25:14",
+          "verse": 14,
+          "text": "Como nubes y vientos sin lluvia, así es el hombre que se jacta de vana liberalidad. "
+        },
+        {
+          "name": "Proverbs 25:15",
+          "verse": 15,
+          "text": "Con larga paciencia se aplaca el príncipe; y la lengua blanda quebranta los huesos. "
+        },
+        {
+          "name": "Proverbs 25:16",
+          "verse": 16,
+          "text": "¿Hallaste la miel? come lo que te basta; no sea que te hartes de ella, y la vomites. "
+        },
+        {
+          "name": "Proverbs 25:17",
+          "verse": 17,
+          "text": "Detén tu pie de la casa de tu vecino, porque harto de ti no te aborrezca. "
+        },
+        {
+          "name": "Proverbs 25:18",
+          "verse": 18,
+          "text": "Martillo y cuchillo y saeta aguda, es el hombre que habla contra su prójimo falso testimonio. "
+        },
+        {
+          "name": "Proverbs 25:19",
+          "verse": 19,
+          "text": "Diente quebrado y pie resbalador, es la confianza en el prevaricador en tiempo de angustia. "
+        },
+        {
+          "name": "Proverbs 25:20",
+          "verse": 20,
+          "text": "El que canta canciones al corazón afligido, es como el que quita la ropa en tiempo de frío, ó el que sobre el jabón echa vinagre. "
+        },
+        {
+          "name": "Proverbs 25:21",
+          "verse": 21,
+          "text": "Si el que te aborrece tuviere hambre, dale de comer pan; y si tuviere sed, dale de beber agua: "
+        },
+        {
+          "name": "Proverbs 25:22",
+          "verse": 22,
+          "text": "Porque ascuas allegas sobre su cabeza, y Jehová te lo pagará. "
+        },
+        {
+          "name": "Proverbs 25:23",
+          "verse": 23,
+          "text": "El viento del norte ahuyenta la lluvia, y el rostro airado la lengua detractora. "
+        },
+        {
+          "name": "Proverbs 25:24",
+          "verse": 24,
+          "text": "Mejor es estar en un rincón de casa, que con la mujer rencillosa en espaciosa casa. "
+        },
+        {
+          "name": "Proverbs 25:25",
+          "verse": 25,
+          "text": "Como el agua fría al alma sedienta, así son las buenas nuevas de lejanas tierras. "
+        },
+        {
+          "name": "Proverbs 25:26",
+          "verse": 26,
+          "text": "Como fuente turbia y manantial corrompido, es el justo que cae delante del impío. "
+        },
+        {
+          "name": "Proverbs 25:27",
+          "verse": 27,
+          "text": "Comer mucha miel no es bueno: ni el buscar la propia gloria es gloria. "
+        },
+        {
+          "name": "Proverbs 25:28",
+          "verse": 28,
+          "text": "Como ciudad derribada y sin muro, es el hombre cuyo espíritu no tiene rienda.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 26",
+      "chapter": 26,
+      "verses": [
+        {
+          "name": "Proverbs 26:1",
+          "verse": 1,
+          "text": "COMO la nieve en el verano, y la lluvia en la siega, así conviene al necio la honra. "
+        },
+        {
+          "name": "Proverbs 26:2",
+          "verse": 2,
+          "text": "Como el gorrión en su vagar, y como la golondrina en su vuelo, así la maldición sin causa nunca vendrá. "
+        },
+        {
+          "name": "Proverbs 26:3",
+          "verse": 3,
+          "text": "El látigo para el caballo, y el cabestro para el asno, y la vara para la espalda del necio. "
+        },
+        {
+          "name": "Proverbs 26:4",
+          "verse": 4,
+          "text": "Nunca respondas al necio en conformidad á su necedad, para que no seas tú también como él. "
+        },
+        {
+          "name": "Proverbs 26:5",
+          "verse": 5,
+          "text": "Responde al necio según su necedad, porque no se estime sabio en su opinión. "
+        },
+        {
+          "name": "Proverbs 26:6",
+          "verse": 6,
+          "text": "Como el que se corta los pies y bebe su daño, así es el que envía algo por mano de un necio. "
+        },
+        {
+          "name": "Proverbs 26:7",
+          "verse": 7,
+          "text": "Alzar las piernas del cojo, así es el proverbio en la boca del necio. "
+        },
+        {
+          "name": "Proverbs 26:8",
+          "verse": 8,
+          "text": "Como quien liga la piedra en la honda, así hace el que al necio da honra. "
+        },
+        {
+          "name": "Proverbs 26:9",
+          "verse": 9,
+          "text": "Espinas hincadas en mano del embriagado, tal es el proverbio en la boca de los necios. "
+        },
+        {
+          "name": "Proverbs 26:10",
+          "verse": 10,
+          "text": "El grande cría todas las cosas; y da la paga al insensato, y la da á los transgresores. "
+        },
+        {
+          "name": "Proverbs 26:11",
+          "verse": 11,
+          "text": "Como perro que vuelve á su vómito, así el necio que repite su necedad. "
+        },
+        {
+          "name": "Proverbs 26:12",
+          "verse": 12,
+          "text": "¿Has visto hombre sabio en su opinión? más esperanza hay del necio que de él. "
+        },
+        {
+          "name": "Proverbs 26:13",
+          "verse": 13,
+          "text": "Dice el perezoso: El león está en el camino; el león está en las calles. "
+        },
+        {
+          "name": "Proverbs 26:14",
+          "verse": 14,
+          "text": "Las puertas se revuelven en sus quicios: así el perezoso en su cama. "
+        },
+        {
+          "name": "Proverbs 26:15",
+          "verse": 15,
+          "text": "Esconde el perezoso su mano en el seno; cánsase de tornarla á su boca. "
+        },
+        {
+          "name": "Proverbs 26:16",
+          "verse": 16,
+          "text": "A su ver es el perezoso más sabio que siete que le den consejo. "
+        },
+        {
+          "name": "Proverbs 26:17",
+          "verse": 17,
+          "text": "El que pasando se deja llevar de la ira en pleito ajeno, es como el que toma al perro por las orejas. "
+        },
+        {
+          "name": "Proverbs 26:18",
+          "verse": 18,
+          "text": "Como el que enloquece, y echa llamas y saetas y muerte, "
+        },
+        {
+          "name": "Proverbs 26:19",
+          "verse": 19,
+          "text": "Tal es el hombre que daña á su amigo, y dice: Ciertamente me chanceaba. "
+        },
+        {
+          "name": "Proverbs 26:20",
+          "verse": 20,
+          "text": "Sin leña se apaga el fuego: y donde no hay chismoso, cesa la contienda. "
+        },
+        {
+          "name": "Proverbs 26:21",
+          "verse": 21,
+          "text": "El carbón para brasas, y la leña para el fuego: y el hombre rencilloso para encender contienda. "
+        },
+        {
+          "name": "Proverbs 26:22",
+          "verse": 22,
+          "text": "Las palabras del chismoso parecen blandas; mas ellas entran hasta lo secreto del vientre. "
+        },
+        {
+          "name": "Proverbs 26:23",
+          "verse": 23,
+          "text": "Como escoria de plata echada sobre el tiesto, son los labios enardecidos y el corazón malo. "
+        },
+        {
+          "name": "Proverbs 26:24",
+          "verse": 24,
+          "text": "Otro parece en los labios el que aborrece; mas en su interior pone engaño. "
+        },
+        {
+          "name": "Proverbs 26:25",
+          "verse": 25,
+          "text": "Cuando hablare amigablemente, no le creas; porque siete abominaciones hay en su corazón. "
+        },
+        {
+          "name": "Proverbs 26:26",
+          "verse": 26,
+          "text": "Encúbrese el odio con disimulo; mas su malicia será descubierta en la congregación. "
+        },
+        {
+          "name": "Proverbs 26:27",
+          "verse": 27,
+          "text": "El que cavare sima, caerá en ella: y el que revuelva la piedra, á él volverá. "
+        },
+        {
+          "name": "Proverbs 26:28",
+          "verse": 28,
+          "text": "La falsa lengua atormenta al que aborrece: y la boca lisonjera hace resbaladero.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 27",
+      "chapter": 27,
+      "verses": [
+        {
+          "name": "Proverbs 27:1",
+          "verse": 1,
+          "text": "NO te jactes del día de mañana; porque no sabes qué dará de sí el día. "
+        },
+        {
+          "name": "Proverbs 27:2",
+          "verse": 2,
+          "text": "Alábete el extraño, y no tu boca; el ajeno, y no tus labios. "
+        },
+        {
+          "name": "Proverbs 27:3",
+          "verse": 3,
+          "text": "Pesada es la piedra, y la arena pesa; mas la ira del necio es más pesada que ambas cosas. "
+        },
+        {
+          "name": "Proverbs 27:4",
+          "verse": 4,
+          "text": "Cruel es la ira, é impetuoso el furor; mas ¿quién parará delante de la envidia? "
+        },
+        {
+          "name": "Proverbs 27:5",
+          "verse": 5,
+          "text": "Mejor es reprensión manifiesta que amor oculto. "
+        },
+        {
+          "name": "Proverbs 27:6",
+          "verse": 6,
+          "text": "Fieles son las heridas del que ama; pero importunos los besos del que aborrece. "
+        },
+        {
+          "name": "Proverbs 27:7",
+          "verse": 7,
+          "text": "El alma harta huella el panal de miel; mas al alma hambrienta todo lo amargo es dulce. "
+        },
+        {
+          "name": "Proverbs 27:8",
+          "verse": 8,
+          "text": "Cual ave que se va de su nido, tal es el hombre que se va de su lugar. "
+        },
+        {
+          "name": "Proverbs 27:9",
+          "verse": 9,
+          "text": "El ungüento y el perfume alegran el corazón: y el amigo al hombre con el cordial consejo. "
+        },
+        {
+          "name": "Proverbs 27:10",
+          "verse": 10,
+          "text": "No dejes á tu amigo, ni al amigo de tu padre; ni entres en casa de tu hermano el día de tu aflicción: mejor es el vecino cerca que el hermano lejano. "
+        },
+        {
+          "name": "Proverbs 27:11",
+          "verse": 11,
+          "text": "Sé sabio, hijo mío, y alegra mi corazón, y tendré qué responder al que me deshonrare. "
+        },
+        {
+          "name": "Proverbs 27:12",
+          "verse": 12,
+          "text": "El avisado ve el mal, y escóndese; mas los simples pasan, y llevan el daño. "
+        },
+        {
+          "name": "Proverbs 27:13",
+          "verse": 13,
+          "text": "Quítale su ropa al que fió al extraño; y al que fió á la extraña, tómale prenda. "
+        },
+        {
+          "name": "Proverbs 27:14",
+          "verse": 14,
+          "text": "El que bendice á su amigo en alta voz, madrugando de mañana, por maldición se le contará. "
+        },
+        {
+          "name": "Proverbs 27:15",
+          "verse": 15,
+          "text": "Gotera continua en tiempo de lluvia, y la mujer rencillosa, son semejantes: "
+        },
+        {
+          "name": "Proverbs 27:16",
+          "verse": 16,
+          "text": "El que pretende contenerla, arresta el viento: ó el aceite en su mano derecha. "
+        },
+        {
+          "name": "Proverbs 27:17",
+          "verse": 17,
+          "text": "Hierro con hierro se aguza; y el hombre aguza el rostro de su amigo. "
+        },
+        {
+          "name": "Proverbs 27:18",
+          "verse": 18,
+          "text": "El que guarda la higuera, comerá su fruto; y el que guarda á su señor, será honrado. "
+        },
+        {
+          "name": "Proverbs 27:19",
+          "verse": 19,
+          "text": "Como un agua se parece á otra, así el corazón del hombre al otro. "
+        },
+        {
+          "name": "Proverbs 27:20",
+          "verse": 20,
+          "text": "El sepulcro y la perdición nunca se hartan: así los ojos del hombre nunca están satisfechos. "
+        },
+        {
+          "name": "Proverbs 27:21",
+          "verse": 21,
+          "text": "El crisol prueba la plata, y la hornaza el oro: y al hombre la boca del que lo alaba. "
+        },
+        {
+          "name": "Proverbs 27:22",
+          "verse": 22,
+          "text": "Aunque majes al necio en un mortero entre granos de trigo á pisón majados, no se quitará de él su necedad. "
+        },
+        {
+          "name": "Proverbs 27:23",
+          "verse": 23,
+          "text": "Considera atentamente el aspecto de tus ovejas; pon tu corazón á tus rebaños: "
+        },
+        {
+          "name": "Proverbs 27:24",
+          "verse": 24,
+          "text": "Porque las riquezas no son para siempre; ¿y será la corona para perpetuas generaciones? "
+        },
+        {
+          "name": "Proverbs 27:25",
+          "verse": 25,
+          "text": "Saldrá la grama, aparecerá la hierba, y segaránse las hierbas de los montes. "
+        },
+        {
+          "name": "Proverbs 27:26",
+          "verse": 26,
+          "text": "Los corderos para tus vestidos, y los cabritos para el precio del campo: "
+        },
+        {
+          "name": "Proverbs 27:27",
+          "verse": 27,
+          "text": "Y abundancia de leche de las cabras para tu mantenimiento, y para mantenimiento de tu casa, y para sustento de tus criadas.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 28",
+      "chapter": 28,
+      "verses": [
+        {
+          "name": "Proverbs 28:1",
+          "verse": 1,
+          "text": "HUYE el impío sin que nadie lo persiga: mas el justo está confiado como un leoncillo. "
+        },
+        {
+          "name": "Proverbs 28:2",
+          "verse": 2,
+          "text": "Por la rebelión de la tierra sus príncipes son muchos: mas por el hombre entendido y sabio permanecerá sin mutación. "
+        },
+        {
+          "name": "Proverbs 28:3",
+          "verse": 3,
+          "text": "El hombre pobre y robador de los pobres, es lluvia de avenida y sin pan. "
+        },
+        {
+          "name": "Proverbs 28:4",
+          "verse": 4,
+          "text": "Los que dejan la ley, alaban á los impíos: mas los que la guardan, contenderán con ellos. "
+        },
+        {
+          "name": "Proverbs 28:5",
+          "verse": 5,
+          "text": "Los hombres malos no entienden el juicio: mas los que buscan á Jehová, entienden todas las cosas. "
+        },
+        {
+          "name": "Proverbs 28:6",
+          "verse": 6,
+          "text": "Mejor es el pobre que camina en su integridad, que el de perversos caminos, y rico. "
+        },
+        {
+          "name": "Proverbs 28:7",
+          "verse": 7,
+          "text": "El que guarda la ley es hijo prudente: mas el que es compañero de glotones, avergüenza á su padre. "
+        },
+        {
+          "name": "Proverbs 28:8",
+          "verse": 8,
+          "text": "El que aumenta sus riquezas con usura y crecido interés, para que se dé á los pobres lo allega. "
+        },
+        {
+          "name": "Proverbs 28:9",
+          "verse": 9,
+          "text": "El que aparta su oído para no oir la ley, su oración también es abominable. "
+        },
+        {
+          "name": "Proverbs 28:10",
+          "verse": 10,
+          "text": "El que hace errar á los rectos por el mal camino, él caerá en su misma sima: mas los perfectos heredarán el bien. "
+        },
+        {
+          "name": "Proverbs 28:11",
+          "verse": 11,
+          "text": "El hombre rico es sabio en su opinión: mas el pobre entendido lo examinará. "
+        },
+        {
+          "name": "Proverbs 28:12",
+          "verse": 12,
+          "text": "Cuando los justos se alegran, grande es la gloria; mas cuando los impíos son levantados, es buscado el hombre. "
+        },
+        {
+          "name": "Proverbs 28:13",
+          "verse": 13,
+          "text": "El que encubre sus pecados, no prosperará: mas el que los confiesa y se aparta, alcanzará misericordia. "
+        },
+        {
+          "name": "Proverbs 28:14",
+          "verse": 14,
+          "text": "Bienaventurado el hombre que siempre está temeroso: mas el que endurece su corazón, caerá en mal. "
+        },
+        {
+          "name": "Proverbs 28:15",
+          "verse": 15,
+          "text": "León rugiente y oso hambriento, es el príncipe impío sobre el pueblo pobre. "
+        },
+        {
+          "name": "Proverbs 28:16",
+          "verse": 16,
+          "text": "El príncipe falto de entendimiento multiplicará los agravios: mas el que aborrece la avaricia, prolongará sus días. "
+        },
+        {
+          "name": "Proverbs 28:17",
+          "verse": 17,
+          "text": "El hombre que hace violencia con sangre de persona, huirá hasta el sepulcro, y nadie le detendrá. "
+        },
+        {
+          "name": "Proverbs 28:18",
+          "verse": 18,
+          "text": "El que en integridad camina, será salvo; mas el de perversos caminos caerá en alguno. "
+        },
+        {
+          "name": "Proverbs 28:19",
+          "verse": 19,
+          "text": "El que labra su tierra, se hartará de pan: mas el que sigue los ociosos, se hartará de pobreza. "
+        },
+        {
+          "name": "Proverbs 28:20",
+          "verse": 20,
+          "text": "El hombre de verdad tendrá muchas bendiciones: mas el que se apresura á enriquecer, no será sin culpa. "
+        },
+        {
+          "name": "Proverbs 28:21",
+          "verse": 21,
+          "text": "Tener acepción de personas, no es bueno: hasta por un bocado de pan prevaricará el hombre. "
+        },
+        {
+          "name": "Proverbs 28:22",
+          "verse": 22,
+          "text": "Apresúrase á ser rico el hombre de mal ojo; y no conoce que le ha de venir pobreza. "
+        },
+        {
+          "name": "Proverbs 28:23",
+          "verse": 23,
+          "text": "El que reprende al hombre, hallará después mayor gracia que el que lisonjea con la lengua. "
+        },
+        {
+          "name": "Proverbs 28:24",
+          "verse": 24,
+          "text": "El que roba á su padre ó á su madre, y dice que no es maldad, compañero es del hombre destruidor. "
+        },
+        {
+          "name": "Proverbs 28:25",
+          "verse": 25,
+          "text": "El altivo de ánimo suscita contiendas: mas el que en Jehová confía, medrará. "
+        },
+        {
+          "name": "Proverbs 28:26",
+          "verse": 26,
+          "text": "El que confía en su corazón es necio; mas el que camina en sabiduría, será salvo. "
+        },
+        {
+          "name": "Proverbs 28:27",
+          "verse": 27,
+          "text": "El que da al pobre, no tendrá pobreza: mas el que aparta sus ojos, tendrá muchas maldiciones. "
+        },
+        {
+          "name": "Proverbs 28:28",
+          "verse": 28,
+          "text": "Cuando los impíos son levantados, esconderáse el hombre: mas cuando perecen, los justos se multiplican.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 29",
+      "chapter": 29,
+      "verses": [
+        {
+          "name": "Proverbs 29:1",
+          "verse": 1,
+          "text": "EL hombre que reprendido endurece la cerviz, de repente será quebrantado; ni habrá para él medicina. "
+        },
+        {
+          "name": "Proverbs 29:2",
+          "verse": 2,
+          "text": "Cuando los justos dominan, el pueblo se alegra: mas cuando domina el impío, el pueblo gime. "
+        },
+        {
+          "name": "Proverbs 29:3",
+          "verse": 3,
+          "text": "El hombre que ama la sabiduría, alegra á su padre: mas el que mantiene rameras, perderá la hacienda. "
+        },
+        {
+          "name": "Proverbs 29:4",
+          "verse": 4,
+          "text": "El rey con el juicio afirma la tierra: mas el hombre de presentes la destruirá. "
+        },
+        {
+          "name": "Proverbs 29:5",
+          "verse": 5,
+          "text": "El hombre que lisonjea á su prójimo, red tiende delante de sus pasos. "
+        },
+        {
+          "name": "Proverbs 29:6",
+          "verse": 6,
+          "text": "En la prevaricación del hombre malo hay lazo: mas el justo cantará y se alegrará. "
+        },
+        {
+          "name": "Proverbs 29:7",
+          "verse": 7,
+          "text": "Conoce el justo la causa de los pobres: mas el impío no entiende sabiduría. "
+        },
+        {
+          "name": "Proverbs 29:8",
+          "verse": 8,
+          "text": "Los hombres escarnecedores enlazan la ciudad: mas los sabios apartan la ira. "
+        },
+        {
+          "name": "Proverbs 29:9",
+          "verse": 9,
+          "text": "Si el hombre sabio contendiere con el necio, que se enoje ó que se ría, no tendrá reposo. "
+        },
+        {
+          "name": "Proverbs 29:10",
+          "verse": 10,
+          "text": "Los hombres sanguinarios aborrecen al perfecto: mas los rectos buscan su contentamiento. "
+        },
+        {
+          "name": "Proverbs 29:11",
+          "verse": 11,
+          "text": "El necio da suelta á todo su espíritu; mas el sabio al fin le sosiega. "
+        },
+        {
+          "name": "Proverbs 29:12",
+          "verse": 12,
+          "text": "Del señor que escucha la palabra mentirosa, todos sus ministros son impíos. "
+        },
+        {
+          "name": "Proverbs 29:13",
+          "verse": 13,
+          "text": "El pobre y el usurero se encontraron: Jehová alumbra los ojos de ambos. "
+        },
+        {
+          "name": "Proverbs 29:14",
+          "verse": 14,
+          "text": "El rey que juzga con verdad á los pobres, su trono será firme para siempre. "
+        },
+        {
+          "name": "Proverbs 29:15",
+          "verse": 15,
+          "text": "La vara y la corrección dan sabiduría: mas el muchacho consentido avergonzará á su madre. "
+        },
+        {
+          "name": "Proverbs 29:16",
+          "verse": 16,
+          "text": "Cuando los impíos son muchos, mucha es la prevaricación; mas los justos verán la ruina de ellos. "
+        },
+        {
+          "name": "Proverbs 29:17",
+          "verse": 17,
+          "text": "Corrige á tu hijo, y te dará descanso, y dará deleite á tu alma. "
+        },
+        {
+          "name": "Proverbs 29:18",
+          "verse": 18,
+          "text": "Sin profecía el pueblo será disipado: mas el que guarda la ley, bienaventurado él. "
+        },
+        {
+          "name": "Proverbs 29:19",
+          "verse": 19,
+          "text": "El siervo no se corregirá con palabras: porque entiende, mas no corresponde. "
+        },
+        {
+          "name": "Proverbs 29:20",
+          "verse": 20,
+          "text": "¿Has visto hombre ligero en sus palabras? más esperanza hay del necio que de él. "
+        },
+        {
+          "name": "Proverbs 29:21",
+          "verse": 21,
+          "text": "El que regala á su siervo desde su niñez, á la postre será su hijo. "
+        },
+        {
+          "name": "Proverbs 29:22",
+          "verse": 22,
+          "text": "El hombre iracundo levanta contiendas; y el furioso muchas veces peca. "
+        },
+        {
+          "name": "Proverbs 29:23",
+          "verse": 23,
+          "text": "La soberbia del hombre le abate; pero al humilde de espíritu sustenta la honra. "
+        },
+        {
+          "name": "Proverbs 29:24",
+          "verse": 24,
+          "text": "El aparcero del ladrón aborrece su vida; oirá maldiciones, y no lo denunciará. "
+        },
+        {
+          "name": "Proverbs 29:25",
+          "verse": 25,
+          "text": "El temor del hombre pondrá lazo: mas el que confía en Jehová será levantado. "
+        },
+        {
+          "name": "Proverbs 29:26",
+          "verse": 26,
+          "text": "Muchos buscan el favor del príncipe: mas de Jehová viene el juicio de cada uno. "
+        },
+        {
+          "name": "Proverbs 29:27",
+          "verse": 27,
+          "text": "Abominación es á los justos el hombre inicuo; y abominación es al impío el de rectos caminos.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 30",
+      "chapter": 30,
+      "verses": [
+        {
+          "name": "Proverbs 30:1",
+          "verse": 1,
+          "text": "PALABRAS de Agur, hijo de Jachê: La profecía que dijo el varón á Ithiel, á Ithiel y á Ucal. "
+        },
+        {
+          "name": "Proverbs 30:2",
+          "verse": 2,
+          "text": "Ciertamente más rudo soy yo que ninguno, ni tengo entendimiento de hombre. "
+        },
+        {
+          "name": "Proverbs 30:3",
+          "verse": 3,
+          "text": "Yo ni aprendí sabiduría, ni conozco la ciencia del Santo. "
+        },
+        {
+          "name": "Proverbs 30:4",
+          "verse": 4,
+          "text": "¿Quién subió al cielo, y descendió? ¿quién encerró los vientos en sus puños? ¿quién ató las aguas en un paño? ¿quién afirmó todos los términos de la tierra? ¿cuál es su nombre, y el nombre de su hijo, si sabes? "
+        },
+        {
+          "name": "Proverbs 30:5",
+          "verse": 5,
+          "text": "Toda palabra de Dios es limpia; es escudo á los que en él esperan. "
+        },
+        {
+          "name": "Proverbs 30:6",
+          "verse": 6,
+          "text": "No añadas á sus palabras, porque no te reprenda, y seas hallado mentiroso. "
+        },
+        {
+          "name": "Proverbs 30:7",
+          "verse": 7,
+          "text": "Dos cosas te he demandado; no me las niegues antes que muera. "
+        },
+        {
+          "name": "Proverbs 30:8",
+          "verse": 8,
+          "text": "Vanidad y palabra mentirosa aparta de mí. No me des pobreza ni riquezas; manténme del pan que he menester; "
+        },
+        {
+          "name": "Proverbs 30:9",
+          "verse": 9,
+          "text": "No sea que me harte, y te niegue, y diga, ¿Quién es Jehová? ó no sea que siendo pobre, hurte, y blasfeme el nombre de mi Dios. "
+        },
+        {
+          "name": "Proverbs 30:10",
+          "verse": 10,
+          "text": "No acuses al siervo ante su señor, porque no te maldiga, y peques. "
+        },
+        {
+          "name": "Proverbs 30:11",
+          "verse": 11,
+          "text": "Hay generación que maldice á su padre, y á su madre no bendice. "
+        },
+        {
+          "name": "Proverbs 30:12",
+          "verse": 12,
+          "text": "Hay generación limpia en su opinión, si bien no se ha limpiado su inmundicia. "
+        },
+        {
+          "name": "Proverbs 30:13",
+          "verse": 13,
+          "text": "Hay generación cuyos ojos son altivos, y cuyos párpados son alzados. "
+        },
+        {
+          "name": "Proverbs 30:14",
+          "verse": 14,
+          "text": "Hay generación cuyos dientes son espadas, y sus muelas cuchillos, para devorar á los pobres de la tierra, y de entre los hombres á los menesterosos. "
+        },
+        {
+          "name": "Proverbs 30:15",
+          "verse": 15,
+          "text": "La sanguijuela tiene dos hijas que se llaman, Trae, trae. Tres cosas hay que nunca se hartan; aun la cuarta nunca dice, Basta: "
+        },
+        {
+          "name": "Proverbs 30:16",
+          "verse": 16,
+          "text": "El sepulcro, y la matriz estéril, la tierra no harta de aguas, y el fuego que jamás dice, Basta. "
+        },
+        {
+          "name": "Proverbs 30:17",
+          "verse": 17,
+          "text": "El ojo que escarnece á su padre, y menosprecia la enseñanza de la madre, los cuervos lo saquen de la arroyada, y tráguenlo los hijos del águila. "
+        },
+        {
+          "name": "Proverbs 30:18",
+          "verse": 18,
+          "text": "Tres cosas me son ocultas; aun tampoco sé la cuarta: "
+        },
+        {
+          "name": "Proverbs 30:19",
+          "verse": 19,
+          "text": "El rastro del águila en el aire; el rastro de la culebra sobre la peña; el rastro de la nave en medio de la mar; y el rastro del hombre en la moza. "
+        },
+        {
+          "name": "Proverbs 30:20",
+          "verse": 20,
+          "text": "Tal es el rastro de la mujer adúltera: come, y limpia su boca, y dice: No he hecho maldad. "
+        },
+        {
+          "name": "Proverbs 30:21",
+          "verse": 21,
+          "text": "Por tres cosas se alborota la tierra, y la cuarta no puede sufrir: "
+        },
+        {
+          "name": "Proverbs 30:22",
+          "verse": 22,
+          "text": "Por el siervo cuando reinare; y por el necio cuando se hartare de pan; "
+        },
+        {
+          "name": "Proverbs 30:23",
+          "verse": 23,
+          "text": "Por la aborrecida cuando se casare; y por la sierva cuando heredare á su señora. "
+        },
+        {
+          "name": "Proverbs 30:24",
+          "verse": 24,
+          "text": "Cuatro cosas son de las más pequeñas de la tierra, y las mismas son más sabias que los sabios: "
+        },
+        {
+          "name": "Proverbs 30:25",
+          "verse": 25,
+          "text": "Las hormigas, pueblo no fuerte, y en el verano preparan su comida; "
+        },
+        {
+          "name": "Proverbs 30:26",
+          "verse": 26,
+          "text": "Los conejos, pueblo nada esforzado, y ponen su casa en la piedra; "
+        },
+        {
+          "name": "Proverbs 30:27",
+          "verse": 27,
+          "text": "Las langostas, no tienen rey, y salen todas acuadrilladas; "
+        },
+        {
+          "name": "Proverbs 30:28",
+          "verse": 28,
+          "text": "La araña, ase con las manos, y está en palacios de rey. "
+        },
+        {
+          "name": "Proverbs 30:29",
+          "verse": 29,
+          "text": "Tres cosas hay de hermoso andar, y la cuarta pasea muy bien: "
+        },
+        {
+          "name": "Proverbs 30:30",
+          "verse": 30,
+          "text": "El león, fuerte entre todos los animales, que no torna atrás por nadie; "
+        },
+        {
+          "name": "Proverbs 30:31",
+          "verse": 31,
+          "text": "El lebrel ceñido de lomos; asimismo el macho cabrío; y un rey contra el cual ninguno se levanta. "
+        },
+        {
+          "name": "Proverbs 30:32",
+          "verse": 32,
+          "text": "Si caiste, fué porque te enalteciste; y si mal pensaste, pon el dedo sobre la boca. "
+        },
+        {
+          "name": "Proverbs 30:33",
+          "verse": 33,
+          "text": "Ciertamente el que exprime la leche, sacará manteca; y el que recio se suena las narices, sacará sangre: y el que provoca la ira, causará contienda.  "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 31",
+      "chapter": 31,
+      "verses": [
+        {
+          "name": "Proverbs 31:1",
+          "verse": 1,
+          "text": "PALABRAS del rey Lemuel; la profecía con que le enseñó su madre. "
+        },
+        {
+          "name": "Proverbs 31:2",
+          "verse": 2,
+          "text": "¿Qué, hijo mío? ¿y qué, hijo de mi vientre? ¿y qué, hijo de mis deseos? "
+        },
+        {
+          "name": "Proverbs 31:3",
+          "verse": 3,
+          "text": "No des á las mujeres tu fuerza, ni tus caminos á lo que es para destruir los reyes. "
+        },
+        {
+          "name": "Proverbs 31:4",
+          "verse": 4,
+          "text": "No es de los reyes, oh Lemuel, no es de los reyes beber vino, ni de los príncipes la cerveza. "
+        },
+        {
+          "name": "Proverbs 31:5",
+          "verse": 5,
+          "text": "No sea que bebiendo olviden la ley, y perviertan el derecho de todos los hijos afligidos. "
+        },
+        {
+          "name": "Proverbs 31:6",
+          "verse": 6,
+          "text": "Dad la cerveza al desfallecido, y el vino á los de amargo ánimo: "
+        },
+        {
+          "name": "Proverbs 31:7",
+          "verse": 7,
+          "text": "Beban, y olvídense de su necesidad, y de su miseria no más se acuerden. "
+        },
+        {
+          "name": "Proverbs 31:8",
+          "verse": 8,
+          "text": "Abre tu boca por el mudo, en el juicio de todos los hijos de muerte. "
+        },
+        {
+          "name": "Proverbs 31:9",
+          "verse": 9,
+          "text": "Abre tu boca, juzga justicia, y el derecho del pobre y del menesteroso. "
+        },
+        {
+          "name": "Proverbs 31:10",
+          "verse": 10,
+          "text": "Mujer fuerte, ¿quién la hallará? porque su estima sobrepuja largamente á la de piedras preciosas. "
+        },
+        {
+          "name": "Proverbs 31:11",
+          "verse": 11,
+          "text": "El corazón de su marido está en ella confiado, y no tendrá necesidad de despojo. "
+        },
+        {
+          "name": "Proverbs 31:12",
+          "verse": 12,
+          "text": "Darále ella bien y no mal, todos los días de su vida. "
+        },
+        {
+          "name": "Proverbs 31:13",
+          "verse": 13,
+          "text": "Buscó lana y lino, y con voluntad labró de sus manos. "
+        },
+        {
+          "name": "Proverbs 31:14",
+          "verse": 14,
+          "text": "Fué como navío de mercader: trae su pan de lejos. "
+        },
+        {
+          "name": "Proverbs 31:15",
+          "verse": 15,
+          "text": "Levantóse aun de noche, y dió comida á su familia, y ración á sus criadas. "
+        },
+        {
+          "name": "Proverbs 31:16",
+          "verse": 16,
+          "text": "Consideró la heredad, y compróla; y plantó viña del fruto de sus manos. "
+        },
+        {
+          "name": "Proverbs 31:17",
+          "verse": 17,
+          "text": "Ciñó sus lomos de fortaleza, y esforzó sus brazos. "
+        },
+        {
+          "name": "Proverbs 31:18",
+          "verse": 18,
+          "text": "Gustó que era buena su granjería: su candela no se apagó de noche. "
+        },
+        {
+          "name": "Proverbs 31:19",
+          "verse": 19,
+          "text": "Aplicó sus manos al huso, y sus manos tomaron la rueca. "
+        },
+        {
+          "name": "Proverbs 31:20",
+          "verse": 20,
+          "text": "Alargó su mano al pobre, y extendió sus manos al menesteroso. "
+        },
+        {
+          "name": "Proverbs 31:21",
+          "verse": 21,
+          "text": "No tendrá temor de la nieve por su familia, porque toda su familia está vestida de ropas dobles. "
+        },
+        {
+          "name": "Proverbs 31:22",
+          "verse": 22,
+          "text": "Ella se hizo tapices; de lino fino y púrpura es su vestido. "
+        },
+        {
+          "name": "Proverbs 31:23",
+          "verse": 23,
+          "text": "Conocido es su marido en las puertas, cuando se sienta con los ancianos de la tierra. "
+        },
+        {
+          "name": "Proverbs 31:24",
+          "verse": 24,
+          "text": "Hizo telas, y vendió; y dió cintas al mercader. "
+        },
+        {
+          "name": "Proverbs 31:25",
+          "verse": 25,
+          "text": "Fortaleza y honor son su vestidura; y en el día postrero reirá. "
+        },
+        {
+          "name": "Proverbs 31:26",
+          "verse": 26,
+          "text": "Abrió su boca con sabiduría: y la ley de clemencia está en su lengua. "
+        },
+        {
+          "name": "Proverbs 31:27",
+          "verse": 27,
+          "text": "Considera los caminos de su casa, y no come el pan de balde. "
+        },
+        {
+          "name": "Proverbs 31:28",
+          "verse": 28,
+          "text": "Levantáronse sus hijos, y llamáronla bienaventurada; y su marido también la alabó. "
+        },
+        {
+          "name": "Proverbs 31:29",
+          "verse": 29,
+          "text": "Muchas mujeres hicieron el bien; mas tú las sobrepujaste á todas. "
+        },
+        {
+          "name": "Proverbs 31:30",
+          "verse": 30,
+          "text": "Engañosa es la gracia, y vana la hermosura: la mujer que teme á Jehová, ésa será alabada. "
+        },
+        {
+          "name": "Proverbs 31:31",
+          "verse": 31,
+          "text": "Dadle el fruto de sus manos, y alábenla en las puertas sus hechos.   "
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,561 @@
+{
+  "name": "I John",
+  "order": 69,
+  "chapters": [
+    {
+      "name": "I John 1",
+      "chapter": 1,
+      "verses": [
+        {
+          "name": "I John 1:1",
+          "verse": 1,
+          "text": "quod fuit ab initio quod audivimus quod vidimus oculis nostris quod perspeximus et manus nostrae temptaverunt de verbo vitae "
+        },
+        {
+          "name": "I John 1:2",
+          "verse": 2,
+          "text": "et vita manifestata est et vidimus et testamur et adnuntiamus vobis vitam aeternam quae erat apud Patrem et apparuit nobis "
+        },
+        {
+          "name": "I John 1:3",
+          "verse": 3,
+          "text": "quod vidimus et audivimus adnuntiamus et vobis ut et vos societatem habeatis nobiscum et societas nostra sit cum Patre et cum Filio eius Iesu Christo "
+        },
+        {
+          "name": "I John 1:4",
+          "verse": 4,
+          "text": "et haec scribimus vobis ut gaudium nostrum sit plenum "
+        },
+        {
+          "name": "I John 1:5",
+          "verse": 5,
+          "text": "et haec est adnuntiatio quam audivimus ab eo et adnuntiamus vobis quoniam Deus lux est et tenebrae in eo non sunt ullae "
+        },
+        {
+          "name": "I John 1:6",
+          "verse": 6,
+          "text": "si dixerimus quoniam societatem habemus cum eo et in tenebris ambulamus mentimur et non facimus veritatem "
+        },
+        {
+          "name": "I John 1:7",
+          "verse": 7,
+          "text": "si autem in luce ambulemus sicut et ipse est in luce societatem habemus ad invicem et sanguis Iesu Filii eius mundat nos ab omni peccato "
+        },
+        {
+          "name": "I John 1:8",
+          "verse": 8,
+          "text": "si dixerimus quoniam peccatum non habemus ipsi nos seducimus et veritas in nobis non est "
+        },
+        {
+          "name": "I John 1:9",
+          "verse": 9,
+          "text": "si confiteamur peccata nostra fidelis est et iustus ut remittat nobis peccata et emundet nos ab omni iniquitate "
+        },
+        {
+          "name": "I John 1:10",
+          "verse": 10,
+          "text": "si dixerimus quoniam non peccavimus mendacem facimus eum et verbum eius non est in nobis "
+        }
+      ]
+    },
+    {
+      "name": "I John 2",
+      "chapter": 2,
+      "verses": [
+        {
+          "name": "I John 2:1",
+          "verse": 1,
+          "text": "filioli mei haec scribo vobis ut non peccetis sed et si quis peccaverit advocatum habemus apud Patrem Iesum Christum iustum "
+        },
+        {
+          "name": "I John 2:2",
+          "verse": 2,
+          "text": "et ipse est propitiatio pro peccatis nostris non pro nostris autem tantum sed etiam pro totius mundi "
+        },
+        {
+          "name": "I John 2:3",
+          "verse": 3,
+          "text": "et in hoc scimus quoniam cognovimus eum si mandata eius observemus "
+        },
+        {
+          "name": "I John 2:4",
+          "verse": 4,
+          "text": "qui dicit se nosse eum et mandata eius non custodit mendax est in hoc veritas non est "
+        },
+        {
+          "name": "I John 2:5",
+          "verse": 5,
+          "text": "qui autem servat verbum eius vere in hoc caritas Dei perfecta est in hoc scimus quoniam in ipso sumus "
+        },
+        {
+          "name": "I John 2:6",
+          "verse": 6,
+          "text": "qui dicit se in ipso manere debet sicut ille ambulavit et ipse ambulare "
+        },
+        {
+          "name": "I John 2:7",
+          "verse": 7,
+          "text": "carissimi non mandatum novum scribo vobis sed mandatum vetus quod habuistis ab initio mandatum vetus est verbum quod audistis "
+        },
+        {
+          "name": "I John 2:8",
+          "verse": 8,
+          "text": "iterum mandatum novum scribo vobis quod est verum et in ipso et in vobis quoniam tenebrae transeunt et lumen verum iam lucet "
+        },
+        {
+          "name": "I John 2:9",
+          "verse": 9,
+          "text": "qui dicit se in luce esse et fratrem suum odit in tenebris est usque adhuc "
+        },
+        {
+          "name": "I John 2:10",
+          "verse": 10,
+          "text": "qui diligit fratrem suum in lumine manet et scandalum in eo non est "
+        },
+        {
+          "name": "I John 2:11",
+          "verse": 11,
+          "text": "qui autem odit fratrem suum in tenebris est et in tenebris ambulat et nescit quo eat quoniam tenebrae obcaecaverunt oculos eius "
+        },
+        {
+          "name": "I John 2:12",
+          "verse": 12,
+          "text": "scribo vobis filioli quoniam remittuntur vobis peccata propter nomen eius "
+        },
+        {
+          "name": "I John 2:13",
+          "verse": 13,
+          "text": "scribo vobis patres quoniam cognovistis eum qui ab initio est scribo vobis adulescentes quoniam vicistis malignum "
+        },
+        {
+          "name": "I John 2:14",
+          "verse": 14,
+          "text": "scripsi vobis infantes quoniam cognovistis Patrem scripsi vobis patres quia cognovistis eum qui ab initio scripsi vobis adulescentes quia fortes estis et verbum Dei in vobis manet et vicistis malignum "
+        },
+        {
+          "name": "I John 2:15",
+          "verse": 15,
+          "text": "nolite diligere mundum neque ea quae in mundo sunt si quis diligit mundum non est caritas Patris in eo "
+        },
+        {
+          "name": "I John 2:16",
+          "verse": 16,
+          "text": "quoniam omne quod est in mundo concupiscentia carnis et concupiscentia oculorum est et superbia vitae quae non est ex Patre sed ex mundo est "
+        },
+        {
+          "name": "I John 2:17",
+          "verse": 17,
+          "text": "et mundus transit et concupiscentia eius qui autem facit voluntatem Dei manet in aeternum "
+        },
+        {
+          "name": "I John 2:18",
+          "verse": 18,
+          "text": "filioli novissima hora est et sicut audistis quia antichristus venit nunc antichristi multi facti sunt unde scimus quoniam novissima hora est "
+        },
+        {
+          "name": "I John 2:19",
+          "verse": 19,
+          "text": "ex nobis prodierunt sed non erant ex nobis nam si fuissent ex nobis permansissent utique nobiscum sed ut manifesti sint quoniam non sunt omnes ex nobis "
+        },
+        {
+          "name": "I John 2:20",
+          "verse": 20,
+          "text": "sed vos unctionem habetis a Sancto et nostis omnia "
+        },
+        {
+          "name": "I John 2:21",
+          "verse": 21,
+          "text": "non scripsi vobis quasi ignorantibus veritatem sed quasi scientibus eam et quoniam omne mendacium ex veritate non est "
+        },
+        {
+          "name": "I John 2:22",
+          "verse": 22,
+          "text": "quis est mendax nisi is qui negat quoniam Iesus non est Christus hic est antichristus qui negat Patrem et Filium "
+        },
+        {
+          "name": "I John 2:23",
+          "verse": 23,
+          "text": "omnis qui negat Filium nec Patrem habet qui confitetur Filium et Patrem habet "
+        },
+        {
+          "name": "I John 2:24",
+          "verse": 24,
+          "text": "vos quod audistis ab initio in vobis permaneat si in vobis permanserit quod ab initio audistis et vos in Filio et Patre manebitis "
+        },
+        {
+          "name": "I John 2:25",
+          "verse": 25,
+          "text": "et haec est repromissio quam ipse pollicitus est nobis vitam aeternam "
+        },
+        {
+          "name": "I John 2:26",
+          "verse": 26,
+          "text": "haec scripsi vobis de eis qui seducunt vos "
+        },
+        {
+          "name": "I John 2:27",
+          "verse": 27,
+          "text": "et vos unctionem quam accepistis ab eo manet in vobis et non necesse habetis ut aliquis doceat vos sed sicut unctio eius docet vos de omnibus et verum est et non est mendacium et sicut docuit vos manete in eo "
+        },
+        {
+          "name": "I John 2:28",
+          "verse": 28,
+          "text": "et nunc filioli manete in eo ut cum apparuerit habeamus fiduciam et non confundamur ab eo in adventu eius "
+        },
+        {
+          "name": "I John 2:29",
+          "verse": 29,
+          "text": "si scitis quoniam iustus est scitote quoniam et omnis qui facit iustitiam ex ipso natus est "
+        }
+      ]
+    },
+    {
+      "name": "I John 3",
+      "chapter": 3,
+      "verses": [
+        {
+          "name": "I John 3:1",
+          "verse": 1,
+          "text": "videte qualem caritatem dedit nobis Pater ut filii Dei nominemur et sumus propter hoc mundus non novit nos quia non novit eum "
+        },
+        {
+          "name": "I John 3:2",
+          "verse": 2,
+          "text": "carissimi nunc filii Dei sumus et nondum apparuit quid erimus scimus quoniam cum apparuerit similes ei erimus quoniam videbimus eum sicuti est "
+        },
+        {
+          "name": "I John 3:3",
+          "verse": 3,
+          "text": "et omnis qui habet spem hanc in eo sanctificat se sicut et ille sanctus est "
+        },
+        {
+          "name": "I John 3:4",
+          "verse": 4,
+          "text": "omnis qui facit peccatum et iniquitatem facit et peccatum est iniquitas "
+        },
+        {
+          "name": "I John 3:5",
+          "verse": 5,
+          "text": "et scitis quoniam ille apparuit ut peccata tolleret et peccatum in eo non est "
+        },
+        {
+          "name": "I John 3:6",
+          "verse": 6,
+          "text": "omnis qui in eo manet non peccat omnis qui peccat non vidit eum nec cognovit eum "
+        },
+        {
+          "name": "I John 3:7",
+          "verse": 7,
+          "text": "filioli nemo vos seducat qui facit iustitiam iustus est sicut et ille iustus est "
+        },
+        {
+          "name": "I John 3:8",
+          "verse": 8,
+          "text": "qui facit peccatum ex diabolo est quoniam ab initio diabolus peccat in hoc apparuit Filius Dei ut dissolvat opera diaboli "
+        },
+        {
+          "name": "I John 3:9",
+          "verse": 9,
+          "text": "omnis qui natus est ex Deo peccatum non facit quoniam semen ipsius in eo manet et non potest peccare quoniam ex Deo natus est "
+        },
+        {
+          "name": "I John 3:10",
+          "verse": 10,
+          "text": "in hoc manifesti sunt filii Dei et filii diaboli omnis qui non est iustus non est de Deo et qui non diligit fratrem suum "
+        },
+        {
+          "name": "I John 3:11",
+          "verse": 11,
+          "text": "quoniam haec est adnuntiatio quam audistis ab initio ut diligamus alterutrum "
+        },
+        {
+          "name": "I John 3:12",
+          "verse": 12,
+          "text": "non sicut Cain ex maligno erat et occidit fratrem suum et propter quid occidit eum quoniam opera eius maligna erant fratris autem eius iusta "
+        },
+        {
+          "name": "I John 3:13",
+          "verse": 13,
+          "text": "nolite mirari fratres si odit vos mundus "
+        },
+        {
+          "name": "I John 3:14",
+          "verse": 14,
+          "text": "nos scimus quoniam translati sumus de morte in vitam quoniam diligimus fratres qui non diligit manet in morte "
+        },
+        {
+          "name": "I John 3:15",
+          "verse": 15,
+          "text": "omnis qui odit fratrem suum homicida est et scitis quoniam omnis homicida non habet vitam aeternam in se manentem "
+        },
+        {
+          "name": "I John 3:16",
+          "verse": 16,
+          "text": "in hoc cognovimus caritatem quoniam ille pro nobis animam suam posuit et nos debemus pro fratribus animas ponere "
+        },
+        {
+          "name": "I John 3:17",
+          "verse": 17,
+          "text": "qui habuerit substantiam mundi et viderit fratrem suum necesse habere et clauserit viscera sua ab eo quomodo caritas Dei manet in eo "
+        },
+        {
+          "name": "I John 3:18",
+          "verse": 18,
+          "text": "filioli non diligamus verbo nec lingua sed opere et veritate "
+        },
+        {
+          "name": "I John 3:19",
+          "verse": 19,
+          "text": "in hoc cognoscimus quoniam ex veritate sumus et in conspectu eius suadeamus corda nostra "
+        },
+        {
+          "name": "I John 3:20",
+          "verse": 20,
+          "text": "quoniam si reprehenderit nos cor maior est Deus corde nostro et novit omnia "
+        },
+        {
+          "name": "I John 3:21",
+          "verse": 21,
+          "text": "carissimi si cor non reprehenderit nos fiduciam habemus ad Deum "
+        },
+        {
+          "name": "I John 3:22",
+          "verse": 22,
+          "text": "et quodcumque petierimus accipiemus ab eo quoniam mandata eius custodimus et ea quae sunt placita coram eo facimus "
+        },
+        {
+          "name": "I John 3:23",
+          "verse": 23,
+          "text": "et hoc est mandatum eius ut credamus in nomine Filii eius Iesu Christi et diligamus alterutrum sicut dedit mandatum nobis "
+        },
+        {
+          "name": "I John 3:24",
+          "verse": 24,
+          "text": "et qui servat mandata eius in illo manet et ipse in eo et in hoc scimus quoniam manet in nobis de Spiritu quem nobis dedit "
+        }
+      ]
+    },
+    {
+      "name": "I John 4",
+      "chapter": 4,
+      "verses": [
+        {
+          "name": "I John 4:1",
+          "verse": 1,
+          "text": "carissimi nolite omni spiritui credere sed probate spiritus si ex Deo sint quoniam multi pseudoprophetae exierunt in mundum "
+        },
+        {
+          "name": "I John 4:2",
+          "verse": 2,
+          "text": "in hoc cognoscitur Spiritus Dei omnis spiritus qui confitetur Iesum Christum in carne venisse ex Deo est "
+        },
+        {
+          "name": "I John 4:3",
+          "verse": 3,
+          "text": "et omnis spiritus qui solvit Iesum ex Deo non est et hoc est antichristi quod audistis quoniam venit et nunc iam in mundo est "
+        },
+        {
+          "name": "I John 4:4",
+          "verse": 4,
+          "text": "vos ex Deo estis filioli et vicistis eos quoniam maior est qui in vobis est quam qui in mundo "
+        },
+        {
+          "name": "I John 4:5",
+          "verse": 5,
+          "text": "ipsi de mundo sunt ideo de mundo loquuntur et mundus eos audit "
+        },
+        {
+          "name": "I John 4:6",
+          "verse": 6,
+          "text": "nos ex Deo sumus qui novit Deum audit nos qui non est ex Deo non audit nos in hoc cognoscimus Spiritum veritatis et spiritum erroris "
+        },
+        {
+          "name": "I John 4:7",
+          "verse": 7,
+          "text": "carissimi diligamus invicem quoniam caritas ex Deo est et omnis qui diligit ex Deo natus est et cognoscit Deum "
+        },
+        {
+          "name": "I John 4:8",
+          "verse": 8,
+          "text": "qui non diligit non novit Deum quoniam Deus caritas est "
+        },
+        {
+          "name": "I John 4:9",
+          "verse": 9,
+          "text": "in hoc apparuit caritas Dei in nobis quoniam Filium suum unigenitum misit Deus in mundum ut vivamus per eum "
+        },
+        {
+          "name": "I John 4:10",
+          "verse": 10,
+          "text": "in hoc est caritas non quasi nos dilexerimus Deum sed quoniam ipse dilexit nos et misit Filium suum propitiationem pro peccatis nostris "
+        },
+        {
+          "name": "I John 4:11",
+          "verse": 11,
+          "text": "carissimi si sic Deus dilexit nos et nos debemus alterutrum diligere "
+        },
+        {
+          "name": "I John 4:12",
+          "verse": 12,
+          "text": "Deum nemo vidit umquam si diligamus invicem Deus in nobis manet et caritas eius in nobis perfecta est "
+        },
+        {
+          "name": "I John 4:13",
+          "verse": 13,
+          "text": "in hoc intellegimus quoniam in eo manemus et ipse in nobis quoniam de Spiritu suo dedit nobis "
+        },
+        {
+          "name": "I John 4:14",
+          "verse": 14,
+          "text": "et nos vidimus et testificamur quoniam Pater misit Filium salvatorem mundi "
+        },
+        {
+          "name": "I John 4:15",
+          "verse": 15,
+          "text": "quisque confessus fuerit quoniam Iesus est Filius Dei Deus in eo manet et ipse in Deo "
+        },
+        {
+          "name": "I John 4:16",
+          "verse": 16,
+          "text": "et nos cognovimus et credidimus caritati quam habet Deus in nobis Deus caritas est et qui manet in caritate in Deo manet et Deus in eo "
+        },
+        {
+          "name": "I John 4:17",
+          "verse": 17,
+          "text": "in hoc perfecta est caritas nobiscum ut fiduciam habeamus in die iudicii quia sicut ille est et nos sumus in hoc mundo "
+        },
+        {
+          "name": "I John 4:18",
+          "verse": 18,
+          "text": "timor non est in caritate sed perfecta caritas foras mittit timorem quoniam timor poenam habet qui autem timet non est perfectus in caritate "
+        },
+        {
+          "name": "I John 4:19",
+          "verse": 19,
+          "text": "nos ergo diligamus quoniam Deus prior dilexit nos "
+        },
+        {
+          "name": "I John 4:20",
+          "verse": 20,
+          "text": "si quis dixerit quoniam diligo Deum et fratrem suum oderit mendax est qui enim non diligit fratrem suum quem vidit Deum quem non vidit quomodo potest diligere "
+        },
+        {
+          "name": "I John 4:21",
+          "verse": 21,
+          "text": "et hoc mandatum habemus ab eo ut qui diligit Deum diligat et fratrem suum "
+        }
+      ]
+    },
+    {
+      "name": "I John 5",
+      "chapter": 5,
+      "verses": [
+        {
+          "name": "I John 5:1",
+          "verse": 1,
+          "text": "omnis qui credit quoniam Iesus est Christus ex Deo natus est et omnis qui diligit eum qui genuit diligit eum qui natus est ex eo "
+        },
+        {
+          "name": "I John 5:2",
+          "verse": 2,
+          "text": "in hoc cognoscimus quoniam diligimus natos Dei cum Deum diligamus et mandata eius faciamus "
+        },
+        {
+          "name": "I John 5:3",
+          "verse": 3,
+          "text": "haec est enim caritas Dei ut mandata eius custodiamus et mandata eius gravia non sunt "
+        },
+        {
+          "name": "I John 5:4",
+          "verse": 4,
+          "text": "quoniam omne quod natum est ex Deo vincit mundum et haec est victoria quae vincit mundum fides nostra "
+        },
+        {
+          "name": "I John 5:5",
+          "verse": 5,
+          "text": "quis est qui vincit mundum nisi qui credit quoniam Iesus est Filius Dei "
+        },
+        {
+          "name": "I John 5:6",
+          "verse": 6,
+          "text": "hic est qui venit per aquam et sanguinem Iesus Christus non in aqua solum sed in aqua et sanguine et Spiritus est qui testificatur quoniam Christus est veritas "
+        },
+        {
+          "name": "I John 5:7",
+          "verse": 7,
+          "text": "quia tres sunt qui testimonium dant "
+        },
+        {
+          "name": "I John 5:8",
+          "verse": 8,
+          "text": "Spiritus et aqua et sanguis et tres unum sunt "
+        },
+        {
+          "name": "I John 5:9",
+          "verse": 9,
+          "text": "si testimonium hominum accipimus testimonium Dei maius est quoniam hoc est testimonium Dei quod maius est quia testificatus est de Filio suo "
+        },
+        {
+          "name": "I John 5:10",
+          "verse": 10,
+          "text": "qui credit in Filio Dei habet testimonium Dei in se qui non credit Filio mendacem facit eum quoniam non credidit in testimonio quod testificatus est Deus de Filio suo "
+        },
+        {
+          "name": "I John 5:11",
+          "verse": 11,
+          "text": "et hoc est testimonium quoniam vitam aeternam dedit nobis Deus et haec vita in Filio eius est "
+        },
+        {
+          "name": "I John 5:12",
+          "verse": 12,
+          "text": "qui habet Filium habet vitam qui non habet Filium Dei vitam non habet "
+        },
+        {
+          "name": "I John 5:13",
+          "verse": 13,
+          "text": "haec scripsi vobis ut sciatis quoniam vitam habetis aeternam qui creditis in nomine Filii Dei "
+        },
+        {
+          "name": "I John 5:14",
+          "verse": 14,
+          "text": "et haec est fiducia quam habemus ad eum quia quodcumque petierimus secundum voluntatem eius audit nos "
+        },
+        {
+          "name": "I John 5:15",
+          "verse": 15,
+          "text": "et scimus quoniam audit nos quicquid petierimus scimus quoniam habemus petitiones quas postulavimus ab eo "
+        },
+        {
+          "name": "I John 5:16",
+          "verse": 16,
+          "text": "qui scit fratrem suum peccare peccatum non ad mortem petet et dabit ei vitam peccantibus non ad mortem est peccatum ad mortem non pro illo dico ut roget "
+        },
+        {
+          "name": "I John 5:17",
+          "verse": 17,
+          "text": "omnis iniquitas peccatum est et est peccatum non ad mortem "
+        },
+        {
+          "name": "I John 5:18",
+          "verse": 18,
+          "text": "scimus quoniam omnis qui natus est ex Deo non peccat sed generatio Dei conservat eum et malignus non tangit eum "
+        },
+        {
+          "name": "I John 5:19",
+          "verse": 19,
+          "text": "scimus quoniam ex Deo sumus et mundus totus in maligno positus est "
+        },
+        {
+          "name": "I John 5:20",
+          "verse": 20,
+          "text": "et scimus quoniam Filius Dei venit et dedit nobis sensum ut cognoscamus verum Deum et simus in vero Filio eius hic est verus Deus et vita aeterna "
+        },
+        {
+          "name": "I John 5:21",
+          "verse": 21,
+          "text": "filioli custodite vos a simulacris  "
+        }
+      ]
+    }
+  ]
+}

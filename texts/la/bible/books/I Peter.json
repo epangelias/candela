@@ -1,0 +1,561 @@
+{
+  "name": "I Peter",
+  "order": 67,
+  "chapters": [
+    {
+      "name": "I Peter 1",
+      "chapter": 1,
+      "verses": [
+        {
+          "name": "I Peter 1:1",
+          "verse": 1,
+          "text": "Petrus apostolus Iesu Christi electis advenis dispersionis Ponti Galatiae Cappadociae Asiae et Bithyniae "
+        },
+        {
+          "name": "I Peter 1:2",
+          "verse": 2,
+          "text": "secundum praescientiam Dei Patris in sanctificatione Spiritus in oboedientiam et aspersionem sanguinis Iesu Christi gratia vobis et pax multiplicetur "
+        },
+        {
+          "name": "I Peter 1:3",
+          "verse": 3,
+          "text": "benedictus Deus et Pater Domini nostri Iesu Christi qui secundum magnam misericordiam suam regeneravit nos in spem vivam per resurrectionem Iesu Christi ex mortuis "
+        },
+        {
+          "name": "I Peter 1:4",
+          "verse": 4,
+          "text": "in hereditatem incorruptibilem et incontaminatam et inmarcescibilem conservatam in caelis in vobis "
+        },
+        {
+          "name": "I Peter 1:5",
+          "verse": 5,
+          "text": "qui in virtute Dei custodimini per fidem in salutem paratam revelari in tempore novissimo "
+        },
+        {
+          "name": "I Peter 1:6",
+          "verse": 6,
+          "text": "in quo exultatis modicum nunc si oportet contristati in variis temptationibus "
+        },
+        {
+          "name": "I Peter 1:7",
+          "verse": 7,
+          "text": "ut probatum vestrae fidei multo pretiosius sit auro quod perit per ignem probato inveniatur in laudem et gloriam et honorem in revelatione Iesu Christi "
+        },
+        {
+          "name": "I Peter 1:8",
+          "verse": 8,
+          "text": "quem cum non videritis diligitis in quem nunc quoque non videntes credentes autem exultatis laetitia inenarrabili et glorificata "
+        },
+        {
+          "name": "I Peter 1:9",
+          "verse": 9,
+          "text": "reportantes finem fidei vestrae salutem animarum "
+        },
+        {
+          "name": "I Peter 1:10",
+          "verse": 10,
+          "text": "de qua salute exquisierunt atque scrutati sunt prophetae qui de futura in vobis gratia prophetaverunt "
+        },
+        {
+          "name": "I Peter 1:11",
+          "verse": 11,
+          "text": "scrutantes in quod vel quale tempus significaret in eis Spiritus Christi praenuntians eas quae in Christo sunt passiones et posteriores glorias "
+        },
+        {
+          "name": "I Peter 1:12",
+          "verse": 12,
+          "text": "quibus revelatum est quia non sibi ipsis vobis autem ministrabant ea quae nunc nuntiata sunt vobis per eos qui evangelizaverunt vos Spiritu Sancto misso de caelo in quae desiderant angeli prospicere "
+        },
+        {
+          "name": "I Peter 1:13",
+          "verse": 13,
+          "text": "propter quod succincti lumbos mentis vestrae sobrii perfecte sperate in eam quae offertur vobis gratiam in revelatione Iesu Christi "
+        },
+        {
+          "name": "I Peter 1:14",
+          "verse": 14,
+          "text": "quasi filii oboedientiae non configurati prioribus ignorantiae vestrae desideriis "
+        },
+        {
+          "name": "I Peter 1:15",
+          "verse": 15,
+          "text": "sed secundum eum qui vocavit vos sanctum et ipsi sancti in omni conversatione sitis "
+        },
+        {
+          "name": "I Peter 1:16",
+          "verse": 16,
+          "text": "quoniam scriptum est sancti eritis quia ego sanctus sum "
+        },
+        {
+          "name": "I Peter 1:17",
+          "verse": 17,
+          "text": "et si Patrem invocatis eum qui sine acceptione personarum iudicat secundum uniuscuiusque opus in timore incolatus vestri tempore conversamini "
+        },
+        {
+          "name": "I Peter 1:18",
+          "verse": 18,
+          "text": "scientes quod non corruptibilibus argento vel auro redempti estis de vana vestra conversatione paternae traditionis "
+        },
+        {
+          "name": "I Peter 1:19",
+          "verse": 19,
+          "text": "sed pretioso sanguine quasi agni incontaminati et inmaculati Christi "
+        },
+        {
+          "name": "I Peter 1:20",
+          "verse": 20,
+          "text": "praecogniti quidem ante constitutionem mundi manifestati autem novissimis temporibus propter vos "
+        },
+        {
+          "name": "I Peter 1:21",
+          "verse": 21,
+          "text": "qui per ipsum fideles estis in Deo qui suscitavit eum a mortuis et dedit ei gloriam ut fides vestra et spes esset in Deo "
+        },
+        {
+          "name": "I Peter 1:22",
+          "verse": 22,
+          "text": "animas vestras castificantes in oboedientia caritatis in fraternitatis amore simplici ex corde invicem diligite adtentius "
+        },
+        {
+          "name": "I Peter 1:23",
+          "verse": 23,
+          "text": "renati non ex semine corruptibili sed incorruptibili per verbum Dei vivi et permanentis "
+        },
+        {
+          "name": "I Peter 1:24",
+          "verse": 24,
+          "text": "quia omnis caro ut faenum et omnis gloria eius tamquam flos faeni exaruit faenum et flos decidit "
+        },
+        {
+          "name": "I Peter 1:25",
+          "verse": 25,
+          "text": "verbum autem Domini manet in aeternum hoc est autem verbum quod evangelizatum est in vos "
+        }
+      ]
+    },
+    {
+      "name": "I Peter 2",
+      "chapter": 2,
+      "verses": [
+        {
+          "name": "I Peter 2:1",
+          "verse": 1,
+          "text": "deponentes igitur omnem malitiam et omnem dolum et simulationes et invidias et omnes detractiones "
+        },
+        {
+          "name": "I Peter 2:2",
+          "verse": 2,
+          "text": "sicut modo geniti infantes rationale sine dolo lac concupiscite ut in eo crescatis in salutem "
+        },
+        {
+          "name": "I Peter 2:3",
+          "verse": 3,
+          "text": "si gustastis quoniam dulcis Dominus "
+        },
+        {
+          "name": "I Peter 2:4",
+          "verse": 4,
+          "text": "ad quem accedentes lapidem vivum ab hominibus quidem reprobatum a Deo autem electum honorificatum "
+        },
+        {
+          "name": "I Peter 2:5",
+          "verse": 5,
+          "text": "et ipsi tamquam lapides vivi superaedificamini domus spiritalis sacerdotium sanctum offerre spiritales hostias acceptabiles Deo per Iesum Christum "
+        },
+        {
+          "name": "I Peter 2:6",
+          "verse": 6,
+          "text": "propter quod continet in scriptura ecce pono in Sion lapidem summum angularem electum pretiosum et qui crediderit in eo non confundetur "
+        },
+        {
+          "name": "I Peter 2:7",
+          "verse": 7,
+          "text": "vobis igitur honor credentibus non credentibus autem lapis quem reprobaverunt aedificantes hic factus est in caput anguli "
+        },
+        {
+          "name": "I Peter 2:8",
+          "verse": 8,
+          "text": "et lapis offensionis et petra scandali qui offendunt verbo nec credunt in quod et positi sunt "
+        },
+        {
+          "name": "I Peter 2:9",
+          "verse": 9,
+          "text": "vos autem genus electum regale sacerdotium gens sancta populus adquisitionis ut virtutes adnuntietis eius qui de tenebris vos vocavit in admirabile lumen suum "
+        },
+        {
+          "name": "I Peter 2:10",
+          "verse": 10,
+          "text": "qui aliquando non populus nunc autem populus Dei qui non consecuti misericordiam nunc autem misericordiam consecuti "
+        },
+        {
+          "name": "I Peter 2:11",
+          "verse": 11,
+          "text": "carissimi obsecro tamquam advenas et peregrinos abstinere vos a carnalibus desideriis quae militant adversus animam "
+        },
+        {
+          "name": "I Peter 2:12",
+          "verse": 12,
+          "text": "conversationem vestram inter gentes habentes bonam ut in eo quod detractant de vobis tamquam de malefactoribus ex bonis operibus considerantes glorificent Deum in die visitationis "
+        },
+        {
+          "name": "I Peter 2:13",
+          "verse": 13,
+          "text": "subiecti estote omni humanae creaturae propter Dominum sive regi quasi praecellenti "
+        },
+        {
+          "name": "I Peter 2:14",
+          "verse": 14,
+          "text": "sive ducibus tamquam ab eo missis ad vindictam malefactorum laudem vero bonorum "
+        },
+        {
+          "name": "I Peter 2:15",
+          "verse": 15,
+          "text": "quia sic est voluntas Dei ut benefacientes obmutescere faciatis inprudentium hominum ignorantiam "
+        },
+        {
+          "name": "I Peter 2:16",
+          "verse": 16,
+          "text": "quasi liberi et non quasi velamen habentes malitiae libertatem sed sicut servi Dei "
+        },
+        {
+          "name": "I Peter 2:17",
+          "verse": 17,
+          "text": "omnes honorate fraternitatem diligite Deum timete regem honorificate "
+        },
+        {
+          "name": "I Peter 2:18",
+          "verse": 18,
+          "text": "servi subditi in omni timore dominis non tantum bonis et modestis sed etiam discolis "
+        },
+        {
+          "name": "I Peter 2:19",
+          "verse": 19,
+          "text": "haec est enim gratia si propter conscientiam Dei sustinet quis tristitias patiens iniuste "
+        },
+        {
+          "name": "I Peter 2:20",
+          "verse": 20,
+          "text": "quae enim gloria est si peccantes et colaphizati suffertis sed si benefacientes et patientes sustinetis haec est gratia apud Deum "
+        },
+        {
+          "name": "I Peter 2:21",
+          "verse": 21,
+          "text": "in hoc enim vocati estis quia et Christus passus est pro vobis vobis relinquens exemplum ut sequamini vestigia eius "
+        },
+        {
+          "name": "I Peter 2:22",
+          "verse": 22,
+          "text": "qui peccatum non fecit nec inventus est dolus in ore ipsius "
+        },
+        {
+          "name": "I Peter 2:23",
+          "verse": 23,
+          "text": "qui cum malediceretur non maledicebat cum pateretur non comminabatur tradebat autem iudicanti se iniuste "
+        },
+        {
+          "name": "I Peter 2:24",
+          "verse": 24,
+          "text": "qui peccata nostra ipse pertulit in corpore suo super lignum ut peccatis mortui iustitiae viveremus cuius livore sanati estis "
+        },
+        {
+          "name": "I Peter 2:25",
+          "verse": 25,
+          "text": "eratis enim sicut oves errantes sed conversi estis nunc ad pastorem et episcopum animarum vestrarum "
+        }
+      ]
+    },
+    {
+      "name": "I Peter 3",
+      "chapter": 3,
+      "verses": [
+        {
+          "name": "I Peter 3:1",
+          "verse": 1,
+          "text": "similiter mulieres subditae suis viris ut et si qui non credunt verbo per mulierum conversationem sine verbo lucri fiant "
+        },
+        {
+          "name": "I Peter 3:2",
+          "verse": 2,
+          "text": "considerantes in timore castam conversationem vestram "
+        },
+        {
+          "name": "I Peter 3:3",
+          "verse": 3,
+          "text": "quarum sit non extrinsecus capillaturae aut circumdatio auri aut indumenti vestimentorum cultus "
+        },
+        {
+          "name": "I Peter 3:4",
+          "verse": 4,
+          "text": "sed qui absconditus cordis est homo in incorruptibilitate quieti et modesti spiritus quod est in conspectu Dei locuples "
+        },
+        {
+          "name": "I Peter 3:5",
+          "verse": 5,
+          "text": "sic enim aliquando et sanctae mulieres sperantes in Deo ornabant se subiectae propriis viris "
+        },
+        {
+          "name": "I Peter 3:6",
+          "verse": 6,
+          "text": "sicut Sarra oboediebat Abrahae dominum eum vocans cuius estis filiae benefacientes et non timentes ullam perturbationem "
+        },
+        {
+          "name": "I Peter 3:7",
+          "verse": 7,
+          "text": "viri similiter cohabitantes secundum scientiam quasi infirmiori vaso muliebri inpertientes honorem tamquam et coheredibus gratiae vitae uti ne inpediantur orationes vestrae "
+        },
+        {
+          "name": "I Peter 3:8",
+          "verse": 8,
+          "text": "in fine autem omnes unianimes conpatientes fraternitatis amatores misericordes humiles "
+        },
+        {
+          "name": "I Peter 3:9",
+          "verse": 9,
+          "text": "non reddentes malum pro malo vel maledictum pro maledicto sed e contrario benedicentes quia in hoc vocati estis ut benedictionem hereditate possideatis "
+        },
+        {
+          "name": "I Peter 3:10",
+          "verse": 10,
+          "text": "qui enim vult vitam diligere et videre dies bonos coerceat linguam suam a malo et labia eius ne loquantur dolum "
+        },
+        {
+          "name": "I Peter 3:11",
+          "verse": 11,
+          "text": "declinet autem a malo et faciat bonum inquirat pacem et persequatur eam "
+        },
+        {
+          "name": "I Peter 3:12",
+          "verse": 12,
+          "text": "quia oculi Domini super iustos et aures eius in preces eorum vultus autem Domini super facientes mala "
+        },
+        {
+          "name": "I Peter 3:13",
+          "verse": 13,
+          "text": "et quis est qui vobis noceat si boni aemulatores fueritis "
+        },
+        {
+          "name": "I Peter 3:14",
+          "verse": 14,
+          "text": "sed et si quid patimini propter iustitiam beati timorem autem eorum ne timueritis et non conturbemini "
+        },
+        {
+          "name": "I Peter 3:15",
+          "verse": 15,
+          "text": "Dominum autem Christum sanctificate in cordibus vestris parati semper ad satisfactionem omni poscenti vos rationem de ea quae in vobis est spe "
+        },
+        {
+          "name": "I Peter 3:16",
+          "verse": 16,
+          "text": "sed cum modestia et timore conscientiam habentes bonam ut in eo quod detrahunt vobis confundantur qui calumniantur vestram bonam in Christo conversationem "
+        },
+        {
+          "name": "I Peter 3:17",
+          "verse": 17,
+          "text": "melius est enim benefacientes si velit voluntas Dei pati quam malefacientes "
+        },
+        {
+          "name": "I Peter 3:18",
+          "verse": 18,
+          "text": "quia et Christus semel pro peccatis mortuus est iustus pro iniustis ut nos offerret Deo mortificatus carne vivificatus autem spiritu "
+        },
+        {
+          "name": "I Peter 3:19",
+          "verse": 19,
+          "text": "in quo et his qui in carcere erant spiritibus veniens praedicavit "
+        },
+        {
+          "name": "I Peter 3:20",
+          "verse": 20,
+          "text": "qui increduli fuerant aliquando quando expectabat Dei patientia in diebus Noe cum fabricaretur arca in qua pauci id est octo animae salvae factae sunt per aquam "
+        },
+        {
+          "name": "I Peter 3:21",
+          "verse": 21,
+          "text": "quod et vos nunc similis formae salvos facit baptisma non carnis depositio sordium sed conscientiae bonae interrogatio in Deum per resurrectionem Iesu Christi "
+        },
+        {
+          "name": "I Peter 3:22",
+          "verse": 22,
+          "text": "qui est in dextera Dei profectus in caelum subiectis sibi angelis et potestatibus et virtutibus "
+        }
+      ]
+    },
+    {
+      "name": "I Peter 4",
+      "chapter": 4,
+      "verses": [
+        {
+          "name": "I Peter 4:1",
+          "verse": 1,
+          "text": "Christo igitur passo in carne et vos eadem cogitatione armamini quia qui passus est carne desiit a peccatis "
+        },
+        {
+          "name": "I Peter 4:2",
+          "verse": 2,
+          "text": "ut iam non hominum desideriis sed voluntate Dei quod reliquum est in carne vivat temporis "
+        },
+        {
+          "name": "I Peter 4:3",
+          "verse": 3,
+          "text": "sufficit enim praeteritum tempus ad voluntatem gentium consummandam qui ambulaverunt in luxuriis desideriis vinolentiis comesationibus potationibus et inlicitis idolorum cultibus "
+        },
+        {
+          "name": "I Peter 4:4",
+          "verse": 4,
+          "text": "in quo peregrinantur non concurrentibus vobis in eandem luxuriae confusionem blasphemantes "
+        },
+        {
+          "name": "I Peter 4:5",
+          "verse": 5,
+          "text": "qui reddent rationem ei qui paratus est iudicare vivos et mortuos "
+        },
+        {
+          "name": "I Peter 4:6",
+          "verse": 6,
+          "text": "propter hoc enim et mortuis evangelizatum est ut iudicentur quidem secundum homines in carne vivant autem secundum Deum spiritu "
+        },
+        {
+          "name": "I Peter 4:7",
+          "verse": 7,
+          "text": "omnium autem finis adpropinquavit estote itaque prudentes et vigilate in orationibus "
+        },
+        {
+          "name": "I Peter 4:8",
+          "verse": 8,
+          "text": "ante omnia mutuam in vosmet ipsos caritatem continuam habentes quia caritas operit multitudinem peccatorum "
+        },
+        {
+          "name": "I Peter 4:9",
+          "verse": 9,
+          "text": "hospitales invicem sine murmuratione "
+        },
+        {
+          "name": "I Peter 4:10",
+          "verse": 10,
+          "text": "unusquisque sicut accepit gratiam in alterutrum illam administrantes sicut boni dispensatores multiformis gratiae Dei "
+        },
+        {
+          "name": "I Peter 4:11",
+          "verse": 11,
+          "text": "si quis loquitur quasi sermones Dei si quis ministrat tamquam ex virtute quam administrat Deus ut in omnibus honorificetur Deus per Iesum Christum cui est gloria et imperium in saecula saeculorum amen "
+        },
+        {
+          "name": "I Peter 4:12",
+          "verse": 12,
+          "text": "carissimi nolite peregrinari in fervore qui ad temptationem vobis fit quasi novi aliquid vobis contingat "
+        },
+        {
+          "name": "I Peter 4:13",
+          "verse": 13,
+          "text": "sed communicantes Christi passionibus gaudete ut et in revelatione gloriae eius gaudeatis exultantes "
+        },
+        {
+          "name": "I Peter 4:14",
+          "verse": 14,
+          "text": "si exprobramini in nomine Christi beati quoniam gloriae Dei Spiritus in vobis requiescit "
+        },
+        {
+          "name": "I Peter 4:15",
+          "verse": 15,
+          "text": "nemo enim vestrum patiatur quasi homicida aut fur aut maledicus aut alienorum appetitor "
+        },
+        {
+          "name": "I Peter 4:16",
+          "verse": 16,
+          "text": "si autem ut Christianus non erubescat glorificet autem Deum in isto nomine "
+        },
+        {
+          "name": "I Peter 4:17",
+          "verse": 17,
+          "text": "quoniam tempus ut incipiat iudicium de domo Dei si autem primum a nobis qui finis eorum qui non credunt Dei evangelio "
+        },
+        {
+          "name": "I Peter 4:18",
+          "verse": 18,
+          "text": "et si iustus vix salvatur impius et peccator ubi parebit "
+        },
+        {
+          "name": "I Peter 4:19",
+          "verse": 19,
+          "text": "itaque et hii qui patiuntur secundum voluntatem Dei fideli creatori commendant animas suas in benefactis "
+        }
+      ]
+    },
+    {
+      "name": "I Peter 5",
+      "chapter": 5,
+      "verses": [
+        {
+          "name": "I Peter 5:1",
+          "verse": 1,
+          "text": "seniores ergo qui in vobis sunt obsecro consenior et testis Christi passionum qui et eius quae in futuro revelanda est gloriae communicator "
+        },
+        {
+          "name": "I Peter 5:2",
+          "verse": 2,
+          "text": "pascite qui est in vobis gregem Dei providentes non coacto sed spontanee secundum Deum neque turpis lucri gratia sed voluntarie "
+        },
+        {
+          "name": "I Peter 5:3",
+          "verse": 3,
+          "text": "neque ut dominantes in cleris sed formae facti gregi et ex animo "
+        },
+        {
+          "name": "I Peter 5:4",
+          "verse": 4,
+          "text": "et cum apparuerit princeps pastorum percipietis inmarcescibilem gloriae coronam "
+        },
+        {
+          "name": "I Peter 5:5",
+          "verse": 5,
+          "text": "similiter adulescentes subditi estote senioribus omnes autem invicem humilitatem insinuate quia Deus superbis resistit humilibus autem dat gratiam "
+        },
+        {
+          "name": "I Peter 5:6",
+          "verse": 6,
+          "text": "humiliamini igitur sub potenti manu Dei ut vos exaltet in tempore visitationis "
+        },
+        {
+          "name": "I Peter 5:7",
+          "verse": 7,
+          "text": "omnem sollicitudinem vestram proicientes in eum quoniam ipsi cura est de vobis "
+        },
+        {
+          "name": "I Peter 5:8",
+          "verse": 8,
+          "text": "sobrii estote vigilate quia adversarius vester diabolus tamquam leo rugiens circuit quaerens quem devoret "
+        },
+        {
+          "name": "I Peter 5:9",
+          "verse": 9,
+          "text": "cui resistite fortes fide scientes eadem passionum ei quae in mundo est vestrae fraternitati fieri "
+        },
+        {
+          "name": "I Peter 5:10",
+          "verse": 10,
+          "text": "Deus autem omnis gratiae qui vocavit nos in aeternam suam gloriam in Christo Iesu modicum passos ipse perficiet confirmabit solidabit "
+        },
+        {
+          "name": "I Peter 5:11",
+          "verse": 11,
+          "text": "ipsi imperium in saecula saeculorum amen "
+        },
+        {
+          "name": "I Peter 5:12",
+          "verse": 12,
+          "text": "per Silvanum vobis fidelem fratrem ut arbitror breviter scripsi obsecrans et contestans hanc esse veram gratiam Dei in qua state "
+        },
+        {
+          "name": "I Peter 5:13",
+          "verse": 13,
+          "text": "salutat vos quae est in Babylone cumelecta et Marcus filius meus "
+        },
+        {
+          "name": "I Peter 5:14",
+          "verse": 14,
+          "text": "salutate invicem in osculo sancto gratia vobis omnibus qui estis in Christo  "
+        }
+      ]
+    }
+  ]
+}

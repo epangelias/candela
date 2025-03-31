@@ -1,0 +1,3487 @@
+{
+  "name": "Mark",
+  "order": 48,
+  "chapters": [
+    {
+      "name": "Mark 1",
+      "chapter": 1,
+      "verses": [
+        {
+          "name": "Mark 1:1",
+          "verse": 1,
+          "text": "initium evangelii Iesu Christi Filii Dei "
+        },
+        {
+          "name": "Mark 1:2",
+          "verse": 2,
+          "text": "sicut scriptum est in Esaia propheta ecce mitto angelum meum ante faciem tuam qui praeparabit viam tuam "
+        },
+        {
+          "name": "Mark 1:3",
+          "verse": 3,
+          "text": "vox clamantis in deserto parate viam Domini rectas facite semitas eius "
+        },
+        {
+          "name": "Mark 1:4",
+          "verse": 4,
+          "text": "fuit Iohannes in deserto baptizans et praedicans baptismum paenitentiae in remissionem peccatorum "
+        },
+        {
+          "name": "Mark 1:5",
+          "verse": 5,
+          "text": "et egrediebatur ad illum omnis Iudaeae regio et Hierosolymitae universi et baptizabantur ab illo in Iordane flumine confitentes peccata sua "
+        },
+        {
+          "name": "Mark 1:6",
+          "verse": 6,
+          "text": "et erat Iohannes vestitus pilis cameli et zona pellicia circa lumbos eius et lucustas et mel silvestre edebat "
+        },
+        {
+          "name": "Mark 1:7",
+          "verse": 7,
+          "text": "et praedicabat dicens venit fortior me post me cuius non sum dignus procumbens solvere corrigiam calciamentorum eius "
+        },
+        {
+          "name": "Mark 1:8",
+          "verse": 8,
+          "text": "ego baptizavi vos aqua ille vero baptizabit vos Spiritu Sancto "
+        },
+        {
+          "name": "Mark 1:9",
+          "verse": 9,
+          "text": "et factum est in diebus illis venit Iesus a Nazareth Galilaeae et baptizatus est in Iordane ab Iohanne "
+        },
+        {
+          "name": "Mark 1:10",
+          "verse": 10,
+          "text": "et statim ascendens de aqua vidit apertos caelos et Spiritum tamquam columbam descendentem et manentem in ipso "
+        },
+        {
+          "name": "Mark 1:11",
+          "verse": 11,
+          "text": "et vox facta est de caelis tu es Filius meus dilectus in te conplacui "
+        },
+        {
+          "name": "Mark 1:12",
+          "verse": 12,
+          "text": "et statim Spiritus expellit eum in desertum "
+        },
+        {
+          "name": "Mark 1:13",
+          "verse": 13,
+          "text": "et erat in deserto quadraginta diebus et quadraginta noctibus et temptabatur a Satana eratque cum bestiis et angeli ministrabant illi "
+        },
+        {
+          "name": "Mark 1:14",
+          "verse": 14,
+          "text": "postquam autem traditus est Iohannes venit Iesus in Galilaeam praedicans evangelium regni Dei "
+        },
+        {
+          "name": "Mark 1:15",
+          "verse": 15,
+          "text": "et dicens quoniam impletum est tempus et adpropinquavit regnum Dei paenitemini et credite evangelio "
+        },
+        {
+          "name": "Mark 1:16",
+          "verse": 16,
+          "text": "et praeteriens secus mare Galilaeae vidit Simonem et Andream fratrem eius mittentes retia in mare erant enim piscatores "
+        },
+        {
+          "name": "Mark 1:17",
+          "verse": 17,
+          "text": "et dixit eis Iesus venite post me et faciam vos fieri piscatores hominum "
+        },
+        {
+          "name": "Mark 1:18",
+          "verse": 18,
+          "text": "et protinus relictis retibus secuti sunt eum "
+        },
+        {
+          "name": "Mark 1:19",
+          "verse": 19,
+          "text": "et progressus inde pusillum vidit Iacobum Zebedaei et Iohannem fratrem eius et ipsos in navi conponentes retia "
+        },
+        {
+          "name": "Mark 1:20",
+          "verse": 20,
+          "text": "et statim vocavit illos et relicto patre suo Zebedaeo in navi cum mercennariis secuti sunt eum "
+        },
+        {
+          "name": "Mark 1:21",
+          "verse": 21,
+          "text": "et ingrediuntur Capharnaum et statim sabbatis ingressus synagogam docebat eos "
+        },
+        {
+          "name": "Mark 1:22",
+          "verse": 22,
+          "text": "et stupebant super doctrina eius erat enim docens eos quasi potestatem habens et non sicut scribae "
+        },
+        {
+          "name": "Mark 1:23",
+          "verse": 23,
+          "text": "et erat in synagoga eorum homo in spiritu inmundo et exclamavit "
+        },
+        {
+          "name": "Mark 1:24",
+          "verse": 24,
+          "text": "dicens quid nobis et tibi Iesu Nazarene venisti perdere nos scio qui sis Sanctus Dei "
+        },
+        {
+          "name": "Mark 1:25",
+          "verse": 25,
+          "text": "et comminatus est ei Iesus dicens obmutesce et exi de homine "
+        },
+        {
+          "name": "Mark 1:26",
+          "verse": 26,
+          "text": "et discerpens eum spiritus inmundus et exclamans voce magna exivit ab eo "
+        },
+        {
+          "name": "Mark 1:27",
+          "verse": 27,
+          "text": "et mirati sunt omnes ita ut conquirerent inter se dicentes quidnam est hoc quae doctrina haec nova quia in potestate et spiritibus inmundis imperat et oboediunt ei "
+        },
+        {
+          "name": "Mark 1:28",
+          "verse": 28,
+          "text": "et processit rumor eius statim in omnem regionem Galilaeae "
+        },
+        {
+          "name": "Mark 1:29",
+          "verse": 29,
+          "text": "et protinus egredientes de synagoga venerunt in domum Simonis et Andreae cum Iacobo et Iohanne "
+        },
+        {
+          "name": "Mark 1:30",
+          "verse": 30,
+          "text": "decumbebat autem socrus Simonis febricitans et statim dicunt ei de illa "
+        },
+        {
+          "name": "Mark 1:31",
+          "verse": 31,
+          "text": "et accedens elevavit eam adprehensa manu eius et continuo dimisit eam febris et ministrabat eis "
+        },
+        {
+          "name": "Mark 1:32",
+          "verse": 32,
+          "text": "vespere autem facto cum occidisset sol adferebant ad eum omnes male habentes et daemonia habentes "
+        },
+        {
+          "name": "Mark 1:33",
+          "verse": 33,
+          "text": "et erat omnis civitas congregata ad ianuam "
+        },
+        {
+          "name": "Mark 1:34",
+          "verse": 34,
+          "text": "et curavit multos qui vexabantur variis languoribus et daemonia multa eiciebat et non sinebat loqui ea quoniam sciebant eum "
+        },
+        {
+          "name": "Mark 1:35",
+          "verse": 35,
+          "text": "et diluculo valde surgens egressus abiit in desertum locum ibique orabat "
+        },
+        {
+          "name": "Mark 1:36",
+          "verse": 36,
+          "text": "et persecutus est eum Simon et qui cum illo erant "
+        },
+        {
+          "name": "Mark 1:37",
+          "verse": 37,
+          "text": "et cum invenissent eum dixerunt ei quia omnes quaerunt te "
+        },
+        {
+          "name": "Mark 1:38",
+          "verse": 38,
+          "text": "et ait illis eamus in proximos vicos et civitates ut et ibi praedicem ad hoc enim veni "
+        },
+        {
+          "name": "Mark 1:39",
+          "verse": 39,
+          "text": "et erat praedicans in synagogis eorum et omni Galilaea et daemonia eiciens "
+        },
+        {
+          "name": "Mark 1:40",
+          "verse": 40,
+          "text": "et venit ad eum leprosus deprecans eum et genu flexo dixit si vis potes me mundare "
+        },
+        {
+          "name": "Mark 1:41",
+          "verse": 41,
+          "text": "Iesus autem misertus eius extendit manum suam et tangens eum ait illi volo mundare "
+        },
+        {
+          "name": "Mark 1:42",
+          "verse": 42,
+          "text": "et cum dixisset statim discessit ab eo lepra et mundatus est "
+        },
+        {
+          "name": "Mark 1:43",
+          "verse": 43,
+          "text": "et comminatus ei statim eiecit illum "
+        },
+        {
+          "name": "Mark 1:44",
+          "verse": 44,
+          "text": "et dicit ei vide nemini dixeris sed vade ostende te principi sacerdotum et offer pro emundatione tua quae praecepit Moses in testimonium illis "
+        },
+        {
+          "name": "Mark 1:45",
+          "verse": 45,
+          "text": "at ille egressus coepit praedicare et diffamare sermonem ita ut iam non posset manifeste in civitatem introire sed foris in desertis locis esse et conveniebant ad eum undique "
+        }
+      ]
+    },
+    {
+      "name": "Mark 2",
+      "chapter": 2,
+      "verses": [
+        {
+          "name": "Mark 2:1",
+          "verse": 1,
+          "text": "et iterum intravit Capharnaum post dies "
+        },
+        {
+          "name": "Mark 2:2",
+          "verse": 2,
+          "text": "et auditum est quod in domo esset et convenerunt multi ita ut non caperet neque ad ianuam et loquebatur eis verbum "
+        },
+        {
+          "name": "Mark 2:3",
+          "verse": 3,
+          "text": "et venerunt ferentes ad eum paralyticum qui a quattuor portabatur "
+        },
+        {
+          "name": "Mark 2:4",
+          "verse": 4,
+          "text": "et cum non possent offerre eum illi prae turba nudaverunt tectum ubi erat et patefacientes submiserunt grabattum in quo paralyticus iacebat "
+        },
+        {
+          "name": "Mark 2:5",
+          "verse": 5,
+          "text": "cum vidisset autem Iesus fidem illorum ait paralytico fili dimittuntur tibi peccata "
+        },
+        {
+          "name": "Mark 2:6",
+          "verse": 6,
+          "text": "erant autem illic quidam de scribis sedentes et cogitantes in cordibus suis "
+        },
+        {
+          "name": "Mark 2:7",
+          "verse": 7,
+          "text": "quid hic sic loquitur blasphemat quis potest dimittere peccata nisi solus Deus "
+        },
+        {
+          "name": "Mark 2:8",
+          "verse": 8,
+          "text": "quo statim cognito Iesus spiritu suo quia sic cogitarent intra se dicit illis quid ista cogitatis in cordibus vestris "
+        },
+        {
+          "name": "Mark 2:9",
+          "verse": 9,
+          "text": "quid est facilius dicere paralytico dimittuntur tibi peccata an dicere surge et tolle grabattum tuum et ambula "
+        },
+        {
+          "name": "Mark 2:10",
+          "verse": 10,
+          "text": "ut autem sciatis quia potestatem habet Filius hominis in terra dimittendi peccata ait paralytico "
+        },
+        {
+          "name": "Mark 2:11",
+          "verse": 11,
+          "text": "tibi dico surge tolle grabattum tuum et vade in domum tuam "
+        },
+        {
+          "name": "Mark 2:12",
+          "verse": 12,
+          "text": "et statim ille surrexit et sublato grabatto abiit coram omnibus ita ut admirarentur omnes et honorificarent Deum dicentes quia numquam sic vidimus "
+        },
+        {
+          "name": "Mark 2:13",
+          "verse": 13,
+          "text": "et egressus est rursus ad mare omnisque turba veniebat ad eum et docebat eos "
+        },
+        {
+          "name": "Mark 2:14",
+          "verse": 14,
+          "text": "et cum praeteriret vidit Levin Alphei sedentem ad teloneum et ait illi sequere me et surgens secutus est eum "
+        },
+        {
+          "name": "Mark 2:15",
+          "verse": 15,
+          "text": "et factum est cum accumberet in domo illius multi publicani et peccatores simul discumbebant cum Iesu et discipulis eius erant enim multi qui et sequebantur eum "
+        },
+        {
+          "name": "Mark 2:16",
+          "verse": 16,
+          "text": "et scribae et Pharisaei videntes quia manducaret cum peccatoribus et publicanis dicebant discipulis eius quare cum publicanis et peccatoribus manducat et bibit magister vester "
+        },
+        {
+          "name": "Mark 2:17",
+          "verse": 17,
+          "text": "hoc audito Iesus ait illis non necesse habent sani medicum sed qui male habent non enim veni vocare iustos sed peccatores "
+        },
+        {
+          "name": "Mark 2:18",
+          "verse": 18,
+          "text": "et erant discipuli Iohannis et Pharisaei ieiunantes et veniunt et dicunt illi cur discipuli Iohannis et Pharisaeorum ieiunant tui autem discipuli non ieiunant "
+        },
+        {
+          "name": "Mark 2:19",
+          "verse": 19,
+          "text": "et ait illis Iesus numquid possunt filii nuptiarum quamdiu sponsus cum illis est ieiunare quanto tempore habent secum sponsum non possunt ieiunare "
+        },
+        {
+          "name": "Mark 2:20",
+          "verse": 20,
+          "text": "venient autem dies cum auferetur ab eis sponsus et tunc ieiunabunt in illa die "
+        },
+        {
+          "name": "Mark 2:21",
+          "verse": 21,
+          "text": "nemo adsumentum panni rudis adsuit vestimento veteri alioquin aufert supplementum novum a veteri et maior scissura fit "
+        },
+        {
+          "name": "Mark 2:22",
+          "verse": 22,
+          "text": "et nemo mittit vinum novellum in utres veteres alioquin disrumpet vinum utres et vinum effunditur et utres peribunt sed vinum novum in utres novos mitti debet "
+        },
+        {
+          "name": "Mark 2:23",
+          "verse": 23,
+          "text": "et factum est iterum cum sabbatis ambularet per sata et discipuli eius coeperunt praegredi et vellere spicas "
+        },
+        {
+          "name": "Mark 2:24",
+          "verse": 24,
+          "text": "Pharisaei autem dicebant ei ecce quid faciunt sabbatis quod non licet "
+        },
+        {
+          "name": "Mark 2:25",
+          "verse": 25,
+          "text": "et ait illis numquam legistis quid fecerit David quando necessitatem habuit et esuriit ipse et qui cum eo erant "
+        },
+        {
+          "name": "Mark 2:26",
+          "verse": 26,
+          "text": "quomodo introiit in domum Dei sub Abiathar principe sacerdotum et panes propositionis manducavit quos non licet manducare nisi sacerdotibus et dedit eis qui cum eo erant "
+        },
+        {
+          "name": "Mark 2:27",
+          "verse": 27,
+          "text": "et dicebat eis sabbatum propter hominem factum est et non homo propter sabbatum "
+        },
+        {
+          "name": "Mark 2:28",
+          "verse": 28,
+          "text": "itaque dominus est Filius hominis etiam sabbati "
+        }
+      ]
+    },
+    {
+      "name": "Mark 3",
+      "chapter": 3,
+      "verses": [
+        {
+          "name": "Mark 3:1",
+          "verse": 1,
+          "text": "et introivit iterum synagogam et erat ibi homo habens manum aridam "
+        },
+        {
+          "name": "Mark 3:2",
+          "verse": 2,
+          "text": "et observabant eum si sabbatis curaret ut accusarent illum "
+        },
+        {
+          "name": "Mark 3:3",
+          "verse": 3,
+          "text": "et ait homini habenti manum aridam surge in medium "
+        },
+        {
+          "name": "Mark 3:4",
+          "verse": 4,
+          "text": "et dicit eis licet sabbatis bene facere an male animam salvam facere an perdere at illi tacebant "
+        },
+        {
+          "name": "Mark 3:5",
+          "verse": 5,
+          "text": "et circumspiciens eos cum ira contristatus super caecitatem cordis eorum dicit homini extende manum tuam et extendit et restituta est manus illi "
+        },
+        {
+          "name": "Mark 3:6",
+          "verse": 6,
+          "text": "exeuntes autem statim Pharisaei cum Herodianis consilium faciebant adversus eum quomodo eum perderent "
+        },
+        {
+          "name": "Mark 3:7",
+          "verse": 7,
+          "text": "et Iesus cum discipulis suis secessit ad mare et multa turba a Galilaea et Iudaea secuta est eum "
+        },
+        {
+          "name": "Mark 3:8",
+          "verse": 8,
+          "text": "et ab Hierosolymis et ab Idumea et trans Iordanen et qui circa Tyrum et Sidonem multitudo magna audientes quae faciebat venerunt ad eum "
+        },
+        {
+          "name": "Mark 3:9",
+          "verse": 9,
+          "text": "et dixit discipulis suis ut navicula sibi deserviret propter turbam ne conprimerent eum "
+        },
+        {
+          "name": "Mark 3:10",
+          "verse": 10,
+          "text": "multos enim sanabat ita ut inruerent in eum ut illum tangerent quotquot habebant plagas "
+        },
+        {
+          "name": "Mark 3:11",
+          "verse": 11,
+          "text": "et spiritus inmundi cum illum videbant procidebant ei et clamabant dicentes "
+        },
+        {
+          "name": "Mark 3:12",
+          "verse": 12,
+          "text": "tu es Filius Dei et vehementer comminabatur eis ne manifestarent illum "
+        },
+        {
+          "name": "Mark 3:13",
+          "verse": 13,
+          "text": "et ascendens in montem vocavit ad se quos voluit ipse et venerunt ad eum "
+        },
+        {
+          "name": "Mark 3:14",
+          "verse": 14,
+          "text": "et fecit ut essent duodecim cum illo et ut mitteret eos praedicare "
+        },
+        {
+          "name": "Mark 3:15",
+          "verse": 15,
+          "text": "et dedit illis potestatem curandi infirmitates et eiciendi daemonia "
+        },
+        {
+          "name": "Mark 3:16",
+          "verse": 16,
+          "text": "et inposuit Simoni nomen Petrus "
+        },
+        {
+          "name": "Mark 3:17",
+          "verse": 17,
+          "text": "et Iacobum Zebedaei et Iohannem fratrem Iacobi et inposuit eis nomina Boanerges quod est Filii tonitrui "
+        },
+        {
+          "name": "Mark 3:18",
+          "verse": 18,
+          "text": "et Andream et Philippum et Bartholomeum et Mattheum et Thomam et Iacobum Alphei et Thaddeum et Simonem Cananeum "
+        },
+        {
+          "name": "Mark 3:19",
+          "verse": 19,
+          "text": "et Iudam Scarioth qui et tradidit illum "
+        },
+        {
+          "name": "Mark 3:20",
+          "verse": 20,
+          "text": "et veniunt ad domum et convenit iterum turba ita ut non possent neque panem manducare "
+        },
+        {
+          "name": "Mark 3:21",
+          "verse": 21,
+          "text": "et cum audissent sui exierunt tenere eum dicebant enim quoniam in furorem versus est "
+        },
+        {
+          "name": "Mark 3:22",
+          "verse": 22,
+          "text": "et scribae qui ab Hierosolymis descenderant dicebant quoniam Beelzebub habet et quia in principe daemonum eicit daemonia "
+        },
+        {
+          "name": "Mark 3:23",
+          "verse": 23,
+          "text": "et convocatis eis in parabolis dicebat illis quomodo potest Satanas Satanan eicere "
+        },
+        {
+          "name": "Mark 3:24",
+          "verse": 24,
+          "text": "et si regnum in se dividatur non potest stare regnum illud "
+        },
+        {
+          "name": "Mark 3:25",
+          "verse": 25,
+          "text": "et si domus super semet ipsam dispertiatur non poterit domus illa stare "
+        },
+        {
+          "name": "Mark 3:26",
+          "verse": 26,
+          "text": "et si Satanas consurrexit in semet ipsum dispertitus est et non potest stare sed finem habet "
+        },
+        {
+          "name": "Mark 3:27",
+          "verse": 27,
+          "text": "nemo potest vasa fortis ingressus in domum diripere nisi prius fortem alliget et tunc domum eius diripiet "
+        },
+        {
+          "name": "Mark 3:28",
+          "verse": 28,
+          "text": "amen dico vobis quoniam omnia dimittentur filiis hominum peccata et blasphemiae quibus blasphemaverint "
+        },
+        {
+          "name": "Mark 3:29",
+          "verse": 29,
+          "text": "qui autem blasphemaverit in Spiritum Sanctum non habet remissionem in aeternum sed reus erit aeterni delicti "
+        },
+        {
+          "name": "Mark 3:30",
+          "verse": 30,
+          "text": "quoniam dicebant spiritum inmundum habet "
+        },
+        {
+          "name": "Mark 3:31",
+          "verse": 31,
+          "text": "et veniunt mater eius et fratres et foris stantes miserunt ad eum vocantes eum "
+        },
+        {
+          "name": "Mark 3:32",
+          "verse": 32,
+          "text": "et sedebat circa eum turba et dicunt ei ecce mater tua et fratres tui foris quaerunt te "
+        },
+        {
+          "name": "Mark 3:33",
+          "verse": 33,
+          "text": "et respondens eis ait quae est mater mea et fratres mei "
+        },
+        {
+          "name": "Mark 3:34",
+          "verse": 34,
+          "text": "et circumspiciens eos qui in circuitu eius sedebant ait ecce mater mea et fratres mei "
+        },
+        {
+          "name": "Mark 3:35",
+          "verse": 35,
+          "text": "qui enim fecerit voluntatem Dei hic frater meus et soror mea et mater est "
+        }
+      ]
+    },
+    {
+      "name": "Mark 4",
+      "chapter": 4,
+      "verses": [
+        {
+          "name": "Mark 4:1",
+          "verse": 1,
+          "text": "et iterum coepit docere ad mare et congregata est ad eum turba multa ita ut in navem ascendens sederet in mari et omnis turba circa mare super terram erat "
+        },
+        {
+          "name": "Mark 4:2",
+          "verse": 2,
+          "text": "et docebat eos in parabolis multa et dicebat illis in doctrina sua "
+        },
+        {
+          "name": "Mark 4:3",
+          "verse": 3,
+          "text": "audite ecce exiit seminans ad seminandum "
+        },
+        {
+          "name": "Mark 4:4",
+          "verse": 4,
+          "text": "et dum seminat aliud cecidit circa viam et venerunt volucres et comederunt illud "
+        },
+        {
+          "name": "Mark 4:5",
+          "verse": 5,
+          "text": "aliud vero cecidit super petrosa ubi non habuit terram multam et statim exortum est quoniam non habebat altitudinem terrae "
+        },
+        {
+          "name": "Mark 4:6",
+          "verse": 6,
+          "text": "et quando exortus est sol exaestuavit et eo quod non haberet radicem exaruit "
+        },
+        {
+          "name": "Mark 4:7",
+          "verse": 7,
+          "text": "et aliud cecidit in spinas et ascenderunt spinae et offocaverunt illud et fructum non dedit "
+        },
+        {
+          "name": "Mark 4:8",
+          "verse": 8,
+          "text": "et aliud cecidit in terram bonam et dabat fructum ascendentem et crescentem et adferebat unum triginta et unum sexaginta et unum centum "
+        },
+        {
+          "name": "Mark 4:9",
+          "verse": 9,
+          "text": "et dicebat qui habet aures audiendi audiat "
+        },
+        {
+          "name": "Mark 4:10",
+          "verse": 10,
+          "text": "et cum esset singularis interrogaverunt eum hii qui cum eo erant cum duodecim parabolas "
+        },
+        {
+          "name": "Mark 4:11",
+          "verse": 11,
+          "text": "et dicebat eis vobis datum est mysterium regni Dei illis autem qui foris sunt in parabolis omnia fiunt "
+        },
+        {
+          "name": "Mark 4:12",
+          "verse": 12,
+          "text": "ut videntes videant et non videant et audientes audiant et non intellegant nequando convertantur et dimittantur eis peccata "
+        },
+        {
+          "name": "Mark 4:13",
+          "verse": 13,
+          "text": "et ait illis nescitis parabolam hanc et quomodo omnes parabolas cognoscetis "
+        },
+        {
+          "name": "Mark 4:14",
+          "verse": 14,
+          "text": "qui seminat verbum seminat "
+        },
+        {
+          "name": "Mark 4:15",
+          "verse": 15,
+          "text": "hii autem sunt qui circa viam ubi seminatur verbum et cum audierint confestim venit Satanas et aufert verbum quod seminatum est in corda eorum "
+        },
+        {
+          "name": "Mark 4:16",
+          "verse": 16,
+          "text": "et hii sunt similiter qui super petrosa seminantur qui cum audierint verbum statim cum gaudio accipiunt illud "
+        },
+        {
+          "name": "Mark 4:17",
+          "verse": 17,
+          "text": "et non habent radicem in se sed temporales sunt deinde orta tribulatione et persecutione propter verbum confestim scandalizantur "
+        },
+        {
+          "name": "Mark 4:18",
+          "verse": 18,
+          "text": "et alii sunt qui in spinis seminantur hii sunt qui verbum audiunt "
+        },
+        {
+          "name": "Mark 4:19",
+          "verse": 19,
+          "text": "et aerumnae saeculi et deceptio divitiarum et circa reliqua concupiscentiae introeuntes suffocant verbum et sine fructu efficitur "
+        },
+        {
+          "name": "Mark 4:20",
+          "verse": 20,
+          "text": "et hii sunt qui super terram bonam seminati sunt qui audiunt verbum et suscipiunt et fructificant unum triginta et unum sexaginta et unum centum "
+        },
+        {
+          "name": "Mark 4:21",
+          "verse": 21,
+          "text": "et dicebat illis numquid venit lucerna ut sub modio ponatur aut sub lecto nonne ut super candelabrum ponatur "
+        },
+        {
+          "name": "Mark 4:22",
+          "verse": 22,
+          "text": "non enim est aliquid absconditum quod non manifestetur nec factum est occultum sed ut in palam veniat "
+        },
+        {
+          "name": "Mark 4:23",
+          "verse": 23,
+          "text": "si quis habet aures audiendi audiat "
+        },
+        {
+          "name": "Mark 4:24",
+          "verse": 24,
+          "text": "et dicebat illis videte quid audiatis in qua mensura mensi fueritis remetietur vobis et adicietur vobis "
+        },
+        {
+          "name": "Mark 4:25",
+          "verse": 25,
+          "text": "qui enim habet dabitur illi et qui non habet etiam quod habet auferetur ab illo "
+        },
+        {
+          "name": "Mark 4:26",
+          "verse": 26,
+          "text": "et dicebat sic est regnum Dei quemadmodum si homo iaciat sementem in terram "
+        },
+        {
+          "name": "Mark 4:27",
+          "verse": 27,
+          "text": "et dormiat et exsurgat nocte ac die et semen germinet et increscat dum nescit ille "
+        },
+        {
+          "name": "Mark 4:28",
+          "verse": 28,
+          "text": "ultro enim terra fructificat primum herbam deinde spicam deinde plenum frumentum in spica "
+        },
+        {
+          "name": "Mark 4:29",
+          "verse": 29,
+          "text": "et cum se produxerit fructus statim mittit falcem quoniam adest messis "
+        },
+        {
+          "name": "Mark 4:30",
+          "verse": 30,
+          "text": "et dicebat cui adsimilabimus regnum Dei aut cui parabolae conparabimus illud "
+        },
+        {
+          "name": "Mark 4:31",
+          "verse": 31,
+          "text": "sicut granum sinapis quod cum seminatum fuerit in terra minus est omnibus seminibus quae sunt in terra "
+        },
+        {
+          "name": "Mark 4:32",
+          "verse": 32,
+          "text": "et cum seminatum fuerit ascendit et fit maius omnibus holeribus et facit ramos magnos ita ut possint sub umbra eius aves caeli habitare "
+        },
+        {
+          "name": "Mark 4:33",
+          "verse": 33,
+          "text": "et talibus multis parabolis loquebatur eis verbum prout poterant audire "
+        },
+        {
+          "name": "Mark 4:34",
+          "verse": 34,
+          "text": "sine parabola autem non loquebatur eis seorsum autem discipulis suis disserebat omnia "
+        },
+        {
+          "name": "Mark 4:35",
+          "verse": 35,
+          "text": "et ait illis illa die cum sero esset factum transeamus contra "
+        },
+        {
+          "name": "Mark 4:36",
+          "verse": 36,
+          "text": "et dimittentes turbam adsumunt eum ita ut erat in navi et aliae naves erant cum illo "
+        },
+        {
+          "name": "Mark 4:37",
+          "verse": 37,
+          "text": "et facta est procella magna venti et fluctus mittebat in navem ita ut impleretur navis "
+        },
+        {
+          "name": "Mark 4:38",
+          "verse": 38,
+          "text": "et erat ipse in puppi supra cervical dormiens et excitant eum et dicunt ei magister non ad te pertinet quia perimus "
+        },
+        {
+          "name": "Mark 4:39",
+          "verse": 39,
+          "text": "et exsurgens comminatus est vento et dixit mari tace obmutesce et cessavit ventus et facta est tranquillitas magna "
+        },
+        {
+          "name": "Mark 4:40",
+          "verse": 40,
+          "text": "et ait illis quid timidi estis necdum habetis fidem et timuerunt magno timore et dicebant ad alterutrum quis putas est iste quia et ventus et mare oboediunt ei "
+        }
+      ]
+    },
+    {
+      "name": "Mark 5",
+      "chapter": 5,
+      "verses": [
+        {
+          "name": "Mark 5:1",
+          "verse": 1,
+          "text": "et venerunt trans fretum maris in regionem Gerasenorum "
+        },
+        {
+          "name": "Mark 5:2",
+          "verse": 2,
+          "text": "et exeunti ei de navi statim occurrit ei de monumentis homo in spiritu inmundo "
+        },
+        {
+          "name": "Mark 5:3",
+          "verse": 3,
+          "text": "qui domicilium habebat in monumentis et neque catenis iam quisquam eum poterat ligare "
+        },
+        {
+          "name": "Mark 5:4",
+          "verse": 4,
+          "text": "quoniam saepe conpedibus et catenis vinctus disrupisset catenas et conpedes comminuisset et nemo poterat eum domare "
+        },
+        {
+          "name": "Mark 5:5",
+          "verse": 5,
+          "text": "et semper nocte ac die in monumentis et in montibus erat clamans et concidens se lapidibus "
+        },
+        {
+          "name": "Mark 5:6",
+          "verse": 6,
+          "text": "videns autem Iesum a longe cucurrit et adoravit eum "
+        },
+        {
+          "name": "Mark 5:7",
+          "verse": 7,
+          "text": "et clamans voce magna dicit quid mihi et tibi Iesu Fili Dei summi adiuro te per Deum ne me torqueas "
+        },
+        {
+          "name": "Mark 5:8",
+          "verse": 8,
+          "text": "dicebat enim illi exi spiritus inmunde ab homine "
+        },
+        {
+          "name": "Mark 5:9",
+          "verse": 9,
+          "text": "et interrogabat eum quod tibi nomen est et dicit ei Legio nomen mihi est quia multi sumus "
+        },
+        {
+          "name": "Mark 5:10",
+          "verse": 10,
+          "text": "et deprecabatur eum multum ne se expelleret extra regionem "
+        },
+        {
+          "name": "Mark 5:11",
+          "verse": 11,
+          "text": "erat autem ibi circa montem grex porcorum magnus pascens "
+        },
+        {
+          "name": "Mark 5:12",
+          "verse": 12,
+          "text": "et deprecabantur eum spiritus dicentes mitte nos in porcos ut in eos introeamus "
+        },
+        {
+          "name": "Mark 5:13",
+          "verse": 13,
+          "text": "et concessit eis statim Iesus et exeuntes spiritus inmundi introierunt in porcos et magno impetu grex praecipitatus est in mare ad duo milia et suffocati sunt in mare "
+        },
+        {
+          "name": "Mark 5:14",
+          "verse": 14,
+          "text": "qui autem pascebant eos fugerunt et nuntiaverunt in civitatem et in agros et egressi sunt videre quid esset facti "
+        },
+        {
+          "name": "Mark 5:15",
+          "verse": 15,
+          "text": "et veniunt ad Iesum et vident illum qui a daemonio vexabatur sedentem vestitum et sanae mentis et timuerunt "
+        },
+        {
+          "name": "Mark 5:16",
+          "verse": 16,
+          "text": "et narraverunt illis qui viderant qualiter factum esset ei qui daemonium habuerat et de porcis "
+        },
+        {
+          "name": "Mark 5:17",
+          "verse": 17,
+          "text": "et rogare eum coeperunt ut discederet de finibus eorum "
+        },
+        {
+          "name": "Mark 5:18",
+          "verse": 18,
+          "text": "cumque ascenderet navem coepit illum deprecari qui daemonio vexatus fuerat ut esset cum illo "
+        },
+        {
+          "name": "Mark 5:19",
+          "verse": 19,
+          "text": "et non admisit eum sed ait illi vade in domum tuam ad tuos et adnuntia illis quanta tibi Dominus fecerit et misertus sit tui "
+        },
+        {
+          "name": "Mark 5:20",
+          "verse": 20,
+          "text": "et abiit et coepit praedicare in Decapoli quanta sibi fecisset Iesus et omnes mirabantur "
+        },
+        {
+          "name": "Mark 5:21",
+          "verse": 21,
+          "text": "et cum transcendisset Iesus in navi rursus trans fretum convenit turba multa ad illum et erat circa mare "
+        },
+        {
+          "name": "Mark 5:22",
+          "verse": 22,
+          "text": "et venit quidam de archisynagogis nomine Iairus et videns eum procidit ad pedes eius "
+        },
+        {
+          "name": "Mark 5:23",
+          "verse": 23,
+          "text": "et deprecabatur eum multum dicens quoniam filia mea in extremis est veni inpone manus super eam ut salva sit et vivat "
+        },
+        {
+          "name": "Mark 5:24",
+          "verse": 24,
+          "text": "et abiit cum illo et sequebatur eum turba multa et conprimebant illum "
+        },
+        {
+          "name": "Mark 5:25",
+          "verse": 25,
+          "text": "et mulier quae erat in profluvio sanguinis annis duodecim "
+        },
+        {
+          "name": "Mark 5:26",
+          "verse": 26,
+          "text": "et fuerat multa perpessa a conpluribus medicis et erogaverat omnia sua nec quicquam profecerat sed magis deterius habebat "
+        },
+        {
+          "name": "Mark 5:27",
+          "verse": 27,
+          "text": "cum audisset de Iesu venit in turba retro et tetigit vestimentum eius "
+        },
+        {
+          "name": "Mark 5:28",
+          "verse": 28,
+          "text": "dicebat enim quia si vel vestimentum eius tetigero salva ero "
+        },
+        {
+          "name": "Mark 5:29",
+          "verse": 29,
+          "text": "et confestim siccatus est fons sanguinis eius et sensit corpore quod sanata esset a plaga "
+        },
+        {
+          "name": "Mark 5:30",
+          "verse": 30,
+          "text": "et statim Iesus cognoscens in semet ipso virtutem quae exierat de eo conversus ad turbam aiebat quis tetigit vestimenta mea "
+        },
+        {
+          "name": "Mark 5:31",
+          "verse": 31,
+          "text": "et dicebant ei discipuli sui vides turbam conprimentem te et dicis quis me tetigit "
+        },
+        {
+          "name": "Mark 5:32",
+          "verse": 32,
+          "text": "et circumspiciebat videre eam quae hoc fecerat "
+        },
+        {
+          "name": "Mark 5:33",
+          "verse": 33,
+          "text": "mulier autem timens et tremens sciens quod factum esset in se venit et procidit ante eum et dixit ei omnem veritatem "
+        },
+        {
+          "name": "Mark 5:34",
+          "verse": 34,
+          "text": "ille autem dixit ei filia fides tua te salvam fecit vade in pace et esto sana a plaga tua "
+        },
+        {
+          "name": "Mark 5:35",
+          "verse": 35,
+          "text": "adhuc eo loquente veniunt ab archisynagogo dicentes quia filia tua mortua est quid ultra vexas magistrum "
+        },
+        {
+          "name": "Mark 5:36",
+          "verse": 36,
+          "text": "Iesus autem verbo quod dicebatur audito ait archisynagogo noli timere tantummodo crede "
+        },
+        {
+          "name": "Mark 5:37",
+          "verse": 37,
+          "text": "et non admisit quemquam sequi se nisi Petrum et Iacobum et Iohannem fratrem Iacobi "
+        },
+        {
+          "name": "Mark 5:38",
+          "verse": 38,
+          "text": "et veniunt in domum archisynagogi et videt tumultum et flentes et heiulantes multum "
+        },
+        {
+          "name": "Mark 5:39",
+          "verse": 39,
+          "text": "et ingressus ait eis quid turbamini et ploratis puella non est mortua sed dormit "
+        },
+        {
+          "name": "Mark 5:40",
+          "verse": 40,
+          "text": "et inridebant eum ipse vero eiectis omnibus adsumit patrem et matrem puellae et qui secum erant et ingreditur ubi erat puella iacens "
+        },
+        {
+          "name": "Mark 5:41",
+          "verse": 41,
+          "text": "et tenens manum puellae ait illi talitha cumi quod est interpretatum puella tibi dico surge "
+        },
+        {
+          "name": "Mark 5:42",
+          "verse": 42,
+          "text": "et confestim surrexit puella et ambulabat erat autem annorum duodecim et obstipuerunt stupore maximo "
+        },
+        {
+          "name": "Mark 5:43",
+          "verse": 43,
+          "text": "et praecepit illis vehementer ut nemo id sciret et dixit dari illi manducare "
+        }
+      ]
+    },
+    {
+      "name": "Mark 6",
+      "chapter": 6,
+      "verses": [
+        {
+          "name": "Mark 6:1",
+          "verse": 1,
+          "text": "et egressus inde abiit in patriam suam et sequebantur illum discipuli sui "
+        },
+        {
+          "name": "Mark 6:2",
+          "verse": 2,
+          "text": "et facto sabbato coepit in synagoga docere et multi audientes admirabantur in doctrina eius dicentes unde huic haec omnia et quae est sapientia quae data est illi et virtutes tales quae per manus eius efficiuntur "
+        },
+        {
+          "name": "Mark 6:3",
+          "verse": 3,
+          "text": "nonne iste est faber filius Mariae frater Iacobi et Ioseph et Iudae et Simonis nonne et sorores eius hic nobiscum sunt et scandalizabantur in illo "
+        },
+        {
+          "name": "Mark 6:4",
+          "verse": 4,
+          "text": "et dicebat eis Iesus quia non est propheta sine honore nisi in patria sua et in cognatione sua et in domo sua "
+        },
+        {
+          "name": "Mark 6:5",
+          "verse": 5,
+          "text": "et non poterat ibi virtutem ullam facere nisi paucos infirmos inpositis manibus curavit "
+        },
+        {
+          "name": "Mark 6:6",
+          "verse": 6,
+          "text": "et mirabatur propter incredulitatem eorum "
+        },
+        {
+          "name": "Mark 6:7",
+          "verse": 7,
+          "text": "et circumibat castella in circuitu docens et convocavit duodecim et coepit eos mittere binos et dabat illis potestatem spirituum inmundorum "
+        },
+        {
+          "name": "Mark 6:8",
+          "verse": 8,
+          "text": "et praecepit eis ne quid tollerent in via nisi virgam tantum non peram non panem neque in zona aes "
+        },
+        {
+          "name": "Mark 6:9",
+          "verse": 9,
+          "text": "sed calciatos sandaliis et ne induerentur duabus tunicis "
+        },
+        {
+          "name": "Mark 6:10",
+          "verse": 10,
+          "text": "et dicebat eis quocumque introieritis in domum illic manete donec exeatis inde "
+        },
+        {
+          "name": "Mark 6:11",
+          "verse": 11,
+          "text": "et quicumque non receperint vos nec audierint vos exeuntes inde excutite pulverem de pedibus vestris in testimonium illis "
+        },
+        {
+          "name": "Mark 6:12",
+          "verse": 12,
+          "text": "et exeuntes praedicabant ut paenitentiam agerent "
+        },
+        {
+          "name": "Mark 6:13",
+          "verse": 13,
+          "text": "et daemonia multa eiciebant et unguebant oleo multos aegrotos et sanabant "
+        },
+        {
+          "name": "Mark 6:14",
+          "verse": 14,
+          "text": "et audivit Herodes rex manifestum enim factum est nomen eius et dicebat quia Iohannes Baptista resurrexit a mortuis et propterea inoperantur virtutes in illo "
+        },
+        {
+          "name": "Mark 6:15",
+          "verse": 15,
+          "text": "alii autem dicebant quia Helias est alii vero dicebant propheta est quasi unus ex prophetis "
+        },
+        {
+          "name": "Mark 6:16",
+          "verse": 16,
+          "text": "quo audito Herodes ait quem ego decollavi Iohannem hic a mortuis resurrexit "
+        },
+        {
+          "name": "Mark 6:17",
+          "verse": 17,
+          "text": "ipse enim Herodes misit ac tenuit Iohannem et vinxit eum in carcere propter Herodiadem uxorem Philippi fratris sui quia duxerat eam "
+        },
+        {
+          "name": "Mark 6:18",
+          "verse": 18,
+          "text": "dicebat enim Iohannes Herodi non licet tibi habere uxorem fratris tui "
+        },
+        {
+          "name": "Mark 6:19",
+          "verse": 19,
+          "text": "Herodias autem insidiabatur illi et volebat occidere eum nec poterat "
+        },
+        {
+          "name": "Mark 6:20",
+          "verse": 20,
+          "text": "Herodes enim metuebat Iohannem sciens eum virum iustum et sanctum et custodiebat eum et audito eo multa faciebat et libenter eum audiebat "
+        },
+        {
+          "name": "Mark 6:21",
+          "verse": 21,
+          "text": "et cum dies oportunus accidisset Herodes natalis sui cenam fecit principibus et tribunis et primis Galilaeae "
+        },
+        {
+          "name": "Mark 6:22",
+          "verse": 22,
+          "text": "cumque introisset filia ipsius Herodiadis et saltasset et placuisset Herodi simulque recumbentibus rex ait puellae pete a me quod vis et dabo tibi "
+        },
+        {
+          "name": "Mark 6:23",
+          "verse": 23,
+          "text": "et iuravit illi quia quicquid petieris dabo tibi licet dimidium regni mei "
+        },
+        {
+          "name": "Mark 6:24",
+          "verse": 24,
+          "text": "quae cum exisset dixit matri suae quid petam et illa dixit caput Iohannis Baptistae "
+        },
+        {
+          "name": "Mark 6:25",
+          "verse": 25,
+          "text": "cumque introisset statim cum festinatione ad regem petivit dicens volo ut protinus des mihi in disco caput Iohannis Baptistae "
+        },
+        {
+          "name": "Mark 6:26",
+          "verse": 26,
+          "text": "et contristatus rex propter iusiurandum et propter simul recumbentes noluit eam contristare "
+        },
+        {
+          "name": "Mark 6:27",
+          "verse": 27,
+          "text": "sed misso speculatore praecepit adferri caput eius in disco et decollavit eum in carcere "
+        },
+        {
+          "name": "Mark 6:28",
+          "verse": 28,
+          "text": "et adtulit caput eius in disco et dedit illud puellae et puella dedit matri suae "
+        },
+        {
+          "name": "Mark 6:29",
+          "verse": 29,
+          "text": "quo audito discipuli eius venerunt et tulerunt corpus eius et posuerunt illud in monumento "
+        },
+        {
+          "name": "Mark 6:30",
+          "verse": 30,
+          "text": "et convenientes apostoli ad Iesum renuntiaverunt illi omnia quae egerant et docuerant "
+        },
+        {
+          "name": "Mark 6:31",
+          "verse": 31,
+          "text": "et ait illis venite seorsum in desertum locum et requiescite pusillum erant enim qui veniebant et rediebant multi et nec manducandi spatium habebant "
+        },
+        {
+          "name": "Mark 6:32",
+          "verse": 32,
+          "text": "et ascendentes in navi abierunt in desertum locum seorsum "
+        },
+        {
+          "name": "Mark 6:33",
+          "verse": 33,
+          "text": "et viderunt eos abeuntes et cognoverunt multi et pedestre et de omnibus civitatibus concurrerunt illuc et praevenerunt eos "
+        },
+        {
+          "name": "Mark 6:34",
+          "verse": 34,
+          "text": "et exiens vidit multam turbam Iesus et misertus est super eos quia erant sicut oves non habentes pastorem et coepit docere illos multa "
+        },
+        {
+          "name": "Mark 6:35",
+          "verse": 35,
+          "text": "et cum iam hora multa fieret accesserunt discipuli eius dicentes desertus est locus hic et iam hora praeterivit "
+        },
+        {
+          "name": "Mark 6:36",
+          "verse": 36,
+          "text": "dimitte illos ut euntes in proximas villas et vicos emant sibi cibos quos manducent "
+        },
+        {
+          "name": "Mark 6:37",
+          "verse": 37,
+          "text": "et respondens ait illis date illis manducare et dixerunt ei euntes emamus denariis ducentis panes et dabimus eis manducare "
+        },
+        {
+          "name": "Mark 6:38",
+          "verse": 38,
+          "text": "et dicit eis quot panes habetis ite et videte et cum cognovissent dicunt quinque et duos pisces "
+        },
+        {
+          "name": "Mark 6:39",
+          "verse": 39,
+          "text": "et praecepit illis ut accumbere facerent omnes secundum contubernia super viride faenum "
+        },
+        {
+          "name": "Mark 6:40",
+          "verse": 40,
+          "text": "et discubuerunt in partes per centenos et per quinquagenos "
+        },
+        {
+          "name": "Mark 6:41",
+          "verse": 41,
+          "text": "et acceptis quinque panibus et duobus piscibus intuens in caelum benedixit et fregit panes et dedit discipulis suis ut ponerent ante eos et duos pisces divisit omnibus "
+        },
+        {
+          "name": "Mark 6:42",
+          "verse": 42,
+          "text": "et manducaverunt omnes et saturati sunt "
+        },
+        {
+          "name": "Mark 6:43",
+          "verse": 43,
+          "text": "et sustulerunt reliquias fragmentorum duodecim cofinos plenos et de piscibus "
+        },
+        {
+          "name": "Mark 6:44",
+          "verse": 44,
+          "text": "erant autem qui manducaverunt quinque milia virorum "
+        },
+        {
+          "name": "Mark 6:45",
+          "verse": 45,
+          "text": "et statim coegit discipulos suos ascendere navem ut praecederent eum trans fretum ad Bethsaidam dum ipse dimitteret populum "
+        },
+        {
+          "name": "Mark 6:46",
+          "verse": 46,
+          "text": "et cum dimisisset eos abiit in montem orare "
+        },
+        {
+          "name": "Mark 6:47",
+          "verse": 47,
+          "text": "et cum sero esset erat navis in medio mari et ipse solus in terra "
+        },
+        {
+          "name": "Mark 6:48",
+          "verse": 48,
+          "text": "et videns eos laborantes in remigando erat enim ventus contrarius eis et circa quartam vigiliam noctis venit ad eos ambulans super mare et volebat praeterire eos "
+        },
+        {
+          "name": "Mark 6:49",
+          "verse": 49,
+          "text": "at illi ut viderunt eum ambulantem super mare putaverunt fantasma esse et exclamaverunt "
+        },
+        {
+          "name": "Mark 6:50",
+          "verse": 50,
+          "text": "omnes enim eum viderunt et conturbati sunt et statim locutus est cum eis et dixit illis confidite ego sum nolite timere "
+        },
+        {
+          "name": "Mark 6:51",
+          "verse": 51,
+          "text": "et ascendit ad illos in navem et cessavit ventus et plus magis intra se stupebant "
+        },
+        {
+          "name": "Mark 6:52",
+          "verse": 52,
+          "text": "non enim intellexerant de panibus erat enim cor illorum obcaecatum "
+        },
+        {
+          "name": "Mark 6:53",
+          "verse": 53,
+          "text": "et cum transfretassent pervenerunt in terram Gennesareth et adplicuerunt "
+        },
+        {
+          "name": "Mark 6:54",
+          "verse": 54,
+          "text": "cumque egressi essent de navi continuo cognoverunt eum "
+        },
+        {
+          "name": "Mark 6:55",
+          "verse": 55,
+          "text": "et percurrentes universam regionem illam coeperunt in grabattis eos qui se male habebant circumferre ubi audiebant eum esse "
+        },
+        {
+          "name": "Mark 6:56",
+          "verse": 56,
+          "text": "et quocumque introibat in vicos vel in villas aut civitates in plateis ponebant infirmos et deprecabantur eum ut vel fimbriam vestimenti eius tangerent et quotquot tangebant eum salvi fiebant "
+        }
+      ]
+    },
+    {
+      "name": "Mark 7",
+      "chapter": 7,
+      "verses": [
+        {
+          "name": "Mark 7:1",
+          "verse": 1,
+          "text": "et conveniunt ad eum Pharisaei et quidam de scribis venientes ab Hierosolymis "
+        },
+        {
+          "name": "Mark 7:2",
+          "verse": 2,
+          "text": "et cum vidissent quosdam ex discipulis eius communibus manibus id est non lotis manducare panes vituperaverunt "
+        },
+        {
+          "name": "Mark 7:3",
+          "verse": 3,
+          "text": "Pharisaei enim et omnes Iudaei nisi crebro lavent manus non manducant tenentes traditionem seniorum "
+        },
+        {
+          "name": "Mark 7:4",
+          "verse": 4,
+          "text": "et a foro nisi baptizentur non comedunt et alia multa sunt quae tradita sunt illis servare baptismata calicum et urceorum et aeramentorum et lectorum "
+        },
+        {
+          "name": "Mark 7:5",
+          "verse": 5,
+          "text": "et interrogant eum Pharisaei et scribae quare discipuli tui non ambulant iuxta traditionem seniorum sed communibus manibus manducant panem "
+        },
+        {
+          "name": "Mark 7:6",
+          "verse": 6,
+          "text": "at ille respondens dixit eis bene prophetavit Esaias de vobis hypocritis sicut scriptum est populus hic labiis me honorat cor autem eorum longe est a me "
+        },
+        {
+          "name": "Mark 7:7",
+          "verse": 7,
+          "text": "in vanum autem me colunt docentes doctrinas praecepta hominum "
+        },
+        {
+          "name": "Mark 7:8",
+          "verse": 8,
+          "text": "relinquentes enim mandatum Dei tenetis traditionem hominum baptismata urceorum et calicum et alia similia his facitis multa "
+        },
+        {
+          "name": "Mark 7:9",
+          "verse": 9,
+          "text": "et dicebat illis bene irritum facitis praeceptum Dei ut traditionem vestram servetis "
+        },
+        {
+          "name": "Mark 7:10",
+          "verse": 10,
+          "text": "Moses enim dixit honora patrem tuum et matrem tuam et qui maledixerit patri aut matri morte moriatur "
+        },
+        {
+          "name": "Mark 7:11",
+          "verse": 11,
+          "text": "vos autem dicitis si dixerit homo patri aut matri corban quod est donum quodcumque ex me tibi profuerit "
+        },
+        {
+          "name": "Mark 7:12",
+          "verse": 12,
+          "text": "et ultra non dimittitis eum quicquam facere patri suo aut matri "
+        },
+        {
+          "name": "Mark 7:13",
+          "verse": 13,
+          "text": "rescindentes verbum Dei per traditionem vestram quam tradidistis et similia huiusmodi multa facitis "
+        },
+        {
+          "name": "Mark 7:14",
+          "verse": 14,
+          "text": "et advocans iterum turbam dicebat illis audite me omnes et intellegite "
+        },
+        {
+          "name": "Mark 7:15",
+          "verse": 15,
+          "text": "nihil est extra hominem introiens in eum quod possit eum coinquinare sed quae de homine procedunt illa sunt quae communicant hominem "
+        },
+        {
+          "name": "Mark 7:16",
+          "verse": 16,
+          "text": "si quis habet aures audiendi audiat "
+        },
+        {
+          "name": "Mark 7:17",
+          "verse": 17,
+          "text": "et cum introisset in domum a turba interrogabant eum discipuli eius parabolam "
+        },
+        {
+          "name": "Mark 7:18",
+          "verse": 18,
+          "text": "et ait illis sic et vos inprudentes estis non intellegitis quia omne extrinsecus introiens in hominem non potest eum communicare "
+        },
+        {
+          "name": "Mark 7:19",
+          "verse": 19,
+          "text": "quia non introit in cor eius sed in ventrem et in secessum exit purgans omnes escas "
+        },
+        {
+          "name": "Mark 7:20",
+          "verse": 20,
+          "text": "dicebat autem quoniam quae de homine exeunt illa communicant hominem "
+        },
+        {
+          "name": "Mark 7:21",
+          "verse": 21,
+          "text": "ab intus enim de corde hominum cogitationes malae procedunt adulteria fornicationes homicidia "
+        },
+        {
+          "name": "Mark 7:22",
+          "verse": 22,
+          "text": "furta avaritiae nequitiae dolus inpudicitia oculus malus blasphemia superbia stultitia "
+        },
+        {
+          "name": "Mark 7:23",
+          "verse": 23,
+          "text": "omnia haec mala ab intus procedunt et communicant hominem "
+        },
+        {
+          "name": "Mark 7:24",
+          "verse": 24,
+          "text": "et inde surgens abiit in fines Tyri et Sidonis et ingressus domum neminem voluit scire et non potuit latere "
+        },
+        {
+          "name": "Mark 7:25",
+          "verse": 25,
+          "text": "mulier enim statim ut audivit de eo cuius habebat filia spiritum inmundum intravit et procidit ad pedes eius "
+        },
+        {
+          "name": "Mark 7:26",
+          "verse": 26,
+          "text": "erat autem mulier gentilis Syrophoenissa genere et rogabat eum ut daemonium eiceret de filia eius "
+        },
+        {
+          "name": "Mark 7:27",
+          "verse": 27,
+          "text": "qui dixit illi sine prius saturari filios non est enim bonum sumere panem filiorum et mittere canibus "
+        },
+        {
+          "name": "Mark 7:28",
+          "verse": 28,
+          "text": "at illa respondit et dicit ei utique Domine nam et catelli sub mensa comedunt de micis puerorum "
+        },
+        {
+          "name": "Mark 7:29",
+          "verse": 29,
+          "text": "et ait illi propter hunc sermonem vade exiit daemonium de filia tua "
+        },
+        {
+          "name": "Mark 7:30",
+          "verse": 30,
+          "text": "et cum abisset domum suam invenit puellam iacentem supra lectum et daemonium exisse "
+        },
+        {
+          "name": "Mark 7:31",
+          "verse": 31,
+          "text": "et iterum exiens de finibus Tyri venit per Sidonem ad mare Galilaeae inter medios fines Decapoleos "
+        },
+        {
+          "name": "Mark 7:32",
+          "verse": 32,
+          "text": "et adducunt ei surdum et mutum et deprecantur eum ut inponat illi manum "
+        },
+        {
+          "name": "Mark 7:33",
+          "verse": 33,
+          "text": "et adprehendens eum de turba seorsum misit digitos suos in auriculas et expuens tetigit linguam eius "
+        },
+        {
+          "name": "Mark 7:34",
+          "verse": 34,
+          "text": "et suspiciens in caelum ingemuit et ait illi eppheta quod est adaperire "
+        },
+        {
+          "name": "Mark 7:35",
+          "verse": 35,
+          "text": "et statim apertae sunt aures eius et solutum est vinculum linguae eius et loquebatur recte "
+        },
+        {
+          "name": "Mark 7:36",
+          "verse": 36,
+          "text": "et praecepit illis ne cui dicerent quanto autem eis praecipiebat tanto magis plus praedicabant "
+        },
+        {
+          "name": "Mark 7:37",
+          "verse": 37,
+          "text": "et eo amplius admirabantur dicentes bene omnia fecit et surdos facit audire et mutos loqui "
+        }
+      ]
+    },
+    {
+      "name": "Mark 8",
+      "chapter": 8,
+      "verses": [
+        {
+          "name": "Mark 8:1",
+          "verse": 1,
+          "text": "in illis diebus iterum cum turba multa esset nec haberent quod manducarent convocatis discipulis ait illis "
+        },
+        {
+          "name": "Mark 8:2",
+          "verse": 2,
+          "text": "misereor super turba quia ecce iam triduo sustinent me nec habent quod manducent "
+        },
+        {
+          "name": "Mark 8:3",
+          "verse": 3,
+          "text": "et si dimisero eos ieiunos in domum suam deficient in via quidam enim ex eis de longe venerunt "
+        },
+        {
+          "name": "Mark 8:4",
+          "verse": 4,
+          "text": "et responderunt ei discipuli sui unde istos poterit quis hic saturare panibus in solitudine "
+        },
+        {
+          "name": "Mark 8:5",
+          "verse": 5,
+          "text": "et interrogavit eos quot panes habetis qui dixerunt septem "
+        },
+        {
+          "name": "Mark 8:6",
+          "verse": 6,
+          "text": "et praecepit turbae discumbere supra terram et accipiens septem panes gratias agens fregit et dabat discipulis suis ut adponerent et adposuerunt turbae "
+        },
+        {
+          "name": "Mark 8:7",
+          "verse": 7,
+          "text": "et habebant pisciculos paucos et ipsos benedixit et iussit adponi "
+        },
+        {
+          "name": "Mark 8:8",
+          "verse": 8,
+          "text": "et manducaverunt et saturati sunt et sustulerunt quod superaverat de fragmentis septem sportas "
+        },
+        {
+          "name": "Mark 8:9",
+          "verse": 9,
+          "text": "erant autem qui manducaverunt quasi quattuor milia et dimisit eos "
+        },
+        {
+          "name": "Mark 8:10",
+          "verse": 10,
+          "text": "et statim ascendens navem cum discipulis suis venit in partes Dalmanutha "
+        },
+        {
+          "name": "Mark 8:11",
+          "verse": 11,
+          "text": "et exierunt Pharisaei et coeperunt conquirere cum eo quaerentes ab illo signum de caelo temptantes eum "
+        },
+        {
+          "name": "Mark 8:12",
+          "verse": 12,
+          "text": "et ingemescens spiritu ait quid generatio ista quaerit signum amen dico vobis si dabitur generationi isti signum "
+        },
+        {
+          "name": "Mark 8:13",
+          "verse": 13,
+          "text": "et dimittens eos ascendens iterum abiit trans fretum "
+        },
+        {
+          "name": "Mark 8:14",
+          "verse": 14,
+          "text": "et obliti sunt sumere panes et nisi unum panem non habebant secum in navi "
+        },
+        {
+          "name": "Mark 8:15",
+          "verse": 15,
+          "text": "et praecipiebat eis dicens videte cavete a fermento Pharisaeorum et fermento Herodis "
+        },
+        {
+          "name": "Mark 8:16",
+          "verse": 16,
+          "text": "et cogitabant ad alterutrum dicentes quia panes non habemus "
+        },
+        {
+          "name": "Mark 8:17",
+          "verse": 17,
+          "text": "quo cognito Iesus ait illis quid cogitatis quia panes non habetis nondum cognoscitis nec intellegitis adhuc caecatum habetis cor vestrum "
+        },
+        {
+          "name": "Mark 8:18",
+          "verse": 18,
+          "text": "oculos habentes non videtis et aures habentes non auditis nec recordamini "
+        },
+        {
+          "name": "Mark 8:19",
+          "verse": 19,
+          "text": "quando quinque panes fregi in quinque milia et quot cofinos fragmentorum plenos sustulistis dicunt ei duodecim "
+        },
+        {
+          "name": "Mark 8:20",
+          "verse": 20,
+          "text": "quando et septem panes in quattuor milia quot sportas fragmentorum tulistis et dicunt ei septem "
+        },
+        {
+          "name": "Mark 8:21",
+          "verse": 21,
+          "text": "et dicebat eis quomodo nondum intellegitis "
+        },
+        {
+          "name": "Mark 8:22",
+          "verse": 22,
+          "text": "et veniunt Bethsaida et adducunt ei caecum et rogabant eum ut illum tangeret "
+        },
+        {
+          "name": "Mark 8:23",
+          "verse": 23,
+          "text": "et adprehendens manum caeci eduxit eum extra vicum et expuens in oculos eius inpositis manibus suis interrogavit eum si aliquid videret "
+        },
+        {
+          "name": "Mark 8:24",
+          "verse": 24,
+          "text": "et aspiciens ait video homines velut arbores ambulantes "
+        },
+        {
+          "name": "Mark 8:25",
+          "verse": 25,
+          "text": "deinde iterum inposuit manus super oculos eius et coepit videre et restitutus est ita ut videret clare omnia "
+        },
+        {
+          "name": "Mark 8:26",
+          "verse": 26,
+          "text": "et misit illum in domum suam dicens vade in domum tuam et si in vicum introieris nemini dixeris "
+        },
+        {
+          "name": "Mark 8:27",
+          "verse": 27,
+          "text": "et egressus est Iesus et discipuli eius in castella Caesareae Philippi et in via interrogabat discipulos suos dicens eis quem me dicunt esse homines "
+        },
+        {
+          "name": "Mark 8:28",
+          "verse": 28,
+          "text": "qui responderunt illi dicentes Iohannem Baptistam alii Heliam alii vero quasi unum de prophetis "
+        },
+        {
+          "name": "Mark 8:29",
+          "verse": 29,
+          "text": "tunc dicit illis vos vero quem me dicitis esse respondens Petrus ait ei tu es Christus "
+        },
+        {
+          "name": "Mark 8:30",
+          "verse": 30,
+          "text": "et comminatus est eis ne cui dicerent de illo "
+        },
+        {
+          "name": "Mark 8:31",
+          "verse": 31,
+          "text": "et coepit docere illos quoniam oportet Filium hominis multa pati et reprobari a senioribus et a summis sacerdotibus et scribis et occidi et post tres dies resurgere "
+        },
+        {
+          "name": "Mark 8:32",
+          "verse": 32,
+          "text": "et palam verbum loquebatur et adprehendens eum Petrus coepit increpare eum "
+        },
+        {
+          "name": "Mark 8:33",
+          "verse": 33,
+          "text": "qui conversus et videns discipulos suos comminatus est Petro dicens vade retro me Satana quoniam non sapis quae Dei sunt sed quae sunt hominum "
+        },
+        {
+          "name": "Mark 8:34",
+          "verse": 34,
+          "text": "et convocata turba cum discipulis suis dixit eis si quis vult post me sequi deneget se ipsum et tollat crucem suam et sequatur me "
+        },
+        {
+          "name": "Mark 8:35",
+          "verse": 35,
+          "text": "qui enim voluerit animam suam salvam facere perdet eam qui autem perdiderit animam suam propter me et evangelium salvam eam faciet "
+        },
+        {
+          "name": "Mark 8:36",
+          "verse": 36,
+          "text": "quid enim proderit homini si lucretur mundum totum et detrimentum faciat animae suae "
+        },
+        {
+          "name": "Mark 8:37",
+          "verse": 37,
+          "text": "aut quid dabit homo commutationem pro anima sua "
+        },
+        {
+          "name": "Mark 8:38",
+          "verse": 38,
+          "text": "qui enim me confusus fuerit et mea verba in generatione ista adultera et peccatrice et Filius hominis confundetur eum cum venerit in gloria Patris sui cum angelis sanctis "
+        },
+        {
+          "name": "Mark 8:39",
+          "verse": 39,
+          "text": "et dicebat illis amen dico vobis quia sunt quidam de hic stantibus qui non gustabunt mortem donec videant regnum Dei veniens in virtute "
+        }
+      ]
+    },
+    {
+      "name": "Mark 9",
+      "chapter": 9,
+      "verses": [
+        {
+          "name": "Mark 9:1",
+          "verse": 1,
+          "text": "et post dies sex adsumit Iesus Petrum et Iacobum et Iohannem et ducit illos in montem excelsum seorsum solos et transfiguratus est coram ipsis "
+        },
+        {
+          "name": "Mark 9:2",
+          "verse": 2,
+          "text": "et vestimenta eius facta sunt splendentia candida nimis velut nix qualia fullo super terram non potest candida facere "
+        },
+        {
+          "name": "Mark 9:3",
+          "verse": 3,
+          "text": "et apparuit illis Helias cum Mose et erant loquentes cum Iesu "
+        },
+        {
+          "name": "Mark 9:4",
+          "verse": 4,
+          "text": "et respondens Petrus ait Iesu rabbi bonum est hic nos esse et faciamus tria tabernacula tibi unum et Mosi unum et Heliae unum "
+        },
+        {
+          "name": "Mark 9:5",
+          "verse": 5,
+          "text": "non enim sciebat quid diceret erant enim timore exterriti "
+        },
+        {
+          "name": "Mark 9:6",
+          "verse": 6,
+          "text": "et facta est nubes obumbrans eos et venit vox de nube dicens hic est Filius meus carissimus audite illum "
+        },
+        {
+          "name": "Mark 9:7",
+          "verse": 7,
+          "text": "et statim circumspicientes neminem amplius viderunt nisi Iesum tantum secum "
+        },
+        {
+          "name": "Mark 9:8",
+          "verse": 8,
+          "text": "et descendentibus illis de monte praecepit illis ne cui quae vidissent narrarent nisi cum Filius hominis a mortuis resurrexerit "
+        },
+        {
+          "name": "Mark 9:9",
+          "verse": 9,
+          "text": "et verbum continuerunt apud se conquirentes quid esset cum a mortuis resurrexerit "
+        },
+        {
+          "name": "Mark 9:10",
+          "verse": 10,
+          "text": "et interrogabant eum dicentes quid ergo dicunt Pharisaei et scribae quia Heliam oporteat venire primum "
+        },
+        {
+          "name": "Mark 9:11",
+          "verse": 11,
+          "text": "qui respondens ait illis Helias cum venerit primo restituet omnia et quomodo scriptum est in Filium hominis ut multa patiatur et contemnatur "
+        },
+        {
+          "name": "Mark 9:12",
+          "verse": 12,
+          "text": "sed dico vobis quia et Helias venit et fecerunt illi quaecumque voluerunt sicut scriptum est de eo "
+        },
+        {
+          "name": "Mark 9:13",
+          "verse": 13,
+          "text": "et veniens ad discipulos suos vidit turbam magnam circa eos et scribas conquirentes cum illis "
+        },
+        {
+          "name": "Mark 9:14",
+          "verse": 14,
+          "text": "et confestim omnis populus videns eum stupefactus est et adcurrentes salutabant eum "
+        },
+        {
+          "name": "Mark 9:15",
+          "verse": 15,
+          "text": "et interrogavit eos quid inter vos conquiritis "
+        },
+        {
+          "name": "Mark 9:16",
+          "verse": 16,
+          "text": "et respondens unus de turba dixit magister adtuli filium meum ad te habentem spiritum mutum "
+        },
+        {
+          "name": "Mark 9:17",
+          "verse": 17,
+          "text": "qui ubicumque eum adprehenderit adlidit eum et spumat et stridet dentibus et arescit et dixi discipulis tuis ut eicerent illum et non potuerunt "
+        },
+        {
+          "name": "Mark 9:18",
+          "verse": 18,
+          "text": "qui respondens eis dicit o generatio incredula quamdiu apud vos ero quamdiu vos patiar adferte illum ad me "
+        },
+        {
+          "name": "Mark 9:19",
+          "verse": 19,
+          "text": "et adtulerunt eum et cum vidisset illum statim spiritus conturbavit eum et elisus in terram volutabatur spumans "
+        },
+        {
+          "name": "Mark 9:20",
+          "verse": 20,
+          "text": "et interrogavit patrem eius quantum temporis est ex quo hoc ei accidit at ille ait ab infantia "
+        },
+        {
+          "name": "Mark 9:21",
+          "verse": 21,
+          "text": "et frequenter eum et in ignem et in aquas misit ut eum perderet sed si quid potes adiuva nos misertus nostri "
+        },
+        {
+          "name": "Mark 9:22",
+          "verse": 22,
+          "text": "Iesus autem ait illi si potes credere omnia possibilia credenti "
+        },
+        {
+          "name": "Mark 9:23",
+          "verse": 23,
+          "text": "et continuo exclamans pater pueri cum lacrimis aiebat credo adiuva incredulitatem meam "
+        },
+        {
+          "name": "Mark 9:24",
+          "verse": 24,
+          "text": "et cum videret Iesus concurrentem turbam comminatus est spiritui inmundo dicens illi surde et mute spiritus ego tibi praecipio exi ab eo et amplius ne introeas in eum "
+        },
+        {
+          "name": "Mark 9:25",
+          "verse": 25,
+          "text": "et clamans et multum discerpens eum exiit ab eo et factus est sicut mortuus ita ut multi dicerent quia mortuus est "
+        },
+        {
+          "name": "Mark 9:26",
+          "verse": 26,
+          "text": "Iesus autem tenens manum eius elevavit illum et surrexit "
+        },
+        {
+          "name": "Mark 9:27",
+          "verse": 27,
+          "text": "et cum introisset in domum discipuli eius secreto interrogabant eum quare nos non potuimus eicere eum "
+        },
+        {
+          "name": "Mark 9:28",
+          "verse": 28,
+          "text": "et dixit illis hoc genus in nullo potest exire nisi in oratione et ieiunio "
+        },
+        {
+          "name": "Mark 9:29",
+          "verse": 29,
+          "text": "et inde profecti praetergrediebantur Galilaeam nec volebat quemquam scire "
+        },
+        {
+          "name": "Mark 9:30",
+          "verse": 30,
+          "text": "docebat autem discipulos suos et dicebat illis quoniam Filius hominis tradetur in manus hominum et occident eum et occisus tertia die resurget "
+        },
+        {
+          "name": "Mark 9:31",
+          "verse": 31,
+          "text": "at illi ignorabant verbum et timebant eum interrogare "
+        },
+        {
+          "name": "Mark 9:32",
+          "verse": 32,
+          "text": "et venerunt Capharnaum qui cum domi esset interrogabat eos quid in via tractabatis "
+        },
+        {
+          "name": "Mark 9:33",
+          "verse": 33,
+          "text": "at illi tacebant siquidem inter se in via disputaverant quis esset illorum maior "
+        },
+        {
+          "name": "Mark 9:34",
+          "verse": 34,
+          "text": "et residens vocavit duodecim et ait illis si quis vult primus esse erit omnium novissimus et omnium minister "
+        },
+        {
+          "name": "Mark 9:35",
+          "verse": 35,
+          "text": "et accipiens puerum statuit eum in medio eorum quem cum conplexus esset ait illis "
+        },
+        {
+          "name": "Mark 9:36",
+          "verse": 36,
+          "text": "quisquis unum ex huiusmodi pueris receperit in nomine meo me recipit et quicumque me susceperit non me suscipit sed eum qui me misit "
+        },
+        {
+          "name": "Mark 9:37",
+          "verse": 37,
+          "text": "respondit illi Iohannes dicens magister vidimus quendam in nomine tuo eicientem daemonia qui non sequitur nos et prohibuimus eum "
+        },
+        {
+          "name": "Mark 9:38",
+          "verse": 38,
+          "text": "Iesus autem ait nolite prohibere eum nemo est enim qui faciat virtutem in nomine meo et possit cito male loqui de me "
+        },
+        {
+          "name": "Mark 9:39",
+          "verse": 39,
+          "text": "qui enim non est adversum vos pro vobis est "
+        },
+        {
+          "name": "Mark 9:40",
+          "verse": 40,
+          "text": "quisquis enim potum dederit vobis calicem aquae in nomine meo quia Christi estis amen dico vobis non perdet mercedem suam "
+        },
+        {
+          "name": "Mark 9:41",
+          "verse": 41,
+          "text": "et quisquis scandalizaverit unum ex his pusillis credentibus in me bonum est ei magis si circumdaretur mola asinaria collo eius et in mare mitteretur "
+        },
+        {
+          "name": "Mark 9:42",
+          "verse": 42,
+          "text": "et si scandalizaverit te manus tua abscide illam bonum est tibi debilem introire in vitam quam duas manus habentem ire in gehennam in ignem inextinguibilem "
+        },
+        {
+          "name": "Mark 9:43",
+          "verse": 43,
+          "text": "ubi vermis eorum non moritur et ignis non extinguitur "
+        },
+        {
+          "name": "Mark 9:44",
+          "verse": 44,
+          "text": "et si pes tuus te scandalizat amputa illum bonum est tibi claudum introire in vitam aeternam quam duos pedes habentem mitti in gehennam ignis inextinguibilis "
+        },
+        {
+          "name": "Mark 9:45",
+          "verse": 45,
+          "text": "ubi vermis eorum non moritur et ignis non extinguitur "
+        },
+        {
+          "name": "Mark 9:46",
+          "verse": 46,
+          "text": "quod si oculus tuus scandalizat te eice eum bonum est tibi luscum introire in regnum Dei quam duos oculos habentem mitti in gehennam ignis "
+        },
+        {
+          "name": "Mark 9:47",
+          "verse": 47,
+          "text": "ubi vermis eorum non moritur et ignis non extinguitur "
+        },
+        {
+          "name": "Mark 9:48",
+          "verse": 48,
+          "text": "omnis enim igne sallietur et omnis victima sallietur "
+        },
+        {
+          "name": "Mark 9:49",
+          "verse": 49,
+          "text": "bonum est sal quod si sal insulsum fuerit in quo illud condietis habete in vobis sal et pacem habete inter vos "
+        }
+      ]
+    },
+    {
+      "name": "Mark 10",
+      "chapter": 10,
+      "verses": [
+        {
+          "name": "Mark 10:1",
+          "verse": 1,
+          "text": "et inde exsurgens venit in fines Iudaeae ultra Iordanen et conveniunt iterum turbae ad eum et sicut consueverat iterum docebat illos "
+        },
+        {
+          "name": "Mark 10:2",
+          "verse": 2,
+          "text": "et accedentes Pharisaei interrogabant eum si licet viro uxorem dimittere temptantes eum "
+        },
+        {
+          "name": "Mark 10:3",
+          "verse": 3,
+          "text": "at ille respondens dixit eis quid vobis praecepit Moses "
+        },
+        {
+          "name": "Mark 10:4",
+          "verse": 4,
+          "text": "qui dixerunt Moses permisit libellum repudii scribere et dimittere "
+        },
+        {
+          "name": "Mark 10:5",
+          "verse": 5,
+          "text": "quibus respondens Iesus ait ad duritiam cordis vestri scripsit vobis praeceptum istud "
+        },
+        {
+          "name": "Mark 10:6",
+          "verse": 6,
+          "text": "ab initio autem creaturae masculum et feminam fecit eos Deus "
+        },
+        {
+          "name": "Mark 10:7",
+          "verse": 7,
+          "text": "propter hoc relinquet homo patrem suum et matrem et adherebit ad uxorem suam "
+        },
+        {
+          "name": "Mark 10:8",
+          "verse": 8,
+          "text": "et erunt duo in carne una itaque iam non sunt duo sed una caro "
+        },
+        {
+          "name": "Mark 10:9",
+          "verse": 9,
+          "text": "quod ergo Deus iunxit homo non separet "
+        },
+        {
+          "name": "Mark 10:10",
+          "verse": 10,
+          "text": "et in domo iterum discipuli eius de eodem interrogaverunt eum "
+        },
+        {
+          "name": "Mark 10:11",
+          "verse": 11,
+          "text": "et dicit illis quicumque dimiserit uxorem suam et aliam duxerit adulterium committit super eam "
+        },
+        {
+          "name": "Mark 10:12",
+          "verse": 12,
+          "text": "et si uxor dimiserit virum suum et alii nupserit moechatur "
+        },
+        {
+          "name": "Mark 10:13",
+          "verse": 13,
+          "text": "et offerebant illi parvulos ut tangeret illos discipuli autem comminabantur offerentibus "
+        },
+        {
+          "name": "Mark 10:14",
+          "verse": 14,
+          "text": "quos cum videret Iesus indigne tulit et ait illis sinite parvulos venire ad me et ne prohibueritis eos talium est enim regnum Dei "
+        },
+        {
+          "name": "Mark 10:15",
+          "verse": 15,
+          "text": "amen dico vobis quisque non receperit regnum Dei velut parvulus non intrabit in illud "
+        },
+        {
+          "name": "Mark 10:16",
+          "verse": 16,
+          "text": "et conplexans eos et inponens manus super illos benedicebat eos "
+        },
+        {
+          "name": "Mark 10:17",
+          "verse": 17,
+          "text": "et cum egressus esset in viam procurrens quidam genu flexo ante eum rogabat eum magister bone quid faciam ut vitam aeternam percipiam "
+        },
+        {
+          "name": "Mark 10:18",
+          "verse": 18,
+          "text": "Iesus autem dixit ei quid me dicis bonum nemo bonus nisi unus Deus "
+        },
+        {
+          "name": "Mark 10:19",
+          "verse": 19,
+          "text": "praecepta nosti ne adulteres ne occidas ne fureris ne falsum testimonium dixeris ne fraudem feceris honora patrem tuum et matrem "
+        },
+        {
+          "name": "Mark 10:20",
+          "verse": 20,
+          "text": "et ille respondens ait illi magister omnia haec conservavi a iuventute mea "
+        },
+        {
+          "name": "Mark 10:21",
+          "verse": 21,
+          "text": "Iesus autem intuitus eum dilexit eum et dixit illi unum tibi deest vade quaecumque habes vende et da pauperibus et habebis thesaurum in caelo et veni sequere me "
+        },
+        {
+          "name": "Mark 10:22",
+          "verse": 22,
+          "text": "qui contristatus in verbo abiit maerens erat enim habens possessiones multas "
+        },
+        {
+          "name": "Mark 10:23",
+          "verse": 23,
+          "text": "et circumspiciens Iesus ait discipulis suis quam difficile qui pecunias habent in regnum Dei introibunt "
+        },
+        {
+          "name": "Mark 10:24",
+          "verse": 24,
+          "text": "discipuli autem obstupescebant in verbis eius at Iesus rursus respondens ait illis filioli quam difficile est confidentes in pecuniis regnum Dei introire "
+        },
+        {
+          "name": "Mark 10:25",
+          "verse": 25,
+          "text": "facilius est camelum per foramen acus transire quam divitem intrare in regnum Dei "
+        },
+        {
+          "name": "Mark 10:26",
+          "verse": 26,
+          "text": "qui magis admirabantur dicentes ad semet ipsos et quis potest salvus fieri "
+        },
+        {
+          "name": "Mark 10:27",
+          "verse": 27,
+          "text": "et intuens illos Iesus ait apud homines inpossibile est sed non apud Deum omnia enim possibilia sunt apud Deum "
+        },
+        {
+          "name": "Mark 10:28",
+          "verse": 28,
+          "text": "coepit Petrus ei dicere ecce nos dimisimus omnia et secuti sumus te "
+        },
+        {
+          "name": "Mark 10:29",
+          "verse": 29,
+          "text": "respondens Iesus ait amen dico vobis nemo est qui reliquerit domum aut fratres aut sorores aut matrem aut patrem aut filios aut agros propter me et propter evangelium "
+        },
+        {
+          "name": "Mark 10:30",
+          "verse": 30,
+          "text": "qui non accipiat centies tantum nunc in tempore hoc domos et fratres et sorores et matres et filios et agros cum persecutionibus et in saeculo futuro vitam aeternam "
+        },
+        {
+          "name": "Mark 10:31",
+          "verse": 31,
+          "text": "multi autem erunt primi novissimi et novissimi primi "
+        },
+        {
+          "name": "Mark 10:32",
+          "verse": 32,
+          "text": "erant autem in via ascendentes in Hierosolyma et praecedebat illos Iesus et stupebant et sequentes timebant et adsumens iterum duodecim coepit illis dicere quae essent ei ventura "
+        },
+        {
+          "name": "Mark 10:33",
+          "verse": 33,
+          "text": "quia ecce ascendimus in Hierosolyma et Filius hominis tradetur principibus sacerdotum et scribis et senioribus et damnabunt eum morti et tradent eum gentibus "
+        },
+        {
+          "name": "Mark 10:34",
+          "verse": 34,
+          "text": "et inludent ei et conspuent eum et flagellabunt eum et interficient eum et tertia die resurget "
+        },
+        {
+          "name": "Mark 10:35",
+          "verse": 35,
+          "text": "et accedunt ad illum Iacobus et Iohannes filii Zebedaei dicentes magister volumus ut quodcumque petierimus facias nobis "
+        },
+        {
+          "name": "Mark 10:36",
+          "verse": 36,
+          "text": "at ille dixit eis quid vultis ut faciam vobis "
+        },
+        {
+          "name": "Mark 10:37",
+          "verse": 37,
+          "text": "et dixerunt da nobis ut unus ad dexteram tuam et alius ad sinistram tuam sedeamus in gloria tua "
+        },
+        {
+          "name": "Mark 10:38",
+          "verse": 38,
+          "text": "Iesus autem ait eis nescitis quid petatis potestis bibere calicem quem ego bibo aut baptismum quo ego baptizor baptizari "
+        },
+        {
+          "name": "Mark 10:39",
+          "verse": 39,
+          "text": "at illi dixerunt ei possumus Iesus autem ait eis calicem quidem quem ego bibo bibetis et baptismum quo ego baptizor baptizabimini "
+        },
+        {
+          "name": "Mark 10:40",
+          "verse": 40,
+          "text": "sedere autem ad dexteram meam vel ad sinistram non est meum dare sed quibus paratum est "
+        },
+        {
+          "name": "Mark 10:41",
+          "verse": 41,
+          "text": "et audientes decem coeperunt indignari de Iacobo et Iohanne "
+        },
+        {
+          "name": "Mark 10:42",
+          "verse": 42,
+          "text": "Iesus autem vocans eos ait illis scitis quia hii qui videntur principari gentibus dominantur eis et principes eorum potestatem habent ipsorum "
+        },
+        {
+          "name": "Mark 10:43",
+          "verse": 43,
+          "text": "non ita est autem in vobis sed quicumque voluerit fieri maior erit vester minister "
+        },
+        {
+          "name": "Mark 10:44",
+          "verse": 44,
+          "text": "et quicumque voluerit in vobis primus esse erit omnium servus "
+        },
+        {
+          "name": "Mark 10:45",
+          "verse": 45,
+          "text": "nam et Filius hominis non venit ut ministraretur ei sed ut ministraret et daret animam suam redemptionem pro multis "
+        },
+        {
+          "name": "Mark 10:46",
+          "verse": 46,
+          "text": "et veniunt Hierichum et proficiscente eo de Hiericho et discipulis eius et plurima multitudine filius Timei Bartimeus caecus sedebat iuxta viam mendicans "
+        },
+        {
+          "name": "Mark 10:47",
+          "verse": 47,
+          "text": "qui cum audisset quia Iesus Nazarenus est coepit clamare et dicere Fili David Iesu miserere mei "
+        },
+        {
+          "name": "Mark 10:48",
+          "verse": 48,
+          "text": "et comminabantur illi multi ut taceret at ille multo magis clamabat Fili David miserere mei "
+        },
+        {
+          "name": "Mark 10:49",
+          "verse": 49,
+          "text": "et stans Iesus praecepit illum vocari et vocant caecum dicentes ei animaequior esto surge vocat te "
+        },
+        {
+          "name": "Mark 10:50",
+          "verse": 50,
+          "text": "qui proiecto vestimento suo exiliens venit ad eum "
+        },
+        {
+          "name": "Mark 10:51",
+          "verse": 51,
+          "text": "et respondens illi Iesus dixit quid vis tibi faciam caecus autem dixit ei rabboni ut videam "
+        },
+        {
+          "name": "Mark 10:52",
+          "verse": 52,
+          "text": "Iesus autem ait illi vade fides tua te salvum fecit et confestim vidit et sequebatur eum in via "
+        }
+      ]
+    },
+    {
+      "name": "Mark 11",
+      "chapter": 11,
+      "verses": [
+        {
+          "name": "Mark 11:1",
+          "verse": 1,
+          "text": "et cum adpropinquarent Hierosolymae et Bethaniae ad montem Olivarum mittit duos ex discipulis suis "
+        },
+        {
+          "name": "Mark 11:2",
+          "verse": 2,
+          "text": "et ait illis ite in castellum quod est contra vos et statim introeuntes illuc invenietis pullum ligatum super quem nemo adhuc hominum sedit solvite illum et adducite "
+        },
+        {
+          "name": "Mark 11:3",
+          "verse": 3,
+          "text": "et si quis vobis dixerit quid facitis dicite quia Domino necessarius est et continuo illum dimittet huc "
+        },
+        {
+          "name": "Mark 11:4",
+          "verse": 4,
+          "text": "et abeuntes invenerunt pullum ligatum ante ianuam foris in bivio et solvunt eum "
+        },
+        {
+          "name": "Mark 11:5",
+          "verse": 5,
+          "text": "et quidam de illic stantibus dicebant illis quid facitis solventes pullum "
+        },
+        {
+          "name": "Mark 11:6",
+          "verse": 6,
+          "text": "qui dixerunt eis sicut praeceperat illis Iesus et dimiserunt eis "
+        },
+        {
+          "name": "Mark 11:7",
+          "verse": 7,
+          "text": "et duxerunt pullum ad Iesum et inponunt illi vestimenta sua et sedit super eo "
+        },
+        {
+          "name": "Mark 11:8",
+          "verse": 8,
+          "text": "multi autem vestimenta sua straverunt in via alii autem frondes caedebant de arboribus et sternebant in via "
+        },
+        {
+          "name": "Mark 11:9",
+          "verse": 9,
+          "text": "et qui praeibant et qui sequebantur clamabant dicentes osanna benedictus qui venit in nomine Domini "
+        },
+        {
+          "name": "Mark 11:10",
+          "verse": 10,
+          "text": "benedictum quod venit regnum patris nostri David osanna in excelsis "
+        },
+        {
+          "name": "Mark 11:11",
+          "verse": 11,
+          "text": "et introivit Hierosolyma in templum et circumspectis omnibus cum iam vespera esset hora exivit in Bethania cum duodecim "
+        },
+        {
+          "name": "Mark 11:12",
+          "verse": 12,
+          "text": "et alia die cum exirent a Bethania esuriit "
+        },
+        {
+          "name": "Mark 11:13",
+          "verse": 13,
+          "text": "cumque vidisset a longe ficum habentem folia venit si quid forte inveniret in ea et cum venisset ad eam nihil invenit praeter folia non enim erat tempus ficorum "
+        },
+        {
+          "name": "Mark 11:14",
+          "verse": 14,
+          "text": "et respondens dixit ei iam non amplius in aeternum quisquam fructum ex te manducet et audiebant discipuli eius "
+        },
+        {
+          "name": "Mark 11:15",
+          "verse": 15,
+          "text": "et veniunt Hierosolymam et cum introisset templum coepit eicere vendentes et ementes in templo et mensas nummulariorum et cathedras vendentium columbas evertit "
+        },
+        {
+          "name": "Mark 11:16",
+          "verse": 16,
+          "text": "et non sinebat ut quisquam vas transferret per templum "
+        },
+        {
+          "name": "Mark 11:17",
+          "verse": 17,
+          "text": "et docebat dicens eis non scriptum est quia domus mea domus orationis vocabitur omnibus gentibus vos autem fecistis eam speluncam latronum "
+        },
+        {
+          "name": "Mark 11:18",
+          "verse": 18,
+          "text": "quo audito principes sacerdotum et scribae quaerebant quomodo eum perderent timebant enim eum quoniam universa turba admirabatur super doctrina eius "
+        },
+        {
+          "name": "Mark 11:19",
+          "verse": 19,
+          "text": "et cum vespera facta esset egrediebatur de civitate "
+        },
+        {
+          "name": "Mark 11:20",
+          "verse": 20,
+          "text": "et cum mane transirent viderunt ficum aridam factam a radicibus "
+        },
+        {
+          "name": "Mark 11:21",
+          "verse": 21,
+          "text": "et recordatus Petrus dicit ei rabbi ecce ficus cui maledixisti aruit "
+        },
+        {
+          "name": "Mark 11:22",
+          "verse": 22,
+          "text": "et respondens Iesus ait illis habete fidem Dei "
+        },
+        {
+          "name": "Mark 11:23",
+          "verse": 23,
+          "text": "amen dico vobis quicumque dixerit huic monti tollere et mittere in mare et non haesitaverit in corde suo sed crediderit quia quodcumque dixerit fiat fiet ei "
+        },
+        {
+          "name": "Mark 11:24",
+          "verse": 24,
+          "text": "propterea dico vobis omnia quaecumque orantes petitis credite quia accipietis et veniet vobis "
+        },
+        {
+          "name": "Mark 11:25",
+          "verse": 25,
+          "text": "et cum stabitis ad orandum dimittite si quid habetis adversus aliquem ut et Pater vester qui in caelis est dimittat vobis peccata vestra "
+        },
+        {
+          "name": "Mark 11:26",
+          "verse": 26,
+          "text": "quod si vos non dimiseritis nec Pater vester qui in caelis est dimittet vobis peccata vestra "
+        },
+        {
+          "name": "Mark 11:27",
+          "verse": 27,
+          "text": "et veniunt rursus Hierosolymam et cum ambularet in templo accedunt ad eum summi sacerdotes et scribae et seniores "
+        },
+        {
+          "name": "Mark 11:28",
+          "verse": 28,
+          "text": "et dicunt illi in qua potestate haec facis et quis tibi dedit hanc potestatem ut ista facias "
+        },
+        {
+          "name": "Mark 11:29",
+          "verse": 29,
+          "text": "Iesus autem respondens ait illis interrogabo vos et ego unum verbum et respondete mihi et dicam vobis in qua potestate haec faciam "
+        },
+        {
+          "name": "Mark 11:30",
+          "verse": 30,
+          "text": "baptismum Iohannis de caelo erat an ex hominibus respondete mihi "
+        },
+        {
+          "name": "Mark 11:31",
+          "verse": 31,
+          "text": "at illi cogitabant secum dicentes si dixerimus de caelo dicet quare ergo non credidistis ei "
+        },
+        {
+          "name": "Mark 11:32",
+          "verse": 32,
+          "text": "sed dicemus ex hominibus timebant populum omnes enim habebant Iohannem quia vere propheta esset "
+        },
+        {
+          "name": "Mark 11:33",
+          "verse": 33,
+          "text": "et respondentes dicunt Iesu nescimus respondens Iesus ait illis neque ego dico vobis in qua potestate haec faciam "
+        }
+      ]
+    },
+    {
+      "name": "Mark 12",
+      "chapter": 12,
+      "verses": [
+        {
+          "name": "Mark 12:1",
+          "verse": 1,
+          "text": "et coepit illis in parabolis loqui vineam pastinavit homo et circumdedit sepem et fodit lacum et aedificavit turrem et locavit eam agricolis et peregre profectus est "
+        },
+        {
+          "name": "Mark 12:2",
+          "verse": 2,
+          "text": "et misit ad agricolas in tempore servum ut ab agricolis acciperet de fructu vineae "
+        },
+        {
+          "name": "Mark 12:3",
+          "verse": 3,
+          "text": "qui adprehensum eum ceciderunt et dimiserunt vacuum "
+        },
+        {
+          "name": "Mark 12:4",
+          "verse": 4,
+          "text": "et iterum misit ad illos alium servum et illum capite vulneraverunt et contumeliis adfecerunt "
+        },
+        {
+          "name": "Mark 12:5",
+          "verse": 5,
+          "text": "et rursum alium misit et illum occiderunt et plures alios quosdam caedentes alios vero occidentes "
+        },
+        {
+          "name": "Mark 12:6",
+          "verse": 6,
+          "text": "adhuc ergo unum habens filium carissimum et illum misit ad eos novissimum dicens quia reverebuntur filium meum "
+        },
+        {
+          "name": "Mark 12:7",
+          "verse": 7,
+          "text": "coloni autem dixerunt ad invicem hic est heres venite occidamus eum et nostra erit hereditas "
+        },
+        {
+          "name": "Mark 12:8",
+          "verse": 8,
+          "text": "et adprehendentes eum occiderunt et eiecerunt extra vineam "
+        },
+        {
+          "name": "Mark 12:9",
+          "verse": 9,
+          "text": "quid ergo faciet dominus vineae veniet et perdet colonos et dabit vineam aliis "
+        },
+        {
+          "name": "Mark 12:10",
+          "verse": 10,
+          "text": "nec scripturam hanc legistis lapidem quem reprobaverunt aedificantes hic factus est in caput anguli "
+        },
+        {
+          "name": "Mark 12:11",
+          "verse": 11,
+          "text": "a Domino factum est istud et est mirabile in oculis nostris "
+        },
+        {
+          "name": "Mark 12:12",
+          "verse": 12,
+          "text": "et quaerebant eum tenere et timuerunt turbam cognoverunt enim quoniam ad eos parabolam hanc dixerit et relicto eo abierunt "
+        },
+        {
+          "name": "Mark 12:13",
+          "verse": 13,
+          "text": "et mittunt ad eum quosdam ex Pharisaeis et Herodianis ut eum caperent in verbo "
+        },
+        {
+          "name": "Mark 12:14",
+          "verse": 14,
+          "text": "qui venientes dicunt ei magister scimus quoniam verax es et non curas quemquam nec enim vides in faciem hominis sed in veritate viam Dei doces licet dari tributum Caesari an non dabimus "
+        },
+        {
+          "name": "Mark 12:15",
+          "verse": 15,
+          "text": "qui sciens versutiam eorum ait illis quid me temptatis adferte mihi denarium ut videam "
+        },
+        {
+          "name": "Mark 12:16",
+          "verse": 16,
+          "text": "at illi adtulerunt et ait illis cuius est imago haec et inscriptio dicunt illi Caesaris "
+        },
+        {
+          "name": "Mark 12:17",
+          "verse": 17,
+          "text": "respondens autem Iesus dixit illis reddite igitur quae sunt Caesaris Caesari et quae sunt Dei Deo et mirabantur super eo "
+        },
+        {
+          "name": "Mark 12:18",
+          "verse": 18,
+          "text": "et venerunt ad eum Sadducaei qui dicunt resurrectionem non esse et interrogabant eum dicentes "
+        },
+        {
+          "name": "Mark 12:19",
+          "verse": 19,
+          "text": "magister Moses nobis scripsit ut si cuius frater mortuus fuerit et dimiserit uxorem et filios non reliquerit accipiat frater eius uxorem ipsius et resuscitet semen fratri suo "
+        },
+        {
+          "name": "Mark 12:20",
+          "verse": 20,
+          "text": "septem ergo fratres erant et primus accepit uxorem et mortuus est non relicto semine "
+        },
+        {
+          "name": "Mark 12:21",
+          "verse": 21,
+          "text": "et secundus accepit eam et mortuus est et nec iste reliquit semen et tertius similiter "
+        },
+        {
+          "name": "Mark 12:22",
+          "verse": 22,
+          "text": "et acceperunt eam similiter septem et non reliquerunt semen novissima omnium defuncta est et mulier "
+        },
+        {
+          "name": "Mark 12:23",
+          "verse": 23,
+          "text": "in resurrectione ergo cum resurrexerint cuius de his erit uxor septem enim habuerunt eam uxorem "
+        },
+        {
+          "name": "Mark 12:24",
+          "verse": 24,
+          "text": "et respondens Iesus ait illis non ideo erratis non scientes scripturas neque virtutem Dei "
+        },
+        {
+          "name": "Mark 12:25",
+          "verse": 25,
+          "text": "cum enim a mortuis resurrexerint neque nubent neque nubentur sed sunt sicut angeli in caelis "
+        },
+        {
+          "name": "Mark 12:26",
+          "verse": 26,
+          "text": "de mortuis autem quod resurgant non legistis in libro Mosi super rubum quomodo dixerit illi Deus inquiens ego sum Deus Abraham et Deus Isaac et Deus Iacob "
+        },
+        {
+          "name": "Mark 12:27",
+          "verse": 27,
+          "text": "non est Deus mortuorum sed vivorum vos ergo multum erratis "
+        },
+        {
+          "name": "Mark 12:28",
+          "verse": 28,
+          "text": "et accessit unus de scribis qui audierat illos conquirentes et videns quoniam bene illis responderit interrogavit eum quod esset primum omnium mandatum "
+        },
+        {
+          "name": "Mark 12:29",
+          "verse": 29,
+          "text": "Iesus autem respondit ei quia primum omnium mandatum est audi Israhel Dominus Deus noster Deus unus est "
+        },
+        {
+          "name": "Mark 12:30",
+          "verse": 30,
+          "text": "et diliges Dominum Deum tuum ex toto corde tuo et ex tota anima tua et ex tota mente tua et ex tota virtute tua hoc est primum mandatum "
+        },
+        {
+          "name": "Mark 12:31",
+          "verse": 31,
+          "text": "secundum autem simile illi diliges proximum tuum tamquam te ipsum maius horum aliud mandatum non est "
+        },
+        {
+          "name": "Mark 12:32",
+          "verse": 32,
+          "text": "et ait illi scriba bene magister in veritate dixisti quia unus est et non est alius praeter eum "
+        },
+        {
+          "name": "Mark 12:33",
+          "verse": 33,
+          "text": "et ut diligatur ex toto corde et ex toto intellectu et ex tota anima et ex tota fortitudine et diligere proximum tamquam se ipsum maius est omnibus holocaustomatibus et sacrificiis "
+        },
+        {
+          "name": "Mark 12:34",
+          "verse": 34,
+          "text": "Iesus autem videns quod sapienter respondisset dixit illi non es longe a regno Dei et nemo iam audebat eum interrogare "
+        },
+        {
+          "name": "Mark 12:35",
+          "verse": 35,
+          "text": "et respondens Iesus dicebat docens in templo quomodo dicunt scribae Christum Filium esse David "
+        },
+        {
+          "name": "Mark 12:36",
+          "verse": 36,
+          "text": "ipse enim David dicit in Spiritu Sancto dixit Dominus Domino meo sede a dextris meis donec ponam inimicos tuos scabillum pedum tuorum "
+        },
+        {
+          "name": "Mark 12:37",
+          "verse": 37,
+          "text": "ipse ergo David dicit eum Dominum et unde est filius eius et multa turba eum libenter audivit "
+        },
+        {
+          "name": "Mark 12:38",
+          "verse": 38,
+          "text": "et dicebat eis in doctrina sua cavete a scribis qui volunt in stolis ambulare et salutari in foro "
+        },
+        {
+          "name": "Mark 12:39",
+          "verse": 39,
+          "text": "et in primis cathedris sedere in synagogis et primos discubitus in cenis "
+        },
+        {
+          "name": "Mark 12:40",
+          "verse": 40,
+          "text": "qui devorant domos viduarum sub obtentu prolixae orationis hii accipient prolixius iudicium "
+        },
+        {
+          "name": "Mark 12:41",
+          "verse": 41,
+          "text": "et sedens Iesus contra gazofilacium aspiciebat quomodo turba iactaret aes in gazofilacium et multi divites iactabant multa "
+        },
+        {
+          "name": "Mark 12:42",
+          "verse": 42,
+          "text": "cum venisset autem una vidua pauper misit duo minuta quod est quadrans "
+        },
+        {
+          "name": "Mark 12:43",
+          "verse": 43,
+          "text": "et convocans discipulos suos ait illis amen dico vobis quoniam vidua haec pauper plus omnibus misit qui miserunt in gazofilacium "
+        },
+        {
+          "name": "Mark 12:44",
+          "verse": 44,
+          "text": "omnes enim ex eo quod abundabat illis miserunt haec vero de penuria sua omnia quae habuit misit totum victum suum "
+        }
+      ]
+    },
+    {
+      "name": "Mark 13",
+      "chapter": 13,
+      "verses": [
+        {
+          "name": "Mark 13:1",
+          "verse": 1,
+          "text": "et cum egrederetur de templo ait illi unus ex discipulis suis magister aspice quales lapides et quales structurae "
+        },
+        {
+          "name": "Mark 13:2",
+          "verse": 2,
+          "text": "et respondens Iesus ait illi vides has omnes magnas aedificationes non relinquetur lapis super lapidem qui non destruatur "
+        },
+        {
+          "name": "Mark 13:3",
+          "verse": 3,
+          "text": "et cum sederet in montem Olivarum contra templum interrogabant eum separatim Petrus et Iacobus et Iohannes et Andreas "
+        },
+        {
+          "name": "Mark 13:4",
+          "verse": 4,
+          "text": "dic nobis quando ista fient et quod signum erit quando haec omnia incipient consummari "
+        },
+        {
+          "name": "Mark 13:5",
+          "verse": 5,
+          "text": "et respondens Iesus coepit dicere illis videte ne quis vos seducat "
+        },
+        {
+          "name": "Mark 13:6",
+          "verse": 6,
+          "text": "multi enim venient in nomine meo dicentes quia ego sum et multos seducent "
+        },
+        {
+          "name": "Mark 13:7",
+          "verse": 7,
+          "text": "cum audieritis autem bella et opiniones bellorum ne timueritis oportet enim fieri sed nondum finis "
+        },
+        {
+          "name": "Mark 13:8",
+          "verse": 8,
+          "text": "exsurget autem gens super gentem et regnum super regnum et erunt terraemotus per loca et fames initium dolorum haec "
+        },
+        {
+          "name": "Mark 13:9",
+          "verse": 9,
+          "text": "videte autem vosmet ipsos tradent enim vos conciliis et in synagogis vapulabitis et ante praesides et reges stabitis propter me in testimonium illis "
+        },
+        {
+          "name": "Mark 13:10",
+          "verse": 10,
+          "text": "et in omnes gentes primum oportet praedicari evangelium "
+        },
+        {
+          "name": "Mark 13:11",
+          "verse": 11,
+          "text": "et cum duxerint vos tradentes nolite praecogitare quid loquamini sed quod datum vobis fuerit in illa hora id loquimini non enim estis vos loquentes sed Spiritus Sanctus "
+        },
+        {
+          "name": "Mark 13:12",
+          "verse": 12,
+          "text": "tradet autem frater fratrem in mortem et pater filium et consurgent filii in parentes et morte adficient eos "
+        },
+        {
+          "name": "Mark 13:13",
+          "verse": 13,
+          "text": "et eritis odio omnibus propter nomen meum qui autem sustinuerit in finem hic salvus erit "
+        },
+        {
+          "name": "Mark 13:14",
+          "verse": 14,
+          "text": "cum autem videritis abominationem desolationis stantem ubi non debet qui legit intellegat tunc qui in Iudaea sunt fugiant in montes "
+        },
+        {
+          "name": "Mark 13:15",
+          "verse": 15,
+          "text": "et qui super tectum ne descendat in domum nec introeat ut tollat quid de domo sua "
+        },
+        {
+          "name": "Mark 13:16",
+          "verse": 16,
+          "text": "et qui in agro erit non revertatur retro tollere vestimentum suum "
+        },
+        {
+          "name": "Mark 13:17",
+          "verse": 17,
+          "text": "vae autem praegnatibus et nutrientibus in illis diebus "
+        },
+        {
+          "name": "Mark 13:18",
+          "verse": 18,
+          "text": "orate vero ut hieme non fiant "
+        },
+        {
+          "name": "Mark 13:19",
+          "verse": 19,
+          "text": "erunt enim dies illi tribulationes tales quales non fuerunt ab initio creaturae quam condidit Deus usque nunc neque fient "
+        },
+        {
+          "name": "Mark 13:20",
+          "verse": 20,
+          "text": "et nisi breviasset Dominus dies non fuisset salva omnis caro sed propter electos quos elegit breviavit dies "
+        },
+        {
+          "name": "Mark 13:21",
+          "verse": 21,
+          "text": "et tunc si quis vobis dixerit ecce hic est Christus ecce illic ne credideritis "
+        },
+        {
+          "name": "Mark 13:22",
+          "verse": 22,
+          "text": "exsurgent enim pseudochristi et pseudoprophetae et dabunt signa et portenta ad seducendos si potest fieri etiam electos "
+        },
+        {
+          "name": "Mark 13:23",
+          "verse": 23,
+          "text": "vos ergo videte ecce praedixi vobis omnia "
+        },
+        {
+          "name": "Mark 13:24",
+          "verse": 24,
+          "text": "sed in illis diebus post tribulationem illam sol contenebrabitur et luna non dabit splendorem suum "
+        },
+        {
+          "name": "Mark 13:25",
+          "verse": 25,
+          "text": "et erunt stellae caeli decidentes et virtutes quae sunt in caelis movebuntur "
+        },
+        {
+          "name": "Mark 13:26",
+          "verse": 26,
+          "text": "et tunc videbunt Filium hominis venientem in nubibus cum virtute multa et gloria "
+        },
+        {
+          "name": "Mark 13:27",
+          "verse": 27,
+          "text": "et tunc mittet angelos suos et congregabit electos suos a quattuor ventis a summo terrae usque ad summum caeli "
+        },
+        {
+          "name": "Mark 13:28",
+          "verse": 28,
+          "text": "a ficu autem discite parabolam cum iam ramus eius tener fuerit et nata fuerint folia cognoscitis quia in proximo sit aestas "
+        },
+        {
+          "name": "Mark 13:29",
+          "verse": 29,
+          "text": "sic et vos cum videritis haec fieri scitote quod in proximo sit in ostiis "
+        },
+        {
+          "name": "Mark 13:30",
+          "verse": 30,
+          "text": "amen dico vobis quoniam non transiet generatio haec donec omnia ista fiant "
+        },
+        {
+          "name": "Mark 13:31",
+          "verse": 31,
+          "text": "caelum et terra transibunt verba autem mea non transibunt "
+        },
+        {
+          "name": "Mark 13:32",
+          "verse": 32,
+          "text": "de die autem illo vel hora nemo scit neque angeli in caelo neque Filius nisi Pater "
+        },
+        {
+          "name": "Mark 13:33",
+          "verse": 33,
+          "text": "videte vigilate et orate nescitis enim quando tempus sit "
+        },
+        {
+          "name": "Mark 13:34",
+          "verse": 34,
+          "text": "sicut homo qui peregre profectus reliquit domum suam et dedit servis suis potestatem cuiusque operis et ianitori praecipiat ut vigilet "
+        },
+        {
+          "name": "Mark 13:35",
+          "verse": 35,
+          "text": "vigilate ergo nescitis enim quando dominus domus veniat sero an media nocte an galli cantu an mane "
+        },
+        {
+          "name": "Mark 13:36",
+          "verse": 36,
+          "text": "ne cum venerit repente inveniat vos dormientes "
+        },
+        {
+          "name": "Mark 13:37",
+          "verse": 37,
+          "text": "quod autem vobis dico omnibus dico vigilate "
+        }
+      ]
+    },
+    {
+      "name": "Mark 14",
+      "chapter": 14,
+      "verses": [
+        {
+          "name": "Mark 14:1",
+          "verse": 1,
+          "text": "erat autem pascha et azyma post biduum et quaerebant summi sacerdotes et scribae quomodo eum dolo tenerent et occiderent "
+        },
+        {
+          "name": "Mark 14:2",
+          "verse": 2,
+          "text": "dicebant enim non in die festo ne forte tumultus fieret populi "
+        },
+        {
+          "name": "Mark 14:3",
+          "verse": 3,
+          "text": "et cum esset Bethaniae in domo Simonis leprosi et recumberet venit mulier habens alabastrum unguenti nardi spicati pretiosi et fracto alabastro effudit super caput eius "
+        },
+        {
+          "name": "Mark 14:4",
+          "verse": 4,
+          "text": "erant autem quidam indigne ferentes intra semet ipsos et dicentes ut quid perditio ista unguenti facta est "
+        },
+        {
+          "name": "Mark 14:5",
+          "verse": 5,
+          "text": "poterat enim unguentum istud veniri plus quam trecentis denariis et dari pauperibus et fremebant in eam "
+        },
+        {
+          "name": "Mark 14:6",
+          "verse": 6,
+          "text": "Iesus autem dixit sinite eam quid illi molesti estis bonum opus operata est in me "
+        },
+        {
+          "name": "Mark 14:7",
+          "verse": 7,
+          "text": "semper enim pauperes habetis vobiscum et cum volueritis potestis illis benefacere me autem non semper habetis "
+        },
+        {
+          "name": "Mark 14:8",
+          "verse": 8,
+          "text": "quod habuit haec fecit praevenit unguere corpus meum in sepulturam "
+        },
+        {
+          "name": "Mark 14:9",
+          "verse": 9,
+          "text": "amen dico vobis ubicumque praedicatum fuerit evangelium istud in universum mundum et quod fecit haec narrabitur in memoriam eius "
+        },
+        {
+          "name": "Mark 14:10",
+          "verse": 10,
+          "text": "et Iudas Scariotis unus de duodecim abiit ad summos sacerdotes ut proderet eum illis "
+        },
+        {
+          "name": "Mark 14:11",
+          "verse": 11,
+          "text": "qui audientes gavisi sunt et promiserunt ei pecuniam se daturos et quaerebat quomodo illum oportune traderet "
+        },
+        {
+          "name": "Mark 14:12",
+          "verse": 12,
+          "text": "et primo die azymorum quando pascha immolabant dicunt ei discipuli quo vis eamus et paremus tibi ut manduces pascha "
+        },
+        {
+          "name": "Mark 14:13",
+          "verse": 13,
+          "text": "et mittit duos ex discipulis suis et dicit eis ite in civitatem et occurret vobis homo laguenam aquae baiulans sequimini eum "
+        },
+        {
+          "name": "Mark 14:14",
+          "verse": 14,
+          "text": "et quocumque introierit dicite domino domus quia magister dicit ubi est refectio mea ubi pascha cum discipulis meis manducem "
+        },
+        {
+          "name": "Mark 14:15",
+          "verse": 15,
+          "text": "et ipse vobis demonstrabit cenaculum grande stratum et illic parate nobis "
+        },
+        {
+          "name": "Mark 14:16",
+          "verse": 16,
+          "text": "et abierunt discipuli eius et venerunt in civitatem et invenerunt sicut dixerat illis et praeparaverunt pascha "
+        },
+        {
+          "name": "Mark 14:17",
+          "verse": 17,
+          "text": "vespere autem facto venit cum duodecim "
+        },
+        {
+          "name": "Mark 14:18",
+          "verse": 18,
+          "text": "et discumbentibus eis et manducantibus ait Iesus amen dico vobis quia unus ex vobis me tradet qui manducat mecum "
+        },
+        {
+          "name": "Mark 14:19",
+          "verse": 19,
+          "text": "at illi coeperunt contristari et dicere ei singillatim numquid ego "
+        },
+        {
+          "name": "Mark 14:20",
+          "verse": 20,
+          "text": "qui ait illis unus ex duodecim qui intinguit mecum in catino "
+        },
+        {
+          "name": "Mark 14:21",
+          "verse": 21,
+          "text": "et Filius quidem hominis vadit sicut scriptum est de eo vae autem homini illi per quem Filius hominis traditur bonum ei si non esset natus homo ille "
+        },
+        {
+          "name": "Mark 14:22",
+          "verse": 22,
+          "text": "et manducantibus illis accepit Iesus panem et benedicens fregit et dedit eis et ait sumite hoc est corpus meum "
+        },
+        {
+          "name": "Mark 14:23",
+          "verse": 23,
+          "text": "et accepto calice gratias agens dedit eis et biberunt ex illo omnes "
+        },
+        {
+          "name": "Mark 14:24",
+          "verse": 24,
+          "text": "et ait illis hic est sanguis meus novi testamenti qui pro multis effunditur "
+        },
+        {
+          "name": "Mark 14:25",
+          "verse": 25,
+          "text": "amen dico vobis quod iam non bibam de genimine vitis usque in diem illum cum illud bibam novum in regno Dei "
+        },
+        {
+          "name": "Mark 14:26",
+          "verse": 26,
+          "text": "et hymno dicto exierunt in montem Olivarum "
+        },
+        {
+          "name": "Mark 14:27",
+          "verse": 27,
+          "text": "et ait eis Iesus omnes scandalizabimini in nocte ista quia scriptum est percutiam pastorem et dispergentur oves "
+        },
+        {
+          "name": "Mark 14:28",
+          "verse": 28,
+          "text": "sed posteaquam resurrexero praecedam vos in Galilaeam "
+        },
+        {
+          "name": "Mark 14:29",
+          "verse": 29,
+          "text": "Petrus autem ait ei et si omnes scandalizati fuerint sed non ego "
+        },
+        {
+          "name": "Mark 14:30",
+          "verse": 30,
+          "text": "et ait illi Iesus amen dico tibi quia tu hodie in nocte hac priusquam bis gallus vocem dederit ter me es negaturus "
+        },
+        {
+          "name": "Mark 14:31",
+          "verse": 31,
+          "text": "at ille amplius loquebatur et si oportuerit me simul conmori tibi non te negabo similiter autem et omnes dicebant "
+        },
+        {
+          "name": "Mark 14:32",
+          "verse": 32,
+          "text": "et veniunt in praedium cui nomen Gethsemani et ait discipulis suis sedete hic donec orem "
+        },
+        {
+          "name": "Mark 14:33",
+          "verse": 33,
+          "text": "et adsumit Petrum et Iacobum et Iohannem secum et coepit pavere et taedere "
+        },
+        {
+          "name": "Mark 14:34",
+          "verse": 34,
+          "text": "et ait illis tristis est anima mea usque ad mortem sustinete hic et vigilate "
+        },
+        {
+          "name": "Mark 14:35",
+          "verse": 35,
+          "text": "et cum processisset paululum procidit super terram et orabat ut si fieri posset transiret ab eo hora "
+        },
+        {
+          "name": "Mark 14:36",
+          "verse": 36,
+          "text": "et dixit Abba Pater omnia possibilia tibi sunt transfer calicem hunc a me sed non quod ego volo sed quod tu "
+        },
+        {
+          "name": "Mark 14:37",
+          "verse": 37,
+          "text": "et venit et invenit eos dormientes et ait Petro Simon dormis non potuisti una hora vigilare "
+        },
+        {
+          "name": "Mark 14:38",
+          "verse": 38,
+          "text": "vigilate et orate ut non intretis in temptationem spiritus quidem promptus caro vero infirma "
+        },
+        {
+          "name": "Mark 14:39",
+          "verse": 39,
+          "text": "et iterum abiens oravit eundem sermonem dicens "
+        },
+        {
+          "name": "Mark 14:40",
+          "verse": 40,
+          "text": "et reversus denuo invenit eos dormientes erant enim oculi illorum ingravati et ignorabant quid responderent ei "
+        },
+        {
+          "name": "Mark 14:41",
+          "verse": 41,
+          "text": "et venit tertio et ait illis dormite iam et requiescite sufficit venit hora ecce traditur Filius hominis in manus peccatorum "
+        },
+        {
+          "name": "Mark 14:42",
+          "verse": 42,
+          "text": "surgite eamus ecce qui me tradit prope est "
+        },
+        {
+          "name": "Mark 14:43",
+          "verse": 43,
+          "text": "et adhuc eo loquente venit Iudas Scarioth unus ex duodecim et cum illo turba cum gladiis et lignis a summis sacerdotibus et a scribis et a senioribus "
+        },
+        {
+          "name": "Mark 14:44",
+          "verse": 44,
+          "text": "dederat autem traditor eius signum eis dicens quemcumque osculatus fuero ipse est tenete eum et ducite "
+        },
+        {
+          "name": "Mark 14:45",
+          "verse": 45,
+          "text": "et cum venisset statim accedens ad eum ait rabbi et osculatus est eum "
+        },
+        {
+          "name": "Mark 14:46",
+          "verse": 46,
+          "text": "at illi manus iniecerunt in eum et tenuerunt eum "
+        },
+        {
+          "name": "Mark 14:47",
+          "verse": 47,
+          "text": "unus autem quidam de circumstantibus educens gladium percussit servum summi sacerdotis et amputavit illi auriculam "
+        },
+        {
+          "name": "Mark 14:48",
+          "verse": 48,
+          "text": "et respondens Iesus ait illis tamquam ad latronem existis cum gladiis et lignis conprehendere me "
+        },
+        {
+          "name": "Mark 14:49",
+          "verse": 49,
+          "text": "cotidie eram apud vos in templo docens et non me tenuistis sed ut adimpleantur scripturae "
+        },
+        {
+          "name": "Mark 14:50",
+          "verse": 50,
+          "text": "tunc discipuli eius relinquentes eum omnes fugerunt "
+        },
+        {
+          "name": "Mark 14:51",
+          "verse": 51,
+          "text": "adulescens autem quidam sequebatur illum amictus sindone super nudo et tenuerunt eum "
+        },
+        {
+          "name": "Mark 14:52",
+          "verse": 52,
+          "text": "at ille reiecta sindone nudus profugit ab eis "
+        },
+        {
+          "name": "Mark 14:53",
+          "verse": 53,
+          "text": "et adduxerunt Iesum ad summum sacerdotem et conveniunt omnes sacerdotes et scribae et seniores "
+        },
+        {
+          "name": "Mark 14:54",
+          "verse": 54,
+          "text": "Petrus autem a longe secutus est eum usque intro in atrium summi sacerdotis et sedebat cum ministris et calefaciebat se ad ignem "
+        },
+        {
+          "name": "Mark 14:55",
+          "verse": 55,
+          "text": "summi vero sacerdotes et omne concilium quaerebant adversum Iesum testimonium ut eum morti traderent nec inveniebant "
+        },
+        {
+          "name": "Mark 14:56",
+          "verse": 56,
+          "text": "multi enim testimonium falsum dicebant adversus eum et convenientia testimonia non erant "
+        },
+        {
+          "name": "Mark 14:57",
+          "verse": 57,
+          "text": "et quidam surgentes falsum testimonium ferebant adversus eum dicentes "
+        },
+        {
+          "name": "Mark 14:58",
+          "verse": 58,
+          "text": "quoniam nos audivimus eum dicentem ego dissolvam templum hoc manufactum et per triduum aliud non manufactum aedificabo "
+        },
+        {
+          "name": "Mark 14:59",
+          "verse": 59,
+          "text": "et non erat conveniens testimonium illorum "
+        },
+        {
+          "name": "Mark 14:60",
+          "verse": 60,
+          "text": "et exsurgens summus sacerdos in medium interrogavit Iesum dicens non respondes quicquam ad ea quae tibi obiciuntur ab his "
+        },
+        {
+          "name": "Mark 14:61",
+          "verse": 61,
+          "text": "ille autem tacebat et nihil respondit rursum summus sacerdos interrogabat eum et dicit ei tu es Christus Filius Benedicti "
+        },
+        {
+          "name": "Mark 14:62",
+          "verse": 62,
+          "text": "Iesus autem dixit illi ego sum et videbitis Filium hominis a dextris sedentem Virtutis et venientem cum nubibus caeli "
+        },
+        {
+          "name": "Mark 14:63",
+          "verse": 63,
+          "text": "summus autem sacerdos scindens vestimenta sua ait quid adhuc desideramus testes "
+        },
+        {
+          "name": "Mark 14:64",
+          "verse": 64,
+          "text": "audistis blasphemiam quid vobis videtur qui omnes condemnaverunt eum esse reum mortis "
+        },
+        {
+          "name": "Mark 14:65",
+          "verse": 65,
+          "text": "et coeperunt quidam conspuere eum et velare faciem eius et colaphis eum caedere et dicere ei prophetiza et ministri alapis eum caedebant "
+        },
+        {
+          "name": "Mark 14:66",
+          "verse": 66,
+          "text": "et cum esset Petrus in atrio deorsum venit una ex ancillis summi sacerdotis "
+        },
+        {
+          "name": "Mark 14:67",
+          "verse": 67,
+          "text": "et cum vidisset Petrum calefacientem se aspiciens illum ait et tu cum Iesu Nazareno eras "
+        },
+        {
+          "name": "Mark 14:68",
+          "verse": 68,
+          "text": "at ille negavit dicens neque scio neque novi quid dicas et exiit foras ante atrium et gallus cantavit "
+        },
+        {
+          "name": "Mark 14:69",
+          "verse": 69,
+          "text": "rursus autem cum vidisset illum ancilla coepit dicere circumstantibus quia hic ex illis est "
+        },
+        {
+          "name": "Mark 14:70",
+          "verse": 70,
+          "text": "at ille iterum negavit et post pusillum rursus qui adstabant dicebant Petro vere ex illis es nam et Galilaeus es "
+        },
+        {
+          "name": "Mark 14:71",
+          "verse": 71,
+          "text": "ille autem coepit anathematizare et iurare quia nescio hominem istum quem dicitis "
+        },
+        {
+          "name": "Mark 14:72",
+          "verse": 72,
+          "text": "et statim iterum gallus cantavit et recordatus est Petrus verbi quod dixerat ei Iesus priusquam gallus cantet bis ter me negabis et coepit flere "
+        }
+      ]
+    },
+    {
+      "name": "Mark 15",
+      "chapter": 15,
+      "verses": [
+        {
+          "name": "Mark 15:1",
+          "verse": 1,
+          "text": "et confestim mane consilium facientes summi sacerdotes cum senioribus et scribis et universo concilio vincientes Iesum duxerunt et tradiderunt Pilato "
+        },
+        {
+          "name": "Mark 15:2",
+          "verse": 2,
+          "text": "et interrogavit eum Pilatus tu es rex Iudaeorum at ille respondens ait illi tu dicis "
+        },
+        {
+          "name": "Mark 15:3",
+          "verse": 3,
+          "text": "et accusabant eum summi sacerdotes in multis "
+        },
+        {
+          "name": "Mark 15:4",
+          "verse": 4,
+          "text": "Pilatus autem rursum interrogavit eum dicens non respondes quicquam vide in quantis te accusant "
+        },
+        {
+          "name": "Mark 15:5",
+          "verse": 5,
+          "text": "Iesus autem amplius nihil respondit ita ut miraretur Pilatus "
+        },
+        {
+          "name": "Mark 15:6",
+          "verse": 6,
+          "text": "per diem autem festum dimittere solebat illis unum ex vinctis quemcumque petissent "
+        },
+        {
+          "name": "Mark 15:7",
+          "verse": 7,
+          "text": "erat autem qui dicebatur Barabbas qui cum seditiosis erat vinctus qui in seditione fecerant homicidium "
+        },
+        {
+          "name": "Mark 15:8",
+          "verse": 8,
+          "text": "et cum ascendisset turba coepit rogare sicut semper faciebat illis "
+        },
+        {
+          "name": "Mark 15:9",
+          "verse": 9,
+          "text": "Pilatus autem respondit eis et dixit vultis dimittam vobis regem Iudaeorum "
+        },
+        {
+          "name": "Mark 15:10",
+          "verse": 10,
+          "text": "sciebat enim quod per invidiam tradidissent eum summi sacerdotes "
+        },
+        {
+          "name": "Mark 15:11",
+          "verse": 11,
+          "text": "pontifices autem concitaverunt turbam ut magis Barabban dimitteret eis "
+        },
+        {
+          "name": "Mark 15:12",
+          "verse": 12,
+          "text": "Pilatus autem iterum respondens ait illis quid ergo vultis faciam regi Iudaeorum "
+        },
+        {
+          "name": "Mark 15:13",
+          "verse": 13,
+          "text": "at illi iterum clamaverunt crucifige eum "
+        },
+        {
+          "name": "Mark 15:14",
+          "verse": 14,
+          "text": "Pilatus vero dicebat eis quid enim mali fecit at illi magis clamabant crucifige eum "
+        },
+        {
+          "name": "Mark 15:15",
+          "verse": 15,
+          "text": "Pilatus autem volens populo satisfacere dimisit illis Barabban et tradidit Iesum flagellis caesum ut crucifigeretur "
+        },
+        {
+          "name": "Mark 15:16",
+          "verse": 16,
+          "text": "milites autem duxerunt eum intro in atrium praetorii et convocant totam cohortem "
+        },
+        {
+          "name": "Mark 15:17",
+          "verse": 17,
+          "text": "et induunt eum purpuram et inponunt ei plectentes spineam coronam "
+        },
+        {
+          "name": "Mark 15:18",
+          "verse": 18,
+          "text": "et coeperunt salutare eum have rex Iudaeorum "
+        },
+        {
+          "name": "Mark 15:19",
+          "verse": 19,
+          "text": "et percutiebant caput eius harundine et conspuebant eum et ponentes genua adorabant eum "
+        },
+        {
+          "name": "Mark 15:20",
+          "verse": 20,
+          "text": "et postquam inluserunt ei exuerunt illum purpuram et induerunt eum vestimentis suis et educunt illum ut crucifigerent eum "
+        },
+        {
+          "name": "Mark 15:21",
+          "verse": 21,
+          "text": "et angariaverunt praetereuntem quempiam Simonem Cyreneum venientem de villa patrem Alexandri et Rufi ut tolleret crucem eius "
+        },
+        {
+          "name": "Mark 15:22",
+          "verse": 22,
+          "text": "et perducunt illum in Golgotha locum quod est interpretatum Calvariae locus "
+        },
+        {
+          "name": "Mark 15:23",
+          "verse": 23,
+          "text": "et dabant ei bibere murratum vinum et non accepit "
+        },
+        {
+          "name": "Mark 15:24",
+          "verse": 24,
+          "text": "et crucifigentes eum diviserunt vestimenta eius mittentes sortem super eis quis quid tolleret "
+        },
+        {
+          "name": "Mark 15:25",
+          "verse": 25,
+          "text": "erat autem hora tertia et crucifixerunt eum "
+        },
+        {
+          "name": "Mark 15:26",
+          "verse": 26,
+          "text": "et erat titulus causae eius inscriptus rex Iudaeorum "
+        },
+        {
+          "name": "Mark 15:27",
+          "verse": 27,
+          "text": "et cum eo crucifigunt duos latrones unum a dextris et alium a sinistris eius "
+        },
+        {
+          "name": "Mark 15:28",
+          "verse": 28,
+          "text": "et adimpleta est scriptura quae dicit et cum iniquis reputatus est "
+        },
+        {
+          "name": "Mark 15:29",
+          "verse": 29,
+          "text": "et praetereuntes blasphemabant eum moventes capita sua et dicentes va qui destruit templum et in tribus diebus aedificat "
+        },
+        {
+          "name": "Mark 15:30",
+          "verse": 30,
+          "text": "salvum fac temet ipsum descendens de cruce "
+        },
+        {
+          "name": "Mark 15:31",
+          "verse": 31,
+          "text": "similiter et summi sacerdotes ludentes ad alterutrum cum scribis dicebant alios salvos fecit se ipsum non potest salvum facere "
+        },
+        {
+          "name": "Mark 15:32",
+          "verse": 32,
+          "text": "Christus rex Israhel descendat nunc de cruce ut videamus et credamus et qui cum eo crucifixi erant conviciabantur ei "
+        },
+        {
+          "name": "Mark 15:33",
+          "verse": 33,
+          "text": "et facta hora sexta tenebrae factae sunt per totam terram usque in horam nonam "
+        },
+        {
+          "name": "Mark 15:34",
+          "verse": 34,
+          "text": "et hora nona exclamavit Iesus voce magna dicens Heloi Heloi lama sabacthani quod est interpretatum Deus meus Deus meus ut quid dereliquisti me "
+        },
+        {
+          "name": "Mark 15:35",
+          "verse": 35,
+          "text": "et quidam de circumstantibus audientes dicebant ecce Heliam vocat "
+        },
+        {
+          "name": "Mark 15:36",
+          "verse": 36,
+          "text": "currens autem unus et implens spongiam aceto circumponensque calamo potum dabat ei dicens sinite videamus si veniat Helias ad deponendum eum "
+        },
+        {
+          "name": "Mark 15:37",
+          "verse": 37,
+          "text": "Iesus autem emissa voce magna exspiravit "
+        },
+        {
+          "name": "Mark 15:38",
+          "verse": 38,
+          "text": "et velum templi scissum est in duo a sursum usque deorsum "
+        },
+        {
+          "name": "Mark 15:39",
+          "verse": 39,
+          "text": "videns autem centurio qui ex adverso stabat quia sic clamans exspirasset ait vere homo hic Filius Dei erat "
+        },
+        {
+          "name": "Mark 15:40",
+          "verse": 40,
+          "text": "erant autem et mulieres de longe aspicientes inter quas et Maria Magdalene et Maria Iacobi minoris et Ioseph mater et Salome "
+        },
+        {
+          "name": "Mark 15:41",
+          "verse": 41,
+          "text": "et cum esset in Galilaea sequebantur eum et ministrabant ei et aliae multae quae simul cum eo ascenderant Hierosolyma "
+        },
+        {
+          "name": "Mark 15:42",
+          "verse": 42,
+          "text": "et cum iam sero esset factum quia erat parasceve quod est ante sabbatum "
+        },
+        {
+          "name": "Mark 15:43",
+          "verse": 43,
+          "text": "venit Ioseph ab Arimathia nobilis decurio qui et ipse erat expectans regnum Dei et audacter introiit ad Pilatum et petiit corpus Iesu "
+        },
+        {
+          "name": "Mark 15:44",
+          "verse": 44,
+          "text": "Pilatus autem mirabatur si iam obisset et accersito centurione interrogavit eum si iam mortuus esset "
+        },
+        {
+          "name": "Mark 15:45",
+          "verse": 45,
+          "text": "et cum cognovisset a centurione donavit corpus Ioseph "
+        },
+        {
+          "name": "Mark 15:46",
+          "verse": 46,
+          "text": "Ioseph autem mercatus sindonem et deponens eum involvit sindone et posuit eum in monumento quod erat excisum de petra et advolvit lapidem ad ostium monumenti "
+        },
+        {
+          "name": "Mark 15:47",
+          "verse": 47,
+          "text": "Maria autem Magdalene et Maria Ioseph aspiciebant ubi poneretur "
+        }
+      ]
+    },
+    {
+      "name": "Mark 16",
+      "chapter": 16,
+      "verses": [
+        {
+          "name": "Mark 16:1",
+          "verse": 1,
+          "text": "et cum transisset sabbatum Maria Magdalene et Maria Iacobi et Salome emerunt aromata ut venientes unguerent eum "
+        },
+        {
+          "name": "Mark 16:2",
+          "verse": 2,
+          "text": "et valde mane una sabbatorum veniunt ad monumentum orto iam sole "
+        },
+        {
+          "name": "Mark 16:3",
+          "verse": 3,
+          "text": "et dicebant ad invicem quis revolvet nobis lapidem ab ostio monumenti "
+        },
+        {
+          "name": "Mark 16:4",
+          "verse": 4,
+          "text": "et respicientes vident revolutum lapidem erat quippe magnus valde "
+        },
+        {
+          "name": "Mark 16:5",
+          "verse": 5,
+          "text": "et introeuntes in monumento viderunt iuvenem sedentem in dextris coopertum stola candida et obstipuerunt "
+        },
+        {
+          "name": "Mark 16:6",
+          "verse": 6,
+          "text": "qui dicit illis nolite expavescere Iesum quaeritis Nazarenum crucifixum surrexit non est hic ecce locus ubi posuerunt eum "
+        },
+        {
+          "name": "Mark 16:7",
+          "verse": 7,
+          "text": "sed ite et dicite discipulis eius et Petro quia praecedit vos in Galilaeam ibi eum videbitis sicut dixit vobis "
+        },
+        {
+          "name": "Mark 16:8",
+          "verse": 8,
+          "text": "at illae exeuntes fugerunt de monumento invaserat enim eas tremor et pavor et nemini quicquam dixerunt timebant enim "
+        },
+        {
+          "name": "Mark 16:9",
+          "verse": 9,
+          "text": "surgens autem mane prima sabbati apparuit primo Mariae Magdalenae de qua eiecerat septem daemonia "
+        },
+        {
+          "name": "Mark 16:10",
+          "verse": 10,
+          "text": "illa vadens nuntiavit his qui cum eo fuerant lugentibus et flentibus "
+        },
+        {
+          "name": "Mark 16:11",
+          "verse": 11,
+          "text": "et illi audientes quia viveret et visus esset ab ea non crediderunt "
+        },
+        {
+          "name": "Mark 16:12",
+          "verse": 12,
+          "text": "post haec autem duobus ex eis ambulantibus ostensus est in alia effigie euntibus in villam "
+        },
+        {
+          "name": "Mark 16:13",
+          "verse": 13,
+          "text": "et illi euntes nuntiaverunt ceteris nec illis crediderunt "
+        },
+        {
+          "name": "Mark 16:14",
+          "verse": 14,
+          "text": "novissime recumbentibus illis undecim apparuit et exprobravit incredulitatem illorum et duritiam cordis quia his qui viderant eum resurrexisse non crediderant "
+        },
+        {
+          "name": "Mark 16:15",
+          "verse": 15,
+          "text": "et dixit eis euntes in mundum universum praedicate evangelium omni creaturae "
+        },
+        {
+          "name": "Mark 16:16",
+          "verse": 16,
+          "text": "qui crediderit et baptizatus fuerit salvus erit qui vero non crediderit condemnabitur "
+        },
+        {
+          "name": "Mark 16:17",
+          "verse": 17,
+          "text": "signa autem eos qui crediderint haec sequentur in nomine meo daemonia eicient linguis loquentur novis "
+        },
+        {
+          "name": "Mark 16:18",
+          "verse": 18,
+          "text": "serpentes tollent et si mortiferum quid biberint non eos nocebit super aegrotos manus inponent et bene habebunt "
+        },
+        {
+          "name": "Mark 16:19",
+          "verse": 19,
+          "text": "et Dominus quidem postquam locutus est eis adsumptus est in caelum et sedit a dextris Dei "
+        },
+        {
+          "name": "Mark 16:20",
+          "verse": 20,
+          "text": "illi autem profecti praedicaverunt ubique Domino cooperante et sermonem confirmante sequentibus signis  "
+        }
+      ]
+    }
+  ]
+}

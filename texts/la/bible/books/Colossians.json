@@ -1,0 +1,505 @@
+{
+  "name": "Colossians",
+  "order": 58,
+  "chapters": [
+    {
+      "name": "Colossians 1",
+      "chapter": 1,
+      "verses": [
+        {
+          "name": "Colossians 1:1",
+          "verse": 1,
+          "text": "Paulus apostolus Christi Iesu per voluntatem Dei et Timotheus frater "
+        },
+        {
+          "name": "Colossians 1:2",
+          "verse": 2,
+          "text": "his qui sunt Colossis sanctis et fidelibus fratribus in Christo Iesu gratia vobis et pax a Deo Patre nostro "
+        },
+        {
+          "name": "Colossians 1:3",
+          "verse": 3,
+          "text": "gratias agimus Deo et Patri Domini nostri Iesu Christi semper pro vobis orantes "
+        },
+        {
+          "name": "Colossians 1:4",
+          "verse": 4,
+          "text": "audientes fidem vestram in Christo Iesu et dilectionem quam habetis in sanctos omnes "
+        },
+        {
+          "name": "Colossians 1:5",
+          "verse": 5,
+          "text": "propter spem quae reposita est vobis in caelis quam audistis in verbo veritatis evangelii "
+        },
+        {
+          "name": "Colossians 1:6",
+          "verse": 6,
+          "text": "quod pervenit ad vos sicut et in universo mundo est et fructificat et crescit sicut in vobis ex ea die qua audistis et cognovistis gratiam Dei in veritate "
+        },
+        {
+          "name": "Colossians 1:7",
+          "verse": 7,
+          "text": "sicut didicistis ab Epaphra carissimo conservo nostro qui est fidelis pro vobis minister Christi Iesu "
+        },
+        {
+          "name": "Colossians 1:8",
+          "verse": 8,
+          "text": "qui etiam manifestavit nobis dilectionem vestram in Spiritu "
+        },
+        {
+          "name": "Colossians 1:9",
+          "verse": 9,
+          "text": "ideo et nos ex qua die audivimus non cessamus pro vobis orantes et postulantes ut impleamini agnitione voluntatis eius in omni sapientia et intellectu spiritali "
+        },
+        {
+          "name": "Colossians 1:10",
+          "verse": 10,
+          "text": "ut ambuletis digne Deo per omnia placentes in omni opere bono fructificantes et crescentes in scientia Dei "
+        },
+        {
+          "name": "Colossians 1:11",
+          "verse": 11,
+          "text": "in omni virtute confortati secundum potentiam claritatis eius in omni patientia et longanimitate cum gaudio "
+        },
+        {
+          "name": "Colossians 1:12",
+          "verse": 12,
+          "text": "gratias agentes Patri qui dignos nos fecit in partem sortis sanctorum in lumine "
+        },
+        {
+          "name": "Colossians 1:13",
+          "verse": 13,
+          "text": "qui eripuit nos de potestate tenebrarum et transtulit in regnum Filii dilectionis suae "
+        },
+        {
+          "name": "Colossians 1:14",
+          "verse": 14,
+          "text": "in quo habemus redemptionem remissionem peccatorum "
+        },
+        {
+          "name": "Colossians 1:15",
+          "verse": 15,
+          "text": "qui est imago Dei invisibilis primogenitus omnis creaturae "
+        },
+        {
+          "name": "Colossians 1:16",
+          "verse": 16,
+          "text": "quia in ipso condita sunt universa in caelis et in terra visibilia et invisibilia sive throni sive dominationes sive principatus sive potestates omnia per ipsum et in ipso creata sunt "
+        },
+        {
+          "name": "Colossians 1:17",
+          "verse": 17,
+          "text": "et ipse est ante omnes et omnia in ipso constant "
+        },
+        {
+          "name": "Colossians 1:18",
+          "verse": 18,
+          "text": "et ipse est caput corporis ecclesiae qui est principium primogenitus ex mortuis ut sit in omnibus ipse primatum tenens "
+        },
+        {
+          "name": "Colossians 1:19",
+          "verse": 19,
+          "text": "quia in ipso conplacuit omnem plenitudinem habitare "
+        },
+        {
+          "name": "Colossians 1:20",
+          "verse": 20,
+          "text": "et per eum reconciliare omnia in ipsum pacificans per sanguinem crucis eius sive quae in terris sive quae in caelis sunt "
+        },
+        {
+          "name": "Colossians 1:21",
+          "verse": 21,
+          "text": "et vos cum essetis aliquando alienati et inimici sensu in operibus malis "
+        },
+        {
+          "name": "Colossians 1:22",
+          "verse": 22,
+          "text": "nunc autem reconciliavit in corpore carnis eius per mortem exhibere vos sanctos et inmaculatos et inreprehensibiles coram ipso "
+        },
+        {
+          "name": "Colossians 1:23",
+          "verse": 23,
+          "text": "si tamen permanetis in fide fundati et stabiles et inmobiles ab spe evangelii quod audistis quod praedicatum est in universa creatura quae sub caelo est cuius factus sum ego Paulus minister "
+        },
+        {
+          "name": "Colossians 1:24",
+          "verse": 24,
+          "text": "qui nunc gaudeo in passionibus pro vobis et adimpleo ea quae desunt passionum Christi in carne mea pro corpore eius quod est ecclesia "
+        },
+        {
+          "name": "Colossians 1:25",
+          "verse": 25,
+          "text": "cuius factus sum ego minister secundum dispensationem Dei quae data est mihi in vos ut impleam verbum Dei "
+        },
+        {
+          "name": "Colossians 1:26",
+          "verse": 26,
+          "text": "mysterium quod absconditum fuit a saeculis et generationibus nunc autem manifestatum est sanctis eius "
+        },
+        {
+          "name": "Colossians 1:27",
+          "verse": 27,
+          "text": "quibus voluit Deus notas facere divitias gloriae sacramenti huius in gentibus quod est Christus in vobis spes gloriae "
+        },
+        {
+          "name": "Colossians 1:28",
+          "verse": 28,
+          "text": "quem nos adnuntiamus corripientes omnem hominem et docentes omnem hominem in omni sapientia ut exhibeamus omnem hominem perfectum in Christo Iesu "
+        },
+        {
+          "name": "Colossians 1:29",
+          "verse": 29,
+          "text": "in quo et laboro certando secundum operationem eius quam operatur in me in virtute "
+        }
+      ]
+    },
+    {
+      "name": "Colossians 2",
+      "chapter": 2,
+      "verses": [
+        {
+          "name": "Colossians 2:1",
+          "verse": 1,
+          "text": "volo enim vos scire qualem sollicitudinem habeam pro vobis et pro his qui sunt Laodiciae et quicumque non viderunt faciem meam in carne "
+        },
+        {
+          "name": "Colossians 2:2",
+          "verse": 2,
+          "text": "ut consolentur corda ipsorum instructi in caritate et in omnes divitias plenitudinis intellectus in agnitionem mysterii Dei Patris Christi Iesu "
+        },
+        {
+          "name": "Colossians 2:3",
+          "verse": 3,
+          "text": "in quo sunt omnes thesauri sapientiae et scientiae absconditi "
+        },
+        {
+          "name": "Colossians 2:4",
+          "verse": 4,
+          "text": "hoc autem dico ut nemo vos decipiat in subtilitate sermonum "
+        },
+        {
+          "name": "Colossians 2:5",
+          "verse": 5,
+          "text": "nam et si corpore absens sum sed spiritu vobiscum sum gaudens et videns ordinem vestrum et firmamentum eius quae in Christo est fidei vestrae "
+        },
+        {
+          "name": "Colossians 2:6",
+          "verse": 6,
+          "text": "sicut ergo accepistis Christum Iesum Dominum in ipso ambulate "
+        },
+        {
+          "name": "Colossians 2:7",
+          "verse": 7,
+          "text": "radicati et superaedificati in ipso et confirmati fide sicut et didicistis abundantes in gratiarum actione "
+        },
+        {
+          "name": "Colossians 2:8",
+          "verse": 8,
+          "text": "videte ne quis vos decipiat per philosophiam et inanem fallaciam secundum traditionem hominum secundum elementa mundi et non secundum Christum "
+        },
+        {
+          "name": "Colossians 2:9",
+          "verse": 9,
+          "text": "quia in ipso inhabitat omnis plenitudo divinitatis corporaliter "
+        },
+        {
+          "name": "Colossians 2:10",
+          "verse": 10,
+          "text": "et estis in illo repleti qui est caput omnis principatus et potestatis "
+        },
+        {
+          "name": "Colossians 2:11",
+          "verse": 11,
+          "text": "in quo et circumcisi estis circumcisione non manufacta in expoliatione corporis carnis in circumcisione Christi "
+        },
+        {
+          "name": "Colossians 2:12",
+          "verse": 12,
+          "text": "consepulti ei in baptismo in quo et resurrexistis per fidem operationis Dei qui suscitavit illum a mortuis "
+        },
+        {
+          "name": "Colossians 2:13",
+          "verse": 13,
+          "text": "et vos cum mortui essetis in delictis et praeputio carnis vestrae convivificavit cum illo donans vobis omnia delicta "
+        },
+        {
+          "name": "Colossians 2:14",
+          "verse": 14,
+          "text": "delens quod adversum nos erat chirografum decretis quod erat contrarium nobis et ipsum tulit de medio adfigens illud cruci "
+        },
+        {
+          "name": "Colossians 2:15",
+          "verse": 15,
+          "text": "expolians principatus et potestates traduxit palam triumphans illos in semet ipso "
+        },
+        {
+          "name": "Colossians 2:16",
+          "verse": 16,
+          "text": "nemo ergo vos iudicet in cibo aut in potu aut in parte diei festi aut neomeniae aut sabbatorum "
+        },
+        {
+          "name": "Colossians 2:17",
+          "verse": 17,
+          "text": "quae sunt umbra futurorum corpus autem Christi "
+        },
+        {
+          "name": "Colossians 2:18",
+          "verse": 18,
+          "text": "nemo vos seducat volens in humilitate et religione angelorum quae non vidit ambulans frustra inflatus sensu carnis suae "
+        },
+        {
+          "name": "Colossians 2:19",
+          "verse": 19,
+          "text": "et non tenens caput ex quo totum corpus per nexus et coniunctiones subministratum et constructum crescit in augmentum Dei "
+        },
+        {
+          "name": "Colossians 2:20",
+          "verse": 20,
+          "text": "si mortui estis cum Christo ab elementis mundi quid adhuc tamquam viventes in mundo decernitis "
+        },
+        {
+          "name": "Colossians 2:21",
+          "verse": 21,
+          "text": "ne tetigeris neque gustaveris neque contrectaveris "
+        },
+        {
+          "name": "Colossians 2:22",
+          "verse": 22,
+          "text": "quae sunt omnia in interitu ipso usu secundum praecepta et doctrinas hominum "
+        },
+        {
+          "name": "Colossians 2:23",
+          "verse": 23,
+          "text": "quae sunt rationem quidem habentia sapientiae in superstitione et humilitate et ad non parcendum corpori non in honore aliquo ad saturitatem carnis "
+        }
+      ]
+    },
+    {
+      "name": "Colossians 3",
+      "chapter": 3,
+      "verses": [
+        {
+          "name": "Colossians 3:1",
+          "verse": 1,
+          "text": "igitur si conresurrexistis Christo quae sursum sunt quaerite ubi Christus est in dextera Dei sedens "
+        },
+        {
+          "name": "Colossians 3:2",
+          "verse": 2,
+          "text": "quae sursum sunt sapite non quae supra terram "
+        },
+        {
+          "name": "Colossians 3:3",
+          "verse": 3,
+          "text": "mortui enim estis et vita vestra abscondita est cum Christo in Deo "
+        },
+        {
+          "name": "Colossians 3:4",
+          "verse": 4,
+          "text": "cum Christus apparuerit vita vestra tunc et vos apparebitis cum ipso in gloria "
+        },
+        {
+          "name": "Colossians 3:5",
+          "verse": 5,
+          "text": "mortificate ergo membra vestra quae sunt super terram fornicationem inmunditiam libidinem concupiscentiam malam et avaritiam quae est simulacrorum servitus "
+        },
+        {
+          "name": "Colossians 3:6",
+          "verse": 6,
+          "text": "propter quae venit ira Dei super filios incredulitatis "
+        },
+        {
+          "name": "Colossians 3:7",
+          "verse": 7,
+          "text": "in quibus et vos ambulastis aliquando cum viveretis in illis "
+        },
+        {
+          "name": "Colossians 3:8",
+          "verse": 8,
+          "text": "nunc autem deponite et vos omnia iram indignationem malitiam blasphemiam turpem sermonem de ore vestro "
+        },
+        {
+          "name": "Colossians 3:9",
+          "verse": 9,
+          "text": "nolite mentiri invicem expoliantes vos veterem hominem cum actibus eius "
+        },
+        {
+          "name": "Colossians 3:10",
+          "verse": 10,
+          "text": "et induentes novum eum qui renovatur in agnitionem secundum imaginem eius qui creavit eum "
+        },
+        {
+          "name": "Colossians 3:11",
+          "verse": 11,
+          "text": "ubi non est gentilis et Iudaeus circumcisio et praeputium barbarus et Scytha servus et liber sed omnia et in omnibus Christus "
+        },
+        {
+          "name": "Colossians 3:12",
+          "verse": 12,
+          "text": "induite vos ergo sicut electi Dei sancti et dilecti viscera misericordiae benignitatem humilitatem modestiam patientiam "
+        },
+        {
+          "name": "Colossians 3:13",
+          "verse": 13,
+          "text": "subportantes invicem et donantes vobis ipsis si quis adversus aliquem habet querellam sicut et Dominus donavit vobis ita et vos "
+        },
+        {
+          "name": "Colossians 3:14",
+          "verse": 14,
+          "text": "super omnia autem haec caritatem quod est vinculum perfectionis "
+        },
+        {
+          "name": "Colossians 3:15",
+          "verse": 15,
+          "text": "et pax Christi exultet in cordibus vestris in qua et vocati estis in uno corpore et grati estote "
+        },
+        {
+          "name": "Colossians 3:16",
+          "verse": 16,
+          "text": "verbum Christi habitet in vobis abundanter in omni sapientia docentes et commonentes vosmet ipsos psalmis hymnis canticis spiritalibus in gratia cantantes in cordibus vestris Deo "
+        },
+        {
+          "name": "Colossians 3:17",
+          "verse": 17,
+          "text": "omne quodcumque facitis in verbo aut in opere omnia in nomine Domini Iesu gratias agentes Deo et Patri per ipsum "
+        },
+        {
+          "name": "Colossians 3:18",
+          "verse": 18,
+          "text": "mulieres subditae estote viris sicut oportet in Domino "
+        },
+        {
+          "name": "Colossians 3:19",
+          "verse": 19,
+          "text": "viri diligite uxores et nolite amari esse ad illas "
+        },
+        {
+          "name": "Colossians 3:20",
+          "verse": 20,
+          "text": "filii oboedite parentibus per omnia hoc enim placitum est in Domino "
+        },
+        {
+          "name": "Colossians 3:21",
+          "verse": 21,
+          "text": "patres nolite ad indignationem provocare filios vestros ut non pusillo animo fiant "
+        },
+        {
+          "name": "Colossians 3:22",
+          "verse": 22,
+          "text": "servi oboedite per omnia dominis carnalibus non ad oculum servientes quasi hominibus placentes sed in simplicitate cordis timentes Dominum "
+        },
+        {
+          "name": "Colossians 3:23",
+          "verse": 23,
+          "text": "quodcumque facitis ex animo operamini sicut Domino et non hominibus "
+        },
+        {
+          "name": "Colossians 3:24",
+          "verse": 24,
+          "text": "scientes quod a Domino accipietis retributionem hereditatis Domino Christo servite "
+        },
+        {
+          "name": "Colossians 3:25",
+          "verse": 25,
+          "text": "qui enim iniuriam facit recipiet id quod inique gessit et non est personarum acceptio "
+        }
+      ]
+    },
+    {
+      "name": "Colossians 4",
+      "chapter": 4,
+      "verses": [
+        {
+          "name": "Colossians 4:1",
+          "verse": 1,
+          "text": "domini quod iustum est et aequum servis praestate scientes quoniam et vos Dominum habetis in caelo "
+        },
+        {
+          "name": "Colossians 4:2",
+          "verse": 2,
+          "text": "orationi instate vigilantes in ea in gratiarum actione "
+        },
+        {
+          "name": "Colossians 4:3",
+          "verse": 3,
+          "text": "orantes simul et pro nobis ut Deus aperiat nobis ostium sermonis ad loquendum mysterium Christi propter quod etiam vinctus sum "
+        },
+        {
+          "name": "Colossians 4:4",
+          "verse": 4,
+          "text": "ut manifestem illud ita ut oportet me loqui "
+        },
+        {
+          "name": "Colossians 4:5",
+          "verse": 5,
+          "text": "in sapientia ambulate ad eos qui foris sunt tempus redimentes "
+        },
+        {
+          "name": "Colossians 4:6",
+          "verse": 6,
+          "text": "sermo vester semper in gratia sale sit conditus ut sciatis quomodo oporteat vos unicuique respondere "
+        },
+        {
+          "name": "Colossians 4:7",
+          "verse": 7,
+          "text": "quae circa me sunt omnia vobis nota faciet Tychicus carissimus frater et fidelis minister et conservus in Domino "
+        },
+        {
+          "name": "Colossians 4:8",
+          "verse": 8,
+          "text": "quem misi ad vos ad hoc ipsum ut cognoscat quae circa vos sunt et consoletur corda vestra "
+        },
+        {
+          "name": "Colossians 4:9",
+          "verse": 9,
+          "text": "cum Onesimo carissimo et fideli fratre qui est ex vobis omnia quae hic aguntur nota facient vobis "
+        },
+        {
+          "name": "Colossians 4:10",
+          "verse": 10,
+          "text": "salutat vos Aristarchus concaptivus meus et Marcus consobrinus Barnabae de quo accepistis mandata si venerit ad vos excipite illum "
+        },
+        {
+          "name": "Colossians 4:11",
+          "verse": 11,
+          "text": "et Iesus qui dicitur Iustus qui sunt ex circumcisione hii soli sunt adiutores in regno Dei qui mihi fuerunt solacio "
+        },
+        {
+          "name": "Colossians 4:12",
+          "verse": 12,
+          "text": "salutat vos Epaphras qui ex vobis est servus Christi Iesu semper sollicitus pro vobis in orationibus ut stetis perfecti et pleni in omni voluntate Dei "
+        },
+        {
+          "name": "Colossians 4:13",
+          "verse": 13,
+          "text": "testimonium enim illi perhibeo quod habet multum laborem pro vobis et pro his qui sunt Laodiciae et qui Hierapoli "
+        },
+        {
+          "name": "Colossians 4:14",
+          "verse": 14,
+          "text": "salutat vos Lucas medicus carissimus et Demas "
+        },
+        {
+          "name": "Colossians 4:15",
+          "verse": 15,
+          "text": "salutate fratres qui sunt Laodiciae et Nympham et quae in domo eius est ecclesiam "
+        },
+        {
+          "name": "Colossians 4:16",
+          "verse": 16,
+          "text": "et cum lecta fuerit apud vos epistula facite ut et in Laodicensium ecclesia legatur et eam quae Laodicensium est vos legatis "
+        },
+        {
+          "name": "Colossians 4:17",
+          "verse": 17,
+          "text": "et dicite Archippo vide ministerium quod accepisti in Domino ut illud impleas "
+        },
+        {
+          "name": "Colossians 4:18",
+          "verse": 18,
+          "text": "salutatio mea manu Pauli memores estote vinculorum meorum gratia vobiscum amen  "
+        }
+      ]
+    }
+  ]
+}

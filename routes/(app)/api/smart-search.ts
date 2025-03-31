@@ -1,6 +1,6 @@
 import { define } from '@/lib/utils/utils.ts';
 import { AIMessage, generateChatCompletion } from '@/lib/ai/oai.ts';
-import { BibleData, loadBible } from '@/lib/load-bible.ts';
+import { BibleData, loadBook } from '@/lib/load-bible.ts';
 
 const examplePrompts = [
     {
@@ -37,16 +37,7 @@ Ecclesiastes 7:29`
     }
 ]
 
-function getVerseText(bible: BibleData, verseName: string) {
-    const [_, book, chapter, verse] = verseName.split(/(.+) (\d+):(\d+)/);
-    const text = bible.books.find(b => b.name == book)
-        ?.chapters.find(c => c.chapter == +chapter)
-        ?.verses.find(v => v.verse == +verse)?.text;
-    if (!text) console.log(bible.books.find(b => b.name == book)
-        ?.chapters.find(c => c.chapter == +chapter)
-        ?.verses.length, verseName)
-    return text;
-}
+
 
 
 export const handler = define.handlers({
@@ -62,8 +53,6 @@ export const handler = define.handlers({
             { role: "user", content: `Find verses with the query: "${query}"` }
         ];
 
-        const _bible = loadBible(ctx.state.user?.language || 'en');
-
         const result = await generateChatCompletion(undefined, messages);
 
         let content = result.choices[0].message.content!;
@@ -73,11 +62,40 @@ export const handler = define.handlers({
 
         content = content.replace(/<think>[\s\S]*<\/think>/, '');
 
-        const bible = await _bible;
-
         const verses = content.split('\n').map(v => v.trim().split('-')[0]).filter(v => v !== '');
 
-        const results = verses.map(v => `<h3>${v}</h3><p>${getVerseText(bible, v) || ''}</p>`).join('\n');
+        let results = '';
+
+        async function getVerseText(verseName: string) {
+            const [_, _book, chapter, verse] = verseName.split(/(.+) (\d+):(\d+)/);
+
+            let book = _book == "Revelation" ? "Revelation of John" : _book;
+            if (book == "Song of Songs") book = "Song of Solomon";
+            book = book.replace("1", "I");
+            book = book.replace("2", "II");
+            book = book.replace("3", "III");
+            book = book.replaceAll(".", "");
+            book = book.replace("Psalm", "Psalms");
+
+            let bookData = await loadBook(ctx.state.user?.language, book);
+            const text = bookData
+                ?.chapters.find(c => c.chapter == +chapter)
+                ?.verses.find(v => v.verse == +verse)?.text;
+
+            if (!text) {
+                bookData = await loadBook("en", book);
+                return bookData
+                    ?.chapters.find(c => c.chapter == +chapter)
+                    ?.verses.find(v => v.verse == +verse)?.text || '';
+            }
+
+            return text || '';
+        }
+
+        for (const v of verses) {
+            const text = await getVerseText(v);
+            results += `<h3>${v}</h3><p>${text}</p>\n`;
+        }
 
         return Response.json({ html: thinkingTag + results });
     }

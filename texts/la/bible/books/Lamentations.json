@@ -1,0 +1,806 @@
+{
+  "name": "Lamentations",
+  "order": 29,
+  "chapters": [
+    {
+      "name": "Lamentations 1",
+      "chapter": 1,
+      "verses": [
+        {
+          "name": "Lamentations 1:1",
+          "verse": 1,
+          "text": "ALEPH quomodo sedit sola civitas plena populo facta est quasi vidua domina gentium princeps provinciarum facta est sub tributo "
+        },
+        {
+          "name": "Lamentations 1:2",
+          "verse": 2,
+          "text": "BETH plorans ploravit in nocte et lacrimae eius in maxillis eius non est qui consoletur eam ex omnibus caris eius omnes amici eius spreverunt eam et facti sunt ei inimici "
+        },
+        {
+          "name": "Lamentations 1:3",
+          "verse": 3,
+          "text": "GIMEL migravit Iuda propter adflictionem et multitudinem servitutis habitavit inter gentes nec invenit requiem omnes persecutores eius adprehenderunt eam inter angustias "
+        },
+        {
+          "name": "Lamentations 1:4",
+          "verse": 4,
+          "text": "DELETH viae Sion lugent eo quod non sint qui veniant ad sollemnitatem omnes portae eius destructae sacerdotes eius gementes virgines eius squalidae et ipsa oppressa amaritudine "
+        },
+        {
+          "name": "Lamentations 1:5",
+          "verse": 5,
+          "text": "HE facti sunt hostes eius in capite inimici illius locupletati sunt quia Dominus locutus est super eam propter multitudinem iniquitatum eius parvuli eius ducti sunt captivi ante faciem tribulantis "
+        },
+        {
+          "name": "Lamentations 1:6",
+          "verse": 6,
+          "text": "VAV et egressus est a filia Sion omnis decor eius facti sunt principes eius velut arietes non invenientes pascuam et abierunt absque fortitudine ante faciem subsequentis "
+        },
+        {
+          "name": "Lamentations 1:7",
+          "verse": 7,
+          "text": "ZAI recordata est Hierusalem dierum adflictionis suae et praevaricationis omnium desiderabilium suorum quae habuerat a diebus antiquis cum caderet populus eius in manu hostili et non esset auxiliator viderunt eam hostes et deriserunt sabbata eius "
+        },
+        {
+          "name": "Lamentations 1:8",
+          "verse": 8,
+          "text": "HETH peccatum peccavit Hierusalem propterea instabilis facta est omnes qui glorificabant eam spreverunt illam quia viderunt ignominiam eius ipsa autem gemens et conversa retrorsum "
+        },
+        {
+          "name": "Lamentations 1:9",
+          "verse": 9,
+          "text": "TETH sordes eius in pedibus eius nec recordata est finis sui deposita est vehementer non habens consolatorem vide Domine adflictionem meam quoniam erectus est inimicus "
+        },
+        {
+          "name": "Lamentations 1:10",
+          "verse": 10,
+          "text": "IOTH manum suam misit hostis ad omnia desiderabilia eius quia vidit gentes ingressas sanctuarium suum de quibus praeceperas ne intrarent in ecclesiam tuam "
+        },
+        {
+          "name": "Lamentations 1:11",
+          "verse": 11,
+          "text": "CAPH omnis populus eius gemens et quaerens panem dederunt pretiosa quaeque pro cibo ad refocilandam animam vide Domine considera quoniam facta sum vilis "
+        },
+        {
+          "name": "Lamentations 1:12",
+          "verse": 12,
+          "text": "LAMED o vos omnes qui transitis per viam adtendite et videte si est dolor sicut dolor meus quoniam vindemiavit me ut locutus est Dominus in die irae furoris sui "
+        },
+        {
+          "name": "Lamentations 1:13",
+          "verse": 13,
+          "text": "MEM de excelso misit ignem in ossibus meis et erudivit me expandit rete pedibus meis convertit me retrorsum posuit me desolatam tota die maerore confectam "
+        },
+        {
+          "name": "Lamentations 1:14",
+          "verse": 14,
+          "text": "NUN vigilavit iugum iniquitatum mearum in manu eius convolutae sunt et inpositae collo meo infirmata est virtus mea dedit me Dominus in manu de qua non potero surgere "
+        },
+        {
+          "name": "Lamentations 1:15",
+          "verse": 15,
+          "text": "SAMECH abstulit omnes magnificos meos Dominus de medio mei vocavit adversum me tempus ut contereret electos meos torcular calcavit Dominus virgini filiae Iuda "
+        },
+        {
+          "name": "Lamentations 1:16",
+          "verse": 16,
+          "text": "AIN idcirco ego plorans et oculus meus deducens aquam quia longe factus est a me consolator convertens animam meam facti sunt filii mei perditi quoniam invaluit inimicus "
+        },
+        {
+          "name": "Lamentations 1:17",
+          "verse": 17,
+          "text": "FE expandit Sion manus suas non est qui consoletur eam mandavit Dominus adversum Iacob in circuitu eius hostes eius facta est Hierusalem quasi polluta menstruis inter eos "
+        },
+        {
+          "name": "Lamentations 1:18",
+          "verse": 18,
+          "text": "SADE iustus est Dominus quia os eius ad iracundiam provocavi audite obsecro universi populi et videte dolorem meum virgines meae et iuvenes mei abierunt in captivitatem "
+        },
+        {
+          "name": "Lamentations 1:19",
+          "verse": 19,
+          "text": "COPH vocavi amicos meos et ipsi deceperunt me sacerdotes mei et senes mei in urbe consumpti sunt quia quaesierunt cibum sibi ut refocilarent animam suam "
+        },
+        {
+          "name": "Lamentations 1:20",
+          "verse": 20,
+          "text": "RES vide Domine quoniam tribulor venter meus conturbatus est subversum est cor meum in memet ipsa quoniam amaritudine plena sum foris interfecit gladius et domi mors similis est "
+        },
+        {
+          "name": "Lamentations 1:21",
+          "verse": 21,
+          "text": "SEN audierunt quia ingemesco ego et non est qui consoletur me omnes inimici mei audierunt malum meum laetati sunt quoniam tu fecisti adduxisti diem consolationis et fient similes mei "
+        },
+        {
+          "name": "Lamentations 1:22",
+          "verse": 22,
+          "text": "THAU ingrediatur omne malum eorum coram te et devindemia eos sicut vindemiasti me propter omnes iniquitates meas multi enim gemitus mei et cor meum maerens "
+        }
+      ]
+    },
+    {
+      "name": "Lamentations 2",
+      "chapter": 2,
+      "verses": [
+        {
+          "name": "Lamentations 2:1",
+          "verse": 1,
+          "text": "ALEPH quomodo obtexit caligine in furore suo Dominus filiam Sion proiecit de caelo terram inclitam Israhel et non recordatus est scabilli pedum suorum in die furoris sui "
+        },
+        {
+          "name": "Lamentations 2:2",
+          "verse": 2,
+          "text": "BETH praecipitavit Dominus nec pepercit omnia speciosa Iacob destruxit in furore suo munitiones virginis Iuda deiecit in terram polluit regnum et principes eius "
+        },
+        {
+          "name": "Lamentations 2:3",
+          "verse": 3,
+          "text": "GIMEL confregit in ira furoris omne cornu Israhel avertit retrorsum dexteram suam a facie inimici et succendit in Iacob quasi ignem flammae devorantis in gyro "
+        },
+        {
+          "name": "Lamentations 2:4",
+          "verse": 4,
+          "text": "DELETH tetendit arcum suum quasi inimicus firmavit dexteram suam quasi hostis et occidit omne quod pulchrum erat visu in tabernaculo filiae Sion effudit quasi ignem indignationem suam "
+        },
+        {
+          "name": "Lamentations 2:5",
+          "verse": 5,
+          "text": "HE factus est Dominus velut inimicus praecipitavit Israhel praecipitavit omnia moenia eius dissipavit munitiones eius et replevit in filia Iuda humiliatum et humiliatam "
+        },
+        {
+          "name": "Lamentations 2:6",
+          "verse": 6,
+          "text": "VAV et dissipavit quasi hortum tentorium suum demolitus est tabernaculum suum oblivioni tradidit Dominus in Sion festivitatem et sabbatum et obprobrio in indignatione furoris sui regem et sacerdotem "
+        },
+        {
+          "name": "Lamentations 2:7",
+          "verse": 7,
+          "text": "ZAI reppulit Dominus altare suum maledixit sanctificationi suae tradidit in manu inimici muros turrium eius vocem dederunt in domo Domini sicut in die sollemni "
+        },
+        {
+          "name": "Lamentations 2:8",
+          "verse": 8,
+          "text": "HETH cogitavit Dominus dissipare murum filiae Sion tetendit funiculum suum et non avertit manum suam a perditione luxitque antemurale et murus pariter dissipatus est "
+        },
+        {
+          "name": "Lamentations 2:9",
+          "verse": 9,
+          "text": "TETH defixae sunt in terra portae eius perdidit et contrivit vectes eius regem eius et principes eius in gentibus non est lex et prophetae eius non invenerunt visionem a Domino "
+        },
+        {
+          "name": "Lamentations 2:10",
+          "verse": 10,
+          "text": "IOTH sederunt in terra conticuerunt senes filiae Sion consperserunt cinere capita sua accincti sunt ciliciis abiecerunt in terra capita sua virgines Hierusalem "
+        },
+        {
+          "name": "Lamentations 2:11",
+          "verse": 11,
+          "text": "CAPH defecerunt prae lacrimis oculi mei conturbata sunt viscera mea effusum est in terra iecur meum super contritione filiae populi mei cum deficeret parvulus et lactans in plateis oppidi "
+        },
+        {
+          "name": "Lamentations 2:12",
+          "verse": 12,
+          "text": "LAMED matribus suis dixerunt ubi est triticum et vinum cum deficerent quasi vulnerati in plateis civitatis cum exhalarent animas suas in sinu matrum suarum "
+        },
+        {
+          "name": "Lamentations 2:13",
+          "verse": 13,
+          "text": "MEM cui conparabo te vel cui adsimilabo te filia Hierusalem cui exaequabo te et consolabor te virgo filia Sion magna enim velut mare contritio tua quis medebitur tui "
+        },
+        {
+          "name": "Lamentations 2:14",
+          "verse": 14,
+          "text": "NUN prophetae tui viderunt tibi falsa et stulta nec aperiebant iniquitatem tuam ut te ad paenitentiam provocarent viderunt autem tibi adsumptiones falsas et eiectiones "
+        },
+        {
+          "name": "Lamentations 2:15",
+          "verse": 15,
+          "text": "SAMECH plauserunt super te manibus omnes transeuntes per viam sibilaverunt et moverunt caput suum super filiam Hierusalem haecine est urbs dicentes perfecti decoris gaudium universae terrae "
+        },
+        {
+          "name": "Lamentations 2:16",
+          "verse": 16,
+          "text": "FE aperuerunt super te os suum omnes inimici tui sibilaverunt et fremuerunt dentibus dixerunt devoravimus en ista est dies quam expectabamus invenimus vidimus "
+        },
+        {
+          "name": "Lamentations 2:17",
+          "verse": 17,
+          "text": "AIN fecit Dominus quae cogitavit conplevit sermonem suum quem praeceperat a diebus antiquis destruxit et non pepercit et laetificavit super te inimicum et exaltavit cornu hostium tuorum "
+        },
+        {
+          "name": "Lamentations 2:18",
+          "verse": 18,
+          "text": "SADE clamavit cor eorum ad Dominum super muros filiae Sion deduc quasi torrentem lacrimas per diem et per noctem non des requiem tibi neque taceat pupilla oculi tui "
+        },
+        {
+          "name": "Lamentations 2:19",
+          "verse": 19,
+          "text": "COPH consurge lauda in nocte in principio vigiliarum effunde sicut aqua cor tuum ante conspectum Domini leva ad eum manus tuas pro anima parvulorum tuorum qui defecerunt in fame in capite omnium conpetorum "
+        },
+        {
+          "name": "Lamentations 2:20",
+          "verse": 20,
+          "text": "RES vide Domine et considera quem vindemiaveris ita ergone comedent mulieres fructum suum parvulos ad mensuram palmae si occidetur in sanctuario Domini sacerdos et propheta "
+        },
+        {
+          "name": "Lamentations 2:21",
+          "verse": 21,
+          "text": "SEN iacuerunt in terra foris puer et senex virgines meae et iuvenes mei ceciderunt in gladio interfecisti in die furoris tui percussisti nec misertus es "
+        },
+        {
+          "name": "Lamentations 2:22",
+          "verse": 22,
+          "text": "THAU vocasti quasi ad diem sollemnem qui terrerent me de circuitu et non fuit in die furoris Domini qui effugeret et relinqueretur quos educavi et enutrivi inimicus meus consumpsit eos "
+        }
+      ]
+    },
+    {
+      "name": "Lamentations 3",
+      "chapter": 3,
+      "verses": [
+        {
+          "name": "Lamentations 3:1",
+          "verse": 1,
+          "text": "ALEPH ego vir videns paupertatem meam in virga indignationis eius "
+        },
+        {
+          "name": "Lamentations 3:2",
+          "verse": 2,
+          "text": "ALEPH me minavit et adduxit in tenebris et non in lucem "
+        },
+        {
+          "name": "Lamentations 3:3",
+          "verse": 3,
+          "text": "ALEPH tantum in me vertit et convertit manum suam tota die "
+        },
+        {
+          "name": "Lamentations 3:4",
+          "verse": 4,
+          "text": "BETH vetustam fecit pellem meam et carnem meam contrivit ossa mea "
+        },
+        {
+          "name": "Lamentations 3:5",
+          "verse": 5,
+          "text": "BETH aedificavit in gyro meo et circumdedit me felle et labore "
+        },
+        {
+          "name": "Lamentations 3:6",
+          "verse": 6,
+          "text": "BETH in tenebrosis conlocavit me quasi mortuos sempiternos "
+        },
+        {
+          "name": "Lamentations 3:7",
+          "verse": 7,
+          "text": "GIMEL circumaedificavit adversum me ut non egrediar adgravavit conpedem meam "
+        },
+        {
+          "name": "Lamentations 3:8",
+          "verse": 8,
+          "text": "GIMEL sed et cum clamavero et rogavero exclusit orationem meam "
+        },
+        {
+          "name": "Lamentations 3:9",
+          "verse": 9,
+          "text": "GIMEL conclusit vias meas lapidibus quadris semitas meas subvertit "
+        },
+        {
+          "name": "Lamentations 3:10",
+          "verse": 10,
+          "text": "DELETH ursus insidians factus est mihi leo in absconditis "
+        },
+        {
+          "name": "Lamentations 3:11",
+          "verse": 11,
+          "text": "DELETH semitas meas subvertit et confregit me posuit me desolatam "
+        },
+        {
+          "name": "Lamentations 3:12",
+          "verse": 12,
+          "text": "DELETH tetendit arcum suum et posuit me quasi signum ad sagittam "
+        },
+        {
+          "name": "Lamentations 3:13",
+          "verse": 13,
+          "text": "HE misit in renibus meis filias faretrae suae "
+        },
+        {
+          "name": "Lamentations 3:14",
+          "verse": 14,
+          "text": "HE factus sum in derisu omni populo meo canticum eorum tota die "
+        },
+        {
+          "name": "Lamentations 3:15",
+          "verse": 15,
+          "text": "HE replevit me amaritudinibus inebriavit me absinthio "
+        },
+        {
+          "name": "Lamentations 3:16",
+          "verse": 16,
+          "text": "VAV et fregit ad numerum dentes meos cibavit me cinere "
+        },
+        {
+          "name": "Lamentations 3:17",
+          "verse": 17,
+          "text": "VAV et repulsa est anima mea oblitus sum bonorum "
+        },
+        {
+          "name": "Lamentations 3:18",
+          "verse": 18,
+          "text": "VAV et dixi periit finis meus et spes mea a Domino "
+        },
+        {
+          "name": "Lamentations 3:19",
+          "verse": 19,
+          "text": "ZAI recordare paupertatis et transgressionis meae absinthii et fellis "
+        },
+        {
+          "name": "Lamentations 3:20",
+          "verse": 20,
+          "text": "ZAI memoria memor ero et tabescet in me anima mea "
+        },
+        {
+          "name": "Lamentations 3:21",
+          "verse": 21,
+          "text": "ZAI hoc recolens in corde meo ideo sperabo "
+        },
+        {
+          "name": "Lamentations 3:22",
+          "verse": 22,
+          "text": "HETH misericordiae Domini quia non sumus consumpti quia non defecerunt miserationes eius "
+        },
+        {
+          "name": "Lamentations 3:23",
+          "verse": 23,
+          "text": "HETH novae diluculo multa est fides tua "
+        },
+        {
+          "name": "Lamentations 3:24",
+          "verse": 24,
+          "text": "HETH pars mea Dominus dixit anima mea propterea expectabo eum "
+        },
+        {
+          "name": "Lamentations 3:25",
+          "verse": 25,
+          "text": "TETH bonus est Dominus sperantibus in eum animae quaerenti illum "
+        },
+        {
+          "name": "Lamentations 3:26",
+          "verse": 26,
+          "text": "TETH bonum est praestolari cum silentio salutare Domini "
+        },
+        {
+          "name": "Lamentations 3:27",
+          "verse": 27,
+          "text": "TETH bonum est viro cum portaverit iugum ab adulescentia sua "
+        },
+        {
+          "name": "Lamentations 3:28",
+          "verse": 28,
+          "text": "IOTH sedebit solitarius et tacebit quia levavit super se "
+        },
+        {
+          "name": "Lamentations 3:29",
+          "verse": 29,
+          "text": "IOTH ponet in pulvere os suum si forte sit spes "
+        },
+        {
+          "name": "Lamentations 3:30",
+          "verse": 30,
+          "text": "IOTH dabit percutienti se maxillam saturabitur obprobriis "
+        },
+        {
+          "name": "Lamentations 3:31",
+          "verse": 31,
+          "text": "CAPH quia non repellet in sempiternum Dominus "
+        },
+        {
+          "name": "Lamentations 3:32",
+          "verse": 32,
+          "text": "CAPH quia si abiecit et miserebitur secundum multitudinem misericordiarum suarum "
+        },
+        {
+          "name": "Lamentations 3:33",
+          "verse": 33,
+          "text": "CAPH non enim humiliavit ex corde suo et abiecit filios hominis "
+        },
+        {
+          "name": "Lamentations 3:34",
+          "verse": 34,
+          "text": "LAMED ut contereret sub pedibus suis omnes vinctos terrae "
+        },
+        {
+          "name": "Lamentations 3:35",
+          "verse": 35,
+          "text": "LAMED ut declinaret iudicium viri in conspectu vultus Altissimi "
+        },
+        {
+          "name": "Lamentations 3:36",
+          "verse": 36,
+          "text": "LAMED ut perverteret hominem in iudicio suo Dominus ignoravit "
+        },
+        {
+          "name": "Lamentations 3:37",
+          "verse": 37,
+          "text": "MEM quis est iste qui dixit ut fieret Domino non iubente "
+        },
+        {
+          "name": "Lamentations 3:38",
+          "verse": 38,
+          "text": "MEM ex ore Altissimi non egredientur nec mala nec bona "
+        },
+        {
+          "name": "Lamentations 3:39",
+          "verse": 39,
+          "text": "MEM quid murmuravit homo vivens vir pro peccatis suis "
+        },
+        {
+          "name": "Lamentations 3:40",
+          "verse": 40,
+          "text": "NUN scrutemur vias nostras et quaeramus et revertamur ad Dominum "
+        },
+        {
+          "name": "Lamentations 3:41",
+          "verse": 41,
+          "text": "NUN levemus corda nostra cum manibus ad Dominum in caelos "
+        },
+        {
+          "name": "Lamentations 3:42",
+          "verse": 42,
+          "text": "NUN nos inique egimus et ad iracundiam provocavimus idcirco tu inexorabilis es "
+        },
+        {
+          "name": "Lamentations 3:43",
+          "verse": 43,
+          "text": "SAMECH operuisti in furore et percussisti nos occidisti nec pepercisti "
+        },
+        {
+          "name": "Lamentations 3:44",
+          "verse": 44,
+          "text": "SAMECH opposuisti nubem tibi ne transeat oratio "
+        },
+        {
+          "name": "Lamentations 3:45",
+          "verse": 45,
+          "text": "SAMECH eradicationem et abiectionem posuisti me in medio populorum "
+        },
+        {
+          "name": "Lamentations 3:46",
+          "verse": 46,
+          "text": "FE aperuerunt super nos os suum omnes inimici "
+        },
+        {
+          "name": "Lamentations 3:47",
+          "verse": 47,
+          "text": "FE formido et laqueus facta est nobis vaticinatio et contritio "
+        },
+        {
+          "name": "Lamentations 3:48",
+          "verse": 48,
+          "text": "FE divisiones aquarum deduxit oculus meus in contritione filiae populi mei "
+        },
+        {
+          "name": "Lamentations 3:49",
+          "verse": 49,
+          "text": "AIN oculus meus adflictus est nec tacuit eo quod non esset requies "
+        },
+        {
+          "name": "Lamentations 3:50",
+          "verse": 50,
+          "text": "AIN donec respiceret et videret Dominus de caelis "
+        },
+        {
+          "name": "Lamentations 3:51",
+          "verse": 51,
+          "text": "AIN oculus meus depraedatus est animam meam in cunctis filiabus urbis meae "
+        },
+        {
+          "name": "Lamentations 3:52",
+          "verse": 52,
+          "text": "SADE venatione ceperunt me quasi avem inimici mei gratis "
+        },
+        {
+          "name": "Lamentations 3:53",
+          "verse": 53,
+          "text": "SADE lapsa est in lacu vita mea et posuerunt lapidem super me "
+        },
+        {
+          "name": "Lamentations 3:54",
+          "verse": 54,
+          "text": "SADE inundaverunt aquae super caput meum dixi perii "
+        },
+        {
+          "name": "Lamentations 3:55",
+          "verse": 55,
+          "text": "COPH invocavi nomen tuum Domine de lacis novissimis "
+        },
+        {
+          "name": "Lamentations 3:56",
+          "verse": 56,
+          "text": "COPH vocem meam audisti ne avertas aurem tuam a singultu meo et clamoribus "
+        },
+        {
+          "name": "Lamentations 3:57",
+          "verse": 57,
+          "text": "COPH adpropinquasti in die quando invocavi te dixisti ne timeas "
+        },
+        {
+          "name": "Lamentations 3:58",
+          "verse": 58,
+          "text": "RES iudicasti Domine causam animae meae redemptor vitae meae "
+        },
+        {
+          "name": "Lamentations 3:59",
+          "verse": 59,
+          "text": "RES vidisti Domine iniquitatem adversum me iudica iudicium meum "
+        },
+        {
+          "name": "Lamentations 3:60",
+          "verse": 60,
+          "text": "RES vidisti omnem furorem universas cogitationes eorum adversum me "
+        },
+        {
+          "name": "Lamentations 3:61",
+          "verse": 61,
+          "text": "SEN audisti obprobria eorum Domine omnes cogitationes eorum adversum me "
+        },
+        {
+          "name": "Lamentations 3:62",
+          "verse": 62,
+          "text": "SEN labia insurgentium mihi et meditationes eorum adversum me tota die "
+        },
+        {
+          "name": "Lamentations 3:63",
+          "verse": 63,
+          "text": "SEN sessionem eorum et resurrectionem eorum vide ego sum psalmus eorum "
+        },
+        {
+          "name": "Lamentations 3:64",
+          "verse": 64,
+          "text": "THAU reddes eis vicem Domine iuxta opera manuum suarum "
+        },
+        {
+          "name": "Lamentations 3:65",
+          "verse": 65,
+          "text": "THAU dabis eis scutum cordis laborem tuum "
+        },
+        {
+          "name": "Lamentations 3:66",
+          "verse": 66,
+          "text": "THAU persequeris in furore et conteres eos sub caelis Domine "
+        }
+      ]
+    },
+    {
+      "name": "Lamentations 4",
+      "chapter": 4,
+      "verses": [
+        {
+          "name": "Lamentations 4:1",
+          "verse": 1,
+          "text": "ALEPH quomodo obscuratum est aurum mutatus est color optimus dispersi sunt lapides sanctuarii in capite omnium platearum "
+        },
+        {
+          "name": "Lamentations 4:2",
+          "verse": 2,
+          "text": "BETH filii Sion incliti et amicti auro primo quomodo reputati sunt in vasa testea opus manuum figuli "
+        },
+        {
+          "name": "Lamentations 4:3",
+          "verse": 3,
+          "text": "GIMEL sed et lamiae nudaverunt mammam lactaverunt catulos suos filia populi mei crudelis quasi strutio in deserto "
+        },
+        {
+          "name": "Lamentations 4:4",
+          "verse": 4,
+          "text": "DELETH adhesit lingua lactantis ad palatum eius in siti parvuli petierunt panem et non erat qui frangeret eis "
+        },
+        {
+          "name": "Lamentations 4:5",
+          "verse": 5,
+          "text": "HE qui vescebantur voluptuose interierunt in viis qui nutriebantur in croceis amplexati sunt stercora "
+        },
+        {
+          "name": "Lamentations 4:6",
+          "verse": 6,
+          "text": "VAV et maior effecta est iniquitas filiae populi mei peccato Sodomorum quae subversa est in momento et non ceperunt in ea manus "
+        },
+        {
+          "name": "Lamentations 4:7",
+          "verse": 7,
+          "text": "ZAI candidiores nazarei eius nive nitidiores lacte rubicundiores ebore antiquo sapphyro pulchriores "
+        },
+        {
+          "name": "Lamentations 4:8",
+          "verse": 8,
+          "text": "HETH denigrata est super carbones facies eorum et non sunt cogniti in plateis adhesit cutis eorum ossibus aruit et facta est quasi lignum "
+        },
+        {
+          "name": "Lamentations 4:9",
+          "verse": 9,
+          "text": "TETH melius fuit occisis gladio quam interfectis fame quoniam isti extabuerunt consumpti ab sterilitate terrae "
+        },
+        {
+          "name": "Lamentations 4:10",
+          "verse": 10,
+          "text": "IOTH manus mulierum misericordium coxerunt filios suos facti sunt cibus earum in contritione filiae populi mei "
+        },
+        {
+          "name": "Lamentations 4:11",
+          "verse": 11,
+          "text": "CAPH conplevit Dominus furorem suum effudit iram indignationis suae et succendit ignem in Sion et devoravit fundamenta eius "
+        },
+        {
+          "name": "Lamentations 4:12",
+          "verse": 12,
+          "text": "LAMED non crediderunt reges terrae et universi habitatores orbis quoniam ingrederetur hostis et inimicus per portas Hierusalem "
+        },
+        {
+          "name": "Lamentations 4:13",
+          "verse": 13,
+          "text": "MEM propter peccata prophetarum eius iniquitates sacerdotum eius qui effuderunt in medio eius sanguinem iustorum "
+        },
+        {
+          "name": "Lamentations 4:14",
+          "verse": 14,
+          "text": "NUN erraverunt caeci in plateis polluti sunt sanguine cumque non possent tenuerunt lacinias suas "
+        },
+        {
+          "name": "Lamentations 4:15",
+          "verse": 15,
+          "text": "SAMECH recedite polluti clamaverunt eis recedite abite nolite tangere iurgati quippe sunt et commoti dixerunt inter gentes non addet ultra ut habitet in eis "
+        },
+        {
+          "name": "Lamentations 4:16",
+          "verse": 16,
+          "text": "FE facies Domini divisit eos non addet ut respiciat eos facies sacerdotum non erubuerunt neque senum miserti sunt "
+        },
+        {
+          "name": "Lamentations 4:17",
+          "verse": 17,
+          "text": "AIN cum adhuc subsisteremus defecerunt oculi nostri ad auxilium nostrum vanum cum respiceremus adtenti ad gentem quae salvare non poterat "
+        },
+        {
+          "name": "Lamentations 4:18",
+          "verse": 18,
+          "text": "SADE lubricaverunt vestigia nostra in itinere platearum nostrarum adpropinquavit finis noster conpleti sunt dies nostri quia venit finis noster "
+        },
+        {
+          "name": "Lamentations 4:19",
+          "verse": 19,
+          "text": "COPH velociores fuerunt persecutores nostri aquilis caeli super montes persecuti sunt nos in deserto insidiati sunt nobis "
+        },
+        {
+          "name": "Lamentations 4:20",
+          "verse": 20,
+          "text": "RES spiritus oris nostri christus dominus captus est in peccatis nostris cui diximus in umbra tua vivemus in gentibus "
+        },
+        {
+          "name": "Lamentations 4:21",
+          "verse": 21,
+          "text": "SEN gaude et laetare filia Edom quae habitas in terra Hus ad te quoque perveniet calix inebriaberis atque nudaberis "
+        },
+        {
+          "name": "Lamentations 4:22",
+          "verse": 22,
+          "text": "THAU conpleta est iniquitas tua filia Sion non addet ultra ut transmigret te visitavit iniquitatem tuam filia Edom discoperuit peccata tua "
+        }
+      ]
+    },
+    {
+      "name": "Lamentations 5",
+      "chapter": 5,
+      "verses": [
+        {
+          "name": "Lamentations 5:1",
+          "verse": 1,
+          "text": "recordare Domine quid acciderit nobis intuere et respice obprobrium nostrum "
+        },
+        {
+          "name": "Lamentations 5:2",
+          "verse": 2,
+          "text": "hereditas nostra versa est ad alienos domus nostrae ad extraneos "
+        },
+        {
+          "name": "Lamentations 5:3",
+          "verse": 3,
+          "text": "pupilli facti sumus absque patre matres nostrae quasi viduae "
+        },
+        {
+          "name": "Lamentations 5:4",
+          "verse": 4,
+          "text": "aquam nostram pecunia bibimus ligna nostra pretio conparavimus "
+        },
+        {
+          "name": "Lamentations 5:5",
+          "verse": 5,
+          "text": "cervicibus minabamur lassis non dabatur requies "
+        },
+        {
+          "name": "Lamentations 5:6",
+          "verse": 6,
+          "text": "Aegypto dedimus manum et Assyriis ut saturaremur pane "
+        },
+        {
+          "name": "Lamentations 5:7",
+          "verse": 7,
+          "text": "patres nostri peccaverunt et non sunt et nos iniquitates eorum portavimus "
+        },
+        {
+          "name": "Lamentations 5:8",
+          "verse": 8,
+          "text": "servi dominati sunt nostri non fuit qui redimeret de manu eorum "
+        },
+        {
+          "name": "Lamentations 5:9",
+          "verse": 9,
+          "text": "in animabus nostris adferebamus panem nobis a facie gladii in deserto "
+        },
+        {
+          "name": "Lamentations 5:10",
+          "verse": 10,
+          "text": "pellis nostra quasi clibanus exusta est a facie tempestatum famis "
+        },
+        {
+          "name": "Lamentations 5:11",
+          "verse": 11,
+          "text": "mulieres in Sion humiliaverunt virgines in civitatibus Iuda "
+        },
+        {
+          "name": "Lamentations 5:12",
+          "verse": 12,
+          "text": "principes manu suspensi sunt facies senum non erubuerunt "
+        },
+        {
+          "name": "Lamentations 5:13",
+          "verse": 13,
+          "text": "adulescentibus inpudice abusi sunt et pueri in ligno corruerunt "
+        },
+        {
+          "name": "Lamentations 5:14",
+          "verse": 14,
+          "text": "senes de portis defecerunt iuvenes de choro psallentium "
+        },
+        {
+          "name": "Lamentations 5:15",
+          "verse": 15,
+          "text": "defecit gaudium cordis nostri versus est in luctu chorus noster "
+        },
+        {
+          "name": "Lamentations 5:16",
+          "verse": 16,
+          "text": "cecidit corona capitis nostri vae nobis quia peccavimus "
+        },
+        {
+          "name": "Lamentations 5:17",
+          "verse": 17,
+          "text": "propterea maestum factum est cor nostrum ideo contenebrati sunt oculi nostri "
+        },
+        {
+          "name": "Lamentations 5:18",
+          "verse": 18,
+          "text": "propter montem Sion quia disperiit vulpes ambulaverunt in eo "
+        },
+        {
+          "name": "Lamentations 5:19",
+          "verse": 19,
+          "text": "tu autem Domine in aeternum permanebis solium tuum in generatione et generatione "
+        },
+        {
+          "name": "Lamentations 5:20",
+          "verse": 20,
+          "text": "quare in perpetuum oblivisceris nostri derelinques nos in longitudinem dierum "
+        },
+        {
+          "name": "Lamentations 5:21",
+          "verse": 21,
+          "text": "converte nos Domine ad te et convertemur innova dies nostros sicut a principio "
+        },
+        {
+          "name": "Lamentations 5:22",
+          "verse": 22,
+          "text": "sed proiciens reppulisti nos iratus es contra nos vehementer  "
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Additional Psalm",
+  "order": 77,
+  "chapters": [
+    {
+      "name": "Additional Psalm 1",
+      "chapter": 1,
+      "verses": [
+        {
+          "name": "Additional Psalm 1:1",
+          "verse": 1,
+          "text": "hic psalmus proprie scriptus David et extra numerum cum pugnavit cum Goliad pusillus eram inter fratres meos et adulescentior in domo patris mei pascebam oves patris mei "
+        },
+        {
+          "name": "Additional Psalm 1:2",
+          "verse": 2,
+          "text": "manus meae fecerunt organum digiti mei aptaverunt psalterium "
+        },
+        {
+          "name": "Additional Psalm 1:3",
+          "verse": 3,
+          "text": "et quis adnuntiabit Domino meo ipse Dominus ipse omnium exaudiet "
+        },
+        {
+          "name": "Additional Psalm 1:4",
+          "verse": 4,
+          "text": "ipse misit angelum suum et tulit me de ovibus patris mei et unxit me in misericordia unctionis suae "
+        },
+        {
+          "name": "Additional Psalm 1:5",
+          "verse": 5,
+          "text": "fratres mei boni et magni et non fuit beneplacitum in eis Domino "
+        },
+        {
+          "name": "Additional Psalm 1:6",
+          "verse": 6,
+          "text": "exivi obviam alienigenae et maledixit mihi in simulacris suis "
+        },
+        {
+          "name": "Additional Psalm 1:7",
+          "verse": 7,
+          "text": "ego autem evaginato ab eo ipsius gladio amputavi caput eius et abstuli obprobrium de filiis Israhel  "
+        }
+      ]
+    }
+  ]
+}

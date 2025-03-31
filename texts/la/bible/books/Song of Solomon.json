@@ -1,0 +1,634 @@
+{
+  "name": "Song of Solomon",
+  "order": 24,
+  "chapters": [
+    {
+      "name": "Song of Solomon 1",
+      "chapter": 1,
+      "verses": [
+        {
+          "name": "Song of Solomon 1:1",
+          "verse": 1,
+          "text": "osculetur me osculo oris sui quia meliora sunt ubera tua vino "
+        },
+        {
+          "name": "Song of Solomon 1:2",
+          "verse": 2,
+          "text": "fraglantia unguentis optimis oleum effusum nomen tuum ideo adulescentulae dilexerunt te "
+        },
+        {
+          "name": "Song of Solomon 1:3",
+          "verse": 3,
+          "text": "trahe me post te curremus introduxit me rex in cellaria sua exultabimus et laetabimur in te memores uberum tuorum super vinum recti diligunt te "
+        },
+        {
+          "name": "Song of Solomon 1:4",
+          "verse": 4,
+          "text": "nigra sum sed formonsa filiae Hierusalem sicut tabernacula Cedar sicut pelles Salomonis "
+        },
+        {
+          "name": "Song of Solomon 1:5",
+          "verse": 5,
+          "text": "nolite me considerare quod fusca sim quia decoloravit me sol filii matris meae pugnaverunt contra me posuerunt me custodem in vineis vineam meam non custodivi "
+        },
+        {
+          "name": "Song of Solomon 1:6",
+          "verse": 6,
+          "text": "indica mihi quem diligit anima mea ubi pascas ubi cubes in meridie ne vagari incipiam per greges sodalium tuorum "
+        },
+        {
+          "name": "Song of Solomon 1:7",
+          "verse": 7,
+          "text": "si ignoras te o pulchra inter mulieres egredere et abi post vestigia gregum et pasce hedos tuos iuxta tabernacula pastorum "
+        },
+        {
+          "name": "Song of Solomon 1:8",
+          "verse": 8,
+          "text": "equitatui meo in curribus Pharaonis adsimilavi te amica mea "
+        },
+        {
+          "name": "Song of Solomon 1:9",
+          "verse": 9,
+          "text": "pulchrae sunt genae tuae sicut turturis collum tuum sicut monilia "
+        },
+        {
+          "name": "Song of Solomon 1:10",
+          "verse": 10,
+          "text": "murenulas aureas faciemus tibi vermiculatas argento "
+        },
+        {
+          "name": "Song of Solomon 1:11",
+          "verse": 11,
+          "text": "dum esset rex in accubitu suo nardus mea dedit odorem suum "
+        },
+        {
+          "name": "Song of Solomon 1:12",
+          "verse": 12,
+          "text": "fasciculus murrae dilectus meus mihi inter ubera mea commorabitur "
+        },
+        {
+          "name": "Song of Solomon 1:13",
+          "verse": 13,
+          "text": "botrus cypri dilectus meus mihi in vineis Engaddi "
+        },
+        {
+          "name": "Song of Solomon 1:14",
+          "verse": 14,
+          "text": "ecce tu pulchra es amica mea ecce tu pulchra oculi tui columbarum "
+        },
+        {
+          "name": "Song of Solomon 1:15",
+          "verse": 15,
+          "text": "ecce tu pulcher es dilecte mi et decorus lectulus noster floridus "
+        },
+        {
+          "name": "Song of Solomon 1:16",
+          "verse": 16,
+          "text": "tigna domorum nostrarum cedrina laquearia nostra cypressina "
+        }
+      ]
+    },
+    {
+      "name": "Song of Solomon 2",
+      "chapter": 2,
+      "verses": [
+        {
+          "name": "Song of Solomon 2:1",
+          "verse": 1,
+          "text": "ego flos campi et lilium convallium "
+        },
+        {
+          "name": "Song of Solomon 2:2",
+          "verse": 2,
+          "text": "sicut lilium inter spinas sic amica mea inter filias "
+        },
+        {
+          "name": "Song of Solomon 2:3",
+          "verse": 3,
+          "text": "sicut malum inter ligna silvarum sic dilectus meus inter filios sub umbra illius quam desideraveram sedi et fructus eius dulcis gutturi meo "
+        },
+        {
+          "name": "Song of Solomon 2:4",
+          "verse": 4,
+          "text": "introduxit me in cellam vinariam ordinavit in me caritatem "
+        },
+        {
+          "name": "Song of Solomon 2:5",
+          "verse": 5,
+          "text": "fulcite me floribus stipate me malis quia amore langueo "
+        },
+        {
+          "name": "Song of Solomon 2:6",
+          "verse": 6,
+          "text": "leva eius sub capite meo et dextera illius amplexabitur me "
+        },
+        {
+          "name": "Song of Solomon 2:7",
+          "verse": 7,
+          "text": "adiuro vos filiae Hierusalem per capreas cervosque camporum ne suscitetis neque evigilare faciatis dilectam quoadusque ipsa velit "
+        },
+        {
+          "name": "Song of Solomon 2:8",
+          "verse": 8,
+          "text": "vox dilecti mei ecce iste venit saliens in montibus transiliens colles "
+        },
+        {
+          "name": "Song of Solomon 2:9",
+          "verse": 9,
+          "text": "similis est dilectus meus capreae hinuloque cervorum en ipse stat post parietem nostrum despiciens per fenestras prospiciens per cancellos "
+        },
+        {
+          "name": "Song of Solomon 2:10",
+          "verse": 10,
+          "text": "et dilectus meus loquitur mihi surge propera amica mea formonsa mea et veni "
+        },
+        {
+          "name": "Song of Solomon 2:11",
+          "verse": 11,
+          "text": "iam enim hiemps transiit imber abiit et recessit "
+        },
+        {
+          "name": "Song of Solomon 2:12",
+          "verse": 12,
+          "text": "flores apparuerunt in terra tempus putationis advenit vox turturis audita est in terra nostra "
+        },
+        {
+          "name": "Song of Solomon 2:13",
+          "verse": 13,
+          "text": "ficus protulit grossos suos vineae florent dederunt odorem surge amica mea speciosa mea et veni "
+        },
+        {
+          "name": "Song of Solomon 2:14",
+          "verse": 14,
+          "text": "columba mea in foraminibus petrae in caverna maceriae ostende mihi faciem tuam sonet vox tua in auribus meis vox enim tua dulcis et facies tua decora "
+        },
+        {
+          "name": "Song of Solomon 2:15",
+          "verse": 15,
+          "text": "capite nobis vulpes vulpes parvulas quae demoliuntur vineas nam vinea nostra floruit "
+        },
+        {
+          "name": "Song of Solomon 2:16",
+          "verse": 16,
+          "text": "dilectus meus mihi et ego illi qui pascitur inter lilia "
+        },
+        {
+          "name": "Song of Solomon 2:17",
+          "verse": 17,
+          "text": "donec adspiret dies et inclinentur umbrae revertere similis esto dilecte mi capreae aut hinulo cervorum super montes Bether "
+        }
+      ]
+    },
+    {
+      "name": "Song of Solomon 3",
+      "chapter": 3,
+      "verses": [
+        {
+          "name": "Song of Solomon 3:1",
+          "verse": 1,
+          "text": "in lectulo meo per noctes quaesivi quem diligit anima mea quaesivi illum et non inveni "
+        },
+        {
+          "name": "Song of Solomon 3:2",
+          "verse": 2,
+          "text": "surgam et circuibo civitatem per vicos et plateas quaeram quem diligit anima mea quaesivi illum et non inveni "
+        },
+        {
+          "name": "Song of Solomon 3:3",
+          "verse": 3,
+          "text": "invenerunt me vigiles qui custodiunt civitatem num quem dilexit anima mea vidistis "
+        },
+        {
+          "name": "Song of Solomon 3:4",
+          "verse": 4,
+          "text": "paululum cum pertransissem eos inveni quem diligit anima mea tenui eum nec dimittam donec introducam illum in domum matris meae et in cubiculum genetricis meae "
+        },
+        {
+          "name": "Song of Solomon 3:5",
+          "verse": 5,
+          "text": "adiuro vos filiae Hierusalem per capreas cervosque camporum ne suscitetis neque evigilare faciatis dilectam donec ipsa velit "
+        },
+        {
+          "name": "Song of Solomon 3:6",
+          "verse": 6,
+          "text": "quae est ista quae ascendit per desertum sicut virgula fumi ex aromatibus murrae et turis et universi pulveris pigmentarii "
+        },
+        {
+          "name": "Song of Solomon 3:7",
+          "verse": 7,
+          "text": "en lectulum Salomonis sexaginta fortes ambiunt ex fortissimis Israhel "
+        },
+        {
+          "name": "Song of Solomon 3:8",
+          "verse": 8,
+          "text": "omnes tenentes gladios et ad bella doctissimi uniuscuiusque ensis super femur suum propter timores nocturnos "
+        },
+        {
+          "name": "Song of Solomon 3:9",
+          "verse": 9,
+          "text": "ferculum fecit sibi rex Salomon de lignis Libani "
+        },
+        {
+          "name": "Song of Solomon 3:10",
+          "verse": 10,
+          "text": "columnas eius fecit argenteas reclinatorium aureum ascensum purpureum media caritate constravit propter filias Hierusalem "
+        },
+        {
+          "name": "Song of Solomon 3:11",
+          "verse": 11,
+          "text": "egredimini et videte filiae Sion regem Salomonem in diademate quo coronavit eum mater sua in die disponsionis illius et in die laetitiae cordis eius "
+        }
+      ]
+    },
+    {
+      "name": "Song of Solomon 4",
+      "chapter": 4,
+      "verses": [
+        {
+          "name": "Song of Solomon 4:1",
+          "verse": 1,
+          "text": "quam pulchra es amica mea quam pulchra es oculi tui columbarum absque eo quod intrinsecus latet capilli tui sicut greges caprarum quae ascenderunt de monte Galaad "
+        },
+        {
+          "name": "Song of Solomon 4:2",
+          "verse": 2,
+          "text": "dentes tui sicut greges tonsarum quae ascenderunt de lavacro omnes gemellis fetibus et sterilis non est inter eas "
+        },
+        {
+          "name": "Song of Solomon 4:3",
+          "verse": 3,
+          "text": "sicut vitta coccinea labia tua et eloquium tuum dulce sicut fragmen mali punici ita genae tuae absque eo quod intrinsecus latet "
+        },
+        {
+          "name": "Song of Solomon 4:4",
+          "verse": 4,
+          "text": "sicut turris David collum tuum quae aedificata est cum propugnaculis mille clypei pendent ex ea omnis armatura fortium "
+        },
+        {
+          "name": "Song of Solomon 4:5",
+          "verse": 5,
+          "text": "duo ubera tua sicut duo hinuli capreae gemelli qui pascuntur in liliis "
+        },
+        {
+          "name": "Song of Solomon 4:6",
+          "verse": 6,
+          "text": "donec adspiret dies et inclinentur umbrae vadam ad montem murrae et ad collem turis "
+        },
+        {
+          "name": "Song of Solomon 4:7",
+          "verse": 7,
+          "text": "tota pulchra es amica mea et macula non est in te "
+        },
+        {
+          "name": "Song of Solomon 4:8",
+          "verse": 8,
+          "text": "veni de Libano sponsa veni de Libano veni coronaberis de capite Amana de vertice Sanir et Hermon de cubilibus leonum de montibus pardorum "
+        },
+        {
+          "name": "Song of Solomon 4:9",
+          "verse": 9,
+          "text": "vulnerasti cor meum soror mea sponsa vulnerasti cor meum in uno oculorum tuorum et in uno crine colli tui "
+        },
+        {
+          "name": "Song of Solomon 4:10",
+          "verse": 10,
+          "text": "quam pulchrae sunt mammae tuae soror mea sponsa pulchriora ubera tua vino et odor unguentorum tuorum super omnia aromata "
+        },
+        {
+          "name": "Song of Solomon 4:11",
+          "verse": 11,
+          "text": "favus distillans labia tua sponsa mel et lac sub lingua tua et odor vestimentorum tuorum sicut odor turis "
+        },
+        {
+          "name": "Song of Solomon 4:12",
+          "verse": 12,
+          "text": "hortus conclusus soror mea sponsa hortus conclusus fons signatus "
+        },
+        {
+          "name": "Song of Solomon 4:13",
+          "verse": 13,
+          "text": "emissiones tuae paradisus malorum punicorum cum pomorum fructibus cypri cum nardo "
+        },
+        {
+          "name": "Song of Solomon 4:14",
+          "verse": 14,
+          "text": "nardus et crocus fistula et cinnamomum cum universis lignis Libani murra et aloe cum omnibus primis unguentis "
+        },
+        {
+          "name": "Song of Solomon 4:15",
+          "verse": 15,
+          "text": "fons hortorum puteus aquarum viventium quae fluunt impetu de Libano "
+        },
+        {
+          "name": "Song of Solomon 4:16",
+          "verse": 16,
+          "text": "surge aquilo et veni auster perfla hortum meum et fluant aromata illius "
+        }
+      ]
+    },
+    {
+      "name": "Song of Solomon 5",
+      "chapter": 5,
+      "verses": [
+        {
+          "name": "Song of Solomon 5:1",
+          "verse": 1,
+          "text": "veniat dilectus meus in hortum suum et comedat fructum pomorum suorum veni in hortum meum soror mea sponsa messui murram meam cum aromatibus meis comedi favum cum melle meo bibi vinum meum cum lacte meo comedite amici bibite et inebriamini carissimi "
+        },
+        {
+          "name": "Song of Solomon 5:2",
+          "verse": 2,
+          "text": "ego dormio et cor meum vigilat vox dilecti mei pulsantis aperi mihi soror mea amica mea columba mea inmaculata mea quia caput meum plenum est rore et cincinni mei guttis noctium "
+        },
+        {
+          "name": "Song of Solomon 5:3",
+          "verse": 3,
+          "text": "expoliavi me tunica mea quomodo induar illa lavi pedes meos quomodo inquinabo illos "
+        },
+        {
+          "name": "Song of Solomon 5:4",
+          "verse": 4,
+          "text": "dilectus meus misit manum suam per foramen et venter meus intremuit ad tactum eius "
+        },
+        {
+          "name": "Song of Solomon 5:5",
+          "verse": 5,
+          "text": "surrexi ut aperirem dilecto meo manus meae stillaverunt murra digiti mei pleni murra probatissima "
+        },
+        {
+          "name": "Song of Solomon 5:6",
+          "verse": 6,
+          "text": "pessulum ostii aperui dilecto meo at ille declinaverat atque transierat anima mea liquefacta est ut locutus est quaesivi et non inveni illum vocavi et non respondit mihi "
+        },
+        {
+          "name": "Song of Solomon 5:7",
+          "verse": 7,
+          "text": "invenerunt me custodes qui circumeunt civitatem percusserunt me vulneraverunt me tulerunt pallium meum mihi custodes murorum "
+        },
+        {
+          "name": "Song of Solomon 5:8",
+          "verse": 8,
+          "text": "adiuro vos filiae Hierusalem si inveneritis dilectum meum ut nuntietis ei quia amore langueo "
+        },
+        {
+          "name": "Song of Solomon 5:9",
+          "verse": 9,
+          "text": "qualis est dilectus tuus ex dilecto o pulcherrima mulierum qualis est dilectus tuus ex dilecto quia sic adiurasti nos "
+        },
+        {
+          "name": "Song of Solomon 5:10",
+          "verse": 10,
+          "text": "dilectus meus candidus et rubicundus electus ex milibus "
+        },
+        {
+          "name": "Song of Solomon 5:11",
+          "verse": 11,
+          "text": "caput eius aurum optimum comae eius sicut elatae palmarum nigrae quasi corvus "
+        },
+        {
+          "name": "Song of Solomon 5:12",
+          "verse": 12,
+          "text": "oculi eius sicut columbae super rivulos aquarum quae lacte sunt lotae et resident iuxta fluenta plenissima "
+        },
+        {
+          "name": "Song of Solomon 5:13",
+          "verse": 13,
+          "text": "genae illius sicut areolae aromatum consitae a pigmentariis labia eius lilia distillantia murram primam "
+        },
+        {
+          "name": "Song of Solomon 5:14",
+          "verse": 14,
+          "text": "manus illius tornatiles aureae plenae hyacinthis venter eius eburneus distinctus sapphyris "
+        },
+        {
+          "name": "Song of Solomon 5:15",
+          "verse": 15,
+          "text": "crura illius columnae marmoreae quae fundatae sunt super bases aureas species eius ut Libani electus ut cedri "
+        },
+        {
+          "name": "Song of Solomon 5:16",
+          "verse": 16,
+          "text": "guttur illius suavissimum et totus desiderabilis talis est dilectus meus et iste est amicus meus filiae Hierusalem "
+        },
+        {
+          "name": "Song of Solomon 5:17",
+          "verse": 17,
+          "text": "quo abiit dilectus tuus o pulcherrima mulierum quo declinavit dilectus tuus et quaeremus eum tecum "
+        }
+      ]
+    },
+    {
+      "name": "Song of Solomon 6",
+      "chapter": 6,
+      "verses": [
+        {
+          "name": "Song of Solomon 6:1",
+          "verse": 1,
+          "text": "dilectus meus descendit in hortum suum ad areolam aromatis ut pascatur in hortis et lilia colligat "
+        },
+        {
+          "name": "Song of Solomon 6:2",
+          "verse": 2,
+          "text": "ego dilecto meo et dilectus meus mihi qui pascitur inter lilia "
+        },
+        {
+          "name": "Song of Solomon 6:3",
+          "verse": 3,
+          "text": "pulchra es amica mea suavis et decora sicut Hierusalem terribilis ut castrorum acies ordinata "
+        },
+        {
+          "name": "Song of Solomon 6:4",
+          "verse": 4,
+          "text": "averte oculos tuos a me quia ipsi me avolare fecerunt capilli tui sicut grex caprarum quae apparuerunt de Galaad "
+        },
+        {
+          "name": "Song of Solomon 6:5",
+          "verse": 5,
+          "text": "dentes tui sicut grex ovium quae ascenderunt de lavacro omnes gemellis fetibus et sterilis non est in eis "
+        },
+        {
+          "name": "Song of Solomon 6:6",
+          "verse": 6,
+          "text": "sicut cortex mali punici genae tuae absque occultis tuis "
+        },
+        {
+          "name": "Song of Solomon 6:7",
+          "verse": 7,
+          "text": "sexaginta sunt reginae et octoginta concubinae et adulescentularum non est numerus "
+        },
+        {
+          "name": "Song of Solomon 6:8",
+          "verse": 8,
+          "text": "una est columba mea perfecta mea una est matris suae electa genetrici suae viderunt illam filiae et beatissimam praedicaverunt reginae et concubinae et laudaverunt eam "
+        },
+        {
+          "name": "Song of Solomon 6:9",
+          "verse": 9,
+          "text": "quae est ista quae progreditur quasi aurora consurgens pulchra ut luna electa ut sol terribilis ut acies ordinata "
+        },
+        {
+          "name": "Song of Solomon 6:10",
+          "verse": 10,
+          "text": "descendi ad hortum nucum ut viderem poma convallis ut inspicerem si floruisset vinea et germinassent mala punica "
+        },
+        {
+          "name": "Song of Solomon 6:11",
+          "verse": 11,
+          "text": "nescivi anima mea conturbavit me propter quadrigas Aminadab "
+        },
+        {
+          "name": "Song of Solomon 6:12",
+          "verse": 12,
+          "text": "revertere revertere Sulamitis revertere revertere ut intueamur te "
+        }
+      ]
+    },
+    {
+      "name": "Song of Solomon 7",
+      "chapter": 7,
+      "verses": [
+        {
+          "name": "Song of Solomon 7:1",
+          "verse": 1,
+          "text": "quid videbis in Sulamiten nisi choros castrorum quam pulchri sunt gressus tui in calciamentis filia principis iunctura feminum tuorum sicut monilia quae fabricata sunt manu artificis "
+        },
+        {
+          "name": "Song of Solomon 7:2",
+          "verse": 2,
+          "text": "umbilicus tuus crater tornatilis numquam indigens poculis venter tuus sicut acervus tritici vallatus liliis "
+        },
+        {
+          "name": "Song of Solomon 7:3",
+          "verse": 3,
+          "text": "duo ubera tua sicut duo hinuli gemelli capreae "
+        },
+        {
+          "name": "Song of Solomon 7:4",
+          "verse": 4,
+          "text": "collum tuum sicut turris eburnea oculi tui sicut piscinae in Esebon quae sunt in porta filiae multitudinis nasus tuus sicut turris Libani quae respicit contra Damascum "
+        },
+        {
+          "name": "Song of Solomon 7:5",
+          "verse": 5,
+          "text": "caput tuum ut Carmelus et comae capitis tui sicut purpura regis vincta canalibus "
+        },
+        {
+          "name": "Song of Solomon 7:6",
+          "verse": 6,
+          "text": "quam pulchra es et quam decora carissima in deliciis "
+        },
+        {
+          "name": "Song of Solomon 7:7",
+          "verse": 7,
+          "text": "statura tua adsimilata est palmae et ubera tua botris "
+        },
+        {
+          "name": "Song of Solomon 7:8",
+          "verse": 8,
+          "text": "dixi ascendam in palmam adprehendam fructus eius et erunt ubera tua sicut botri vineae et odor oris tui sicut malorum "
+        },
+        {
+          "name": "Song of Solomon 7:9",
+          "verse": 9,
+          "text": "guttur tuum sicut vinum optimum dignum dilecto meo ad potandum labiisque et dentibus illius ruminandum "
+        },
+        {
+          "name": "Song of Solomon 7:10",
+          "verse": 10,
+          "text": "ego dilecto meo et ad me conversio eius "
+        },
+        {
+          "name": "Song of Solomon 7:11",
+          "verse": 11,
+          "text": "veni dilecte mi egrediamur in agrum commoremur in villis "
+        },
+        {
+          "name": "Song of Solomon 7:12",
+          "verse": 12,
+          "text": "mane surgamus ad vineas videamus si floruit vinea si flores fructus parturiunt si floruerunt mala punica ibi dabo tibi ubera mea "
+        },
+        {
+          "name": "Song of Solomon 7:13",
+          "verse": 13,
+          "text": "mandragorae dederunt odorem in portis nostris omnia poma nova et vetera dilecte mi servavi tibi "
+        }
+      ]
+    },
+    {
+      "name": "Song of Solomon 8",
+      "chapter": 8,
+      "verses": [
+        {
+          "name": "Song of Solomon 8:1",
+          "verse": 1,
+          "text": "quis mihi det te fratrem meum sugentem ubera matris meae ut inveniam te foris et deosculer et iam me nemo despiciat "
+        },
+        {
+          "name": "Song of Solomon 8:2",
+          "verse": 2,
+          "text": "adprehendam te et ducam in domum matris meae ibi me docebis et dabo tibi poculum ex vino condito et mustum malorum granatorum meorum "
+        },
+        {
+          "name": "Song of Solomon 8:3",
+          "verse": 3,
+          "text": "leva eius sub capite meo et dextera illius amplexabitur me "
+        },
+        {
+          "name": "Song of Solomon 8:4",
+          "verse": 4,
+          "text": "adiuro vos filiae Hierusalem ne suscitetis et evigilare faciatis dilectam donec ipsa velit "
+        },
+        {
+          "name": "Song of Solomon 8:5",
+          "verse": 5,
+          "text": "quae est ista quae ascendit de deserto deliciis affluens et nixa super dilectum suum sub arbore malo suscitavi te ibi corrupta est mater tua ibi violata est genetrix tua "
+        },
+        {
+          "name": "Song of Solomon 8:6",
+          "verse": 6,
+          "text": "pone me ut signaculum super cor tuum ut signaculum super brachium tuum quia fortis est ut mors dilectio dura sicut inferus aemulatio lampades eius lampades ignis atque flammarum "
+        },
+        {
+          "name": "Song of Solomon 8:7",
+          "verse": 7,
+          "text": "aquae multae non poterunt extinguere caritatem nec flumina obruent illam si dederit homo omnem substantiam domus suae pro dilectione quasi nihil despicient eum "
+        },
+        {
+          "name": "Song of Solomon 8:8",
+          "verse": 8,
+          "text": "soror nostra parva et ubera non habet quid faciemus sorori nostrae in die quando adloquenda est "
+        },
+        {
+          "name": "Song of Solomon 8:9",
+          "verse": 9,
+          "text": "si murus est aedificemus super eum propugnacula argentea si ostium est conpingamus illud tabulis cedrinis "
+        },
+        {
+          "name": "Song of Solomon 8:10",
+          "verse": 10,
+          "text": "ego murus et ubera mea sicut turris ex quo facta sum coram eo quasi pacem repperiens "
+        },
+        {
+          "name": "Song of Solomon 8:11",
+          "verse": 11,
+          "text": "vinea fuit Pacifico in ea quae habet populos tradidit eam custodibus vir adfert pro fructu eius mille argenteos "
+        },
+        {
+          "name": "Song of Solomon 8:12",
+          "verse": 12,
+          "text": "vinea mea coram me est mille tui Pacifice et ducenti his qui custodiunt fructus eius "
+        },
+        {
+          "name": "Song of Solomon 8:13",
+          "verse": 13,
+          "text": "quae habitas in hortis amici auscultant fac me audire vocem tuam "
+        },
+        {
+          "name": "Song of Solomon 8:14",
+          "verse": 14,
+          "text": "fuge dilecte mi et adsimilare capreae hinuloque cervorum super montes aromatum  "
+        }
+      ]
+    }
+  ]
+}

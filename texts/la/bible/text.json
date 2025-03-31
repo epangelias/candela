@@ -1,0 +1,403 @@
+{
+  "textId": "bible-Vulgate",
+  "version": "Vulgate",
+  "versionName": "Vulgate",
+  "tags": [
+    "bible"
+  ],
+  "description": "Jeromeߴs A.D. 405 Biblia Sacra Vulgata Latina (Latin Vulgate)",
+  "language": "la",
+  "rightToLeft": false,
+  "books": [
+    {
+      "name": "Genesis",
+      "order": 1,
+      "chapters": 50
+    },
+    {
+      "name": "Exodus",
+      "order": 2,
+      "chapters": 40
+    },
+    {
+      "name": "Leviticus",
+      "order": 3,
+      "chapters": 27
+    },
+    {
+      "name": "Numbers",
+      "order": 4,
+      "chapters": 36
+    },
+    {
+      "name": "Deuteronomy",
+      "order": 5,
+      "chapters": 34
+    },
+    {
+      "name": "Joshua",
+      "order": 6,
+      "chapters": 24
+    },
+    {
+      "name": "Judges",
+      "order": 7,
+      "chapters": 21
+    },
+    {
+      "name": "Ruth",
+      "order": 8,
+      "chapters": 4
+    },
+    {
+      "name": "I Samuel",
+      "order": 9,
+      "chapters": 31
+    },
+    {
+      "name": "II Samuel",
+      "order": 10,
+      "chapters": 24
+    },
+    {
+      "name": "I Kings",
+      "order": 11,
+      "chapters": 22
+    },
+    {
+      "name": "II Kings",
+      "order": 12,
+      "chapters": 25
+    },
+    {
+      "name": "I Chronicles",
+      "order": 13,
+      "chapters": 29
+    },
+    {
+      "name": "II Chronicles",
+      "order": 14,
+      "chapters": 36
+    },
+    {
+      "name": "Ezra",
+      "order": 15,
+      "chapters": 10
+    },
+    {
+      "name": "Nehemiah",
+      "order": 16,
+      "chapters": 13
+    },
+    {
+      "name": "Tobit",
+      "order": 17,
+      "chapters": 14
+    },
+    {
+      "name": "Judith",
+      "order": 18,
+      "chapters": 16
+    },
+    {
+      "name": "Esther",
+      "order": 19,
+      "chapters": 16
+    },
+    {
+      "name": "Job",
+      "order": 20,
+      "chapters": 42
+    },
+    {
+      "name": "Psalms",
+      "order": 21,
+      "chapters": 150
+    },
+    {
+      "name": "Proverbs",
+      "order": 22,
+      "chapters": 31
+    },
+    {
+      "name": "Ecclesiastes",
+      "order": 23,
+      "chapters": 12
+    },
+    {
+      "name": "Song of Solomon",
+      "order": 24,
+      "chapters": 8
+    },
+    {
+      "name": "Wisdom",
+      "order": 25,
+      "chapters": 19
+    },
+    {
+      "name": "Sirach",
+      "order": 26,
+      "chapters": 51
+    },
+    {
+      "name": "Isaiah",
+      "order": 27,
+      "chapters": 66
+    },
+    {
+      "name": "Jeremiah",
+      "order": 28,
+      "chapters": 52
+    },
+    {
+      "name": "Lamentations",
+      "order": 29,
+      "chapters": 5
+    },
+    {
+      "name": "Baruch",
+      "order": 30,
+      "chapters": 6
+    },
+    {
+      "name": "Ezekiel",
+      "order": 31,
+      "chapters": 48
+    },
+    {
+      "name": "Daniel",
+      "order": 32,
+      "chapters": 14
+    },
+    {
+      "name": "Hosea",
+      "order": 33,
+      "chapters": 14
+    },
+    {
+      "name": "Joel",
+      "order": 34,
+      "chapters": 3
+    },
+    {
+      "name": "Amos",
+      "order": 35,
+      "chapters": 9
+    },
+    {
+      "name": "Obadiah",
+      "order": 36,
+      "chapters": 1
+    },
+    {
+      "name": "Jonah",
+      "order": 37,
+      "chapters": 4
+    },
+    {
+      "name": "Micah",
+      "order": 38,
+      "chapters": 7
+    },
+    {
+      "name": "Nahum",
+      "order": 39,
+      "chapters": 3
+    },
+    {
+      "name": "Habakkuk",
+      "order": 40,
+      "chapters": 3
+    },
+    {
+      "name": "Zephaniah",
+      "order": 41,
+      "chapters": 3
+    },
+    {
+      "name": "Haggai",
+      "order": 42,
+      "chapters": 2
+    },
+    {
+      "name": "Zechariah",
+      "order": 43,
+      "chapters": 14
+    },
+    {
+      "name": "Malachi",
+      "order": 44,
+      "chapters": 4
+    },
+    {
+      "name": "I Maccabees",
+      "order": 45,
+      "chapters": 16
+    },
+    {
+      "name": "II Maccabees",
+      "order": 46,
+      "chapters": 15
+    },
+    {
+      "name": "Matthew",
+      "order": 47,
+      "chapters": 28
+    },
+    {
+      "name": "Mark",
+      "order": 48,
+      "chapters": 16
+    },
+    {
+      "name": "Luke",
+      "order": 49,
+      "chapters": 24
+    },
+    {
+      "name": "John",
+      "order": 50,
+      "chapters": 21
+    },
+    {
+      "name": "Acts",
+      "order": 51,
+      "chapters": 28
+    },
+    {
+      "name": "Romans",
+      "order": 52,
+      "chapters": 16
+    },
+    {
+      "name": "I Corinthians",
+      "order": 53,
+      "chapters": 16
+    },
+    {
+      "name": "II Corinthians",
+      "order": 54,
+      "chapters": 13
+    },
+    {
+      "name": "Galatians",
+      "order": 55,
+      "chapters": 6
+    },
+    {
+      "name": "Ephesians",
+      "order": 56,
+      "chapters": 6
+    },
+    {
+      "name": "Philippians",
+      "order": 57,
+      "chapters": 4
+    },
+    {
+      "name": "Colossians",
+      "order": 58,
+      "chapters": 4
+    },
+    {
+      "name": "I Thessalonians",
+      "order": 59,
+      "chapters": 5
+    },
+    {
+      "name": "II Thessalonians",
+      "order": 60,
+      "chapters": 3
+    },
+    {
+      "name": "I Timothy",
+      "order": 61,
+      "chapters": 6
+    },
+    {
+      "name": "II Timothy",
+      "order": 62,
+      "chapters": 4
+    },
+    {
+      "name": "Titus",
+      "order": 63,
+      "chapters": 3
+    },
+    {
+      "name": "Philemon",
+      "order": 64,
+      "chapters": 1
+    },
+    {
+      "name": "Hebrews",
+      "order": 65,
+      "chapters": 13
+    },
+    {
+      "name": "James",
+      "order": 66,
+      "chapters": 5
+    },
+    {
+      "name": "I Peter",
+      "order": 67,
+      "chapters": 5
+    },
+    {
+      "name": "II Peter",
+      "order": 68,
+      "chapters": 3
+    },
+    {
+      "name": "I John",
+      "order": 69,
+      "chapters": 5
+    },
+    {
+      "name": "II John",
+      "order": 70,
+      "chapters": 1
+    },
+    {
+      "name": "III John",
+      "order": 71,
+      "chapters": 1
+    },
+    {
+      "name": "Jude",
+      "order": 72,
+      "chapters": 1
+    },
+    {
+      "name": "Revelation of John",
+      "order": 73,
+      "chapters": 22
+    },
+    {
+      "name": "Prayer of Manasses",
+      "order": 74,
+      "chapters": 1
+    },
+    {
+      "name": "I Esdras",
+      "order": 75,
+      "chapters": 9
+    },
+    {
+      "name": "II Esdras",
+      "order": 76,
+      "chapters": 16
+    },
+    {
+      "name": "Additional Psalm",
+      "order": 77,
+      "chapters": 1
+    },
+    {
+      "name": "Laodiceans",
+      "order": 78,
+      "chapters": 1
+    }
+  ]
+}

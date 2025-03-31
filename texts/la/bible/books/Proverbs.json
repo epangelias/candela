@@ -1,0 +1,4767 @@
+{
+  "name": "Proverbs",
+  "order": 22,
+  "chapters": [
+    {
+      "name": "Proverbs 1",
+      "chapter": 1,
+      "verses": [
+        {
+          "name": "Proverbs 1:1",
+          "verse": 1,
+          "text": "parabolae Salomonis filii David regis Israhel "
+        },
+        {
+          "name": "Proverbs 1:2",
+          "verse": 2,
+          "text": "ad sciendam sapientiam et disciplinam "
+        },
+        {
+          "name": "Proverbs 1:3",
+          "verse": 3,
+          "text": "ad intellegenda verba prudentiae et suscipiendam eruditionem doctrinae iustitiam et iudicium et aequitatem "
+        },
+        {
+          "name": "Proverbs 1:4",
+          "verse": 4,
+          "text": "ut detur parvulis astutia adulescenti scientia et intellectus "
+        },
+        {
+          "name": "Proverbs 1:5",
+          "verse": 5,
+          "text": "audiens sapiens sapientior erit et intellegens gubernacula possidebit "
+        },
+        {
+          "name": "Proverbs 1:6",
+          "verse": 6,
+          "text": "animadvertet parabolam et interpretationem verba sapientium et enigmata eorum "
+        },
+        {
+          "name": "Proverbs 1:7",
+          "verse": 7,
+          "text": "timor Domini principium scientiae sapientiam atque doctrinam stulti despiciunt "
+        },
+        {
+          "name": "Proverbs 1:8",
+          "verse": 8,
+          "text": "audi fili mi disciplinam patris tui et ne dimittas legem matris tuae "
+        },
+        {
+          "name": "Proverbs 1:9",
+          "verse": 9,
+          "text": "ut addatur gratia capiti tuo et torques collo tuo "
+        },
+        {
+          "name": "Proverbs 1:10",
+          "verse": 10,
+          "text": "fili mi si te lactaverint peccatores ne adquiescas "
+        },
+        {
+          "name": "Proverbs 1:11",
+          "verse": 11,
+          "text": "si dixerint veni nobiscum insidiemur sanguini abscondamus tendiculas contra insontem frustra "
+        },
+        {
+          "name": "Proverbs 1:12",
+          "verse": 12,
+          "text": "degluttiamus eum sicut infernus viventem et integrum quasi descendentem in lacum "
+        },
+        {
+          "name": "Proverbs 1:13",
+          "verse": 13,
+          "text": "omnem pretiosam substantiam repperiemus implebimus domos nostras spoliis "
+        },
+        {
+          "name": "Proverbs 1:14",
+          "verse": 14,
+          "text": "sortem mitte nobiscum marsuppium unum sit omnium nostrum "
+        },
+        {
+          "name": "Proverbs 1:15",
+          "verse": 15,
+          "text": "fili mi ne ambules cum eis prohibe pedem tuum a semitis eorum "
+        },
+        {
+          "name": "Proverbs 1:16",
+          "verse": 16,
+          "text": "pedes enim illorum ad malum currunt et festinant ut effundant sanguinem "
+        },
+        {
+          "name": "Proverbs 1:17",
+          "verse": 17,
+          "text": "frustra autem iacitur rete ante oculos pinnatorum "
+        },
+        {
+          "name": "Proverbs 1:18",
+          "verse": 18,
+          "text": "ipsique contra sanguinem suum insidiantur et moliuntur fraudes contra animas suas "
+        },
+        {
+          "name": "Proverbs 1:19",
+          "verse": 19,
+          "text": "sic semitae omnis avari animas possidentium rapiunt "
+        },
+        {
+          "name": "Proverbs 1:20",
+          "verse": 20,
+          "text": "sapientia foris praedicat in plateis dat vocem suam "
+        },
+        {
+          "name": "Proverbs 1:21",
+          "verse": 21,
+          "text": "in capite turbarum clamitat in foribus portarum urbis profert verba sua dicens "
+        },
+        {
+          "name": "Proverbs 1:22",
+          "verse": 22,
+          "text": "usquequo parvuli diligitis infantiam et stulti ea quae sibi sunt noxia cupiunt et inprudentes odibunt scientiam "
+        },
+        {
+          "name": "Proverbs 1:23",
+          "verse": 23,
+          "text": "convertimini ad correptionem meam en proferam vobis spiritum meum et ostendam verba mea "
+        },
+        {
+          "name": "Proverbs 1:24",
+          "verse": 24,
+          "text": "quia vocavi et rennuistis extendi manum meam et non fuit qui aspiceret "
+        },
+        {
+          "name": "Proverbs 1:25",
+          "verse": 25,
+          "text": "despexistis omne consilium meum et increpationes meas neglexistis "
+        },
+        {
+          "name": "Proverbs 1:26",
+          "verse": 26,
+          "text": "ego quoque in interitu vestro ridebo et subsannabo cum vobis quod timebatis advenerit "
+        },
+        {
+          "name": "Proverbs 1:27",
+          "verse": 27,
+          "text": "cum inruerit repentina calamitas et interitus quasi tempestas ingruerit quando venerit super vos tribulatio et angustia "
+        },
+        {
+          "name": "Proverbs 1:28",
+          "verse": 28,
+          "text": "tunc invocabunt me et non exaudiam mane consurgent et non invenient me "
+        },
+        {
+          "name": "Proverbs 1:29",
+          "verse": 29,
+          "text": "eo quod exosam habuerint disciplinam et timorem Domini non susceperint "
+        },
+        {
+          "name": "Proverbs 1:30",
+          "verse": 30,
+          "text": "nec adquieverint consilio meo et detraxerint universae correptioni meae "
+        },
+        {
+          "name": "Proverbs 1:31",
+          "verse": 31,
+          "text": "comedent igitur fructus viae suae suisque consiliis saturabuntur "
+        },
+        {
+          "name": "Proverbs 1:32",
+          "verse": 32,
+          "text": "aversio parvulorum interficiet eos et prosperitas stultorum perdet illos "
+        },
+        {
+          "name": "Proverbs 1:33",
+          "verse": 33,
+          "text": "qui autem me audierit absque terrore requiescet et abundantia perfruetur malorum timore sublato "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 2",
+      "chapter": 2,
+      "verses": [
+        {
+          "name": "Proverbs 2:1",
+          "verse": 1,
+          "text": "fili mi si susceperis sermones meos et mandata mea absconderis penes te "
+        },
+        {
+          "name": "Proverbs 2:2",
+          "verse": 2,
+          "text": "ut audiat sapientiam auris tua inclina cor tuum ad noscendam prudentiam "
+        },
+        {
+          "name": "Proverbs 2:3",
+          "verse": 3,
+          "text": "si enim sapientiam invocaveris et inclinaveris cor tuum prudentiae "
+        },
+        {
+          "name": "Proverbs 2:4",
+          "verse": 4,
+          "text": "si quaesieris eam quasi pecuniam et sicut thesauros effoderis illam "
+        },
+        {
+          "name": "Proverbs 2:5",
+          "verse": 5,
+          "text": "tunc intelleges timorem Domini et scientiam Dei invenies "
+        },
+        {
+          "name": "Proverbs 2:6",
+          "verse": 6,
+          "text": "quia Dominus dat sapientiam et ex ore eius scientia et prudentia "
+        },
+        {
+          "name": "Proverbs 2:7",
+          "verse": 7,
+          "text": "custodiet rectorum salutem et proteget gradientes simpliciter "
+        },
+        {
+          "name": "Proverbs 2:8",
+          "verse": 8,
+          "text": "servans semitas iustitiae et vias sanctorum custodiens "
+        },
+        {
+          "name": "Proverbs 2:9",
+          "verse": 9,
+          "text": "tunc intelleges iustitiam et iudicium et aequitatem et omnem semitam bonam "
+        },
+        {
+          "name": "Proverbs 2:10",
+          "verse": 10,
+          "text": "si intraverit sapientia cor tuum et scientia animae tuae placuerit "
+        },
+        {
+          "name": "Proverbs 2:11",
+          "verse": 11,
+          "text": "consilium custodiet te prudentia servabit te "
+        },
+        {
+          "name": "Proverbs 2:12",
+          "verse": 12,
+          "text": "ut eruaris de via mala ab homine qui perversa loquitur "
+        },
+        {
+          "name": "Proverbs 2:13",
+          "verse": 13,
+          "text": "qui relinquunt iter rectum et ambulant per vias tenebrosas "
+        },
+        {
+          "name": "Proverbs 2:14",
+          "verse": 14,
+          "text": "qui laetantur cum malefecerint et exultant in rebus pessimis "
+        },
+        {
+          "name": "Proverbs 2:15",
+          "verse": 15,
+          "text": "quorum viae perversae et infames gressus eorum "
+        },
+        {
+          "name": "Proverbs 2:16",
+          "verse": 16,
+          "text": "ut eruaris a muliere aliena et ab extranea quae mollit sermones suos "
+        },
+        {
+          "name": "Proverbs 2:17",
+          "verse": 17,
+          "text": "et relinquit ducem pubertatis suae "
+        },
+        {
+          "name": "Proverbs 2:18",
+          "verse": 18,
+          "text": "et pacti Dei sui oblita est inclinata est enim ad mortem domus eius et ad impios semitae ipsius "
+        },
+        {
+          "name": "Proverbs 2:19",
+          "verse": 19,
+          "text": "omnes qui ingrediuntur ad eam non revertentur nec adprehendent semitas vitae "
+        },
+        {
+          "name": "Proverbs 2:20",
+          "verse": 20,
+          "text": "ut ambules in via bona et calles iustorum custodias "
+        },
+        {
+          "name": "Proverbs 2:21",
+          "verse": 21,
+          "text": "qui enim recti sunt habitabunt in terra et simplices permanebunt in ea "
+        },
+        {
+          "name": "Proverbs 2:22",
+          "verse": 22,
+          "text": "impii vero de terra perdentur et qui inique agunt auferentur ex ea "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 3",
+      "chapter": 3,
+      "verses": [
+        {
+          "name": "Proverbs 3:1",
+          "verse": 1,
+          "text": "fili mi ne obliviscaris legis meae et praecepta mea custodiat cor tuum "
+        },
+        {
+          "name": "Proverbs 3:2",
+          "verse": 2,
+          "text": "longitudinem enim dierum et annos vitae et pacem adponent tibi "
+        },
+        {
+          "name": "Proverbs 3:3",
+          "verse": 3,
+          "text": "misericordia et veritas non te deserant circumda eas gutturi tuo et describe in tabulis cordis tui "
+        },
+        {
+          "name": "Proverbs 3:4",
+          "verse": 4,
+          "text": "et invenies gratiam et disciplinam bonam coram Deo et hominibus "
+        },
+        {
+          "name": "Proverbs 3:5",
+          "verse": 5,
+          "text": "habe fiduciam in Domino ex toto corde tuo et ne innitaris prudentiae tuae "
+        },
+        {
+          "name": "Proverbs 3:6",
+          "verse": 6,
+          "text": "in omnibus viis tuis cogita illum et ipse diriget gressus tuos "
+        },
+        {
+          "name": "Proverbs 3:7",
+          "verse": 7,
+          "text": "ne sis sapiens apud temet ipsum time Dominum et recede a malo "
+        },
+        {
+          "name": "Proverbs 3:8",
+          "verse": 8,
+          "text": "sanitas quippe erit umbilico tuo et inrigatio ossuum tuorum "
+        },
+        {
+          "name": "Proverbs 3:9",
+          "verse": 9,
+          "text": "honora Dominum de tua substantia et de primitiis omnium frugum tuarum "
+        },
+        {
+          "name": "Proverbs 3:10",
+          "verse": 10,
+          "text": "et implebuntur horrea tua saturitate et vino torcularia redundabunt "
+        },
+        {
+          "name": "Proverbs 3:11",
+          "verse": 11,
+          "text": "disciplinam Domini fili mi ne abicias nec deficias cum ab eo corriperis "
+        },
+        {
+          "name": "Proverbs 3:12",
+          "verse": 12,
+          "text": "quem enim diligit Dominus corripit et quasi pater in filio conplacet sibi "
+        },
+        {
+          "name": "Proverbs 3:13",
+          "verse": 13,
+          "text": "beatus homo qui invenit sapientiam et qui affluit prudentia "
+        },
+        {
+          "name": "Proverbs 3:14",
+          "verse": 14,
+          "text": "melior est adquisitio eius negotiatione argenti et auro primo fructus eius "
+        },
+        {
+          "name": "Proverbs 3:15",
+          "verse": 15,
+          "text": "pretiosior est cunctis opibus et omnia quae desiderantur huic non valent conparari "
+        },
+        {
+          "name": "Proverbs 3:16",
+          "verse": 16,
+          "text": "longitudo dierum in dextera eius in sinistra illius divitiae et gloria "
+        },
+        {
+          "name": "Proverbs 3:17",
+          "verse": 17,
+          "text": "viae eius viae pulchrae et omnes semitae illius pacificae "
+        },
+        {
+          "name": "Proverbs 3:18",
+          "verse": 18,
+          "text": "lignum vitae est his qui adprehenderint eam et qui tenuerit eam beatus "
+        },
+        {
+          "name": "Proverbs 3:19",
+          "verse": 19,
+          "text": "Dominus sapientia fundavit terram stabilivit caelos prudentia "
+        },
+        {
+          "name": "Proverbs 3:20",
+          "verse": 20,
+          "text": "sapientia illius eruperunt abyssi et nubes rore concrescunt "
+        },
+        {
+          "name": "Proverbs 3:21",
+          "verse": 21,
+          "text": "fili mi ne effluant haec ab oculis tuis custodi legem atque consilium "
+        },
+        {
+          "name": "Proverbs 3:22",
+          "verse": 22,
+          "text": "et erit vita animae tuae et gratia faucibus tuis "
+        },
+        {
+          "name": "Proverbs 3:23",
+          "verse": 23,
+          "text": "tunc ambulabis fiducialiter in via tua et pes tuus non inpinget "
+        },
+        {
+          "name": "Proverbs 3:24",
+          "verse": 24,
+          "text": "si dormieris non timebis quiesces et suavis erit somnus tuus "
+        },
+        {
+          "name": "Proverbs 3:25",
+          "verse": 25,
+          "text": "ne paveas repentino terrore et inruentes tibi potentias impiorum "
+        },
+        {
+          "name": "Proverbs 3:26",
+          "verse": 26,
+          "text": "Dominus enim erit in latere tuo et custodiet pedem tuum ne capiaris "
+        },
+        {
+          "name": "Proverbs 3:27",
+          "verse": 27,
+          "text": "noli prohibere benefacere eum qui potest si vales et ipse benefac "
+        },
+        {
+          "name": "Proverbs 3:28",
+          "verse": 28,
+          "text": "ne dicas amico tuo vade et revertere et cras dabo tibi cum statim possis dare "
+        },
+        {
+          "name": "Proverbs 3:29",
+          "verse": 29,
+          "text": "ne moliaris amico tuo malum cum ille in te habeat fiduciam "
+        },
+        {
+          "name": "Proverbs 3:30",
+          "verse": 30,
+          "text": "ne contendas adversus hominem frustra cum ipse tibi nihil mali fecerit "
+        },
+        {
+          "name": "Proverbs 3:31",
+          "verse": 31,
+          "text": "ne aemuleris hominem iniustum nec imiteris vias eius "
+        },
+        {
+          "name": "Proverbs 3:32",
+          "verse": 32,
+          "text": "quia abominatio Domini est omnis inlusor et cum simplicibus sermocinatio eius "
+        },
+        {
+          "name": "Proverbs 3:33",
+          "verse": 33,
+          "text": "egestas a Domino in domo impii habitacula autem iustorum benedicentur "
+        },
+        {
+          "name": "Proverbs 3:34",
+          "verse": 34,
+          "text": "inlusores ipse deludet et mansuetis dabit gratiam "
+        },
+        {
+          "name": "Proverbs 3:35",
+          "verse": 35,
+          "text": "gloriam sapientes possidebunt stultorum exaltatio ignominia "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 4",
+      "chapter": 4,
+      "verses": [
+        {
+          "name": "Proverbs 4:1",
+          "verse": 1,
+          "text": "audite filii disciplinam patris et adtendite ut sciatis prudentiam "
+        },
+        {
+          "name": "Proverbs 4:2",
+          "verse": 2,
+          "text": "donum bonum tribuam vobis legem meam ne derelinquatis "
+        },
+        {
+          "name": "Proverbs 4:3",
+          "verse": 3,
+          "text": "nam et ego filius fui patris mei tenellus et unigenitus coram matre mea "
+        },
+        {
+          "name": "Proverbs 4:4",
+          "verse": 4,
+          "text": "et docebat me atque dicebat suscipiat verba mea cor tuum custodi praecepta mea et vives "
+        },
+        {
+          "name": "Proverbs 4:5",
+          "verse": 5,
+          "text": "posside sapientiam posside prudentiam ne obliviscaris neque declines a verbis oris mei "
+        },
+        {
+          "name": "Proverbs 4:6",
+          "verse": 6,
+          "text": "ne dimittas eam et custodiet te dilige eam et servabit te "
+        },
+        {
+          "name": "Proverbs 4:7",
+          "verse": 7,
+          "text": "principium sapientiae posside sapientiam et in omni possessione tua adquire prudentiam "
+        },
+        {
+          "name": "Proverbs 4:8",
+          "verse": 8,
+          "text": "arripe illam et exaltabit te glorificaberis ab ea cum eam fueris amplexatus "
+        },
+        {
+          "name": "Proverbs 4:9",
+          "verse": 9,
+          "text": "dabit capiti tuo augmenta gratiarum et corona inclita proteget te "
+        },
+        {
+          "name": "Proverbs 4:10",
+          "verse": 10,
+          "text": "audi fili mi et suscipe verba mea ut multiplicentur tibi anni vitae "
+        },
+        {
+          "name": "Proverbs 4:11",
+          "verse": 11,
+          "text": "viam sapientiae monstravi tibi duxi te per semitas aequitatis "
+        },
+        {
+          "name": "Proverbs 4:12",
+          "verse": 12,
+          "text": "quas cum ingressus fueris non artabuntur gressus tui et currens non habebis offendiculum "
+        },
+        {
+          "name": "Proverbs 4:13",
+          "verse": 13,
+          "text": "tene disciplinam ne dimittas eam custodi illam quia ipsa est vita tua "
+        },
+        {
+          "name": "Proverbs 4:14",
+          "verse": 14,
+          "text": "ne delecteris semitis impiorum nec tibi placeat malorum via "
+        },
+        {
+          "name": "Proverbs 4:15",
+          "verse": 15,
+          "text": "fuge ab ea ne transeas per illam declina et desere eam "
+        },
+        {
+          "name": "Proverbs 4:16",
+          "verse": 16,
+          "text": "non enim dormiunt nisi malefecerint et rapitur somnus ab eis nisi subplantaverint "
+        },
+        {
+          "name": "Proverbs 4:17",
+          "verse": 17,
+          "text": "comedunt panem impietatis et vinum iniquitatis bibunt "
+        },
+        {
+          "name": "Proverbs 4:18",
+          "verse": 18,
+          "text": "iustorum autem semita quasi lux splendens procedit et crescit usque ad perfectam diem "
+        },
+        {
+          "name": "Proverbs 4:19",
+          "verse": 19,
+          "text": "via impiorum tenebrosa nesciunt ubi corruant "
+        },
+        {
+          "name": "Proverbs 4:20",
+          "verse": 20,
+          "text": "fili mi ausculta sermones meos et ad eloquia mea inclina aurem tuam "
+        },
+        {
+          "name": "Proverbs 4:21",
+          "verse": 21,
+          "text": "ne recedant ab oculis tuis custodi ea in medio cordis tui "
+        },
+        {
+          "name": "Proverbs 4:22",
+          "verse": 22,
+          "text": "vita enim sunt invenientibus ea et universae carni sanitas "
+        },
+        {
+          "name": "Proverbs 4:23",
+          "verse": 23,
+          "text": "omni custodia serva cor tuum quia ex ipso vita procedit "
+        },
+        {
+          "name": "Proverbs 4:24",
+          "verse": 24,
+          "text": "remove a te os pravum et detrahentia labia sint procul a te "
+        },
+        {
+          "name": "Proverbs 4:25",
+          "verse": 25,
+          "text": "oculi tui recta videant et palpebrae tuae praecedant gressus tuos "
+        },
+        {
+          "name": "Proverbs 4:26",
+          "verse": 26,
+          "text": "dirige semitam pedibus tuis et omnes viae tuae stabilientur "
+        },
+        {
+          "name": "Proverbs 4:27",
+          "verse": 27,
+          "text": "ne declines ad dexteram et ad sinistram averte pedem tuum a malo "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 5",
+      "chapter": 5,
+      "verses": [
+        {
+          "name": "Proverbs 5:1",
+          "verse": 1,
+          "text": "fili mi adtende sapientiam meam et prudentiae meae inclina aurem tuam "
+        },
+        {
+          "name": "Proverbs 5:2",
+          "verse": 2,
+          "text": "ut custodias cogitationes et disciplinam labia tua conservent "
+        },
+        {
+          "name": "Proverbs 5:3",
+          "verse": 3,
+          "text": "favus enim stillans labia meretricis et nitidius oleo guttur eius "
+        },
+        {
+          "name": "Proverbs 5:4",
+          "verse": 4,
+          "text": "novissima autem illius amara quasi absinthium et acuta quasi gladius biceps "
+        },
+        {
+          "name": "Proverbs 5:5",
+          "verse": 5,
+          "text": "pedes eius descendunt in mortem et ad inferos gressus illius penetrant "
+        },
+        {
+          "name": "Proverbs 5:6",
+          "verse": 6,
+          "text": "per semitam vitae non ambulat vagi sunt gressus eius et investigabiles "
+        },
+        {
+          "name": "Proverbs 5:7",
+          "verse": 7,
+          "text": "nunc ergo fili audi me et ne recedas a verbis oris mei "
+        },
+        {
+          "name": "Proverbs 5:8",
+          "verse": 8,
+          "text": "longe fac ab ea viam tuam et ne adpropinques foribus domus eius "
+        },
+        {
+          "name": "Proverbs 5:9",
+          "verse": 9,
+          "text": "ne des alienis honorem tuum et annos tuos crudeli "
+        },
+        {
+          "name": "Proverbs 5:10",
+          "verse": 10,
+          "text": "ne forte impleantur extranei viribus tuis et labores tui sint in domo aliena "
+        },
+        {
+          "name": "Proverbs 5:11",
+          "verse": 11,
+          "text": "et gemas in novissimis quando consumpseris carnes et corpus tuum et dicas "
+        },
+        {
+          "name": "Proverbs 5:12",
+          "verse": 12,
+          "text": "cur detestatus sum disciplinam et increpationibus non adquievit cor meum "
+        },
+        {
+          "name": "Proverbs 5:13",
+          "verse": 13,
+          "text": "nec audivi vocem docentium me et magistris non inclinavi aurem meam "
+        },
+        {
+          "name": "Proverbs 5:14",
+          "verse": 14,
+          "text": "paene fui in omni malo in medio ecclesiae et synagogae "
+        },
+        {
+          "name": "Proverbs 5:15",
+          "verse": 15,
+          "text": "bibe aquam de cisterna tua et fluenta putei tui "
+        },
+        {
+          "name": "Proverbs 5:16",
+          "verse": 16,
+          "text": "deriventur fontes tui foras et in plateis aquas tuas divide "
+        },
+        {
+          "name": "Proverbs 5:17",
+          "verse": 17,
+          "text": "habeto eas solus nec sint alieni participes tui "
+        },
+        {
+          "name": "Proverbs 5:18",
+          "verse": 18,
+          "text": "sit vena tua benedicta et laetare cum muliere adulescentiae tuae "
+        },
+        {
+          "name": "Proverbs 5:19",
+          "verse": 19,
+          "text": "cerva carissima et gratissimus hinulus ubera eius inebrient te omni tempore in amore illius delectare iugiter "
+        },
+        {
+          "name": "Proverbs 5:20",
+          "verse": 20,
+          "text": "quare seduceris fili mi ab aliena et foveris sinu alterius "
+        },
+        {
+          "name": "Proverbs 5:21",
+          "verse": 21,
+          "text": "respicit Dominus vias hominis et omnes gressus illius considerat "
+        },
+        {
+          "name": "Proverbs 5:22",
+          "verse": 22,
+          "text": "iniquitates suae capiunt impium et funibus peccatorum suorum constringitur "
+        },
+        {
+          "name": "Proverbs 5:23",
+          "verse": 23,
+          "text": "ipse morietur quia non habuit disciplinam et multitudine stultitiae suae decipietur "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 6",
+      "chapter": 6,
+      "verses": [
+        {
+          "name": "Proverbs 6:1",
+          "verse": 1,
+          "text": "fili mi si spoponderis pro amico tuo defixisti apud extraneum manum tuam "
+        },
+        {
+          "name": "Proverbs 6:2",
+          "verse": 2,
+          "text": "inlaqueatus es verbis oris tui et captus propriis sermonibus "
+        },
+        {
+          "name": "Proverbs 6:3",
+          "verse": 3,
+          "text": "fac ergo quod dico fili mi et temet ipsum libera quia incidisti in manu proximi tui discurre festina suscita amicum tuum "
+        },
+        {
+          "name": "Proverbs 6:4",
+          "verse": 4,
+          "text": "ne dederis somnum oculis tuis nec dormitent palpebrae tuae "
+        },
+        {
+          "name": "Proverbs 6:5",
+          "verse": 5,
+          "text": "eruere quasi dammula de manu et quasi avis de insidiis aucupis "
+        },
+        {
+          "name": "Proverbs 6:6",
+          "verse": 6,
+          "text": "vade ad formicam o piger et considera vias eius et disce sapientiam "
+        },
+        {
+          "name": "Proverbs 6:7",
+          "verse": 7,
+          "text": "quae cum non habeat ducem nec praeceptorem nec principem "
+        },
+        {
+          "name": "Proverbs 6:8",
+          "verse": 8,
+          "text": "parat aestate cibum sibi et congregat in messe quod comedat "
+        },
+        {
+          "name": "Proverbs 6:9",
+          "verse": 9,
+          "text": "usquequo piger dormis quando consurges ex somno tuo "
+        },
+        {
+          "name": "Proverbs 6:10",
+          "verse": 10,
+          "text": "paululum dormies paululum dormitabis paululum conseres manus ut dormias "
+        },
+        {
+          "name": "Proverbs 6:11",
+          "verse": 11,
+          "text": "et veniet tibi quasi viator egestas et pauperies quasi vir armatus "
+        },
+        {
+          "name": "Proverbs 6:12",
+          "verse": 12,
+          "text": "homo apostata vir inutilis graditur ore perverso "
+        },
+        {
+          "name": "Proverbs 6:13",
+          "verse": 13,
+          "text": "annuit oculis terit pede digito loquitur "
+        },
+        {
+          "name": "Proverbs 6:14",
+          "verse": 14,
+          "text": "pravo corde machinatur malum et in omni tempore iurgia seminat "
+        },
+        {
+          "name": "Proverbs 6:15",
+          "verse": 15,
+          "text": "huic extemplo veniet perditio sua et subito conteretur nec habebit ultra medicinam "
+        },
+        {
+          "name": "Proverbs 6:16",
+          "verse": 16,
+          "text": "sex sunt quae odit Dominus et septimum detestatur anima eius "
+        },
+        {
+          "name": "Proverbs 6:17",
+          "verse": 17,
+          "text": "oculos sublimes linguam mendacem manus effundentes innoxium sanguinem "
+        },
+        {
+          "name": "Proverbs 6:18",
+          "verse": 18,
+          "text": "cor machinans cogitationes pessimas pedes veloces ad currendum in malum "
+        },
+        {
+          "name": "Proverbs 6:19",
+          "verse": 19,
+          "text": "proferentem mendacia testem fallacem et eum qui seminat inter fratres discordias "
+        },
+        {
+          "name": "Proverbs 6:20",
+          "verse": 20,
+          "text": "conserva fili mi praecepta patris tui et ne dimittas legem matris tuae "
+        },
+        {
+          "name": "Proverbs 6:21",
+          "verse": 21,
+          "text": "liga ea in corde tuo iugiter et circumda gutturi tuo "
+        },
+        {
+          "name": "Proverbs 6:22",
+          "verse": 22,
+          "text": "cum ambulaveris gradiantur tecum cum dormieris custodiant te et evigilans loquere cum eis "
+        },
+        {
+          "name": "Proverbs 6:23",
+          "verse": 23,
+          "text": "quia mandatum lucerna est et lex lux et via vitae increpatio disciplinae "
+        },
+        {
+          "name": "Proverbs 6:24",
+          "verse": 24,
+          "text": "ut custodiant te a muliere mala et a blanda lingua extraneae "
+        },
+        {
+          "name": "Proverbs 6:25",
+          "verse": 25,
+          "text": "non concupiscat pulchritudinem eius cor tuum nec capiaris nutibus illius "
+        },
+        {
+          "name": "Proverbs 6:26",
+          "verse": 26,
+          "text": "pretium enim scorti vix unius est panis mulier autem viri pretiosam animam capit "
+        },
+        {
+          "name": "Proverbs 6:27",
+          "verse": 27,
+          "text": "numquid abscondere potest homo ignem in sinu suo ut vestimenta illius non ardeant "
+        },
+        {
+          "name": "Proverbs 6:28",
+          "verse": 28,
+          "text": "aut ambulare super prunas et non conburentur plantae eius "
+        },
+        {
+          "name": "Proverbs 6:29",
+          "verse": 29,
+          "text": "sic qui ingreditur ad mulierem proximi sui non erit mundus cum tetigerit eam "
+        },
+        {
+          "name": "Proverbs 6:30",
+          "verse": 30,
+          "text": "non grandis est culpae cum quis furatus fuerit furatur enim ut esurientem impleat animam "
+        },
+        {
+          "name": "Proverbs 6:31",
+          "verse": 31,
+          "text": "deprehensus quoque reddet septuplum et omnem substantiam domus suae tradet "
+        },
+        {
+          "name": "Proverbs 6:32",
+          "verse": 32,
+          "text": "qui autem adulter est propter cordis inopiam perdet animam suam "
+        },
+        {
+          "name": "Proverbs 6:33",
+          "verse": 33,
+          "text": "turpitudinem et ignominiam congregat sibi et obprobrium illius non delebitur "
+        },
+        {
+          "name": "Proverbs 6:34",
+          "verse": 34,
+          "text": "quia zelus et furor viri non parcet in die vindictae "
+        },
+        {
+          "name": "Proverbs 6:35",
+          "verse": 35,
+          "text": "nec adquiescet cuiusquam precibus nec suscipiet pro redemptione dona plurima "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 7",
+      "chapter": 7,
+      "verses": [
+        {
+          "name": "Proverbs 7:1",
+          "verse": 1,
+          "text": "fili mi custodi sermones meos et praecepta mea reconde tibi "
+        },
+        {
+          "name": "Proverbs 7:2",
+          "verse": 2,
+          "text": "serva mandata mea et vives et legem meam quasi pupillam oculi tui "
+        },
+        {
+          "name": "Proverbs 7:3",
+          "verse": 3,
+          "text": "liga eam in digitis tuis scribe illam in tabulis cordis tui "
+        },
+        {
+          "name": "Proverbs 7:4",
+          "verse": 4,
+          "text": "dic sapientiae soror mea es et prudentiam voca amicam tuam "
+        },
+        {
+          "name": "Proverbs 7:5",
+          "verse": 5,
+          "text": "ut custodiat te a muliere extranea et ab aliena quae verba sua dulcia facit "
+        },
+        {
+          "name": "Proverbs 7:6",
+          "verse": 6,
+          "text": "de fenestra enim domus meae per cancellos prospexi "
+        },
+        {
+          "name": "Proverbs 7:7",
+          "verse": 7,
+          "text": "et video parvulos considero vecordem iuvenem "
+        },
+        {
+          "name": "Proverbs 7:8",
+          "verse": 8,
+          "text": "qui transit in platea iuxta angulum et propter viam domus illius graditur "
+        },
+        {
+          "name": "Proverbs 7:9",
+          "verse": 9,
+          "text": "in obscuro advesperascente die in noctis tenebris et caligine "
+        },
+        {
+          "name": "Proverbs 7:10",
+          "verse": 10,
+          "text": "et ecce mulier occurrit illi ornatu meretricio praeparata ad capiendas animas garrula et vaga "
+        },
+        {
+          "name": "Proverbs 7:11",
+          "verse": 11,
+          "text": "quietis inpatiens nec valens in domo consistere pedibus suis "
+        },
+        {
+          "name": "Proverbs 7:12",
+          "verse": 12,
+          "text": "nunc foris nunc in plateis nunc iuxta angulos insidians "
+        },
+        {
+          "name": "Proverbs 7:13",
+          "verse": 13,
+          "text": "adprehensumque deosculatur iuvenem et procaci vultu blanditur dicens "
+        },
+        {
+          "name": "Proverbs 7:14",
+          "verse": 14,
+          "text": "victimas pro salute debui hodie reddidi vota mea "
+        },
+        {
+          "name": "Proverbs 7:15",
+          "verse": 15,
+          "text": "idcirco egressa sum in occursum tuum desiderans te videre et repperi "
+        },
+        {
+          "name": "Proverbs 7:16",
+          "verse": 16,
+          "text": "intexui funibus lectum meum stravi tapetibus pictis ex Aegypto "
+        },
+        {
+          "name": "Proverbs 7:17",
+          "verse": 17,
+          "text": "aspersi cubile meum murra et aloe et cinnamomo "
+        },
+        {
+          "name": "Proverbs 7:18",
+          "verse": 18,
+          "text": "veni inebriemur uberibus donec inlucescat dies et fruamur cupitis amplexibus "
+        },
+        {
+          "name": "Proverbs 7:19",
+          "verse": 19,
+          "text": "non est enim vir in domo sua abiit via longissima "
+        },
+        {
+          "name": "Proverbs 7:20",
+          "verse": 20,
+          "text": "sacculum pecuniae secum tulit in die plenae lunae reversurus est domum suam "
+        },
+        {
+          "name": "Proverbs 7:21",
+          "verse": 21,
+          "text": "inretivit eum multis sermonibus et blanditiis labiorum protraxit illum "
+        },
+        {
+          "name": "Proverbs 7:22",
+          "verse": 22,
+          "text": "statim eam sequitur quasi bos ductus ad victimam et quasi agnus lasciviens et ignorans quod ad vincula stultus trahatur "
+        },
+        {
+          "name": "Proverbs 7:23",
+          "verse": 23,
+          "text": "donec transfigat sagitta iecur eius velut si avis festinet ad laqueum et nescit quia de periculo animae illius agitur "
+        },
+        {
+          "name": "Proverbs 7:24",
+          "verse": 24,
+          "text": "nunc ergo fili audi me et adtende verba oris mei "
+        },
+        {
+          "name": "Proverbs 7:25",
+          "verse": 25,
+          "text": "ne abstrahatur in viis illius mens tua neque decipiaris semitis eius "
+        },
+        {
+          "name": "Proverbs 7:26",
+          "verse": 26,
+          "text": "multos enim vulneratos deiecit et fortissimi quique interfecti sunt ab ea "
+        },
+        {
+          "name": "Proverbs 7:27",
+          "verse": 27,
+          "text": "viae inferi domus eius penetrantes interiora mortis "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 8",
+      "chapter": 8,
+      "verses": [
+        {
+          "name": "Proverbs 8:1",
+          "verse": 1,
+          "text": "numquid non sapientia clamitat et prudentia dat vocem suam "
+        },
+        {
+          "name": "Proverbs 8:2",
+          "verse": 2,
+          "text": "in summis excelsisque verticibus super viam in mediis semitis stans "
+        },
+        {
+          "name": "Proverbs 8:3",
+          "verse": 3,
+          "text": "iuxta portas civitatis in ipsis foribus loquitur dicens "
+        },
+        {
+          "name": "Proverbs 8:4",
+          "verse": 4,
+          "text": "o viri ad vos clamito et vox mea ad filios hominum "
+        },
+        {
+          "name": "Proverbs 8:5",
+          "verse": 5,
+          "text": "intellegite parvuli astutiam et insipientes animadvertite "
+        },
+        {
+          "name": "Proverbs 8:6",
+          "verse": 6,
+          "text": "audite quoniam de rebus magnis locutura sum et aperientur labia mea ut recta praedicent "
+        },
+        {
+          "name": "Proverbs 8:7",
+          "verse": 7,
+          "text": "veritatem meditabitur guttur meum et labia mea detestabuntur impium "
+        },
+        {
+          "name": "Proverbs 8:8",
+          "verse": 8,
+          "text": "iusti sunt omnes sermones mei non est in eis pravum quid neque perversum "
+        },
+        {
+          "name": "Proverbs 8:9",
+          "verse": 9,
+          "text": "recti sunt intellegentibus et aequi invenientibus scientiam "
+        },
+        {
+          "name": "Proverbs 8:10",
+          "verse": 10,
+          "text": "accipite disciplinam meam et non pecuniam doctrinam magis quam aurum eligite "
+        },
+        {
+          "name": "Proverbs 8:11",
+          "verse": 11,
+          "text": "melior est enim sapientia cunctis pretiosissimis et omne desiderabile ei non potest conparari "
+        },
+        {
+          "name": "Proverbs 8:12",
+          "verse": 12,
+          "text": "ego sapientia habito in consilio et eruditis intersum cogitationibus "
+        },
+        {
+          "name": "Proverbs 8:13",
+          "verse": 13,
+          "text": "timor Domini odit malum arrogantiam et superbiam et viam pravam et os bilingue detestor "
+        },
+        {
+          "name": "Proverbs 8:14",
+          "verse": 14,
+          "text": "meum est consilium et aequitas mea prudentia mea est fortitudo "
+        },
+        {
+          "name": "Proverbs 8:15",
+          "verse": 15,
+          "text": "per me reges regnant et legum conditores iusta decernunt "
+        },
+        {
+          "name": "Proverbs 8:16",
+          "verse": 16,
+          "text": "per me principes imperant et potentes decernunt iustitiam "
+        },
+        {
+          "name": "Proverbs 8:17",
+          "verse": 17,
+          "text": "ego diligentes me diligo et qui mane vigilant ad me invenient me "
+        },
+        {
+          "name": "Proverbs 8:18",
+          "verse": 18,
+          "text": "mecum sunt divitiae et gloria opes superbae et iustitia "
+        },
+        {
+          "name": "Proverbs 8:19",
+          "verse": 19,
+          "text": "melior est fructus meus auro et pretioso lapide et genimina mea argento electo "
+        },
+        {
+          "name": "Proverbs 8:20",
+          "verse": 20,
+          "text": "in viis iustitiae ambulo in medio semitarum iudicii "
+        },
+        {
+          "name": "Proverbs 8:21",
+          "verse": 21,
+          "text": "ut ditem diligentes me et thesauros eorum repleam "
+        },
+        {
+          "name": "Proverbs 8:22",
+          "verse": 22,
+          "text": "Dominus possedit me initium viarum suarum antequam quicquam faceret a principio "
+        },
+        {
+          "name": "Proverbs 8:23",
+          "verse": 23,
+          "text": "ab aeterno ordita sum et ex antiquis antequam terra fieret "
+        },
+        {
+          "name": "Proverbs 8:24",
+          "verse": 24,
+          "text": "necdum erant abyssi et ego iam concepta eram necdum fontes aquarum eruperant "
+        },
+        {
+          "name": "Proverbs 8:25",
+          "verse": 25,
+          "text": "necdum montes gravi mole constiterant ante colles ego parturiebar "
+        },
+        {
+          "name": "Proverbs 8:26",
+          "verse": 26,
+          "text": "adhuc terram non fecerat et flumina et cardines orbis terrae "
+        },
+        {
+          "name": "Proverbs 8:27",
+          "verse": 27,
+          "text": "quando praeparabat caelos aderam quando certa lege et gyro vallabat abyssos "
+        },
+        {
+          "name": "Proverbs 8:28",
+          "verse": 28,
+          "text": "quando aethera firmabat sursum et librabat fontes aquarum "
+        },
+        {
+          "name": "Proverbs 8:29",
+          "verse": 29,
+          "text": "quando circumdabat mari terminum suum et legem ponebat aquis ne transirent fines suos quando adpendebat fundamenta terrae "
+        },
+        {
+          "name": "Proverbs 8:30",
+          "verse": 30,
+          "text": "cum eo eram cuncta conponens et delectabar per singulos dies ludens coram eo omni tempore "
+        },
+        {
+          "name": "Proverbs 8:31",
+          "verse": 31,
+          "text": "ludens in orbe terrarum et deliciae meae esse cum filiis hominum "
+        },
+        {
+          "name": "Proverbs 8:32",
+          "verse": 32,
+          "text": "nunc ergo filii audite me beati qui custodiunt vias meas "
+        },
+        {
+          "name": "Proverbs 8:33",
+          "verse": 33,
+          "text": "audite disciplinam et estote sapientes et nolite abicere eam "
+        },
+        {
+          "name": "Proverbs 8:34",
+          "verse": 34,
+          "text": "beatus homo qui audit me qui vigilat ad fores meas cotidie et observat ad postes ostii mei "
+        },
+        {
+          "name": "Proverbs 8:35",
+          "verse": 35,
+          "text": "qui me invenerit inveniet vitam et hauriet salutem a Domino "
+        },
+        {
+          "name": "Proverbs 8:36",
+          "verse": 36,
+          "text": "qui autem in me peccaverit laedet animam suam omnes qui me oderunt diligunt mortem "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 9",
+      "chapter": 9,
+      "verses": [
+        {
+          "name": "Proverbs 9:1",
+          "verse": 1,
+          "text": "sapientia aedificavit sibi domum excidit columnas septem "
+        },
+        {
+          "name": "Proverbs 9:2",
+          "verse": 2,
+          "text": "immolavit victimas suas miscuit vinum et proposuit mensam suam "
+        },
+        {
+          "name": "Proverbs 9:3",
+          "verse": 3,
+          "text": "misit ancillas suas ut vocarent ad arcem et ad moenia civitatis "
+        },
+        {
+          "name": "Proverbs 9:4",
+          "verse": 4,
+          "text": "si quis est parvulus veniat ad me et insipientibus locuta est "
+        },
+        {
+          "name": "Proverbs 9:5",
+          "verse": 5,
+          "text": "venite comedite panem meum et bibite vinum quod miscui vobis "
+        },
+        {
+          "name": "Proverbs 9:6",
+          "verse": 6,
+          "text": "relinquite infantiam et vivite et ambulate per vias prudentiae "
+        },
+        {
+          "name": "Proverbs 9:7",
+          "verse": 7,
+          "text": "qui erudit derisorem ipse sibi facit iniuriam et qui arguit impium generat maculam sibi "
+        },
+        {
+          "name": "Proverbs 9:8",
+          "verse": 8,
+          "text": "noli arguere derisorem ne oderit te argue sapientem et diliget te "
+        },
+        {
+          "name": "Proverbs 9:9",
+          "verse": 9,
+          "text": "da sapienti et addetur ei sapientia doce iustum et festinabit accipere "
+        },
+        {
+          "name": "Proverbs 9:10",
+          "verse": 10,
+          "text": "principium sapientiae timor Domini et scientia sanctorum prudentia "
+        },
+        {
+          "name": "Proverbs 9:11",
+          "verse": 11,
+          "text": "per me enim multiplicabuntur dies tui et addentur tibi anni vitae "
+        },
+        {
+          "name": "Proverbs 9:12",
+          "verse": 12,
+          "text": "si sapiens fueris tibimet ipsi eris si inlusor solus portabis malum "
+        },
+        {
+          "name": "Proverbs 9:13",
+          "verse": 13,
+          "text": "mulier stulta et clamosa plenaque inlecebris et nihil omnino sciens "
+        },
+        {
+          "name": "Proverbs 9:14",
+          "verse": 14,
+          "text": "sedit in foribus domus suae super sellam in excelso urbis loco "
+        },
+        {
+          "name": "Proverbs 9:15",
+          "verse": 15,
+          "text": "ut vocaret transeuntes viam et pergentes itinere suo "
+        },
+        {
+          "name": "Proverbs 9:16",
+          "verse": 16,
+          "text": "quis est parvulus declinet ad me et vecordi locuta est "
+        },
+        {
+          "name": "Proverbs 9:17",
+          "verse": 17,
+          "text": "aquae furtivae dulciores sunt et panis absconditus suavior "
+        },
+        {
+          "name": "Proverbs 9:18",
+          "verse": 18,
+          "text": "et ignoravit quod gigantes ibi sint et in profundis inferni convivae eius "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 10",
+      "chapter": 10,
+      "verses": [
+        {
+          "name": "Proverbs 10:1",
+          "verse": 1,
+          "text": "parabolae Salomonis filius sapiens laetificat patrem filius vero stultus maestitia est matris suae "
+        },
+        {
+          "name": "Proverbs 10:2",
+          "verse": 2,
+          "text": "non proderunt thesauri impietatis iustitia vero liberabit a morte "
+        },
+        {
+          "name": "Proverbs 10:3",
+          "verse": 3,
+          "text": "non adfliget Dominus fame animam iusti et insidias impiorum subvertet "
+        },
+        {
+          "name": "Proverbs 10:4",
+          "verse": 4,
+          "text": "egestatem operata est manus remissa manus autem fortium divitias parat "
+        },
+        {
+          "name": "Proverbs 10:5",
+          "verse": 5,
+          "text": "qui congregat in messe filius sapiens est qui autem stertit aestate filius confusionis "
+        },
+        {
+          "name": "Proverbs 10:6",
+          "verse": 6,
+          "text": "benedictio super caput iusti os autem impiorum operit iniquitatem "
+        },
+        {
+          "name": "Proverbs 10:7",
+          "verse": 7,
+          "text": "memoria iusti cum laudibus et nomen impiorum putrescet "
+        },
+        {
+          "name": "Proverbs 10:8",
+          "verse": 8,
+          "text": "sapiens corde praecepta suscipiet stultus caeditur labiis "
+        },
+        {
+          "name": "Proverbs 10:9",
+          "verse": 9,
+          "text": "qui ambulat simpliciter ambulat confidenter qui autem depravat vias suas manifestus erit "
+        },
+        {
+          "name": "Proverbs 10:10",
+          "verse": 10,
+          "text": "qui annuit oculo dabit dolorem stultus labiis verberabitur "
+        },
+        {
+          "name": "Proverbs 10:11",
+          "verse": 11,
+          "text": "vena vitae os iusti et os impiorum operiet iniquitatem "
+        },
+        {
+          "name": "Proverbs 10:12",
+          "verse": 12,
+          "text": "odium suscitat rixas et universa delicta operit caritas "
+        },
+        {
+          "name": "Proverbs 10:13",
+          "verse": 13,
+          "text": "in labiis sapientis invenietur sapientia et virga in dorso eius qui indiget corde "
+        },
+        {
+          "name": "Proverbs 10:14",
+          "verse": 14,
+          "text": "sapientes abscondunt scientiam os autem stulti confusioni proximum est "
+        },
+        {
+          "name": "Proverbs 10:15",
+          "verse": 15,
+          "text": "substantia divitis urbs fortitudinis eius pavor pauperum egestas eorum "
+        },
+        {
+          "name": "Proverbs 10:16",
+          "verse": 16,
+          "text": "opus iusti ad vitam fructus impii ad peccatum "
+        },
+        {
+          "name": "Proverbs 10:17",
+          "verse": 17,
+          "text": "via vitae custodienti disciplinam qui autem increpationes relinquit errat "
+        },
+        {
+          "name": "Proverbs 10:18",
+          "verse": 18,
+          "text": "abscondunt odium labia mendacia qui profert contumeliam insipiens est "
+        },
+        {
+          "name": "Proverbs 10:19",
+          "verse": 19,
+          "text": "in multiloquio peccatum non deerit qui autem moderatur labia sua prudentissimus est "
+        },
+        {
+          "name": "Proverbs 10:20",
+          "verse": 20,
+          "text": "argentum electum lingua iusti cor impiorum pro nihilo "
+        },
+        {
+          "name": "Proverbs 10:21",
+          "verse": 21,
+          "text": "labia iusti erudiunt plurimos qui autem indocti sunt in cordis egestate morientur "
+        },
+        {
+          "name": "Proverbs 10:22",
+          "verse": 22,
+          "text": "benedictio Domini divites facit nec sociabitur ei adflictio "
+        },
+        {
+          "name": "Proverbs 10:23",
+          "verse": 23,
+          "text": "quasi per risum stultus operatur scelus sapientia autem est viro prudentia "
+        },
+        {
+          "name": "Proverbs 10:24",
+          "verse": 24,
+          "text": "quod timet impius veniet super eum desiderium suum iustis dabitur "
+        },
+        {
+          "name": "Proverbs 10:25",
+          "verse": 25,
+          "text": "quasi tempestas transiens non erit impius iustus autem quasi fundamentum sempiternum "
+        },
+        {
+          "name": "Proverbs 10:26",
+          "verse": 26,
+          "text": "sicut acetum dentibus et fumus oculis sic piger his qui miserunt eum "
+        },
+        {
+          "name": "Proverbs 10:27",
+          "verse": 27,
+          "text": "timor Domini adponet dies et anni impiorum breviabuntur "
+        },
+        {
+          "name": "Proverbs 10:28",
+          "verse": 28,
+          "text": "expectatio iustorum laetitia spes autem impiorum peribit "
+        },
+        {
+          "name": "Proverbs 10:29",
+          "verse": 29,
+          "text": "fortitudo simplicis via Domini et pavor his qui operantur malum "
+        },
+        {
+          "name": "Proverbs 10:30",
+          "verse": 30,
+          "text": "iustus in aeternum non commovebitur impii autem non habitabunt in terram "
+        },
+        {
+          "name": "Proverbs 10:31",
+          "verse": 31,
+          "text": "os iusti parturiet sapientiam lingua pravorum peribit "
+        },
+        {
+          "name": "Proverbs 10:32",
+          "verse": 32,
+          "text": "labia iusti considerant placita et os impiorum perversa "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 11",
+      "chapter": 11,
+      "verses": [
+        {
+          "name": "Proverbs 11:1",
+          "verse": 1,
+          "text": "statera dolosa abominatio apud Dominum et pondus aequum voluntas eius "
+        },
+        {
+          "name": "Proverbs 11:2",
+          "verse": 2,
+          "text": "ubi fuerit superbia ibi erit et contumelia ubi autem humilitas ibi et sapientia "
+        },
+        {
+          "name": "Proverbs 11:3",
+          "verse": 3,
+          "text": "simplicitas iustorum diriget eos et subplantatio perversorum vastabit illos "
+        },
+        {
+          "name": "Proverbs 11:4",
+          "verse": 4,
+          "text": "non proderunt divitiae in die ultionis iustitia autem liberabit a morte "
+        },
+        {
+          "name": "Proverbs 11:5",
+          "verse": 5,
+          "text": "iustitia simplicis diriget viam eius et in impietate sua corruet impius "
+        },
+        {
+          "name": "Proverbs 11:6",
+          "verse": 6,
+          "text": "iustitia rectorum liberabit eos et in insidiis suis capientur iniqui "
+        },
+        {
+          "name": "Proverbs 11:7",
+          "verse": 7,
+          "text": "mortuo homine impio nulla erit ultra spes et expectatio sollicitorum peribit "
+        },
+        {
+          "name": "Proverbs 11:8",
+          "verse": 8,
+          "text": "iustus de angustia liberatus est et tradetur impius pro eo "
+        },
+        {
+          "name": "Proverbs 11:9",
+          "verse": 9,
+          "text": "simulator ore decipit amicum suum iusti autem liberabuntur scientia "
+        },
+        {
+          "name": "Proverbs 11:10",
+          "verse": 10,
+          "text": "in bonis iustorum exultabit civitas et in perditione impiorum erit laudatio "
+        },
+        {
+          "name": "Proverbs 11:11",
+          "verse": 11,
+          "text": "benedictione iustorum exaltabitur civitas et ore impiorum subvertetur "
+        },
+        {
+          "name": "Proverbs 11:12",
+          "verse": 12,
+          "text": "qui despicit amicum suum indigens corde est vir autem prudens tacebit "
+        },
+        {
+          "name": "Proverbs 11:13",
+          "verse": 13,
+          "text": "qui ambulat fraudulenter revelat arcana qui autem fidelis est animi celat commissum "
+        },
+        {
+          "name": "Proverbs 11:14",
+          "verse": 14,
+          "text": "ubi non est gubernator populus corruet salus autem ubi multa consilia "
+        },
+        {
+          "name": "Proverbs 11:15",
+          "verse": 15,
+          "text": "adfligetur malo qui fidem facit pro extraneo qui autem cavet laqueos securus erit "
+        },
+        {
+          "name": "Proverbs 11:16",
+          "verse": 16,
+          "text": "mulier gratiosa inveniet gloriam et robusti habebunt divitias "
+        },
+        {
+          "name": "Proverbs 11:17",
+          "verse": 17,
+          "text": "benefacit animae suae vir misericors qui autem crudelis est et propinquos abicit "
+        },
+        {
+          "name": "Proverbs 11:18",
+          "verse": 18,
+          "text": "impius facit opus instabile seminanti autem iustitiam merces fidelis "
+        },
+        {
+          "name": "Proverbs 11:19",
+          "verse": 19,
+          "text": "clementia praeparat vitam et sectatio malorum mortem "
+        },
+        {
+          "name": "Proverbs 11:20",
+          "verse": 20,
+          "text": "abominabile Domino pravum cor et voluntas eius in his qui simpliciter ambulant "
+        },
+        {
+          "name": "Proverbs 11:21",
+          "verse": 21,
+          "text": "manus in manu non erit innocens malus semen autem iustorum salvabitur "
+        },
+        {
+          "name": "Proverbs 11:22",
+          "verse": 22,
+          "text": "circulus aureus in naribus suis mulier pulchra et fatua "
+        },
+        {
+          "name": "Proverbs 11:23",
+          "verse": 23,
+          "text": "desiderium iustorum omne bonum est praestolatio impiorum furor "
+        },
+        {
+          "name": "Proverbs 11:24",
+          "verse": 24,
+          "text": "alii dividunt propria et ditiores fiunt alii rapiunt non sua et semper in egestate sunt "
+        },
+        {
+          "name": "Proverbs 11:25",
+          "verse": 25,
+          "text": "anima quae benedicit inpinguabitur et qui inebriat ipse quoque inebriabitur "
+        },
+        {
+          "name": "Proverbs 11:26",
+          "verse": 26,
+          "text": "qui abscondit frumenta maledicetur in populis benedictio autem super caput vendentium "
+        },
+        {
+          "name": "Proverbs 11:27",
+          "verse": 27,
+          "text": "bene consurgit diluculo qui quaerit bona qui autem investigator malorum est opprimetur ab eis "
+        },
+        {
+          "name": "Proverbs 11:28",
+          "verse": 28,
+          "text": "qui confidet in divitiis suis corruet iusti autem quasi virens folium germinabunt "
+        },
+        {
+          "name": "Proverbs 11:29",
+          "verse": 29,
+          "text": "qui conturbat domum suam possidebit ventos et qui stultus est serviet sapienti "
+        },
+        {
+          "name": "Proverbs 11:30",
+          "verse": 30,
+          "text": "fructus iusti lignum vitae et qui suscipit animas sapiens est "
+        },
+        {
+          "name": "Proverbs 11:31",
+          "verse": 31,
+          "text": "si iustus in terra recipit quanto magis impius et peccator "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 12",
+      "chapter": 12,
+      "verses": [
+        {
+          "name": "Proverbs 12:1",
+          "verse": 1,
+          "text": "qui diligit disciplinam diligit scientiam qui autem odit increpationes insipiens est "
+        },
+        {
+          "name": "Proverbs 12:2",
+          "verse": 2,
+          "text": "qui bonus est hauriet a Domino gratiam qui autem confidit cogitationibus suis impie agit "
+        },
+        {
+          "name": "Proverbs 12:3",
+          "verse": 3,
+          "text": "non roborabitur homo ex impietate et radix iustorum non commovebitur "
+        },
+        {
+          "name": "Proverbs 12:4",
+          "verse": 4,
+          "text": "mulier diligens corona viro suo et putredo in ossibus eius quae confusione res dignas gerit "
+        },
+        {
+          "name": "Proverbs 12:5",
+          "verse": 5,
+          "text": "cogitationes iustorum iudicia et consilia impiorum fraudulentia "
+        },
+        {
+          "name": "Proverbs 12:6",
+          "verse": 6,
+          "text": "verba impiorum insidiantur sanguini os iustorum liberabit eos "
+        },
+        {
+          "name": "Proverbs 12:7",
+          "verse": 7,
+          "text": "verte impios et non erunt domus autem iustorum permanebit "
+        },
+        {
+          "name": "Proverbs 12:8",
+          "verse": 8,
+          "text": "doctrina sua noscetur vir qui autem vanus et excors est patebit contemptui "
+        },
+        {
+          "name": "Proverbs 12:9",
+          "verse": 9,
+          "text": "melior est pauper et sufficiens sibi quam gloriosus et indigens pane "
+        },
+        {
+          "name": "Proverbs 12:10",
+          "verse": 10,
+          "text": "novit iustus animas iumentorum suorum viscera autem impiorum crudelia "
+        },
+        {
+          "name": "Proverbs 12:11",
+          "verse": 11,
+          "text": "qui operatur terram suam saturabitur panibus qui autem sectatur otium stultissimus est "
+        },
+        {
+          "name": "Proverbs 12:12",
+          "verse": 12,
+          "text": "desiderium impii munimentum est pessimorum radix autem iustorum proficiet "
+        },
+        {
+          "name": "Proverbs 12:13",
+          "verse": 13,
+          "text": "propter peccata labiorum ruina proximat malo effugiet autem iustus de angustia "
+        },
+        {
+          "name": "Proverbs 12:14",
+          "verse": 14,
+          "text": "de fructu oris sui unusquisque replebitur bonis et iuxta opera manuum suarum retribuetur ei "
+        },
+        {
+          "name": "Proverbs 12:15",
+          "verse": 15,
+          "text": "via stulti recta in oculis eius qui autem sapiens est audit consilia "
+        },
+        {
+          "name": "Proverbs 12:16",
+          "verse": 16,
+          "text": "fatuus statim indicat iram suam qui autem dissimulat iniuriam callidus est "
+        },
+        {
+          "name": "Proverbs 12:17",
+          "verse": 17,
+          "text": "qui quod novit loquitur index iustitiae est qui autem mentitur testis est fraudulentus "
+        },
+        {
+          "name": "Proverbs 12:18",
+          "verse": 18,
+          "text": "est qui promittit et quasi gladio pungitur conscientiae lingua autem sapientium sanitas est "
+        },
+        {
+          "name": "Proverbs 12:19",
+          "verse": 19,
+          "text": "labium veritatis firmum erit in perpetuum qui autem testis est repentinus concinnat linguam mendacii "
+        },
+        {
+          "name": "Proverbs 12:20",
+          "verse": 20,
+          "text": "dolus in corde cogitantium mala qui autem ineunt pacis consilia sequitur eos gaudium "
+        },
+        {
+          "name": "Proverbs 12:21",
+          "verse": 21,
+          "text": "non contristabit iustum quicquid ei acciderit impii autem replebuntur malo "
+        },
+        {
+          "name": "Proverbs 12:22",
+          "verse": 22,
+          "text": "abominatio Domino labia mendacia qui autem fideliter agunt placent ei "
+        },
+        {
+          "name": "Proverbs 12:23",
+          "verse": 23,
+          "text": "homo versutus celat scientiam et cor insipientium provocabit stultitiam "
+        },
+        {
+          "name": "Proverbs 12:24",
+          "verse": 24,
+          "text": "manus fortium dominabitur quae autem remissa est tributis serviet "
+        },
+        {
+          "name": "Proverbs 12:25",
+          "verse": 25,
+          "text": "maeror in corde viri humiliabit illud et sermone bono laetificabitur "
+        },
+        {
+          "name": "Proverbs 12:26",
+          "verse": 26,
+          "text": "qui neglegit damnum propter amicum iustus est iter autem impiorum decipiet eos "
+        },
+        {
+          "name": "Proverbs 12:27",
+          "verse": 27,
+          "text": "non inveniet fraudulentus lucrum et substantia hominis erit auri pretium "
+        },
+        {
+          "name": "Proverbs 12:28",
+          "verse": 28,
+          "text": "in semita iustitiae vita iter autem devium ducit ad mortem "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 13",
+      "chapter": 13,
+      "verses": [
+        {
+          "name": "Proverbs 13:1",
+          "verse": 1,
+          "text": "filius sapiens doctrina patris qui autem inlusor est non audit cum arguitur "
+        },
+        {
+          "name": "Proverbs 13:2",
+          "verse": 2,
+          "text": "de fructu oris homo saturabitur bonis anima autem praevaricatorum iniqua "
+        },
+        {
+          "name": "Proverbs 13:3",
+          "verse": 3,
+          "text": "qui custodit os suum custodit animam suam qui autem inconsideratus est ad loquendum sentiet mala "
+        },
+        {
+          "name": "Proverbs 13:4",
+          "verse": 4,
+          "text": "vult et non vult piger anima autem operantium inpinguabitur "
+        },
+        {
+          "name": "Proverbs 13:5",
+          "verse": 5,
+          "text": "verbum mendax iustus detestabitur impius confundit et confundetur "
+        },
+        {
+          "name": "Proverbs 13:6",
+          "verse": 6,
+          "text": "iustitia custodit innocentis viam impietas vero peccato subplantat "
+        },
+        {
+          "name": "Proverbs 13:7",
+          "verse": 7,
+          "text": "est quasi dives cum nihil habeat et est quasi pauper cum in multis divitiis sit "
+        },
+        {
+          "name": "Proverbs 13:8",
+          "verse": 8,
+          "text": "redemptio animae viri divitiae suae qui autem pauper est increpationem non sustinet "
+        },
+        {
+          "name": "Proverbs 13:9",
+          "verse": 9,
+          "text": "lux iustorum laetificat lucerna autem impiorum extinguetur "
+        },
+        {
+          "name": "Proverbs 13:10",
+          "verse": 10,
+          "text": "inter superbos semper iurgia sunt qui autem agunt cuncta consilio reguntur sapientia "
+        },
+        {
+          "name": "Proverbs 13:11",
+          "verse": 11,
+          "text": "substantia festinata minuetur quae autem paulatim colligitur manu multiplicabitur "
+        },
+        {
+          "name": "Proverbs 13:12",
+          "verse": 12,
+          "text": "spes quae differtur adfligit animam lignum vitae desiderium veniens "
+        },
+        {
+          "name": "Proverbs 13:13",
+          "verse": 13,
+          "text": "qui detrahit alicui rei ipse se in futurum obligat qui autem timet praeceptum in pace versabitur "
+        },
+        {
+          "name": "Proverbs 13:14",
+          "verse": 14,
+          "text": "lex sapientis fons vitae ut declinet a ruina mortis "
+        },
+        {
+          "name": "Proverbs 13:15",
+          "verse": 15,
+          "text": "doctrina bona dabit gratiam in itinere contemptorum vorago "
+        },
+        {
+          "name": "Proverbs 13:16",
+          "verse": 16,
+          "text": "astutus omnia agit cum consilio qui autem fatuus est aperit stultitiam "
+        },
+        {
+          "name": "Proverbs 13:17",
+          "verse": 17,
+          "text": "nuntius impii cadet in malum legatus fidelis sanitas "
+        },
+        {
+          "name": "Proverbs 13:18",
+          "verse": 18,
+          "text": "egestas et ignominia ei qui deserit disciplinam qui autem adquiescit arguenti glorificabitur "
+        },
+        {
+          "name": "Proverbs 13:19",
+          "verse": 19,
+          "text": "desiderium si conpleatur delectat animam detestantur stulti eos qui fugiunt mala "
+        },
+        {
+          "name": "Proverbs 13:20",
+          "verse": 20,
+          "text": "qui cum sapientibus graditur sapiens erit amicus stultorum efficietur similis "
+        },
+        {
+          "name": "Proverbs 13:21",
+          "verse": 21,
+          "text": "peccatores persequetur malum et iustis retribuentur bona "
+        },
+        {
+          "name": "Proverbs 13:22",
+          "verse": 22,
+          "text": "bonus relinquet heredes filios et nepotes et custoditur iusto substantia peccatoris "
+        },
+        {
+          "name": "Proverbs 13:23",
+          "verse": 23,
+          "text": "multi cibi in novalibus patrum et alii congregantur absque iudicio "
+        },
+        {
+          "name": "Proverbs 13:24",
+          "verse": 24,
+          "text": "qui parcit virgae suae odit filium suum qui autem diligit illum instanter erudit "
+        },
+        {
+          "name": "Proverbs 13:25",
+          "verse": 25,
+          "text": "iustus comedit et replet animam suam venter autem impiorum insaturabilis "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 14",
+      "chapter": 14,
+      "verses": [
+        {
+          "name": "Proverbs 14:1",
+          "verse": 1,
+          "text": "sapiens mulier aedificavit domum suam insipiens instructam quoque destruet manibus "
+        },
+        {
+          "name": "Proverbs 14:2",
+          "verse": 2,
+          "text": "ambulans recto itinere et timens Deum despicitur ab eo qui infami graditur via "
+        },
+        {
+          "name": "Proverbs 14:3",
+          "verse": 3,
+          "text": "in ore stulti virga superbiae labia sapientium custodiunt eos "
+        },
+        {
+          "name": "Proverbs 14:4",
+          "verse": 4,
+          "text": "ubi non sunt boves praesepe vacuum est ubi autem plurimae segetes ibi manifesta fortitudo bovis "
+        },
+        {
+          "name": "Proverbs 14:5",
+          "verse": 5,
+          "text": "testis fidelis non mentietur profert mendacium testis dolosus "
+        },
+        {
+          "name": "Proverbs 14:6",
+          "verse": 6,
+          "text": "quaerit derisor sapientiam et non inveniet doctrina prudentium facilis "
+        },
+        {
+          "name": "Proverbs 14:7",
+          "verse": 7,
+          "text": "vade contra virum stultum et nescito labia prudentiae "
+        },
+        {
+          "name": "Proverbs 14:8",
+          "verse": 8,
+          "text": "sapientia callidi est intellegere viam suam et inprudentia stultorum errans "
+        },
+        {
+          "name": "Proverbs 14:9",
+          "verse": 9,
+          "text": "stultis inludet peccatum inter iustos morabitur gratia "
+        },
+        {
+          "name": "Proverbs 14:10",
+          "verse": 10,
+          "text": "cor quod novit amaritudinem animae suae in gaudio eius non miscebitur extraneus "
+        },
+        {
+          "name": "Proverbs 14:11",
+          "verse": 11,
+          "text": "domus impiorum delebitur tabernacula iustorum germinabunt "
+        },
+        {
+          "name": "Proverbs 14:12",
+          "verse": 12,
+          "text": "est via quae videtur homini iusta novissima autem eius deducunt ad mortem "
+        },
+        {
+          "name": "Proverbs 14:13",
+          "verse": 13,
+          "text": "risus dolore miscebitur et extrema gaudii luctus occupat "
+        },
+        {
+          "name": "Proverbs 14:14",
+          "verse": 14,
+          "text": "viis suis replebitur stultus et super eum erit vir bonus "
+        },
+        {
+          "name": "Proverbs 14:15",
+          "verse": 15,
+          "text": "innocens credit omni verbo astutus considerat gressus suos "
+        },
+        {
+          "name": "Proverbs 14:16",
+          "verse": 16,
+          "text": "sapiens timet et declinat malum stultus transilit et confidit "
+        },
+        {
+          "name": "Proverbs 14:17",
+          "verse": 17,
+          "text": "inpatiens operabitur stultitiam et vir versutus odiosus est "
+        },
+        {
+          "name": "Proverbs 14:18",
+          "verse": 18,
+          "text": "possidebunt parvuli stultitiam et astuti expectabunt scientiam "
+        },
+        {
+          "name": "Proverbs 14:19",
+          "verse": 19,
+          "text": "iacebunt mali ante bonos et impii ante portas iustorum "
+        },
+        {
+          "name": "Proverbs 14:20",
+          "verse": 20,
+          "text": "etiam proximo suo pauper odiosus erit amici vero divitum multi "
+        },
+        {
+          "name": "Proverbs 14:21",
+          "verse": 21,
+          "text": "qui despicit proximum suum peccat qui autem miseretur pauperi beatus erit "
+        },
+        {
+          "name": "Proverbs 14:22",
+          "verse": 22,
+          "text": "errant qui operantur malum misericordia et veritas praeparant bona "
+        },
+        {
+          "name": "Proverbs 14:23",
+          "verse": 23,
+          "text": "in omni opere erit abundantia ubi autem verba sunt plurima frequenter egestas "
+        },
+        {
+          "name": "Proverbs 14:24",
+          "verse": 24,
+          "text": "corona sapientium divitiae eorum fatuitas stultorum inprudentia "
+        },
+        {
+          "name": "Proverbs 14:25",
+          "verse": 25,
+          "text": "liberat animas testis fidelis et profert mendacia versipellis "
+        },
+        {
+          "name": "Proverbs 14:26",
+          "verse": 26,
+          "text": "in timore Domini fiducia fortitudinis et filiis eius erit spes "
+        },
+        {
+          "name": "Proverbs 14:27",
+          "verse": 27,
+          "text": "timor Domini fons vitae ut declinet a ruina mortis "
+        },
+        {
+          "name": "Proverbs 14:28",
+          "verse": 28,
+          "text": "in multitudine populi dignitas regis et in paucitate plebis ignominia principis "
+        },
+        {
+          "name": "Proverbs 14:29",
+          "verse": 29,
+          "text": "qui patiens est multa gubernatur prudentia qui autem inpatiens exaltat stultitiam suam "
+        },
+        {
+          "name": "Proverbs 14:30",
+          "verse": 30,
+          "text": "vita carnium sanitas cordis putredo ossuum invidia "
+        },
+        {
+          "name": "Proverbs 14:31",
+          "verse": 31,
+          "text": "qui calumniatur egentem exprobrat factori eius honorat autem eum qui miseretur pauperis "
+        },
+        {
+          "name": "Proverbs 14:32",
+          "verse": 32,
+          "text": "in malitia sua expelletur impius sperat autem iustus in morte sua "
+        },
+        {
+          "name": "Proverbs 14:33",
+          "verse": 33,
+          "text": "in corde prudentis requiescit sapientia et indoctos quoque erudiet "
+        },
+        {
+          "name": "Proverbs 14:34",
+          "verse": 34,
+          "text": "iustitia elevat gentem miseros facit populos peccatum "
+        },
+        {
+          "name": "Proverbs 14:35",
+          "verse": 35,
+          "text": "acceptus est regi minister intellegens iracundiam eius inutilis sustinebit "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 15",
+      "chapter": 15,
+      "verses": [
+        {
+          "name": "Proverbs 15:1",
+          "verse": 1,
+          "text": "responsio mollis frangit iram sermo durus suscitat furorem "
+        },
+        {
+          "name": "Proverbs 15:2",
+          "verse": 2,
+          "text": "lingua sapientium ornat scientiam os fatuorum ebullit stultitiam "
+        },
+        {
+          "name": "Proverbs 15:3",
+          "verse": 3,
+          "text": "in omni loco oculi Domini contemplantur malos et bonos "
+        },
+        {
+          "name": "Proverbs 15:4",
+          "verse": 4,
+          "text": "lingua placabilis lignum vitae quae inmoderata est conteret spiritum "
+        },
+        {
+          "name": "Proverbs 15:5",
+          "verse": 5,
+          "text": "stultus inridet disciplinam patris sui qui autem custodit increpationes astutior fiet "
+        },
+        {
+          "name": "Proverbs 15:6",
+          "verse": 6,
+          "text": "domus iusti plurima fortitudo et in fructibus impii conturbatur "
+        },
+        {
+          "name": "Proverbs 15:7",
+          "verse": 7,
+          "text": "labia sapientium disseminabunt scientiam cor stultorum dissimile erit "
+        },
+        {
+          "name": "Proverbs 15:8",
+          "verse": 8,
+          "text": "victimae impiorum abominabiles Domino vota iustorum placabilia "
+        },
+        {
+          "name": "Proverbs 15:9",
+          "verse": 9,
+          "text": "abominatio est Domino via impii qui sequitur iustitiam diligetur ab eo "
+        },
+        {
+          "name": "Proverbs 15:10",
+          "verse": 10,
+          "text": "doctrina mala deserenti viam qui increpationes odit morietur "
+        },
+        {
+          "name": "Proverbs 15:11",
+          "verse": 11,
+          "text": "infernus et perditio coram Domino quanto magis corda filiorum hominum "
+        },
+        {
+          "name": "Proverbs 15:12",
+          "verse": 12,
+          "text": "non amat pestilens eum qui se corripit nec ad sapientes graditur "
+        },
+        {
+          "name": "Proverbs 15:13",
+          "verse": 13,
+          "text": "cor gaudens exhilarat faciem in maerore animi deicitur spiritus "
+        },
+        {
+          "name": "Proverbs 15:14",
+          "verse": 14,
+          "text": "cor sapientis quaerit doctrinam et os stultorum pascetur inperitia "
+        },
+        {
+          "name": "Proverbs 15:15",
+          "verse": 15,
+          "text": "omnes dies pauperis mali secura mens quasi iuge convivium "
+        },
+        {
+          "name": "Proverbs 15:16",
+          "verse": 16,
+          "text": "melius est parum cum timore Domini quam thesauri magni et insatiabiles "
+        },
+        {
+          "name": "Proverbs 15:17",
+          "verse": 17,
+          "text": "melius est vocare ad holera cum caritate quam ad vitulum saginatum cum odio "
+        },
+        {
+          "name": "Proverbs 15:18",
+          "verse": 18,
+          "text": "vir iracundus provocat rixas qui patiens est mitigat suscitatas "
+        },
+        {
+          "name": "Proverbs 15:19",
+          "verse": 19,
+          "text": "iter pigrorum quasi sepes spinarum via iustorum absque offendiculo "
+        },
+        {
+          "name": "Proverbs 15:20",
+          "verse": 20,
+          "text": "filius sapiens laetificat patrem et stultus homo despicit matrem suam "
+        },
+        {
+          "name": "Proverbs 15:21",
+          "verse": 21,
+          "text": "stultitia gaudium stulto et vir prudens dirigit gressus "
+        },
+        {
+          "name": "Proverbs 15:22",
+          "verse": 22,
+          "text": "dissipantur cogitationes ubi non est consilium ubi vero plures sunt consiliarii confirmantur "
+        },
+        {
+          "name": "Proverbs 15:23",
+          "verse": 23,
+          "text": "laetatur homo in sententia oris sui et sermo oportunus est optimus "
+        },
+        {
+          "name": "Proverbs 15:24",
+          "verse": 24,
+          "text": "semita vitae super eruditum ut declinet de inferno novissimo "
+        },
+        {
+          "name": "Proverbs 15:25",
+          "verse": 25,
+          "text": "domum superborum demolietur Dominus et firmos facit terminos viduae "
+        },
+        {
+          "name": "Proverbs 15:26",
+          "verse": 26,
+          "text": "abominatio Domini cogitationes malae et purus sermo pulcherrimus "
+        },
+        {
+          "name": "Proverbs 15:27",
+          "verse": 27,
+          "text": "conturbat domum suam qui sectatur avaritiam qui autem odit munera vivet "
+        },
+        {
+          "name": "Proverbs 15:28",
+          "verse": 28,
+          "text": "mens iusti meditatur oboedientiam os impiorum redundat malis "
+        },
+        {
+          "name": "Proverbs 15:29",
+          "verse": 29,
+          "text": "longe est Dominus ab impiis et orationes iustorum exaudiet "
+        },
+        {
+          "name": "Proverbs 15:30",
+          "verse": 30,
+          "text": "lux oculorum laetificat animam fama bona inpinguat ossa "
+        },
+        {
+          "name": "Proverbs 15:31",
+          "verse": 31,
+          "text": "auris quae audit increpationes vitae in medio sapientium commorabitur "
+        },
+        {
+          "name": "Proverbs 15:32",
+          "verse": 32,
+          "text": "qui abicit disciplinam despicit animam suam qui adquiescit increpationibus possessor est cordis "
+        },
+        {
+          "name": "Proverbs 15:33",
+          "verse": 33,
+          "text": "timor Domini disciplina sapientiae et gloriam praecedit humilitas "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 16",
+      "chapter": 16,
+      "verses": [
+        {
+          "name": "Proverbs 16:1",
+          "verse": 1,
+          "text": "hominis est animum praeparare et Dei gubernare linguam "
+        },
+        {
+          "name": "Proverbs 16:2",
+          "verse": 2,
+          "text": "omnes viae hominum patent oculis eius spirituum ponderator est Dominus "
+        },
+        {
+          "name": "Proverbs 16:3",
+          "verse": 3,
+          "text": "revela Domino opera tua et dirigentur cogitationes tuae "
+        },
+        {
+          "name": "Proverbs 16:4",
+          "verse": 4,
+          "text": "universa propter semet ipsum operatus est Dominus impium quoque ad diem malum "
+        },
+        {
+          "name": "Proverbs 16:5",
+          "verse": 5,
+          "text": "abominatio Domini omnis arrogans etiam si manus ad manum fuerit non erit innocens "
+        },
+        {
+          "name": "Proverbs 16:6",
+          "verse": 6,
+          "text": "misericordia et veritate redimitur iniquitas et in timore Domini declinatur a malo "
+        },
+        {
+          "name": "Proverbs 16:7",
+          "verse": 7,
+          "text": "cum placuerint Domino viae hominis inimicos quoque eius convertet ad pacem "
+        },
+        {
+          "name": "Proverbs 16:8",
+          "verse": 8,
+          "text": "melius est parum cum iustitia quam multi fructus cum iniquitate "
+        },
+        {
+          "name": "Proverbs 16:9",
+          "verse": 9,
+          "text": "cor hominis disponet viam suam sed Domini est dirigere gressus eius "
+        },
+        {
+          "name": "Proverbs 16:10",
+          "verse": 10,
+          "text": "divinatio in labiis regis in iudicio non errabit os eius "
+        },
+        {
+          "name": "Proverbs 16:11",
+          "verse": 11,
+          "text": "pondus et statera iudicia Domini sunt et opera eius omnes lapides sacculi "
+        },
+        {
+          "name": "Proverbs 16:12",
+          "verse": 12,
+          "text": "abominabiles regi qui agunt impie quoniam iustitia firmatur solium "
+        },
+        {
+          "name": "Proverbs 16:13",
+          "verse": 13,
+          "text": "voluntas regum labia iusta qui recta loquitur diligetur "
+        },
+        {
+          "name": "Proverbs 16:14",
+          "verse": 14,
+          "text": "indignatio regis nuntii mortis et vir sapiens placabit eam "
+        },
+        {
+          "name": "Proverbs 16:15",
+          "verse": 15,
+          "text": "in hilaritate vultus regis vita et clementia eius quasi imber serotinus "
+        },
+        {
+          "name": "Proverbs 16:16",
+          "verse": 16,
+          "text": "posside sapientiam quia auro melior est et adquire prudentiam quia pretiosior est argento "
+        },
+        {
+          "name": "Proverbs 16:17",
+          "verse": 17,
+          "text": "semita iustorum declinat mala custos animae suae servat viam suam "
+        },
+        {
+          "name": "Proverbs 16:18",
+          "verse": 18,
+          "text": "contritionem praecedit superbia et ante ruinam exaltatur spiritus "
+        },
+        {
+          "name": "Proverbs 16:19",
+          "verse": 19,
+          "text": "melius est humiliari cum mitibus quam dividere spolia cum superbis "
+        },
+        {
+          "name": "Proverbs 16:20",
+          "verse": 20,
+          "text": "eruditus in verbo repperiet bona et qui in Domino sperat beatus est "
+        },
+        {
+          "name": "Proverbs 16:21",
+          "verse": 21,
+          "text": "qui sapiens corde est appellabitur prudens et qui dulcis eloquio maiora percipiet "
+        },
+        {
+          "name": "Proverbs 16:22",
+          "verse": 22,
+          "text": "fons vitae eruditio possidentis doctrina stultorum fatuitas "
+        },
+        {
+          "name": "Proverbs 16:23",
+          "verse": 23,
+          "text": "cor sapientis erudiet os eius et labiis illius addet gratiam "
+        },
+        {
+          "name": "Proverbs 16:24",
+          "verse": 24,
+          "text": "favus mellis verba conposita dulcedo animae et sanitas ossuum "
+        },
+        {
+          "name": "Proverbs 16:25",
+          "verse": 25,
+          "text": "est via quae videtur homini recta et novissimum eius ducit ad mortem "
+        },
+        {
+          "name": "Proverbs 16:26",
+          "verse": 26,
+          "text": "anima laborantis laborat sibi quia conpulit eum os suum "
+        },
+        {
+          "name": "Proverbs 16:27",
+          "verse": 27,
+          "text": "vir impius fodit malum et in labiis eius ignis ardescit "
+        },
+        {
+          "name": "Proverbs 16:28",
+          "verse": 28,
+          "text": "homo perversus suscitat lites et verbosus separat principes "
+        },
+        {
+          "name": "Proverbs 16:29",
+          "verse": 29,
+          "text": "vir iniquus lactat amicum suum et ducit eum per viam non bonam "
+        },
+        {
+          "name": "Proverbs 16:30",
+          "verse": 30,
+          "text": "qui adtonitis oculis cogitat prava mordens labia sua perficit malum "
+        },
+        {
+          "name": "Proverbs 16:31",
+          "verse": 31,
+          "text": "corona dignitatis senectus in viis iustitiae repperietur "
+        },
+        {
+          "name": "Proverbs 16:32",
+          "verse": 32,
+          "text": "melior est patiens viro forte et qui dominatur animo suo expugnatore urbium "
+        },
+        {
+          "name": "Proverbs 16:33",
+          "verse": 33,
+          "text": "sortes mittuntur in sinu sed a Domino temperantur "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 17",
+      "chapter": 17,
+      "verses": [
+        {
+          "name": "Proverbs 17:1",
+          "verse": 1,
+          "text": "melior est buccella sicca cum gaudio quam domus plena victimis cum iurgio "
+        },
+        {
+          "name": "Proverbs 17:2",
+          "verse": 2,
+          "text": "servus sapiens dominabitur filiis stultis et inter fratres hereditatem dividet "
+        },
+        {
+          "name": "Proverbs 17:3",
+          "verse": 3,
+          "text": "sicut igne probatur argentum et aurum camino ita corda probat Dominus "
+        },
+        {
+          "name": "Proverbs 17:4",
+          "verse": 4,
+          "text": "malus oboedit linguae iniquae et fallax obtemperat labiis mendacibus "
+        },
+        {
+          "name": "Proverbs 17:5",
+          "verse": 5,
+          "text": "qui despicit pauperem exprobrat factori eius et qui in ruina laetatur alterius non erit inpunitus "
+        },
+        {
+          "name": "Proverbs 17:6",
+          "verse": 6,
+          "text": "corona senum filii filiorum et gloria filiorum patres sui "
+        },
+        {
+          "name": "Proverbs 17:7",
+          "verse": 7,
+          "text": "non decent stultum verba conposita nec principem labium mentiens "
+        },
+        {
+          "name": "Proverbs 17:8",
+          "verse": 8,
+          "text": "gemma gratissima expectatio praestolantis quocumque se verterit prudenter intellegit "
+        },
+        {
+          "name": "Proverbs 17:9",
+          "verse": 9,
+          "text": "qui celat delictum quaerit amicitias qui altero sermone repetit separat foederatos "
+        },
+        {
+          "name": "Proverbs 17:10",
+          "verse": 10,
+          "text": "plus proficit correptio apud prudentem quam centum plagae apud stultum "
+        },
+        {
+          "name": "Proverbs 17:11",
+          "verse": 11,
+          "text": "semper iurgia quaerit malus angelus autem crudelis mittetur contra eum "
+        },
+        {
+          "name": "Proverbs 17:12",
+          "verse": 12,
+          "text": "expedit magis ursae occurrere raptis fetibus quam fatuo confidenti sibi in stultitia sua "
+        },
+        {
+          "name": "Proverbs 17:13",
+          "verse": 13,
+          "text": "qui reddit mala pro bonis non recedet malum de domo eius "
+        },
+        {
+          "name": "Proverbs 17:14",
+          "verse": 14,
+          "text": "qui dimittit aquam caput est iurgiorum et antequam patiatur contumeliam iudicium deserit "
+        },
+        {
+          "name": "Proverbs 17:15",
+          "verse": 15,
+          "text": "et qui iustificat impium et qui condemnat iustum abominabilis est uterque apud Dominum "
+        },
+        {
+          "name": "Proverbs 17:16",
+          "verse": 16,
+          "text": "quid prodest habere divitias stultum cum sapientiam emere non possit "
+        },
+        {
+          "name": "Proverbs 17:17",
+          "verse": 17,
+          "text": "omni tempore diligit qui amicus est et frater in angustiis conprobatur "
+        },
+        {
+          "name": "Proverbs 17:18",
+          "verse": 18,
+          "text": "homo stultus plaudet manibus cum spoponderit pro amico suo "
+        },
+        {
+          "name": "Proverbs 17:19",
+          "verse": 19,
+          "text": "qui meditatur discordiam diligit rixas et qui exaltat ostium quaerit ruinam "
+        },
+        {
+          "name": "Proverbs 17:20",
+          "verse": 20,
+          "text": "qui perversi cordis est non inveniet bonum et qui vertit linguam incidet in malum "
+        },
+        {
+          "name": "Proverbs 17:21",
+          "verse": 21,
+          "text": "natus est stultus in ignominiam suam sed nec pater in fatuo laetabitur "
+        },
+        {
+          "name": "Proverbs 17:22",
+          "verse": 22,
+          "text": "animus gaudens aetatem floridam facit spiritus tristis exsiccat ossa "
+        },
+        {
+          "name": "Proverbs 17:23",
+          "verse": 23,
+          "text": "munera de sinu impius accipit ut pervertat semitas iudicii "
+        },
+        {
+          "name": "Proverbs 17:24",
+          "verse": 24,
+          "text": "in facie prudentis lucet sapientia oculi stultorum in finibus terrae "
+        },
+        {
+          "name": "Proverbs 17:25",
+          "verse": 25,
+          "text": "ira patris filius stultus et dolor matris quae genuit eum "
+        },
+        {
+          "name": "Proverbs 17:26",
+          "verse": 26,
+          "text": "non est bonum damnum inferre iusto nec percutere principem qui recta iudicat "
+        },
+        {
+          "name": "Proverbs 17:27",
+          "verse": 27,
+          "text": "qui moderatur sermones suos doctus et prudens est et pretiosi spiritus vir eruditus "
+        },
+        {
+          "name": "Proverbs 17:28",
+          "verse": 28,
+          "text": "stultus quoque si tacuerit sapiens putabitur et si conpresserit labia sua intellegens "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 18",
+      "chapter": 18,
+      "verses": [
+        {
+          "name": "Proverbs 18:1",
+          "verse": 1,
+          "text": "occasiones quaerit qui vult recedere ab amico omni tempore erit exprobrabilis "
+        },
+        {
+          "name": "Proverbs 18:2",
+          "verse": 2,
+          "text": "non recipit stultus verba prudentiae nisi ea dixeris quae versantur in corde eius "
+        },
+        {
+          "name": "Proverbs 18:3",
+          "verse": 3,
+          "text": "impius cum in profundum venerit peccatorum contemnit sed sequitur eum ignominia et obprobrium "
+        },
+        {
+          "name": "Proverbs 18:4",
+          "verse": 4,
+          "text": "aqua profunda verba ex ore viri et torrens redundans fons sapientiae "
+        },
+        {
+          "name": "Proverbs 18:5",
+          "verse": 5,
+          "text": "accipere personam impii non est bonum ut declines a veritate iudicii "
+        },
+        {
+          "name": "Proverbs 18:6",
+          "verse": 6,
+          "text": "labia stulti inmiscunt se rixis et os eius iurgia provocat "
+        },
+        {
+          "name": "Proverbs 18:7",
+          "verse": 7,
+          "text": "os stulti contritio eius et labia illius ruina animae eius "
+        },
+        {
+          "name": "Proverbs 18:8",
+          "verse": 8,
+          "text": "verba bilinguis quasi simplicia et ipsa perveniunt usque ad interiora ventris "
+        },
+        {
+          "name": "Proverbs 18:9",
+          "verse": 9,
+          "text": "qui mollis et dissolutus est in opere suo frater est sua opera dissipantis "
+        },
+        {
+          "name": "Proverbs 18:10",
+          "verse": 10,
+          "text": "turris fortissima nomen Domini ad ipsum currit iustus et exaltabitur "
+        },
+        {
+          "name": "Proverbs 18:11",
+          "verse": 11,
+          "text": "substantia divitis urbs roboris eius et quasi murus validus circumdans eum "
+        },
+        {
+          "name": "Proverbs 18:12",
+          "verse": 12,
+          "text": "antequam conteratur exaltatur cor hominis et antequam glorificetur humiliatur "
+        },
+        {
+          "name": "Proverbs 18:13",
+          "verse": 13,
+          "text": "qui prius respondit quam audiat stultum se esse demonstrat et confusione dignum "
+        },
+        {
+          "name": "Proverbs 18:14",
+          "verse": 14,
+          "text": "spiritus viri sustentat inbecillitatem suam spiritum vero ad irascendum facilem quis poterit sustinere "
+        },
+        {
+          "name": "Proverbs 18:15",
+          "verse": 15,
+          "text": "cor prudens possidebit scientiam et auris sapientium quaerit doctrinam "
+        },
+        {
+          "name": "Proverbs 18:16",
+          "verse": 16,
+          "text": "donum hominis dilatat viam eius et ante principes spatium ei facit "
+        },
+        {
+          "name": "Proverbs 18:17",
+          "verse": 17,
+          "text": "iustus prior est accusator sui venit amicus eius et investigavit eum "
+        },
+        {
+          "name": "Proverbs 18:18",
+          "verse": 18,
+          "text": "contradictiones conprimit sors et inter potentes quoque diiudicat "
+        },
+        {
+          "name": "Proverbs 18:19",
+          "verse": 19,
+          "text": "frater qui adiuvatur a fratre quasi civitas firma et iudicia quasi vectes urbium "
+        },
+        {
+          "name": "Proverbs 18:20",
+          "verse": 20,
+          "text": "de fructu oris viri replebitur venter eius et genimina labiorum illius saturabunt eum "
+        },
+        {
+          "name": "Proverbs 18:21",
+          "verse": 21,
+          "text": "mors et vita in manu linguae qui diligunt eam comedent fructus eius "
+        },
+        {
+          "name": "Proverbs 18:22",
+          "verse": 22,
+          "text": "qui invenit mulierem invenit bonum et hauriet iucunditatem a Domino "
+        },
+        {
+          "name": "Proverbs 18:23",
+          "verse": 23,
+          "text": "cum obsecrationibus loquetur pauper et dives effabitur rigide "
+        },
+        {
+          "name": "Proverbs 18:24",
+          "verse": 24,
+          "text": "vir amicalis ad societatem magis amicus erit quam frater "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 19",
+      "chapter": 19,
+      "verses": [
+        {
+          "name": "Proverbs 19:1",
+          "verse": 1,
+          "text": "melior est pauper qui ambulat in simplicitate sua quam torquens labia insipiens "
+        },
+        {
+          "name": "Proverbs 19:2",
+          "verse": 2,
+          "text": "ubi non est scientia animae non est bonum et qui festinus est pedibus offendit "
+        },
+        {
+          "name": "Proverbs 19:3",
+          "verse": 3,
+          "text": "stultitia hominis subplantat gressus eius et contra Deum fervet animo suo "
+        },
+        {
+          "name": "Proverbs 19:4",
+          "verse": 4,
+          "text": "divitiae addunt amicos plurimos a paupere autem et hii quos habuit separantur "
+        },
+        {
+          "name": "Proverbs 19:5",
+          "verse": 5,
+          "text": "testis falsus non erit inpunitus et qui mendacia loquitur non effugiet "
+        },
+        {
+          "name": "Proverbs 19:6",
+          "verse": 6,
+          "text": "multi colunt personam potentis et amici sunt dona tribuenti "
+        },
+        {
+          "name": "Proverbs 19:7",
+          "verse": 7,
+          "text": "fratres hominis pauperis oderunt eum insuper et amici procul recesserunt ab eo qui tantum verba sectatur nihil habebit "
+        },
+        {
+          "name": "Proverbs 19:8",
+          "verse": 8,
+          "text": "qui autem possessor est mentis diligit animam suam et custos prudentiae inveniet bona "
+        },
+        {
+          "name": "Proverbs 19:9",
+          "verse": 9,
+          "text": "testis falsus non erit inpunitus et qui loquitur mendacia peribit "
+        },
+        {
+          "name": "Proverbs 19:10",
+          "verse": 10,
+          "text": "non decent stultum deliciae nec servum dominari principibus "
+        },
+        {
+          "name": "Proverbs 19:11",
+          "verse": 11,
+          "text": "doctrina viri per patientiam noscitur et gloria eius est iniqua praetergredi "
+        },
+        {
+          "name": "Proverbs 19:12",
+          "verse": 12,
+          "text": "sicut fremitus leonis ita et regis ira et sicut ros super herbam ita hilaritas eius "
+        },
+        {
+          "name": "Proverbs 19:13",
+          "verse": 13,
+          "text": "dolor patris filius stultus et tecta iugiter perstillantia litigiosa mulier "
+        },
+        {
+          "name": "Proverbs 19:14",
+          "verse": 14,
+          "text": "domus et divitiae dantur a patribus a Domino autem proprie uxor prudens "
+        },
+        {
+          "name": "Proverbs 19:15",
+          "verse": 15,
+          "text": "pigredo inmittit soporem et anima dissoluta esuriet "
+        },
+        {
+          "name": "Proverbs 19:16",
+          "verse": 16,
+          "text": "qui custodit mandatum custodit animam suam qui autem neglegit vias suas mortificabitur "
+        },
+        {
+          "name": "Proverbs 19:17",
+          "verse": 17,
+          "text": "feneratur Domino qui miseretur pauperis et vicissitudinem suam reddet ei "
+        },
+        {
+          "name": "Proverbs 19:18",
+          "verse": 18,
+          "text": "erudi filium tuum ne desperes ad interfectionem autem eius ne ponas animam tuam "
+        },
+        {
+          "name": "Proverbs 19:19",
+          "verse": 19,
+          "text": "qui inpatiens est sustinebit damnum et cum rapuerit aliud adponet "
+        },
+        {
+          "name": "Proverbs 19:20",
+          "verse": 20,
+          "text": "audi consilium et suscipe disciplinam ut sis sapiens in novissimis tuis "
+        },
+        {
+          "name": "Proverbs 19:21",
+          "verse": 21,
+          "text": "multae cogitationes in corde viri voluntas autem Domini permanebit "
+        },
+        {
+          "name": "Proverbs 19:22",
+          "verse": 22,
+          "text": "homo indigens misericors est et melior pauper quam vir mendax "
+        },
+        {
+          "name": "Proverbs 19:23",
+          "verse": 23,
+          "text": "timor Domini ad vitam et in plenitudine commorabitur absque visitatione pessimi "
+        },
+        {
+          "name": "Proverbs 19:24",
+          "verse": 24,
+          "text": "abscondit piger manum suam sub ascella nec ad os suum adplicat eam "
+        },
+        {
+          "name": "Proverbs 19:25",
+          "verse": 25,
+          "text": "pestilente flagellato stultus sapientior erit sin autem corripueris sapientem intelleget disciplinam "
+        },
+        {
+          "name": "Proverbs 19:26",
+          "verse": 26,
+          "text": "qui adfligit patrem et fugat matrem ignominiosus est et infelix "
+        },
+        {
+          "name": "Proverbs 19:27",
+          "verse": 27,
+          "text": "non cesses fili audire doctrinam nec ignores sermones scientiae "
+        },
+        {
+          "name": "Proverbs 19:28",
+          "verse": 28,
+          "text": "testis iniquus deridet iudicium et os impiorum devorat iniquitatem "
+        },
+        {
+          "name": "Proverbs 19:29",
+          "verse": 29,
+          "text": "parata sunt derisoribus iudicia et mallei percutientes stultorum corporibus "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 20",
+      "chapter": 20,
+      "verses": [
+        {
+          "name": "Proverbs 20:1",
+          "verse": 1,
+          "text": "luxuriosa res vinum et tumultuosa ebrietas quicumque his delectatur non erit sapiens "
+        },
+        {
+          "name": "Proverbs 20:2",
+          "verse": 2,
+          "text": "sicut rugitus leonis ita terror regis qui provocat eum peccat in animam suam "
+        },
+        {
+          "name": "Proverbs 20:3",
+          "verse": 3,
+          "text": "honor est homini qui separat se a contentionibus omnes autem stulti miscentur contumeliis "
+        },
+        {
+          "name": "Proverbs 20:4",
+          "verse": 4,
+          "text": "propter frigus piger arare noluit mendicabit ergo aestate et non dabitur ei "
+        },
+        {
+          "name": "Proverbs 20:5",
+          "verse": 5,
+          "text": "sicut aqua profunda sic consilium in corde viri sed homo sapiens exhauriet illud "
+        },
+        {
+          "name": "Proverbs 20:6",
+          "verse": 6,
+          "text": "multi homines misericordes vocantur virum autem fidelem quis inveniet "
+        },
+        {
+          "name": "Proverbs 20:7",
+          "verse": 7,
+          "text": "iustus qui ambulat in simplicitate sua beatos post se filios derelinquet "
+        },
+        {
+          "name": "Proverbs 20:8",
+          "verse": 8,
+          "text": "rex qui sedet in solio iudicii dissipat omne malum intuitu suo "
+        },
+        {
+          "name": "Proverbs 20:9",
+          "verse": 9,
+          "text": "quis potest dicere mundum est cor meum purus sum a peccato "
+        },
+        {
+          "name": "Proverbs 20:10",
+          "verse": 10,
+          "text": "pondus et pondus mensura et mensura utrumque abominabile est apud Deum "
+        },
+        {
+          "name": "Proverbs 20:11",
+          "verse": 11,
+          "text": "ex studiis suis intellegitur puer si munda et si recta sint opera eius "
+        },
+        {
+          "name": "Proverbs 20:12",
+          "verse": 12,
+          "text": "aurem audientem et oculum videntem Dominus fecit utrumque "
+        },
+        {
+          "name": "Proverbs 20:13",
+          "verse": 13,
+          "text": "noli diligere somnum ne te egestas opprimat aperi oculos tuos et saturare panibus "
+        },
+        {
+          "name": "Proverbs 20:14",
+          "verse": 14,
+          "text": "malum est malum est dicit omnis emptor et cum recesserit tunc gloriabitur "
+        },
+        {
+          "name": "Proverbs 20:15",
+          "verse": 15,
+          "text": "est aurum et multitudo gemmarum vas autem pretiosum labia scientiae "
+        },
+        {
+          "name": "Proverbs 20:16",
+          "verse": 16,
+          "text": "tolle vestimentum eius qui fideiussor extitit alieni et pro extraneis aufer pignus ab eo "
+        },
+        {
+          "name": "Proverbs 20:17",
+          "verse": 17,
+          "text": "suavis est homini panis mendacii et postea implebitur os eius calculo "
+        },
+        {
+          "name": "Proverbs 20:18",
+          "verse": 18,
+          "text": "cogitationes consiliis roborantur et gubernaculis tractanda sunt bella "
+        },
+        {
+          "name": "Proverbs 20:19",
+          "verse": 19,
+          "text": "ei qui revelat mysteria et ambulat fraudulenter et dilatat labia sua ne commiscearis "
+        },
+        {
+          "name": "Proverbs 20:20",
+          "verse": 20,
+          "text": "qui maledicit patri suo et matri extinguetur lucerna eius in mediis tenebris "
+        },
+        {
+          "name": "Proverbs 20:21",
+          "verse": 21,
+          "text": "hereditas ad quam festinatur in principio in novissimo benedictione carebit "
+        },
+        {
+          "name": "Proverbs 20:22",
+          "verse": 22,
+          "text": "ne dicas reddam malum expecta Dominum et liberabit te "
+        },
+        {
+          "name": "Proverbs 20:23",
+          "verse": 23,
+          "text": "abominatio est apud Deum pondus et pondus statera dolosa non est bona "
+        },
+        {
+          "name": "Proverbs 20:24",
+          "verse": 24,
+          "text": "a Domino diriguntur gressus viri quis autem hominum intellegere potest viam suam "
+        },
+        {
+          "name": "Proverbs 20:25",
+          "verse": 25,
+          "text": "ruina est hominis devorare sanctos et post vota tractare "
+        },
+        {
+          "name": "Proverbs 20:26",
+          "verse": 26,
+          "text": "dissipat impios rex sapiens et curvat super eos fornicem "
+        },
+        {
+          "name": "Proverbs 20:27",
+          "verse": 27,
+          "text": "lucerna Domini spiraculum hominis quae investigat omnia secreta ventris "
+        },
+        {
+          "name": "Proverbs 20:28",
+          "verse": 28,
+          "text": "misericordia et veritas custodiunt regem et roboratur clementia thronus eius "
+        },
+        {
+          "name": "Proverbs 20:29",
+          "verse": 29,
+          "text": "exultatio iuvenum fortitudo eorum et dignitas senum canities "
+        },
+        {
+          "name": "Proverbs 20:30",
+          "verse": 30,
+          "text": "livor vulneris absterget mala et plagae in secretioribus ventris "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 21",
+      "chapter": 21,
+      "verses": [
+        {
+          "name": "Proverbs 21:1",
+          "verse": 1,
+          "text": "sicut divisiones aquarum ita cor regis in manu Domini quocumque voluerit inclinabit illud "
+        },
+        {
+          "name": "Proverbs 21:2",
+          "verse": 2,
+          "text": "omnis via viri recta sibi videtur adpendit autem corda Dominus "
+        },
+        {
+          "name": "Proverbs 21:3",
+          "verse": 3,
+          "text": "facere misericordiam et iudicium magis placent Domino quam victimae "
+        },
+        {
+          "name": "Proverbs 21:4",
+          "verse": 4,
+          "text": "exaltatio oculorum et dilatatio cordis lucerna impiorum peccatum "
+        },
+        {
+          "name": "Proverbs 21:5",
+          "verse": 5,
+          "text": "cogitationes robusti semper in abundantia omnis autem piger semper in egestate "
+        },
+        {
+          "name": "Proverbs 21:6",
+          "verse": 6,
+          "text": "qui congregat thesauros lingua mendacii vanus est et inpingetur ad laqueos mortis "
+        },
+        {
+          "name": "Proverbs 21:7",
+          "verse": 7,
+          "text": "rapinae impiorum detrahent eos quia noluerunt facere iudicium "
+        },
+        {
+          "name": "Proverbs 21:8",
+          "verse": 8,
+          "text": "perversa via viri aliena est qui autem mundus est rectum opus eius "
+        },
+        {
+          "name": "Proverbs 21:9",
+          "verse": 9,
+          "text": "melius est sedere in angulo domatis quam cum muliere litigiosa et in domo communi "
+        },
+        {
+          "name": "Proverbs 21:10",
+          "verse": 10,
+          "text": "anima impii desiderat malum non miserebitur proximo suo "
+        },
+        {
+          "name": "Proverbs 21:11",
+          "verse": 11,
+          "text": "multato pestilente sapientior erit parvulus et si sectetur sapientem sumet scientiam "
+        },
+        {
+          "name": "Proverbs 21:12",
+          "verse": 12,
+          "text": "excogitat iustus de domo impii ut detrahat impios in malum "
+        },
+        {
+          "name": "Proverbs 21:13",
+          "verse": 13,
+          "text": "qui obturat aurem suam ad clamorem pauperis et ipse clamabit et non exaudietur "
+        },
+        {
+          "name": "Proverbs 21:14",
+          "verse": 14,
+          "text": "munus absconditum extinguet iras et donum in sinu indignationem maximam "
+        },
+        {
+          "name": "Proverbs 21:15",
+          "verse": 15,
+          "text": "gaudium iusto est facere iudicium et pavor operantibus iniquitatem "
+        },
+        {
+          "name": "Proverbs 21:16",
+          "verse": 16,
+          "text": "vir qui erraverit a via doctrinae in coetu gigantum commorabitur "
+        },
+        {
+          "name": "Proverbs 21:17",
+          "verse": 17,
+          "text": "qui diligit epulas in egestate erit qui amat vinum et pinguia non ditabitur "
+        },
+        {
+          "name": "Proverbs 21:18",
+          "verse": 18,
+          "text": "pro iusto datur impius et pro rectis iniquus "
+        },
+        {
+          "name": "Proverbs 21:19",
+          "verse": 19,
+          "text": "melius est habitare in terra deserta quam cum muliere rixosa et iracunda "
+        },
+        {
+          "name": "Proverbs 21:20",
+          "verse": 20,
+          "text": "thesaurus desiderabilis et oleum in habitaculo iusti et inprudens homo dissipabit illud "
+        },
+        {
+          "name": "Proverbs 21:21",
+          "verse": 21,
+          "text": "qui sequitur iustitiam et misericordiam inveniet vitam et iustitiam et gloriam "
+        },
+        {
+          "name": "Proverbs 21:22",
+          "verse": 22,
+          "text": "civitatem fortium ascendit sapiens et destruxit robur fiduciae eius "
+        },
+        {
+          "name": "Proverbs 21:23",
+          "verse": 23,
+          "text": "qui custodit os suum et linguam suam custodit ab angustiis animam suam "
+        },
+        {
+          "name": "Proverbs 21:24",
+          "verse": 24,
+          "text": "superbus et arrogans vocatur indoctus qui in ira operatur superbiam "
+        },
+        {
+          "name": "Proverbs 21:25",
+          "verse": 25,
+          "text": "desideria occidunt pigrum noluerunt enim quicquam manus eius operari "
+        },
+        {
+          "name": "Proverbs 21:26",
+          "verse": 26,
+          "text": "tota die concupiscit et desiderat qui autem iustus est tribuet et non cessabit "
+        },
+        {
+          "name": "Proverbs 21:27",
+          "verse": 27,
+          "text": "hostiae impiorum abominabiles quia offeruntur ex scelere "
+        },
+        {
+          "name": "Proverbs 21:28",
+          "verse": 28,
+          "text": "testis mendax peribit vir oboediens loquitur victoriam "
+        },
+        {
+          "name": "Proverbs 21:29",
+          "verse": 29,
+          "text": "vir impius procaciter obfirmat vultum suum qui autem rectus est corrigit viam suam "
+        },
+        {
+          "name": "Proverbs 21:30",
+          "verse": 30,
+          "text": "non est sapientia non est prudentia non est consilium contra Dominum "
+        },
+        {
+          "name": "Proverbs 21:31",
+          "verse": 31,
+          "text": "equus paratur ad diem belli Dominus autem salutem tribuet "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 22",
+      "chapter": 22,
+      "verses": [
+        {
+          "name": "Proverbs 22:1",
+          "verse": 1,
+          "text": "melius est nomen bonum quam divitiae multae super argentum et aurum gratia bona "
+        },
+        {
+          "name": "Proverbs 22:2",
+          "verse": 2,
+          "text": "dives et pauper obviaverunt sibi utriusque operator est Dominus "
+        },
+        {
+          "name": "Proverbs 22:3",
+          "verse": 3,
+          "text": "callidus vidit malum et abscondit se innocens pertransiit et adflictus est damno "
+        },
+        {
+          "name": "Proverbs 22:4",
+          "verse": 4,
+          "text": "finis modestiae timor Domini divitiae et gloria et vita "
+        },
+        {
+          "name": "Proverbs 22:5",
+          "verse": 5,
+          "text": "arma et gladii in via perversi custos animae suae longe recedit ab eis "
+        },
+        {
+          "name": "Proverbs 22:6",
+          "verse": 6,
+          "text": "proverbium est adulescens iuxta viam suam etiam cum senuerit non recedet ab ea "
+        },
+        {
+          "name": "Proverbs 22:7",
+          "verse": 7,
+          "text": "dives pauperibus imperat et qui accipit mutuum servus est fenerantis "
+        },
+        {
+          "name": "Proverbs 22:8",
+          "verse": 8,
+          "text": "qui seminat iniquitatem metet mala et virga irae suae consummabitur "
+        },
+        {
+          "name": "Proverbs 22:9",
+          "verse": 9,
+          "text": "qui pronus est ad misericordiam benedicetur de panibus enim suis dedit pauperi "
+        },
+        {
+          "name": "Proverbs 22:10",
+          "verse": 10,
+          "text": "eice derisorem et exibit cum eo iurgium cessabuntque causae et contumeliae "
+        },
+        {
+          "name": "Proverbs 22:11",
+          "verse": 11,
+          "text": "qui diligit cordis munditiam propter gratiam labiorum suorum habebit amicum regem "
+        },
+        {
+          "name": "Proverbs 22:12",
+          "verse": 12,
+          "text": "oculi Domini custodiunt scientiam et subplantantur verba iniqui "
+        },
+        {
+          "name": "Proverbs 22:13",
+          "verse": 13,
+          "text": "dicit piger leo foris in medio platearum occidendus sum "
+        },
+        {
+          "name": "Proverbs 22:14",
+          "verse": 14,
+          "text": "fovea profunda os alienae cui iratus est Dominus incidet in eam "
+        },
+        {
+          "name": "Proverbs 22:15",
+          "verse": 15,
+          "text": "stultitia conligata est in corde pueri et virga disciplinae fugabit eam "
+        },
+        {
+          "name": "Proverbs 22:16",
+          "verse": 16,
+          "text": "qui calumniatur pauperem ut augeat divitias suas dabit ipse ditiori et egebit "
+        },
+        {
+          "name": "Proverbs 22:17",
+          "verse": 17,
+          "text": "inclina aurem tuam et audi verba sapientium adpone autem cor ad doctrinam meam "
+        },
+        {
+          "name": "Proverbs 22:18",
+          "verse": 18,
+          "text": "quae pulchra erit tibi cum servaveris eam in ventre tuo et redundabit in labiis tuis "
+        },
+        {
+          "name": "Proverbs 22:19",
+          "verse": 19,
+          "text": "ut sit in Domino fiducia tua unde et ostendi eam tibi hodie "
+        },
+        {
+          "name": "Proverbs 22:20",
+          "verse": 20,
+          "text": "ecce descripsi eam tibi tripliciter in cogitationibus et scientia "
+        },
+        {
+          "name": "Proverbs 22:21",
+          "verse": 21,
+          "text": "ut ostenderem tibi firmitatem et eloquia veritatis respondere ex his illi qui misit te "
+        },
+        {
+          "name": "Proverbs 22:22",
+          "verse": 22,
+          "text": "non facias violentiam pauperi quia pauper est neque conteras egenum in porta "
+        },
+        {
+          "name": "Proverbs 22:23",
+          "verse": 23,
+          "text": "quia Dominus iudicabit causam eius et configet eos qui confixerint animam eius "
+        },
+        {
+          "name": "Proverbs 22:24",
+          "verse": 24,
+          "text": "noli esse amicus homini iracundo neque ambules cum viro furioso "
+        },
+        {
+          "name": "Proverbs 22:25",
+          "verse": 25,
+          "text": "ne forte discas semitas eius et sumas scandalum animae tuae "
+        },
+        {
+          "name": "Proverbs 22:26",
+          "verse": 26,
+          "text": "noli esse cum his qui defigunt manus suas et qui vades se offerunt pro debitis "
+        },
+        {
+          "name": "Proverbs 22:27",
+          "verse": 27,
+          "text": "si enim non habes unde restituas quid causae est ut tollat operimentum de cubili tuo "
+        },
+        {
+          "name": "Proverbs 22:28",
+          "verse": 28,
+          "text": "ne transgrediaris terminos antiquos quos posuerunt patres tui "
+        },
+        {
+          "name": "Proverbs 22:29",
+          "verse": 29,
+          "text": "vidisti virum velocem in opere suo coram regibus stabit nec erit ante ignobiles "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 23",
+      "chapter": 23,
+      "verses": [
+        {
+          "name": "Proverbs 23:1",
+          "verse": 1,
+          "text": "quando sederis ut comedas cum principe diligenter adtende quae posita sunt ante faciem tuam "
+        },
+        {
+          "name": "Proverbs 23:2",
+          "verse": 2,
+          "text": "et statue cultrum in gutture tuo si tamen habes in potestate animam tuam "
+        },
+        {
+          "name": "Proverbs 23:3",
+          "verse": 3,
+          "text": "ne desideres de cibis eius in quo est panis mendacii "
+        },
+        {
+          "name": "Proverbs 23:4",
+          "verse": 4,
+          "text": "noli laborare ut diteris sed prudentiae tuae pone modum "
+        },
+        {
+          "name": "Proverbs 23:5",
+          "verse": 5,
+          "text": "ne erigas oculos tuos ad opes quas habere non potes quia facient sibi pinnas quasi aquilae et avolabunt in caelum "
+        },
+        {
+          "name": "Proverbs 23:6",
+          "verse": 6,
+          "text": "ne comedas cum homine invido et ne desideres cibos eius "
+        },
+        {
+          "name": "Proverbs 23:7",
+          "verse": 7,
+          "text": "quoniam in similitudinem arioli et coniectoris aestimat quod ignorat comede et bibe dicet tibi et mens eius non est tecum "
+        },
+        {
+          "name": "Proverbs 23:8",
+          "verse": 8,
+          "text": "cibos quos comederas evomes et perdes pulchros sermones tuos "
+        },
+        {
+          "name": "Proverbs 23:9",
+          "verse": 9,
+          "text": "in auribus insipientium ne loquaris quia despicient doctrinam eloquii tui "
+        },
+        {
+          "name": "Proverbs 23:10",
+          "verse": 10,
+          "text": "ne adtingas terminos parvulorum et agrum pupillorum ne introeas "
+        },
+        {
+          "name": "Proverbs 23:11",
+          "verse": 11,
+          "text": "propinquus enim eorum Fortis est et ipse iudicabit contra te causam illorum "
+        },
+        {
+          "name": "Proverbs 23:12",
+          "verse": 12,
+          "text": "ingrediatur ad doctrinam cor tuum et aures tuae ad verba scientiae "
+        },
+        {
+          "name": "Proverbs 23:13",
+          "verse": 13,
+          "text": "noli subtrahere a puero disciplinam si enim percusseris eum virga non morietur "
+        },
+        {
+          "name": "Proverbs 23:14",
+          "verse": 14,
+          "text": "tu virga percuties eum et animam eius de inferno liberabis "
+        },
+        {
+          "name": "Proverbs 23:15",
+          "verse": 15,
+          "text": "fili mi si sapiens fuerit animus tuus gaudebit tecum cor meum "
+        },
+        {
+          "name": "Proverbs 23:16",
+          "verse": 16,
+          "text": "et exultabunt renes mei cum locuta fuerint rectum labia tua "
+        },
+        {
+          "name": "Proverbs 23:17",
+          "verse": 17,
+          "text": "non aemuletur cor tuum peccatores sed in timore Domini esto tota die "
+        },
+        {
+          "name": "Proverbs 23:18",
+          "verse": 18,
+          "text": "quia habebis spem in novissimo et praestolatio tua non auferetur "
+        },
+        {
+          "name": "Proverbs 23:19",
+          "verse": 19,
+          "text": "audi fili mi et esto sapiens et dirige in via animum tuum "
+        },
+        {
+          "name": "Proverbs 23:20",
+          "verse": 20,
+          "text": "noli esse in conviviis potatorum nec in comesationibus eorum qui carnes ad vescendum conferunt "
+        },
+        {
+          "name": "Proverbs 23:21",
+          "verse": 21,
+          "text": "quia vacantes potibus et dantes symbola consumentur et vestietur pannis dormitatio "
+        },
+        {
+          "name": "Proverbs 23:22",
+          "verse": 22,
+          "text": "audi patrem tuum qui genuit te et ne contemnas cum senuerit mater tua "
+        },
+        {
+          "name": "Proverbs 23:23",
+          "verse": 23,
+          "text": "veritatem eme et noli vendere sapientiam et doctrinam et intellegentiam "
+        },
+        {
+          "name": "Proverbs 23:24",
+          "verse": 24,
+          "text": "exultat gaudio pater iusti qui sapientem genuit laetabitur in eo "
+        },
+        {
+          "name": "Proverbs 23:25",
+          "verse": 25,
+          "text": "gaudeat pater tuus et mater tua et exultet quae genuit te "
+        },
+        {
+          "name": "Proverbs 23:26",
+          "verse": 26,
+          "text": "praebe fili mi cor tuum mihi et oculi tui vias meas custodiant "
+        },
+        {
+          "name": "Proverbs 23:27",
+          "verse": 27,
+          "text": "fovea enim profunda est meretrix et puteus angustus aliena "
+        },
+        {
+          "name": "Proverbs 23:28",
+          "verse": 28,
+          "text": "insidiatur in via quasi latro et quos incautos viderit interficit "
+        },
+        {
+          "name": "Proverbs 23:29",
+          "verse": 29,
+          "text": "cui vae cuius patri vae cui rixae cui foveae cui sine causa vulnera cui suffusio oculorum "
+        },
+        {
+          "name": "Proverbs 23:30",
+          "verse": 30,
+          "text": "nonne his qui morantur in vino et student calicibus epotandis "
+        },
+        {
+          "name": "Proverbs 23:31",
+          "verse": 31,
+          "text": "ne intuearis vinum quando flavescit cum splenduerit in vitro color eius ingreditur blande "
+        },
+        {
+          "name": "Proverbs 23:32",
+          "verse": 32,
+          "text": "sed in novissimo mordebit ut coluber et sicut regulus venena diffundet "
+        },
+        {
+          "name": "Proverbs 23:33",
+          "verse": 33,
+          "text": "oculi tui videbunt extraneas et cor tuum loquetur perversa "
+        },
+        {
+          "name": "Proverbs 23:34",
+          "verse": 34,
+          "text": "et eris sicut dormiens in medio mari et quasi sopitus gubernator amisso clavo "
+        },
+        {
+          "name": "Proverbs 23:35",
+          "verse": 35,
+          "text": "et dices verberaverunt me sed non dolui traxerunt me et ego non sensi quando evigilabo et rursum vina repperiam "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 24",
+      "chapter": 24,
+      "verses": [
+        {
+          "name": "Proverbs 24:1",
+          "verse": 1,
+          "text": "ne aemuleris viros malos nec desideres esse cum eis "
+        },
+        {
+          "name": "Proverbs 24:2",
+          "verse": 2,
+          "text": "quia rapinas meditatur mens eorum et fraudes labia eorum loquuntur "
+        },
+        {
+          "name": "Proverbs 24:3",
+          "verse": 3,
+          "text": "sapientia aedificabitur domus et prudentia roborabitur "
+        },
+        {
+          "name": "Proverbs 24:4",
+          "verse": 4,
+          "text": "in doctrina replebuntur cellaria universa substantia pretiosa et pulcherrima "
+        },
+        {
+          "name": "Proverbs 24:5",
+          "verse": 5,
+          "text": "vir sapiens et fortis est et vir doctus robustus et validus "
+        },
+        {
+          "name": "Proverbs 24:6",
+          "verse": 6,
+          "text": "quia cum dispositione initur bellum et erit salus ubi multa consilia sunt "
+        },
+        {
+          "name": "Proverbs 24:7",
+          "verse": 7,
+          "text": "excelsa stulto sapientia in porta non aperiet os suum "
+        },
+        {
+          "name": "Proverbs 24:8",
+          "verse": 8,
+          "text": "qui cogitat malefacere stultus vocabitur "
+        },
+        {
+          "name": "Proverbs 24:9",
+          "verse": 9,
+          "text": "cogitatio stulti peccatum est et abominatio hominum detractor "
+        },
+        {
+          "name": "Proverbs 24:10",
+          "verse": 10,
+          "text": "si desperaveris lassus in die angustiae inminuetur fortitudo tua "
+        },
+        {
+          "name": "Proverbs 24:11",
+          "verse": 11,
+          "text": "erue eos qui ducuntur ad mortem et qui trahuntur ad interitum liberare ne cesses "
+        },
+        {
+          "name": "Proverbs 24:12",
+          "verse": 12,
+          "text": "si dixeris vires non suppetunt qui inspector est cordis ipse intellegit et servatorem animae tuae nihil fallit reddetque homini iuxta opera sua "
+        },
+        {
+          "name": "Proverbs 24:13",
+          "verse": 13,
+          "text": "comede fili mi mel quia bonum est et favum dulcissimum gutturi tuo "
+        },
+        {
+          "name": "Proverbs 24:14",
+          "verse": 14,
+          "text": "sic et doctrina sapientiae animae tuae quam cum inveneris habebis in novissimis et spes tua non peribit "
+        },
+        {
+          "name": "Proverbs 24:15",
+          "verse": 15,
+          "text": "ne insidieris et quaeras impietatem in domo iusti neque vastes requiem eius "
+        },
+        {
+          "name": "Proverbs 24:16",
+          "verse": 16,
+          "text": "septies enim cadet iustus et resurget impii autem corruent in malum "
+        },
+        {
+          "name": "Proverbs 24:17",
+          "verse": 17,
+          "text": "cum ceciderit inimicus tuus ne gaudeas et in ruina eius ne exultet cor tuum "
+        },
+        {
+          "name": "Proverbs 24:18",
+          "verse": 18,
+          "text": "ne forte videat Dominus et displiceat ei et auferat ab eo iram suam "
+        },
+        {
+          "name": "Proverbs 24:19",
+          "verse": 19,
+          "text": "ne contendas cum pessimis nec aemuleris impios "
+        },
+        {
+          "name": "Proverbs 24:20",
+          "verse": 20,
+          "text": "quoniam non habent futurorum spem mali et lucerna impiorum extinguetur "
+        },
+        {
+          "name": "Proverbs 24:21",
+          "verse": 21,
+          "text": "time Dominum fili mi et regem et cum detractoribus non commiscearis "
+        },
+        {
+          "name": "Proverbs 24:22",
+          "verse": 22,
+          "text": "quoniam repente consurget perditio eorum et ruinam utriusque quis novit "
+        },
+        {
+          "name": "Proverbs 24:23",
+          "verse": 23,
+          "text": "haec quoque sapientibus cognoscere personam in iudicio non est bonum "
+        },
+        {
+          "name": "Proverbs 24:24",
+          "verse": 24,
+          "text": "qui dicit impio iustus es maledicent ei populi et detestabuntur eum tribus "
+        },
+        {
+          "name": "Proverbs 24:25",
+          "verse": 25,
+          "text": "qui arguunt laudabuntur et super ipsos veniet benedictio "
+        },
+        {
+          "name": "Proverbs 24:26",
+          "verse": 26,
+          "text": "labia deosculabitur qui recta verba respondet "
+        },
+        {
+          "name": "Proverbs 24:27",
+          "verse": 27,
+          "text": "praepara foris opus tuum et diligenter exerce agrum tuum ut postea aedifices domum tuam "
+        },
+        {
+          "name": "Proverbs 24:28",
+          "verse": 28,
+          "text": "ne sis testis frustra contra proximum tuum nec lactes quemquam labiis tuis "
+        },
+        {
+          "name": "Proverbs 24:29",
+          "verse": 29,
+          "text": "ne dicas quomodo fecit mihi sic faciam ei reddam unicuique secundum opus suum "
+        },
+        {
+          "name": "Proverbs 24:30",
+          "verse": 30,
+          "text": "per agrum hominis pigri transivi et per vineam viri stulti "
+        },
+        {
+          "name": "Proverbs 24:31",
+          "verse": 31,
+          "text": "et ecce totum repleverant urticae operuerant superficiem eius spinae et maceria lapidum destructa erat "
+        },
+        {
+          "name": "Proverbs 24:32",
+          "verse": 32,
+          "text": "quod cum vidissem posui in corde meo et exemplo didici disciplinam "
+        },
+        {
+          "name": "Proverbs 24:33",
+          "verse": 33,
+          "text": "parum inquam dormies modicum dormitabis pauxillum manus conseres ut quiescas "
+        },
+        {
+          "name": "Proverbs 24:34",
+          "verse": 34,
+          "text": "et veniet quasi cursor egestas tua et mendicitas quasi vir armatus "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 25",
+      "chapter": 25,
+      "verses": [
+        {
+          "name": "Proverbs 25:1",
+          "verse": 1,
+          "text": "haec quoque parabolae Salomonis quas transtulerunt viri Ezechiae regis Iuda "
+        },
+        {
+          "name": "Proverbs 25:2",
+          "verse": 2,
+          "text": "gloria Dei celare verbum et gloria regum investigare sermonem "
+        },
+        {
+          "name": "Proverbs 25:3",
+          "verse": 3,
+          "text": "caelum sursum et terra deorsum et cor regum inscrutabile "
+        },
+        {
+          "name": "Proverbs 25:4",
+          "verse": 4,
+          "text": "aufer robiginem de argento et egredietur vas purissimum "
+        },
+        {
+          "name": "Proverbs 25:5",
+          "verse": 5,
+          "text": "aufer impietatem de vultu regis et firmabitur iustitia thronus eius "
+        },
+        {
+          "name": "Proverbs 25:6",
+          "verse": 6,
+          "text": "ne gloriosus appareas coram rege et in loco magnorum ne steteris "
+        },
+        {
+          "name": "Proverbs 25:7",
+          "verse": 7,
+          "text": "melius est enim ut dicatur tibi ascende huc quam ut humilieris coram principe "
+        },
+        {
+          "name": "Proverbs 25:8",
+          "verse": 8,
+          "text": "quae viderunt oculi tui ne proferas in iurgio cito ne postea emendare non possis cum dehonestaveris amicum tuum "
+        },
+        {
+          "name": "Proverbs 25:9",
+          "verse": 9,
+          "text": "causam tuam tracta cum amico tuo et secretum extraneo non reveles "
+        },
+        {
+          "name": "Proverbs 25:10",
+          "verse": 10,
+          "text": "ne forte insultet tibi cum audierit et exprobrare non cesset "
+        },
+        {
+          "name": "Proverbs 25:11",
+          "verse": 11,
+          "text": "mala aurea in lectis argenteis qui loquitur verbum in tempore suo "
+        },
+        {
+          "name": "Proverbs 25:12",
+          "verse": 12,
+          "text": "inauris aurea et margaritum fulgens qui arguit sapientem et aurem oboedientem "
+        },
+        {
+          "name": "Proverbs 25:13",
+          "verse": 13,
+          "text": "sicut frigus nivis in die messis ita legatus fidelis ei qui misit eum animam illius requiescere facit "
+        },
+        {
+          "name": "Proverbs 25:14",
+          "verse": 14,
+          "text": "nubes et ventus et pluviae non sequentes vir gloriosus et promissa non conplens "
+        },
+        {
+          "name": "Proverbs 25:15",
+          "verse": 15,
+          "text": "patientia lenietur princeps et lingua mollis confringet duritiam "
+        },
+        {
+          "name": "Proverbs 25:16",
+          "verse": 16,
+          "text": "mel invenisti comede quod sufficit tibi ne forte saturatus evomas illud "
+        },
+        {
+          "name": "Proverbs 25:17",
+          "verse": 17,
+          "text": "subtrahe pedem tuum de domo proximi tui nequando satiatus oderit te "
+        },
+        {
+          "name": "Proverbs 25:18",
+          "verse": 18,
+          "text": "iaculum et gladius et sagitta acuta homo qui loquitur contra proximum suum testimonium falsum "
+        },
+        {
+          "name": "Proverbs 25:19",
+          "verse": 19,
+          "text": "dens putridus et pes lapsus qui sperat super infideli in die angustiae "
+        },
+        {
+          "name": "Proverbs 25:20",
+          "verse": 20,
+          "text": "et amittit pallium in die frigoris acetum in nitro et qui cantat carmina cordi pessimo "
+        },
+        {
+          "name": "Proverbs 25:21",
+          "verse": 21,
+          "text": "si esurierit inimicus tuus ciba illum et si sitierit da ei aquam bibere "
+        },
+        {
+          "name": "Proverbs 25:22",
+          "verse": 22,
+          "text": "prunam enim congregabis super caput eius et Dominus reddet tibi "
+        },
+        {
+          "name": "Proverbs 25:23",
+          "verse": 23,
+          "text": "ventus aquilo dissipat pluvias et facies tristis linguam detrahentem "
+        },
+        {
+          "name": "Proverbs 25:24",
+          "verse": 24,
+          "text": "melius est sedere in angulo domatis quam cum muliere litigiosa et in domo communi "
+        },
+        {
+          "name": "Proverbs 25:25",
+          "verse": 25,
+          "text": "aqua frigida animae sitienti et nuntius bonus de terra longinqua "
+        },
+        {
+          "name": "Proverbs 25:26",
+          "verse": 26,
+          "text": "fons turbatus pede et vena corrupta iustus cadens coram impio "
+        },
+        {
+          "name": "Proverbs 25:27",
+          "verse": 27,
+          "text": "sicut qui mel multum comedit non est ei bonum sic qui scrutator est maiestatis opprimitur gloria "
+        },
+        {
+          "name": "Proverbs 25:28",
+          "verse": 28,
+          "text": "sicut urbs patens et absque murorum ambitu ita vir qui non potest in loquendo cohibere spiritum suum "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 26",
+      "chapter": 26,
+      "verses": [
+        {
+          "name": "Proverbs 26:1",
+          "verse": 1,
+          "text": "quomodo nix aestate et pluvia in messe sic indecens est stulto gloria "
+        },
+        {
+          "name": "Proverbs 26:2",
+          "verse": 2,
+          "text": "sicut avis ad alia transvolans et passer quolibet vadens sic maledictum frustra prolatum in quempiam superveniet "
+        },
+        {
+          "name": "Proverbs 26:3",
+          "verse": 3,
+          "text": "flagellum equo et camus asino et virga dorso inprudentium "
+        },
+        {
+          "name": "Proverbs 26:4",
+          "verse": 4,
+          "text": "ne respondeas stulto iuxta stultitiam suam ne efficiaris ei similis "
+        },
+        {
+          "name": "Proverbs 26:5",
+          "verse": 5,
+          "text": "responde stulto iuxta stultitiam suam ne sibi sapiens esse videatur "
+        },
+        {
+          "name": "Proverbs 26:6",
+          "verse": 6,
+          "text": "claudus pedibus et iniquitatem bibens qui mittit verba per nuntium stultum "
+        },
+        {
+          "name": "Proverbs 26:7",
+          "verse": 7,
+          "text": "quomodo pulchras frustra habet claudus tibias sic indecens est in ore stultorum parabola "
+        },
+        {
+          "name": "Proverbs 26:8",
+          "verse": 8,
+          "text": "sicut qui mittit lapidem in acervum Mercurii ita qui tribuit insipienti honorem "
+        },
+        {
+          "name": "Proverbs 26:9",
+          "verse": 9,
+          "text": "quomodo si spina nascatur in manu temulenti sic parabola in ore stultorum "
+        },
+        {
+          "name": "Proverbs 26:10",
+          "verse": 10,
+          "text": "iudicium determinat causas et qui inponit stulto silentium iras mitigat "
+        },
+        {
+          "name": "Proverbs 26:11",
+          "verse": 11,
+          "text": "sicut canis qui revertitur ad vomitum suum sic inprudens qui iterat stultitiam suam "
+        },
+        {
+          "name": "Proverbs 26:12",
+          "verse": 12,
+          "text": "vidisti hominem sapientem sibi videri magis illo spem habebit stultus "
+        },
+        {
+          "name": "Proverbs 26:13",
+          "verse": 13,
+          "text": "dicit piger leaena in via leo in itineribus "
+        },
+        {
+          "name": "Proverbs 26:14",
+          "verse": 14,
+          "text": "sicut ostium vertitur in cardine suo ita piger in lectulo suo "
+        },
+        {
+          "name": "Proverbs 26:15",
+          "verse": 15,
+          "text": "abscondit piger manus sub ascellas suas et laborat si ad os suum eas converterit "
+        },
+        {
+          "name": "Proverbs 26:16",
+          "verse": 16,
+          "text": "sapientior sibi piger videtur septem viris loquentibus sententias "
+        },
+        {
+          "name": "Proverbs 26:17",
+          "verse": 17,
+          "text": "sicut qui adprehendit auribus canem sic qui transit et inpatiens commiscetur rixae alterius "
+        },
+        {
+          "name": "Proverbs 26:18",
+          "verse": 18,
+          "text": "sicut noxius est qui mittit lanceas et sagittas et mortem "
+        },
+        {
+          "name": "Proverbs 26:19",
+          "verse": 19,
+          "text": "sic vir qui fraudulenter nocet amico suo et cum fuerit deprehensus dicit ludens feci "
+        },
+        {
+          "name": "Proverbs 26:20",
+          "verse": 20,
+          "text": "cum defecerint ligna extinguetur ignis et susurrone subtracto iurgia conquiescunt "
+        },
+        {
+          "name": "Proverbs 26:21",
+          "verse": 21,
+          "text": "sicut carbones ad prunam et ligna ad ignem sic homo iracundus suscitat rixas "
+        },
+        {
+          "name": "Proverbs 26:22",
+          "verse": 22,
+          "text": "verba susurronis quasi simplicia et ipsa perveniunt ad intima ventris "
+        },
+        {
+          "name": "Proverbs 26:23",
+          "verse": 23,
+          "text": "quomodo si argento sordido ornare velis vas fictile sic labia tumentia cum pessimo corde sociata "
+        },
+        {
+          "name": "Proverbs 26:24",
+          "verse": 24,
+          "text": "labiis suis intellegitur inimicus cum in corde tractaverit dolos "
+        },
+        {
+          "name": "Proverbs 26:25",
+          "verse": 25,
+          "text": "quando submiserit vocem suam ne credideris ei quoniam septem nequitiae sunt in corde illius "
+        },
+        {
+          "name": "Proverbs 26:26",
+          "verse": 26,
+          "text": "qui operit odium fraudulenter revelabitur malitia eius in concilio "
+        },
+        {
+          "name": "Proverbs 26:27",
+          "verse": 27,
+          "text": "qui fodit foveam incidet in eam et qui volvit lapidem revertetur ad eum "
+        },
+        {
+          "name": "Proverbs 26:28",
+          "verse": 28,
+          "text": "lingua fallax non amat veritatem et os lubricum operatur ruinas "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 27",
+      "chapter": 27,
+      "verses": [
+        {
+          "name": "Proverbs 27:1",
+          "verse": 1,
+          "text": "ne glorieris in crastinum ignorans quid superventura pariat dies "
+        },
+        {
+          "name": "Proverbs 27:2",
+          "verse": 2,
+          "text": "laudet te alienus et non os tuum extraneus et non labia tua "
+        },
+        {
+          "name": "Proverbs 27:3",
+          "verse": 3,
+          "text": "grave est saxum et onerosa harena sed ira stulti utroque gravior "
+        },
+        {
+          "name": "Proverbs 27:4",
+          "verse": 4,
+          "text": "ira non habet misericordiam nec erumpens furor et impetum concitati ferre quis poterit "
+        },
+        {
+          "name": "Proverbs 27:5",
+          "verse": 5,
+          "text": "melior est manifesta correptio quam amor absconditus "
+        },
+        {
+          "name": "Proverbs 27:6",
+          "verse": 6,
+          "text": "meliora sunt vulnera diligentis quam fraudulenta odientis oscula "
+        },
+        {
+          "name": "Proverbs 27:7",
+          "verse": 7,
+          "text": "anima saturata calcabit favum anima esuriens et amarum pro dulce sumet "
+        },
+        {
+          "name": "Proverbs 27:8",
+          "verse": 8,
+          "text": "sicut avis transmigrans de nido suo sic vir qui relinquit locum suum "
+        },
+        {
+          "name": "Proverbs 27:9",
+          "verse": 9,
+          "text": "unguento et variis odoribus delectatur cor et bonis amici consiliis anima dulcoratur "
+        },
+        {
+          "name": "Proverbs 27:10",
+          "verse": 10,
+          "text": "amicum tuum et amicum patris tui ne dimiseris et domum fratris tui ne ingrediaris in die adflictionis tuae melior est vicinus iuxta quam frater procul "
+        },
+        {
+          "name": "Proverbs 27:11",
+          "verse": 11,
+          "text": "stude sapientiae fili mi et laetifica cor meum ut possim exprobranti respondere sermonem "
+        },
+        {
+          "name": "Proverbs 27:12",
+          "verse": 12,
+          "text": "astutus videns malum absconditus est parvuli transeuntes sustinuere dispendia "
+        },
+        {
+          "name": "Proverbs 27:13",
+          "verse": 13,
+          "text": "tolle vestimentum eius qui spopondit pro extraneo et pro alienis auferto pignus "
+        },
+        {
+          "name": "Proverbs 27:14",
+          "verse": 14,
+          "text": "qui benedicit proximo suo voce grandi de nocte consurgens maledicenti similis erit "
+        },
+        {
+          "name": "Proverbs 27:15",
+          "verse": 15,
+          "text": "tecta perstillantia in die frigoris et litigiosa mulier conparantur "
+        },
+        {
+          "name": "Proverbs 27:16",
+          "verse": 16,
+          "text": "qui retinet eam quasi qui ventum teneat et oleum dexterae suae vocabit "
+        },
+        {
+          "name": "Proverbs 27:17",
+          "verse": 17,
+          "text": "ferrum ferro acuitur et homo exacuit faciem amici sui "
+        },
+        {
+          "name": "Proverbs 27:18",
+          "verse": 18,
+          "text": "qui servat ficum comedet fructus eius et qui custos est domini sui glorificabitur "
+        },
+        {
+          "name": "Proverbs 27:19",
+          "verse": 19,
+          "text": "quomodo in aquis resplendent vultus prospicientium sic corda hominum manifesta sunt prudentibus "
+        },
+        {
+          "name": "Proverbs 27:20",
+          "verse": 20,
+          "text": "infernus et perditio non replentur similiter et oculi hominum insatiabiles "
+        },
+        {
+          "name": "Proverbs 27:21",
+          "verse": 21,
+          "text": "quomodo probatur in conflatorio argentum et in fornace aurum sic probatur homo ore laudantis "
+        },
+        {
+          "name": "Proverbs 27:22",
+          "verse": 22,
+          "text": "si contuderis stultum in pila quasi tisanas feriente desuper pilo non auferetur ab eo stultitia eius "
+        },
+        {
+          "name": "Proverbs 27:23",
+          "verse": 23,
+          "text": "diligenter agnosce vultum pecoris tui tuosque greges considera "
+        },
+        {
+          "name": "Proverbs 27:24",
+          "verse": 24,
+          "text": "non enim habebis iugiter potestatem sed corona tribuetur in generatione generationum "
+        },
+        {
+          "name": "Proverbs 27:25",
+          "verse": 25,
+          "text": "aperta sunt prata et apparuerunt herbae virentes et collecta sunt faena de montibus "
+        },
+        {
+          "name": "Proverbs 27:26",
+          "verse": 26,
+          "text": "agni ad vestimentum tuum et hedi agri pretium "
+        },
+        {
+          "name": "Proverbs 27:27",
+          "verse": 27,
+          "text": "sufficiat tibi lac caprarum in cibos tuos in necessaria domus tuae et ad victum ancillis tuis "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 28",
+      "chapter": 28,
+      "verses": [
+        {
+          "name": "Proverbs 28:1",
+          "verse": 1,
+          "text": "fugit impius nemine persequente iustus autem quasi leo confidens absque terrore erit "
+        },
+        {
+          "name": "Proverbs 28:2",
+          "verse": 2,
+          "text": "propter peccata terrae multi principes eius et propter hominis sapientiam et horum scientiam quae dicuntur vita ducis longior erit "
+        },
+        {
+          "name": "Proverbs 28:3",
+          "verse": 3,
+          "text": "vir pauper calumnians pauperes similis imbri vehementi in quo paratur fames "
+        },
+        {
+          "name": "Proverbs 28:4",
+          "verse": 4,
+          "text": "qui derelinquunt legem laudant impium qui custodiunt succenduntur contra eum "
+        },
+        {
+          "name": "Proverbs 28:5",
+          "verse": 5,
+          "text": "viri mali non cogitant iudicium qui autem requirunt Dominum animadvertunt omnia "
+        },
+        {
+          "name": "Proverbs 28:6",
+          "verse": 6,
+          "text": "melior est pauper ambulans in simplicitate sua quam dives pravis itineribus "
+        },
+        {
+          "name": "Proverbs 28:7",
+          "verse": 7,
+          "text": "qui custodit legem filius sapiens est qui pascit comesatores confundit patrem suum "
+        },
+        {
+          "name": "Proverbs 28:8",
+          "verse": 8,
+          "text": "qui coacervat divitias usuris et fenore liberali in pauperes congregat eas "
+        },
+        {
+          "name": "Proverbs 28:9",
+          "verse": 9,
+          "text": "qui declinat aurem suam ne audiat legem oratio eius erit execrabilis "
+        },
+        {
+          "name": "Proverbs 28:10",
+          "verse": 10,
+          "text": "qui decipit iustos in via mala in interitu suo corruet et simplices possidebunt bona "
+        },
+        {
+          "name": "Proverbs 28:11",
+          "verse": 11,
+          "text": "sapiens sibi videtur vir dives pauper autem prudens scrutabitur eum "
+        },
+        {
+          "name": "Proverbs 28:12",
+          "verse": 12,
+          "text": "in exultatione iustorum multa gloria regnantibus impiis ruinae hominum "
+        },
+        {
+          "name": "Proverbs 28:13",
+          "verse": 13,
+          "text": "qui abscondit scelera sua non dirigetur qui confessus fuerit et reliquerit ea misericordiam consequetur "
+        },
+        {
+          "name": "Proverbs 28:14",
+          "verse": 14,
+          "text": "beatus homo qui semper est pavidus qui vero mentis est durae corruet in malum "
+        },
+        {
+          "name": "Proverbs 28:15",
+          "verse": 15,
+          "text": "leo rugiens et ursus esuriens princeps impius super populum pauperem "
+        },
+        {
+          "name": "Proverbs 28:16",
+          "verse": 16,
+          "text": "dux indigens prudentia multos opprimet per calumniam qui autem odit avaritiam longi fient dies eius "
+        },
+        {
+          "name": "Proverbs 28:17",
+          "verse": 17,
+          "text": "hominem qui calumniatur animae sanguinem si usque ad lacum fugerit nemo sustentet "
+        },
+        {
+          "name": "Proverbs 28:18",
+          "verse": 18,
+          "text": "qui ambulat simpliciter salvus erit qui perversis ingreditur viis concidet semel "
+        },
+        {
+          "name": "Proverbs 28:19",
+          "verse": 19,
+          "text": "qui operatur terram suam saturabitur panibus qui sectatur otium replebitur egestate "
+        },
+        {
+          "name": "Proverbs 28:20",
+          "verse": 20,
+          "text": "vir fidelis multum laudabitur qui autem festinat ditari non erit innocens "
+        },
+        {
+          "name": "Proverbs 28:21",
+          "verse": 21,
+          "text": "qui cognoscit in iudicio faciem non facit bene iste et pro buccella panis deserit veritatem "
+        },
+        {
+          "name": "Proverbs 28:22",
+          "verse": 22,
+          "text": "vir qui festinat ditari et aliis invidet ignorat quod egestas superveniat ei "
+        },
+        {
+          "name": "Proverbs 28:23",
+          "verse": 23,
+          "text": "qui corripit hominem gratiam postea inveniet apud eum magis quam ille qui per linguae blandimenta decipit "
+        },
+        {
+          "name": "Proverbs 28:24",
+          "verse": 24,
+          "text": "qui subtrahit aliquid a patre suo et matre et dicit hoc non est peccatum particeps homicidae est "
+        },
+        {
+          "name": "Proverbs 28:25",
+          "verse": 25,
+          "text": "qui se iactat et dilatat iurgia concitat qui sperat in Domino saginabitur "
+        },
+        {
+          "name": "Proverbs 28:26",
+          "verse": 26,
+          "text": "qui confidit in corde suo stultus est qui autem graditur sapienter iste salvabitur "
+        },
+        {
+          "name": "Proverbs 28:27",
+          "verse": 27,
+          "text": "qui dat pauperi non indigebit qui despicit deprecantem sustinebit penuriam "
+        },
+        {
+          "name": "Proverbs 28:28",
+          "verse": 28,
+          "text": "cum surrexerint impii abscondentur homines cum illi perierint multiplicabuntur iusti "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 29",
+      "chapter": 29,
+      "verses": [
+        {
+          "name": "Proverbs 29:1",
+          "verse": 1,
+          "text": "viro qui corripientem dura cervice contemnit repentinus superveniet interitus et eum sanitas non sequitur "
+        },
+        {
+          "name": "Proverbs 29:2",
+          "verse": 2,
+          "text": "in multiplicatione iustorum laetabitur vulgus cum impii sumpserint principatum gemet populus "
+        },
+        {
+          "name": "Proverbs 29:3",
+          "verse": 3,
+          "text": "vir qui amat sapientiam laetificat patrem suum qui autem nutrit scorta perdet substantiam "
+        },
+        {
+          "name": "Proverbs 29:4",
+          "verse": 4,
+          "text": "rex iustus erigit terram vir avarus destruet eam "
+        },
+        {
+          "name": "Proverbs 29:5",
+          "verse": 5,
+          "text": "homo qui blandis fictisque sermonibus loquitur amico suo rete expandit gressibus eius "
+        },
+        {
+          "name": "Proverbs 29:6",
+          "verse": 6,
+          "text": "peccantem virum iniquum involvet laqueus et iustus laudabit atque gaudebit "
+        },
+        {
+          "name": "Proverbs 29:7",
+          "verse": 7,
+          "text": "novit iustus causam pauperum impius ignorat scientiam "
+        },
+        {
+          "name": "Proverbs 29:8",
+          "verse": 8,
+          "text": "homines pestilentes dissipant civitatem sapientes avertunt furorem "
+        },
+        {
+          "name": "Proverbs 29:9",
+          "verse": 9,
+          "text": "vir sapiens si cum stulto contenderit sive irascatur sive rideat non inveniet requiem "
+        },
+        {
+          "name": "Proverbs 29:10",
+          "verse": 10,
+          "text": "viri sanguinum oderunt simplicem iusti quaerunt animam eius "
+        },
+        {
+          "name": "Proverbs 29:11",
+          "verse": 11,
+          "text": "totum spiritum suum profert stultus sapiens differt et reservat in posterum "
+        },
+        {
+          "name": "Proverbs 29:12",
+          "verse": 12,
+          "text": "princeps qui libenter audit verba mendacii omnes ministros habebit impios "
+        },
+        {
+          "name": "Proverbs 29:13",
+          "verse": 13,
+          "text": "pauper et creditor obviam fuerunt sibi utriusque inluminator est Dominus "
+        },
+        {
+          "name": "Proverbs 29:14",
+          "verse": 14,
+          "text": "rex qui iudicat in veritate pauperes thronus eius in aeternum firmabitur "
+        },
+        {
+          "name": "Proverbs 29:15",
+          "verse": 15,
+          "text": "virga atque correptio tribuet sapientiam puer autem qui dimittitur voluntati suae confundet matrem suam "
+        },
+        {
+          "name": "Proverbs 29:16",
+          "verse": 16,
+          "text": "in multiplicatione impiorum multiplicabuntur scelera et iusti ruinas eorum videbunt "
+        },
+        {
+          "name": "Proverbs 29:17",
+          "verse": 17,
+          "text": "erudi filium tuum et refrigerabit te et dabit delicias animae tuae "
+        },
+        {
+          "name": "Proverbs 29:18",
+          "verse": 18,
+          "text": "cum prophetia defecerit dissipabitur populus qui custodit legem beatus est "
+        },
+        {
+          "name": "Proverbs 29:19",
+          "verse": 19,
+          "text": "servus verbis non potest erudiri quia quod dicis intellegit et respondere contemnit "
+        },
+        {
+          "name": "Proverbs 29:20",
+          "verse": 20,
+          "text": "vidisti hominem velocem ad loquendum stulti magis speranda est quam illius correptio "
+        },
+        {
+          "name": "Proverbs 29:21",
+          "verse": 21,
+          "text": "qui delicate a pueritia nutrit servum suum postea illum sentiet contumacem "
+        },
+        {
+          "name": "Proverbs 29:22",
+          "verse": 22,
+          "text": "vir iracundus provocat rixas et qui ad indignandum facilis est erit ad peccata proclivior "
+        },
+        {
+          "name": "Proverbs 29:23",
+          "verse": 23,
+          "text": "superbum sequitur humilitas et humilem spiritu suscipiet gloria "
+        },
+        {
+          "name": "Proverbs 29:24",
+          "verse": 24,
+          "text": "qui cum fure partitur odit animam suam adiurantem audit et non indicat "
+        },
+        {
+          "name": "Proverbs 29:25",
+          "verse": 25,
+          "text": "qui timet hominem cito corruet qui sperat in Domino sublevabitur "
+        },
+        {
+          "name": "Proverbs 29:26",
+          "verse": 26,
+          "text": "multi requirunt faciem principis et a Domino iudicium egreditur singulorum "
+        },
+        {
+          "name": "Proverbs 29:27",
+          "verse": 27,
+          "text": "abominantur iusti virum impium et abominantur impii eos qui in recta sunt via "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 30",
+      "chapter": 30,
+      "verses": [
+        {
+          "name": "Proverbs 30:1",
+          "verse": 1,
+          "text": "verba Congregantis filii Vomentis visio quam locutus est vir cum quo est Deus et qui Deo secum morante confortatus ait "
+        },
+        {
+          "name": "Proverbs 30:2",
+          "verse": 2,
+          "text": "stultissimus sum virorum et sapientia hominum non est mecum "
+        },
+        {
+          "name": "Proverbs 30:3",
+          "verse": 3,
+          "text": "non didici sapientiam et non novi sanctorum scientiam "
+        },
+        {
+          "name": "Proverbs 30:4",
+          "verse": 4,
+          "text": "quis ascendit in caelum atque descendit quis continuit spiritum manibus suis quis conligavit aquas quasi in vestimento quis suscitavit omnes terminos terrae quod nomen eius et quod nomen filii eius si nosti "
+        },
+        {
+          "name": "Proverbs 30:5",
+          "verse": 5,
+          "text": "omnis sermo Dei ignitus clypeus est sperantibus in se "
+        },
+        {
+          "name": "Proverbs 30:6",
+          "verse": 6,
+          "text": "ne addas quicquam verbis illius et arguaris inveniarisque mendax "
+        },
+        {
+          "name": "Proverbs 30:7",
+          "verse": 7,
+          "text": "duo rogavi te ne deneges mihi antequam moriar "
+        },
+        {
+          "name": "Proverbs 30:8",
+          "verse": 8,
+          "text": "vanitatem et verba mendacia longe fac a me mendicitatem et divitias ne dederis mihi tribue tantum victui meo necessaria "
+        },
+        {
+          "name": "Proverbs 30:9",
+          "verse": 9,
+          "text": "ne forte saturatus inliciar ad negandum et dicam quis est Dominus et egestate conpulsus furer et peierem nomen Dei mei "
+        },
+        {
+          "name": "Proverbs 30:10",
+          "verse": 10,
+          "text": "ne accuses servum ad dominum suum ne forte maledicat tibi et corruas "
+        },
+        {
+          "name": "Proverbs 30:11",
+          "verse": 11,
+          "text": "generatio quae patri suo maledicit et quae non benedicit matri suae "
+        },
+        {
+          "name": "Proverbs 30:12",
+          "verse": 12,
+          "text": "generatio quae sibi munda videtur et tamen non est lota a sordibus suis "
+        },
+        {
+          "name": "Proverbs 30:13",
+          "verse": 13,
+          "text": "generatio cuius excelsi sunt oculi et palpebrae eius in alta subrectae "
+        },
+        {
+          "name": "Proverbs 30:14",
+          "verse": 14,
+          "text": "generatio quae pro dentibus gladios habet et commandit molaribus suis ut comedat inopes de terra et pauperes ex hominibus "
+        },
+        {
+          "name": "Proverbs 30:15",
+          "verse": 15,
+          "text": "sanguisugae duae sunt filiae dicentes adfer adfer tria sunt insaturabilia et quartum quod numquam dicit sufficit "
+        },
+        {
+          "name": "Proverbs 30:16",
+          "verse": 16,
+          "text": "infernus et os vulvae et terra quae non satiatur aqua ignis vero numquam dicit sufficit "
+        },
+        {
+          "name": "Proverbs 30:17",
+          "verse": 17,
+          "text": "oculum qui subsannat patrem et qui despicit partum matris suae effodiant corvi de torrentibus et comedant illum filii aquilae "
+        },
+        {
+          "name": "Proverbs 30:18",
+          "verse": 18,
+          "text": "tria sunt difficilia mihi et quartum penitus ignoro "
+        },
+        {
+          "name": "Proverbs 30:19",
+          "verse": 19,
+          "text": "viam aquilae in caelo viam colubri super petram viam navis in medio mari et viam viri in adulescentula "
+        },
+        {
+          "name": "Proverbs 30:20",
+          "verse": 20,
+          "text": "talis est via mulieris adulterae quae comedit et tergens os suum dicit non sum operata malum "
+        },
+        {
+          "name": "Proverbs 30:21",
+          "verse": 21,
+          "text": "per tria movetur terra et quartum non potest sustinere "
+        },
+        {
+          "name": "Proverbs 30:22",
+          "verse": 22,
+          "text": "per servum cum regnaverit per stultum cum saturatus fuerit cibo "
+        },
+        {
+          "name": "Proverbs 30:23",
+          "verse": 23,
+          "text": "per odiosam mulierem cum in matrimonio fuerit adsumpta et per ancillam cum heres fuerit dominae suae "
+        },
+        {
+          "name": "Proverbs 30:24",
+          "verse": 24,
+          "text": "quattuor sunt minima terrae et ipsa sunt sapientiora sapientibus "
+        },
+        {
+          "name": "Proverbs 30:25",
+          "verse": 25,
+          "text": "formicae populus infirmus quae praeparant in messe cibum sibi "
+        },
+        {
+          "name": "Proverbs 30:26",
+          "verse": 26,
+          "text": "lepusculus plebs invalida quae conlocat in petra cubile suum "
+        },
+        {
+          "name": "Proverbs 30:27",
+          "verse": 27,
+          "text": "regem lucusta non habet et egreditur universa per turmas "
+        },
+        {
+          "name": "Proverbs 30:28",
+          "verse": 28,
+          "text": "stilio manibus nititur et moratur in aedibus regis "
+        },
+        {
+          "name": "Proverbs 30:29",
+          "verse": 29,
+          "text": "tria sunt quae bene gradiuntur et quartum quod incedit feliciter "
+        },
+        {
+          "name": "Proverbs 30:30",
+          "verse": 30,
+          "text": "leo fortissimus bestiarum ad nullius pavebit occursum "
+        },
+        {
+          "name": "Proverbs 30:31",
+          "verse": 31,
+          "text": "gallus succinctus lumbos et aries nec est rex qui resistat ei "
+        },
+        {
+          "name": "Proverbs 30:32",
+          "verse": 32,
+          "text": "et qui stultus apparuit postquam elatus est in sublime si enim intellexisset ori inposuisset manum "
+        },
+        {
+          "name": "Proverbs 30:33",
+          "verse": 33,
+          "text": "qui autem fortiter premit ubera ad eliciendum lac exprimit butyrum et qui vehementer emungitur elicit sanguinem et qui provocat iras producit discordias "
+        }
+      ]
+    },
+    {
+      "name": "Proverbs 31",
+      "chapter": 31,
+      "verses": [
+        {
+          "name": "Proverbs 31:1",
+          "verse": 1,
+          "text": "verba Lamuhel regis visio qua erudivit eum mater sua "
+        },
+        {
+          "name": "Proverbs 31:2",
+          "verse": 2,
+          "text": "quid dilecte mi quid dilecte uteri mei quid dilecte votorum meorum "
+        },
+        {
+          "name": "Proverbs 31:3",
+          "verse": 3,
+          "text": "ne dederis mulieribus substantiam tuam et vias tuas ad delendos reges "
+        },
+        {
+          "name": "Proverbs 31:4",
+          "verse": 4,
+          "text": "noli regibus o Lamuhel noli regibus dare vinum quia nullum secretum est ubi regnat ebrietas "
+        },
+        {
+          "name": "Proverbs 31:5",
+          "verse": 5,
+          "text": "ne forte bibat et obliviscatur iudiciorum et mutet causam filiorum pauperis "
+        },
+        {
+          "name": "Proverbs 31:6",
+          "verse": 6,
+          "text": "date siceram maerentibus et vinum his qui amaro sunt animo "
+        },
+        {
+          "name": "Proverbs 31:7",
+          "verse": 7,
+          "text": "bibant ut obliviscantur egestatis suae et doloris non recordentur amplius "
+        },
+        {
+          "name": "Proverbs 31:8",
+          "verse": 8,
+          "text": "aperi os tuum muto et causis omnium filiorum qui pertranseunt "
+        },
+        {
+          "name": "Proverbs 31:9",
+          "verse": 9,
+          "text": "aperi os tuum decerne quod iustum est et iudica inopem et pauperem "
+        },
+        {
+          "name": "Proverbs 31:10",
+          "verse": 10,
+          "text": "aleph mulierem fortem quis inveniet procul et de ultimis finibus pretium eius "
+        },
+        {
+          "name": "Proverbs 31:11",
+          "verse": 11,
+          "text": "beth confidit in ea cor viri sui et spoliis non indigebit "
+        },
+        {
+          "name": "Proverbs 31:12",
+          "verse": 12,
+          "text": "gimel reddet ei bonum et non malum omnibus diebus vitae suae "
+        },
+        {
+          "name": "Proverbs 31:13",
+          "verse": 13,
+          "text": "deleth quaesivit lanam et linum et operata est consilio manuum suarum "
+        },
+        {
+          "name": "Proverbs 31:14",
+          "verse": 14,
+          "text": "he facta est quasi navis institoris de longe portat panem suum "
+        },
+        {
+          "name": "Proverbs 31:15",
+          "verse": 15,
+          "text": "vav et de nocte surrexit deditque praedam domesticis suis et cibaria ancillis suis "
+        },
+        {
+          "name": "Proverbs 31:16",
+          "verse": 16,
+          "text": "zai consideravit agrum et emit eum de fructu manuum suarum plantavit vineam "
+        },
+        {
+          "name": "Proverbs 31:17",
+          "verse": 17,
+          "text": "heth accinxit fortitudine lumbos suos et roboravit brachium suum "
+        },
+        {
+          "name": "Proverbs 31:18",
+          "verse": 18,
+          "text": "teth gustavit quia bona est negotiatio eius non extinguetur in nocte lucerna illius "
+        },
+        {
+          "name": "Proverbs 31:19",
+          "verse": 19,
+          "text": "ioth manum suam misit ad fortia et digiti eius adprehenderunt fusum "
+        },
+        {
+          "name": "Proverbs 31:20",
+          "verse": 20,
+          "text": "caph manum suam aperuit inopi et palmas suas extendit ad pauperem "
+        },
+        {
+          "name": "Proverbs 31:21",
+          "verse": 21,
+          "text": "lameth non timebit domui suae a frigoribus nivis omnes enim domestici eius vestiti duplicibus "
+        },
+        {
+          "name": "Proverbs 31:22",
+          "verse": 22,
+          "text": "mem stragulam vestem fecit sibi byssus et purpura indumentum eius "
+        },
+        {
+          "name": "Proverbs 31:23",
+          "verse": 23,
+          "text": "nun nobilis in portis vir eius quando sederit cum senatoribus terrae "
+        },
+        {
+          "name": "Proverbs 31:24",
+          "verse": 24,
+          "text": "samech sindonem fecit et vendidit et cingulum tradidit Chananeo "
+        },
+        {
+          "name": "Proverbs 31:25",
+          "verse": 25,
+          "text": "ain fortitudo et decor indumentum eius et ridebit in die novissimo "
+        },
+        {
+          "name": "Proverbs 31:26",
+          "verse": 26,
+          "text": "phe os suum aperuit sapientiae et lex clementiae in lingua eius "
+        },
+        {
+          "name": "Proverbs 31:27",
+          "verse": 27,
+          "text": "sade considerat semitas domus suae et panem otiosa non comedet "
+        },
+        {
+          "name": "Proverbs 31:28",
+          "verse": 28,
+          "text": "coph surrexerunt filii eius et beatissimam praedicaverunt vir eius et laudavit eam "
+        },
+        {
+          "name": "Proverbs 31:29",
+          "verse": 29,
+          "text": "res multae filiae congregaverunt divitias tu supergressa es universas "
+        },
+        {
+          "name": "Proverbs 31:30",
+          "verse": 30,
+          "text": "sin fallax gratia et vana est pulchritudo mulier timens Dominum ipsa laudabitur "
+        },
+        {
+          "name": "Proverbs 31:31",
+          "verse": 31,
+          "text": "thau date ei de fructu manuum suarum et laudent eam in portis opera eius  "
+        }
+      ]
+    }
+  ]
+}

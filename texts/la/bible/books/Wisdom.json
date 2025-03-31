@@ -1,0 +1,2315 @@
+{
+  "name": "Wisdom",
+  "order": 25,
+  "chapters": [
+    {
+      "name": "Wisdom 1",
+      "chapter": 1,
+      "verses": [
+        {
+          "name": "Wisdom 1:1",
+          "verse": 1,
+          "text": "diligite iustitiam qui iudicatis terram sentite de Domino in bonitate et in simplicitate cordis quaerite illum "
+        },
+        {
+          "name": "Wisdom 1:2",
+          "verse": 2,
+          "text": "quoniam invenitur ab his qui non temptant illum apparet autem eis qui fidem habent in illum "
+        },
+        {
+          "name": "Wisdom 1:3",
+          "verse": 3,
+          "text": "perversae enim cogitationes separant a Deo probata autem virtus corripit insipientes "
+        },
+        {
+          "name": "Wisdom 1:4",
+          "verse": 4,
+          "text": "quoniam in malivolam animam non intrabit sapientia nec habitabit in corpore subdito peccatis "
+        },
+        {
+          "name": "Wisdom 1:5",
+          "verse": 5,
+          "text": "sanctus enim spiritus disciplinae effugiet fictum et auferet se a cogitationibus quae sunt sine intellectu et corripietur superveniente iniquitate "
+        },
+        {
+          "name": "Wisdom 1:6",
+          "verse": 6,
+          "text": "benignus est enim spiritus sapientiae et non liberabit maledictum a labiis suis quoniam renum illius testis est Deus et cordis eius scrutator est verus et linguae illius auditor "
+        },
+        {
+          "name": "Wisdom 1:7",
+          "verse": 7,
+          "text": "quoniam spiritus Domini replevit orbem terrarum et hoc quod continet omnia scientiam habet vocis "
+        },
+        {
+          "name": "Wisdom 1:8",
+          "verse": 8,
+          "text": "propter hoc qui loquitur iniqua non potest latere nec praeteriet illum corripiens iudicium "
+        },
+        {
+          "name": "Wisdom 1:9",
+          "verse": 9,
+          "text": "in cogitationibus enim impii interrogatio erit sermonum autem illius auditio ad Dominum veniet ad correptionem iniquitatum illius "
+        },
+        {
+          "name": "Wisdom 1:10",
+          "verse": 10,
+          "text": "quoniam auris zeli audit omnia et tumultus murmurationum non abscondetur "
+        },
+        {
+          "name": "Wisdom 1:11",
+          "verse": 11,
+          "text": "custodite ergo vos a murmuratione quae nihil prodest et a detractione parcite linguae quoniam responsum obscurum in vacuum non ibit os autem quod mentitur occidit animam "
+        },
+        {
+          "name": "Wisdom 1:12",
+          "verse": 12,
+          "text": "nolite zelare mortem in errore vitae vestrae neque adquiratis perditionem in operibus manuum vestrarum "
+        },
+        {
+          "name": "Wisdom 1:13",
+          "verse": 13,
+          "text": "quoniam Deus mortem non fecit nec laetatur in perditione vivorum "
+        },
+        {
+          "name": "Wisdom 1:14",
+          "verse": 14,
+          "text": "creavit enim ut essent omnia et sanabiles nationes orbis terrarum et non est in illis medicamentum exterminii nec inferorum regnum in terra "
+        },
+        {
+          "name": "Wisdom 1:15",
+          "verse": 15,
+          "text": "iustitia enim inmortalis est "
+        },
+        {
+          "name": "Wisdom 1:16",
+          "verse": 16,
+          "text": "impii autem manibus et verbis arcessierunt illam et aestimantes illam amicam defluxerunt et sponsionem posuerunt ad illam quoniam digni sunt qui sunt ex parte illius "
+        }
+      ]
+    },
+    {
+      "name": "Wisdom 2",
+      "chapter": 2,
+      "verses": [
+        {
+          "name": "Wisdom 2:1",
+          "verse": 1,
+          "text": "dixerunt enim apud se cogitantes non recte exiguum et cum taedio est tempus vitae nostrae et non est refrigerium in fine hominis et non est qui agnitus sit reversus ab inferis "
+        },
+        {
+          "name": "Wisdom 2:2",
+          "verse": 2,
+          "text": "quia ex nihilo nati sumus et post hoc erimus tamquam non fuerimus quoniam fumus afflatus est in naribus nostris et sermo scintillae ad commovendum cor nostrum "
+        },
+        {
+          "name": "Wisdom 2:3",
+          "verse": 3,
+          "text": "quia extincta cinis erit corpus et spiritus diffundetur tamquam mollis aer et transiet vita nostra tamquam vestigium nubis et sicut nebula dissolvetur quae fugata est a radiis solis et a calore illius adgravata "
+        },
+        {
+          "name": "Wisdom 2:4",
+          "verse": 4,
+          "text": "et nomen nostrum oblivionem accipiet per tempus et nemo memoriam habebit operum nostrorum "
+        },
+        {
+          "name": "Wisdom 2:5",
+          "verse": 5,
+          "text": "umbrae enim transitus est tempus nostrum et non est reversio finis nostri quoniam consignata est et nemo revertetur "
+        },
+        {
+          "name": "Wisdom 2:6",
+          "verse": 6,
+          "text": "venite ergo et fruamur bonis quae sunt et utamur creaturam tamquam in iuventute celeriter "
+        },
+        {
+          "name": "Wisdom 2:7",
+          "verse": 7,
+          "text": "vino pretioso et unguentis nos impleamus et non praetereat nos flos temporis "
+        },
+        {
+          "name": "Wisdom 2:8",
+          "verse": 8,
+          "text": "coronemus nos rosis antequam marcescant nullum pratum sit quod non pertranseat luxuria nostra "
+        },
+        {
+          "name": "Wisdom 2:9",
+          "verse": 9,
+          "text": "ubique relinquamus signa laetitiae quoniam haec est pars nostra et haec est sors "
+        },
+        {
+          "name": "Wisdom 2:10",
+          "verse": 10,
+          "text": "opprimamus pauperem iustum et non parcamus viduae nec veterani revereamur canos multi temporis "
+        },
+        {
+          "name": "Wisdom 2:11",
+          "verse": 11,
+          "text": "sit autem fortitudo nostra lex iniustitiae quod infirmum est enim inutile invenitur "
+        },
+        {
+          "name": "Wisdom 2:12",
+          "verse": 12,
+          "text": "circumveniamus ergo iustum quoniam inutilis est nobis et contrarius est operibus nostris et inproperat nobis peccata legis et diffamat in nos peccata disciplinae nostrae "
+        },
+        {
+          "name": "Wisdom 2:13",
+          "verse": 13,
+          "text": "promittit scientiam Dei se habere et filium Dei se nominat "
+        },
+        {
+          "name": "Wisdom 2:14",
+          "verse": 14,
+          "text": "factus est nobis in traductionem cogitationum nostrarum "
+        },
+        {
+          "name": "Wisdom 2:15",
+          "verse": 15,
+          "text": "gravis est nobis etiam ad videndum quoniam dissimilis est aliis vita illius et inmutatae sunt viae eius "
+        },
+        {
+          "name": "Wisdom 2:16",
+          "verse": 16,
+          "text": "tamquam nugaces aestimati sumus ab illo et abstinet se a viis nostris tamquam ab inmunditiis et praefert novissima iustorum et gloriatur patrem Deum se habere "
+        },
+        {
+          "name": "Wisdom 2:17",
+          "verse": 17,
+          "text": "videamus ergo si sermones illius veri sunt et temptemus quae ventura sunt illi et sciemus quae erunt novissima illius "
+        },
+        {
+          "name": "Wisdom 2:18",
+          "verse": 18,
+          "text": "si enim est verus filius Dei suscipiet illum et liberabit eum de manu contrariorum "
+        },
+        {
+          "name": "Wisdom 2:19",
+          "verse": 19,
+          "text": "contumelia et tormento interrogemus eum ut sciamus reverentiam illius et probemus patientiam ipsius "
+        },
+        {
+          "name": "Wisdom 2:20",
+          "verse": 20,
+          "text": "morte turpissima condemnemus illum erit enim ei respectus ex sermonibus illius "
+        },
+        {
+          "name": "Wisdom 2:21",
+          "verse": 21,
+          "text": "haec cogitaverunt et erraverunt excaecavit enim illos malitia eorum "
+        },
+        {
+          "name": "Wisdom 2:22",
+          "verse": 22,
+          "text": "et nescierunt sacramenta Dei neque mercedem speraverunt iustitiae nec iudicaverunt honorem animarum sanctarum "
+        },
+        {
+          "name": "Wisdom 2:23",
+          "verse": 23,
+          "text": "quoniam Deus creavit hominem inexterminabilem et ad imaginem suae similitudinis fecit illum "
+        },
+        {
+          "name": "Wisdom 2:24",
+          "verse": 24,
+          "text": "invidia autem diaboli mors introivit in orbem terrarum "
+        },
+        {
+          "name": "Wisdom 2:25",
+          "verse": 25,
+          "text": "imitantur autem illum qui sunt ex parte illius "
+        }
+      ]
+    },
+    {
+      "name": "Wisdom 3",
+      "chapter": 3,
+      "verses": [
+        {
+          "name": "Wisdom 3:1",
+          "verse": 1,
+          "text": "iustorum autem animae in manu Dei sunt et non tanget illos tormentum mortis "
+        },
+        {
+          "name": "Wisdom 3:2",
+          "verse": 2,
+          "text": "visi sunt in oculis insipientium mori et aestimata est adflictio exitus illorum "
+        },
+        {
+          "name": "Wisdom 3:3",
+          "verse": 3,
+          "text": "et quod a nobis est iter exterminii illi autem sunt in pace "
+        },
+        {
+          "name": "Wisdom 3:4",
+          "verse": 4,
+          "text": "et si coram hominibus tormenta passi sunt spes illorum inmortalitate plena est "
+        },
+        {
+          "name": "Wisdom 3:5",
+          "verse": 5,
+          "text": "et in paucis vexati in multis bene disponentur quoniam Deus tentavit illos et invenit illos dignos se "
+        },
+        {
+          "name": "Wisdom 3:6",
+          "verse": 6,
+          "text": "tamquam aurum in fornace probavit illos et quasi holocausta hostiam accepit illos et in tempore erit respectus illorum "
+        },
+        {
+          "name": "Wisdom 3:7",
+          "verse": 7,
+          "text": "fulgebunt et tamquam scintillae in harundineto discurrent "
+        },
+        {
+          "name": "Wisdom 3:8",
+          "verse": 8,
+          "text": "iudicabunt nationes et dominabuntur populis et regnabit Dominus illorum in perpetuum "
+        },
+        {
+          "name": "Wisdom 3:9",
+          "verse": 9,
+          "text": "qui confidunt in illum intellegent veritatem et fideles in dilectione adquiescent illi quoniam donum et pax est electis illius "
+        },
+        {
+          "name": "Wisdom 3:10",
+          "verse": 10,
+          "text": "impii autem secundum quae cogitaverunt correptionem habebunt qui neglexerunt iustum et a Domino recesserunt "
+        },
+        {
+          "name": "Wisdom 3:11",
+          "verse": 11,
+          "text": "sapientiam enim et disciplinam qui abicit infelix est et vacua est spes illorum et labores sine fructu et inhabitabilia opera illorum sunt "
+        },
+        {
+          "name": "Wisdom 3:12",
+          "verse": 12,
+          "text": "mulieres eorum insensatae sunt et nequissimi filii eorum "
+        },
+        {
+          "name": "Wisdom 3:13",
+          "verse": 13,
+          "text": "maledicta creatura illorum quoniam felix sterilis incoinquinata quae non scivit torum in delicto habebit fructum in respectione animarum "
+        },
+        {
+          "name": "Wisdom 3:14",
+          "verse": 14,
+          "text": "et spado qui non operatus est per manus suas iniquitatem nec cogitavit adversus Deum nequissima dabitur enim illi fidei donum electum et sors in templo Domini acceptissima "
+        },
+        {
+          "name": "Wisdom 3:15",
+          "verse": 15,
+          "text": "bonorum enim laborum gloriosus est fructus et quae non concidat radix sapientiae "
+        },
+        {
+          "name": "Wisdom 3:16",
+          "verse": 16,
+          "text": "filii autem adulterorum inconsummati erunt et ab iniquo toro semen exterminabitur "
+        },
+        {
+          "name": "Wisdom 3:17",
+          "verse": 17,
+          "text": "et si quidem longae vitae erunt in nihilum conputabuntur et sine honore erit novissima senectus illorum "
+        },
+        {
+          "name": "Wisdom 3:18",
+          "verse": 18,
+          "text": "et si celerius defuncti fuerint non habebunt spem nec in die agnitionis adlocutionem "
+        },
+        {
+          "name": "Wisdom 3:19",
+          "verse": 19,
+          "text": "nationis enim iniquae dirae sunt consummationes "
+        }
+      ]
+    },
+    {
+      "name": "Wisdom 4",
+      "chapter": 4,
+      "verses": [
+        {
+          "name": "Wisdom 4:1",
+          "verse": 1,
+          "text": "melior est generatio cum claritate inmortalitas est enim in memoria illius quoniam et apud Deum nota est et apud homines "
+        },
+        {
+          "name": "Wisdom 4:2",
+          "verse": 2,
+          "text": "cum praesens est imitantur illam et desiderant eam cum se duxerit et in perpetuum coronata triumphat incoinquinatorum certaminum praemium vincens "
+        },
+        {
+          "name": "Wisdom 4:3",
+          "verse": 3,
+          "text": "multigena autem impiorum multitudo non erit utilis et spuria vitulamina non dabunt radices altas nec stabile firmamentum conlocabunt "
+        },
+        {
+          "name": "Wisdom 4:4",
+          "verse": 4,
+          "text": "et si in ramis in tempore germinaverint infirmiter posita a vento commovebuntur et a nimietate ventorum eradicabuntur "
+        },
+        {
+          "name": "Wisdom 4:5",
+          "verse": 5,
+          "text": "confringentur rami inconsummati et fructus illorum inutilis et acerbi ad manducandum et ad nihilum apti "
+        },
+        {
+          "name": "Wisdom 4:6",
+          "verse": 6,
+          "text": "ex iniquis enim omnes filii qui nascuntur testes sunt nequitiae adversus parentes in interrogatione sua "
+        },
+        {
+          "name": "Wisdom 4:7",
+          "verse": 7,
+          "text": "iustus autem si morte praeoccupatus fuerit in refrigerio erit "
+        },
+        {
+          "name": "Wisdom 4:8",
+          "verse": 8,
+          "text": "senectus enim venerabilis est non diuturna neque numero annorum conputata cani sunt autem sensus hominibus "
+        },
+        {
+          "name": "Wisdom 4:9",
+          "verse": 9,
+          "text": "et aetas senectutis vita inmaculata "
+        },
+        {
+          "name": "Wisdom 4:10",
+          "verse": 10,
+          "text": "placens Deo factus dilectus et vivens inter peccatores translatus est "
+        },
+        {
+          "name": "Wisdom 4:11",
+          "verse": 11,
+          "text": "raptus est ne malitia mutaret intellectum illius aut fictio decipiat animam illius "
+        },
+        {
+          "name": "Wisdom 4:12",
+          "verse": 12,
+          "text": "fascinatio enim nugacitatis obscurat bona et inconstantia concupiscentiae transvertit sensum sine malitia "
+        },
+        {
+          "name": "Wisdom 4:13",
+          "verse": 13,
+          "text": "consummatus in brevi explevit tempora multa "
+        },
+        {
+          "name": "Wisdom 4:14",
+          "verse": 14,
+          "text": "placita enim erat Deo anima illius propter hoc properavit educere illum de medio iniquitatum populi autem videntes et non intellegentes nec ponentes in praecordiis talia "
+        },
+        {
+          "name": "Wisdom 4:15",
+          "verse": 15,
+          "text": "quoniam gratia Dei et misericordia in sanctos illius et respectus in electos illius "
+        },
+        {
+          "name": "Wisdom 4:16",
+          "verse": 16,
+          "text": "condemnat autem iustus mortuus vivos impios et iuventus celerius consummata longam vitam iniusti "
+        },
+        {
+          "name": "Wisdom 4:17",
+          "verse": 17,
+          "text": "videbunt enim finem sapientis et non intellegent quid cogitaverit de illo Deus et quare munierit illum Dominus "
+        },
+        {
+          "name": "Wisdom 4:18",
+          "verse": 18,
+          "text": "videbunt enim et contemnent illos autem Dominus inridebit "
+        },
+        {
+          "name": "Wisdom 4:19",
+          "verse": 19,
+          "text": "et erunt post haec decidentes sine honore et in contumelia inter mortuos in perpetuum quoniam disrumpet illos inflatos sine voce et commovebit illos a fundamentis et usque ad supremum desolabuntur et erunt gementes et memoria illorum periet "
+        },
+        {
+          "name": "Wisdom 4:20",
+          "verse": 20,
+          "text": "venient in cogitatione peccatorum suorum timidi et traducent illos ex adverso iniquitates ipsorum "
+        }
+      ]
+    },
+    {
+      "name": "Wisdom 5",
+      "chapter": 5,
+      "verses": [
+        {
+          "name": "Wisdom 5:1",
+          "verse": 1,
+          "text": "tunc stabunt iusti in magna constantia adversus eos qui se angustaverunt et qui abstulerunt labores illorum "
+        },
+        {
+          "name": "Wisdom 5:2",
+          "verse": 2,
+          "text": "videntes turbabuntur timore horribili et mirabuntur in subitatione insperatae salutis "
+        },
+        {
+          "name": "Wisdom 5:3",
+          "verse": 3,
+          "text": "dicent inter se paenitentiam agentes et per angustiam spiritus gementes hi sunt quos habuimus aliquando in risu et in similitudine inproperii "
+        },
+        {
+          "name": "Wisdom 5:4",
+          "verse": 4,
+          "text": "nos insensati vitam illorum aestimabamus insaniam et finem illorum sine honore "
+        },
+        {
+          "name": "Wisdom 5:5",
+          "verse": 5,
+          "text": "quomodo conputati sunt inter filios Dei et inter sanctos sors illorum est "
+        },
+        {
+          "name": "Wisdom 5:6",
+          "verse": 6,
+          "text": "ergo erravimus a via veritatis et iustitiae lumen non luxit nobis et sol non est ortus nobis "
+        },
+        {
+          "name": "Wisdom 5:7",
+          "verse": 7,
+          "text": "lassati sumus in via iniquitatis et perditionis et ambulavimus vias difficiles viam autem Domini ignoravimus "
+        },
+        {
+          "name": "Wisdom 5:8",
+          "verse": 8,
+          "text": "quid nobis profuit superbia aut quid divitiarum iactatio contulit nobis "
+        },
+        {
+          "name": "Wisdom 5:9",
+          "verse": 9,
+          "text": "transierunt omnia illa tamquam umbra et tamquam nuntius percurrens "
+        },
+        {
+          "name": "Wisdom 5:10",
+          "verse": 10,
+          "text": "et tamquam navis quae pertransit fluctuantem aquam cuius cum praeterierit non est vestigium invenire neque semitam carinae illius in fluctibus "
+        },
+        {
+          "name": "Wisdom 5:11",
+          "verse": 11,
+          "text": "aut avis quae transvolat in aere nullum invenitur argumentum itineris illius sed tantum sonitus est alarum verberans levem ventum et scindens per vim itineris aerem commotis alis transvolavit et post hoc nullum signum invenitur itineris illius "
+        },
+        {
+          "name": "Wisdom 5:12",
+          "verse": 12,
+          "text": "aut tamquam sagittae emissae in locum destinatum divisus aer continuo in se reclusus est ut ignoretur transitus illius "
+        },
+        {
+          "name": "Wisdom 5:13",
+          "verse": 13,
+          "text": "sic et nos nati continuo desivimus esse et virtutis quidem signum nullum valuimus ostendere in malignitate autem nostra consumpti sumus "
+        },
+        {
+          "name": "Wisdom 5:14",
+          "verse": 14,
+          "text": "talia dixerunt et peccaverunt "
+        },
+        {
+          "name": "Wisdom 5:15",
+          "verse": 15,
+          "text": "quoniam spes impii tamquam lanugo est quae a vento tollitur et tamquam spuma gracilis quae a procella dispergitur et tamquam fumus qui a vento diffusus est et tamquam memoria hospitis unius diei praetereuntis "
+        },
+        {
+          "name": "Wisdom 5:16",
+          "verse": 16,
+          "text": "iusti autem in perpetuum vivent et apud Dominum est merces eorum et cogitatio illorum apud Altissimum "
+        },
+        {
+          "name": "Wisdom 5:17",
+          "verse": 17,
+          "text": "ideo accipient regnum decoris et diadema speciei de manu Domini quoniam dextera sua teget eos et brachio suo defendet illos "
+        },
+        {
+          "name": "Wisdom 5:18",
+          "verse": 18,
+          "text": "accipiet armaturam zelus illius et armabit creaturam ad ultionem inimicorum "
+        },
+        {
+          "name": "Wisdom 5:19",
+          "verse": 19,
+          "text": "induet pro torace iustitiam et accipiet pro galea iudicium certum "
+        },
+        {
+          "name": "Wisdom 5:20",
+          "verse": 20,
+          "text": "sumet scutum inexpugnabilem aequitatem "
+        },
+        {
+          "name": "Wisdom 5:21",
+          "verse": 21,
+          "text": "acuet autem duram iram in lanceam et pugnabit cum illo orbis terrarum contra insensatos "
+        },
+        {
+          "name": "Wisdom 5:22",
+          "verse": 22,
+          "text": "ibunt directae emissiones fulgorum et tamquam a bene curvato arcu nubium exterminabuntur et ad certum locum insilient "
+        },
+        {
+          "name": "Wisdom 5:23",
+          "verse": 23,
+          "text": "et a petrosa ira plenae mittentur grandines et scandescet in illos aqua maris et flumina concurrent duriter "
+        },
+        {
+          "name": "Wisdom 5:24",
+          "verse": 24,
+          "text": "contra illos stabit spiritus virtutis et tamquam turbedo venti dividet illos et ad heremiam perducet omnem terram iniquitatis et malignitas evertet sedes potentium "
+        }
+      ]
+    },
+    {
+      "name": "Wisdom 6",
+      "chapter": 6,
+      "verses": [
+        {
+          "name": "Wisdom 6:1",
+          "verse": 1,
+          "text": "melior est sapientia quam vires et vir prudens magis quam fortis "
+        },
+        {
+          "name": "Wisdom 6:2",
+          "verse": 2,
+          "text": "audite ergo reges et intellegite discite iudices finium terrae "
+        },
+        {
+          "name": "Wisdom 6:3",
+          "verse": 3,
+          "text": "praebete aures vos qui continetis multitudines et placetis vobis in turbis nationum "
+        },
+        {
+          "name": "Wisdom 6:4",
+          "verse": 4,
+          "text": "quoniam data est a Domino potestas vobis et virtus ab Altissimo qui interrogabit opera vestra et cogitationes scrutabitur "
+        },
+        {
+          "name": "Wisdom 6:5",
+          "verse": 5,
+          "text": "quoniam cum essetis ministri regni illius non recte iudicastis neque custodistis legem iustitiae neque secundum voluntatem Dei ambulastis "
+        },
+        {
+          "name": "Wisdom 6:6",
+          "verse": 6,
+          "text": "horrende et cito apparebit vobis quoniam iudicium durissimum in his qui praesunt fiet "
+        },
+        {
+          "name": "Wisdom 6:7",
+          "verse": 7,
+          "text": "exiguo enim conceditur misericordia potentes autem potenter tormenta patientur "
+        },
+        {
+          "name": "Wisdom 6:8",
+          "verse": 8,
+          "text": "non enim subtrahet personam cuiusquam Dominus nec reverebitur magnitudinem cuiusquam quoniam pusillum et magnum ipse fecit et aequaliter cura est illi pro omnibus "
+        },
+        {
+          "name": "Wisdom 6:9",
+          "verse": 9,
+          "text": "fortioribus autem fortior instat cruciatio "
+        },
+        {
+          "name": "Wisdom 6:10",
+          "verse": 10,
+          "text": "ad vos ergo reges sunt hi sermones mei ut discatis sapientiam et non excidatis "
+        },
+        {
+          "name": "Wisdom 6:11",
+          "verse": 11,
+          "text": "qui enim custodierint iusta iuste iustificabuntur et qui didicerint ista invenient quid respondeant "
+        },
+        {
+          "name": "Wisdom 6:12",
+          "verse": 12,
+          "text": "concupiscite ergo sermones meos diligite illos et habebitis disciplinam "
+        },
+        {
+          "name": "Wisdom 6:13",
+          "verse": 13,
+          "text": "clara est et quae numquam marcescat sapientia et facile videtur ab his qui diligunt eam et invenietur ab his qui quaerunt illam "
+        },
+        {
+          "name": "Wisdom 6:14",
+          "verse": 14,
+          "text": "praeoccupat qui se concupiscunt ut illis se prior ostendat "
+        },
+        {
+          "name": "Wisdom 6:15",
+          "verse": 15,
+          "text": "qui de luce vigilaverit ad illam non laborabit adsidentem enim illam foribus suis inveniet "
+        },
+        {
+          "name": "Wisdom 6:16",
+          "verse": 16,
+          "text": "cogitare ergo de illa sensus est consummatus et qui vigilaverit propter illam cito erit securus "
+        },
+        {
+          "name": "Wisdom 6:17",
+          "verse": 17,
+          "text": "quoniam dignos se ipsa circuit quaerens et in viis ostendit se illis hilariter et in omni providentia occurrit illis "
+        },
+        {
+          "name": "Wisdom 6:18",
+          "verse": 18,
+          "text": "initium enim illius verissima est disciplinae concupiscentia "
+        },
+        {
+          "name": "Wisdom 6:19",
+          "verse": 19,
+          "text": "cura ergo disciplinae dilectio est et dilectio custoditio legum illius est custoditio autem legum consummatio incorruptionis est "
+        },
+        {
+          "name": "Wisdom 6:20",
+          "verse": 20,
+          "text": "incorruptio autem facit esse proximum Deo "
+        },
+        {
+          "name": "Wisdom 6:21",
+          "verse": 21,
+          "text": "concupiscentia itaque sapientiae deducet ad regnum perpetuum "
+        },
+        {
+          "name": "Wisdom 6:22",
+          "verse": 22,
+          "text": "si ergo delectamini sedibus et stemmatibus reges populi diligite sapientiam ut in perpetuum regnetis "
+        },
+        {
+          "name": "Wisdom 6:23",
+          "verse": 23,
+          "text": "[] "
+        },
+        {
+          "name": "Wisdom 6:24",
+          "verse": 24,
+          "text": "quid est autem sapientia et quemadmodum facta sit referam et non abscondam a vobis sacramenta Dei sed ab initio nativitatis investigabo et ponam in lucem scientiam illius et non praeteribo veritatem "
+        },
+        {
+          "name": "Wisdom 6:25",
+          "verse": 25,
+          "text": "neque cum invidia tabescente iter habebo quoniam ista non erit particeps sapientiae "
+        },
+        {
+          "name": "Wisdom 6:26",
+          "verse": 26,
+          "text": "multitudo autem sapientium sanitas est orbis terrarum et rex sapiens populi stabilimentum est "
+        },
+        {
+          "name": "Wisdom 6:27",
+          "verse": 27,
+          "text": "ergo accipite disciplinam per sermones meos et proderit vobis "
+        }
+      ]
+    },
+    {
+      "name": "Wisdom 7",
+      "chapter": 7,
+      "verses": [
+        {
+          "name": "Wisdom 7:1",
+          "verse": 1,
+          "text": "sum quidem et ego mortalis homo similis omnibus et ex genere terreno illius qui prior finctus est et in ventre matris figuratus sum caro "
+        },
+        {
+          "name": "Wisdom 7:2",
+          "verse": 2,
+          "text": "decem mensuum tempore coagulatus in sanguine ex semine hominis et delectamento somni conveniente "
+        },
+        {
+          "name": "Wisdom 7:3",
+          "verse": 3,
+          "text": "et ego natus accepi communem aerem et in similiter factam decidi terram primam vocem similem omnibus emisi plorans "
+        },
+        {
+          "name": "Wisdom 7:4",
+          "verse": 4,
+          "text": "in involumentis nutritus sum et curis magnis "
+        },
+        {
+          "name": "Wisdom 7:5",
+          "verse": 5,
+          "text": "nemo enim ex regibus aliud habuit nativitatis initium "
+        },
+        {
+          "name": "Wisdom 7:6",
+          "verse": 6,
+          "text": "unus ergo introitus est omnibus ad vitam et similis exitus "
+        },
+        {
+          "name": "Wisdom 7:7",
+          "verse": 7,
+          "text": "propter hoc optavi et datus est mihi sensus et invocavi et venit in me spiritus sapientiae "
+        },
+        {
+          "name": "Wisdom 7:8",
+          "verse": 8,
+          "text": "et praeposui illam regnis et sedibus et divitias nihil esse duxi in conparatione illius "
+        },
+        {
+          "name": "Wisdom 7:9",
+          "verse": 9,
+          "text": "nec conparavi illi lapidem pretiosum quoniam omne aurum in conparatione illius harena est exigua et tamquam lutum aestimabitur argentum in conspectu illius "
+        },
+        {
+          "name": "Wisdom 7:10",
+          "verse": 10,
+          "text": "super salutem et speciem dilexi illam et proposui pro luce habere illam quoniam inextinguibile est lumen illius "
+        },
+        {
+          "name": "Wisdom 7:11",
+          "verse": 11,
+          "text": "venerunt autem mihi omnia bona pariter cum illa et innumerabilis honestas per manus illius "
+        },
+        {
+          "name": "Wisdom 7:12",
+          "verse": 12,
+          "text": "et laetatus sum in omnibus quoniam antecedebat ista sapientia et ignorabam quoniam horum omnium mater est "
+        },
+        {
+          "name": "Wisdom 7:13",
+          "verse": 13,
+          "text": "quam sine fictione didici et sine invidia communico et honestatem illius non abscondo "
+        },
+        {
+          "name": "Wisdom 7:14",
+          "verse": 14,
+          "text": "infinitus enim thesaurus est hominibus quod qui usi sunt participes facti sunt amicitiae Dei propter disciplinae dona commendati "
+        },
+        {
+          "name": "Wisdom 7:15",
+          "verse": 15,
+          "text": "mihi autem det Deus dicere ex sententia et praesumere digna horum quae dantur quoniam ipse et sapientiae dux est et sapientium emendator "
+        },
+        {
+          "name": "Wisdom 7:16",
+          "verse": 16,
+          "text": "in manu enim illius et nos et sermones nostri et omnis sapientia et operum scientiae disciplina "
+        },
+        {
+          "name": "Wisdom 7:17",
+          "verse": 17,
+          "text": "ipse enim mihi dedit horum quae sunt scientiam veram ut sciam dispositionem orbis terrarum et virtutes elementorum "
+        },
+        {
+          "name": "Wisdom 7:18",
+          "verse": 18,
+          "text": "initium et consummationem et medietatem temporum et meditationem omnium morum mutationes et divisiones temporum "
+        },
+        {
+          "name": "Wisdom 7:19",
+          "verse": 19,
+          "text": "anni cursus et stellarum dispositiones "
+        },
+        {
+          "name": "Wisdom 7:20",
+          "verse": 20,
+          "text": "naturas animalium et iras bestiarum vim ventorum et cogitationes hominum differentias arborum et virtutes radicum "
+        },
+        {
+          "name": "Wisdom 7:21",
+          "verse": 21,
+          "text": "et quaecumque sunt absconsa et inprovisa didici omnium enim artifex docuit me sapientia "
+        },
+        {
+          "name": "Wisdom 7:22",
+          "verse": 22,
+          "text": "est enim in illa spiritus intellectus sanctus unicus multiplex subtilis mobilis dissertus incoinquinatus certus suavis amans bonum acutus qui nihil vetat benefacere "
+        },
+        {
+          "name": "Wisdom 7:23",
+          "verse": 23,
+          "text": "humanus stabilis certus securus omnem habens virtutem omnia prospiciens et qui capiat omnes spiritus intellegibiles mundos subtiles "
+        },
+        {
+          "name": "Wisdom 7:24",
+          "verse": 24,
+          "text": "omnibus enim mobilibus mobilior est sapientia adtingit autem ubique et capit propter suam munditiam "
+        },
+        {
+          "name": "Wisdom 7:25",
+          "verse": 25,
+          "text": "vapor est enim virtutis Dei et emanatio quaedam est claritatis omnipotentis Dei sincera et ideo nihil inquinatum in illa incurrit "
+        },
+        {
+          "name": "Wisdom 7:26",
+          "verse": 26,
+          "text": "candor est enim lucis aeternae et speculum sine macula Dei maiestatis et imago bonitatis illius "
+        },
+        {
+          "name": "Wisdom 7:27",
+          "verse": 27,
+          "text": "et cum sit una omnia potest et permanens in se omnia innovat et per nationes in animas sanctas se transfert amicos Dei et prophetas constituit "
+        },
+        {
+          "name": "Wisdom 7:28",
+          "verse": 28,
+          "text": "neminem enim diligit Deus nisi eum qui cum sapientia inhabitat "
+        },
+        {
+          "name": "Wisdom 7:29",
+          "verse": 29,
+          "text": "est enim haec speciosior sole et super omnem stellarum dispositionem luci conparata invenitur prior "
+        },
+        {
+          "name": "Wisdom 7:30",
+          "verse": 30,
+          "text": "illi enim succedit nox sapientiam autem non vincit malitia "
+        }
+      ]
+    },
+    {
+      "name": "Wisdom 8",
+      "chapter": 8,
+      "verses": [
+        {
+          "name": "Wisdom 8:1",
+          "verse": 1,
+          "text": "adtingit enim a fine usque ad finem fortiter et disponit omnia suaviter "
+        },
+        {
+          "name": "Wisdom 8:2",
+          "verse": 2,
+          "text": "hanc amavi et exquisivi a iuventute mea et quaesivi sponsam mihi adsumere et amator factus sum formae illius "
+        },
+        {
+          "name": "Wisdom 8:3",
+          "verse": 3,
+          "text": "generositatem glorificat contubernium habens Dei sed et omnium Dominus dilexit illam "
+        },
+        {
+          "name": "Wisdom 8:4",
+          "verse": 4,
+          "text": "doctrix est enim disciplinae Dei et electrix operum illius "
+        },
+        {
+          "name": "Wisdom 8:5",
+          "verse": 5,
+          "text": "et si divitiae appetuntur in vita quid sapientiae locupletius quae omnia operatur "
+        },
+        {
+          "name": "Wisdom 8:6",
+          "verse": 6,
+          "text": "si autem sensus operatur quis horum quae sunt magis quam illa est artifex "
+        },
+        {
+          "name": "Wisdom 8:7",
+          "verse": 7,
+          "text": "et si iustitiam quis diligit labores huius magnas habent virtutes sobrietatem enim et sapientiam docet et iustitiam et virtutem quibus utilius nihil est in vita hominibus "
+        },
+        {
+          "name": "Wisdom 8:8",
+          "verse": 8,
+          "text": "et si multitudinem scientiae desiderat quis scit praeterita et de futuris aestimat scit versutias sermonum et dissolutiones argumentorum signa et monstra scit antequam fiant et eventus temporum et saeculorum "
+        },
+        {
+          "name": "Wisdom 8:9",
+          "verse": 9,
+          "text": "proposui ergo hanc adducere mihi ad convivendum sciens quoniam communicabit mecum de bonis et erit adlocutio cogitationis et taedii mei "
+        },
+        {
+          "name": "Wisdom 8:10",
+          "verse": 10,
+          "text": "habebo propter hanc claritatem ad turbas et honorem apud seniores iuvenis "
+        },
+        {
+          "name": "Wisdom 8:11",
+          "verse": 11,
+          "text": "acutus inveniar in iudicio et in conspectu potentium admirabilis ero et facies principum mirabuntur me "
+        },
+        {
+          "name": "Wisdom 8:12",
+          "verse": 12,
+          "text": "tacentem me sustinebunt et loquentem me respicient et sermocinante plura manus ori suo inponent "
+        },
+        {
+          "name": "Wisdom 8:13",
+          "verse": 13,
+          "text": "propterea habebo per hanc inmortalitatem et memoriam aeternam his qui post me futuri sunt relinquam "
+        },
+        {
+          "name": "Wisdom 8:14",
+          "verse": 14,
+          "text": "disponam populos et nationes mihi erunt subiectae "
+        },
+        {
+          "name": "Wisdom 8:15",
+          "verse": 15,
+          "text": "timebunt me audientes reges horrendi in multitudine videbor bonus et in bello fortis "
+        },
+        {
+          "name": "Wisdom 8:16",
+          "verse": 16,
+          "text": "intrans in domum meam conquiescam cum illa non enim habet amaritudinem conversatio illius nec taedium convictus ipsius sed laetitiam et gaudium "
+        },
+        {
+          "name": "Wisdom 8:17",
+          "verse": 17,
+          "text": "haec cogitans apud me et commemorans in corde meo quoniam inmortalitas est in cogitatione sapientiae "
+        },
+        {
+          "name": "Wisdom 8:18",
+          "verse": 18,
+          "text": "et in amicitia illius delectatio bona et in operibus manuum illius honestas sine defectione et in certamine loquellae illius sapientia et praeclaritas in communicatione sermonum ipsius circuibam quaerens ut mihi illam adsumerem "
+        },
+        {
+          "name": "Wisdom 8:19",
+          "verse": 19,
+          "text": "puer autem eram ingeniosus et sortitus sum animam bonam "
+        },
+        {
+          "name": "Wisdom 8:20",
+          "verse": 20,
+          "text": "et cum essem magis bonus veni ad corpus incoinquinatum "
+        },
+        {
+          "name": "Wisdom 8:21",
+          "verse": 21,
+          "text": "et ut scivi quoniam aliter non possum esse continens nisi Deus det et hoc ipsum erat sapientiae scire cuius esset hoc donum adii Dominum et deprecatus sum illum et dixi ex totis praecordiis meis "
+        }
+      ]
+    },
+    {
+      "name": "Wisdom 9",
+      "chapter": 9,
+      "verses": [
+        {
+          "name": "Wisdom 9:1",
+          "verse": 1,
+          "text": "Deus parentum et Domine misericordiae tuae qui fecisti omnia verbo tuo "
+        },
+        {
+          "name": "Wisdom 9:2",
+          "verse": 2,
+          "text": "et sapientia tua constituisti hominem ut dominetur creaturae quae a te facta est "
+        },
+        {
+          "name": "Wisdom 9:3",
+          "verse": 3,
+          "text": "ut disponat orbem terrarum in aequitate et iustitia et in directione cordis iudicium iudicet "
+        },
+        {
+          "name": "Wisdom 9:4",
+          "verse": 4,
+          "text": "da mihi sedium tuarum adsistricem sapientiam et noli me reprobare a pueris tuis "
+        },
+        {
+          "name": "Wisdom 9:5",
+          "verse": 5,
+          "text": "quoniam ego servus tuus et filius ancillae tuae sum homo infirmus et exigui temporis et minor ad intellectum iudicii et legum "
+        },
+        {
+          "name": "Wisdom 9:6",
+          "verse": 6,
+          "text": "et si quis erit consummatus inter filios hominum si afuerit ab illo sapientia tua in nihilum conputabitur "
+        },
+        {
+          "name": "Wisdom 9:7",
+          "verse": 7,
+          "text": "tu me elegisti regem populo tuo et iudicem filiorum tuorum et filiarum "
+        },
+        {
+          "name": "Wisdom 9:8",
+          "verse": 8,
+          "text": "dixisti aedificare templum in monte sancto tuo et in civitate habitationis tuae aram similitudinem tabernaculi sancti tui quod praeparasti ab initio "
+        },
+        {
+          "name": "Wisdom 9:9",
+          "verse": 9,
+          "text": "et tecum sapientia quae novit opera tua quae et adfuit tunc cum orbem terrarum faceres et sciebat quid placitum esset oculis tuis et quid directum in praeceptis tuis "
+        },
+        {
+          "name": "Wisdom 9:10",
+          "verse": 10,
+          "text": "mitte illam de sanctis caelis tuis et mitte illam a sede magnitudinis tuae ut mecum sit et mecum laboret et sciam quid acceptum sit apud te "
+        },
+        {
+          "name": "Wisdom 9:11",
+          "verse": 11,
+          "text": "scit enim illa omnia et intellegit et deducet me in operibus meis sobrie et custodiet me in sua potentia "
+        },
+        {
+          "name": "Wisdom 9:12",
+          "verse": 12,
+          "text": "et erunt accepta opera mea et disponam populum tuum iuste et ero dignus sedium patris mei "
+        },
+        {
+          "name": "Wisdom 9:13",
+          "verse": 13,
+          "text": "quis enim hominum poterit scire consilium Dei aut quis poterit cogitare quid velit Dominus "
+        },
+        {
+          "name": "Wisdom 9:14",
+          "verse": 14,
+          "text": "cogitationes enim mortalium timidae et incertae providentiae nostrae "
+        },
+        {
+          "name": "Wisdom 9:15",
+          "verse": 15,
+          "text": "corpus enim quod corrumpitur adgravat animam et deprimit terrena inhabitatio sensum multa cogitantem "
+        },
+        {
+          "name": "Wisdom 9:16",
+          "verse": 16,
+          "text": "et difficile aestimamus quae in terra sunt et quae in prospectu sunt invenimus cum labore quae in caelis sunt autem quis investigavit "
+        },
+        {
+          "name": "Wisdom 9:17",
+          "verse": 17,
+          "text": "sensum autem tuum quis scivit nisi tu dederis sapientiam et miseris sanctum spiritum tuum de altissimis "
+        },
+        {
+          "name": "Wisdom 9:18",
+          "verse": 18,
+          "text": "et sic correctae sunt semitae eorum qui in terris sunt et quae tibi placent didicerunt homines "
+        },
+        {
+          "name": "Wisdom 9:19",
+          "verse": 19,
+          "text": "et per sapientiam sanati sunt "
+        }
+      ]
+    },
+    {
+      "name": "Wisdom 10",
+      "chapter": 10,
+      "verses": [
+        {
+          "name": "Wisdom 10:1",
+          "verse": 1,
+          "text": "haec illum qui primus finctus est patrem orbis terrarum cum solus esset creatus custodivit "
+        },
+        {
+          "name": "Wisdom 10:2",
+          "verse": 2,
+          "text": "et eduxit illum a delicto suo et dedit illi virtutem continendi omnia "
+        },
+        {
+          "name": "Wisdom 10:3",
+          "verse": 3,
+          "text": "ab hac ut recessit iniustus in ira sua per iram homicidii fraternitatis deperiit "
+        },
+        {
+          "name": "Wisdom 10:4",
+          "verse": 4,
+          "text": "propter quem cum aqua deleret terram iterum sanavit sapientia per contemptibile lignum iustum gubernans "
+        },
+        {
+          "name": "Wisdom 10:5",
+          "verse": 5,
+          "text": "haec et in consensu nequitiae cum se nationes contulissent scivit iustum et servavit sine querella Deo et in filii misericordia fortem custodivit "
+        },
+        {
+          "name": "Wisdom 10:6",
+          "verse": 6,
+          "text": "haec iustum a pereuntibus impiis liberavit fugientem descendentem ignem in Pentapoli "
+        },
+        {
+          "name": "Wisdom 10:7",
+          "verse": 7,
+          "text": "cuius in testimonium nequitiae fumigabunda constat deserta terra et incerto tempore fructus habentes arbores et incredibilis animae memoria stans figmentum salis "
+        },
+        {
+          "name": "Wisdom 10:8",
+          "verse": 8,
+          "text": "sapientiam enim praetereuntes non tantum in hoc lapsi sunt ut ignorarent bona sed et insipientiae suae reliquerunt hominibus memoriam ut in his quae peccaverunt nec latere potuissent "
+        },
+        {
+          "name": "Wisdom 10:9",
+          "verse": 9,
+          "text": "sapientia autem hos qui se observant a doloribus liberavit "
+        },
+        {
+          "name": "Wisdom 10:10",
+          "verse": 10,
+          "text": "haec profugum irae fratris iustum deduxit per vias rectas et ostendit illi regnum Dei et dedit illi scientiam sanctorum honestavit illum in laboribus et conplevit labores illius "
+        },
+        {
+          "name": "Wisdom 10:11",
+          "verse": 11,
+          "text": "in fraude circumvenientium illum adfuit et honestum illum fecit "
+        },
+        {
+          "name": "Wisdom 10:12",
+          "verse": 12,
+          "text": "custodivit illum ab inimicis et a seductoribus tutavit eum et certamen forte dedit illi ut vinceret ut sciret quoniam omnium potentior est sapientia "
+        },
+        {
+          "name": "Wisdom 10:13",
+          "verse": 13,
+          "text": "haec venditum iustum non dereliquit sed a peccatoribus liberavit illum descendit cum illo in foveam "
+        },
+        {
+          "name": "Wisdom 10:14",
+          "verse": 14,
+          "text": "et in vinculis non dereliquit illum donec adferret illi sceptrum regni et potentiam adversus eos qui eum deprimebant et mendaces ostendit qui maculaverunt ipsum et dedit illi claritatem aeternam "
+        },
+        {
+          "name": "Wisdom 10:15",
+          "verse": 15,
+          "text": "haec populum iustum et semen sine querella liberavit a nationibus quae illum conprimebant "
+        },
+        {
+          "name": "Wisdom 10:16",
+          "verse": 16,
+          "text": "intravit in animam servi Domini et stetit contra reges horrendos in portentis et signis "
+        },
+        {
+          "name": "Wisdom 10:17",
+          "verse": 17,
+          "text": "et reddidit iustis mercedem laborum suorum et deduxit illos in via mirabili et fuit illis in velamento diei et in luce stellarum nocte "
+        },
+        {
+          "name": "Wisdom 10:18",
+          "verse": 18,
+          "text": "transtulit illos mare Rubrum et transvexit illos per aquam nimiam "
+        },
+        {
+          "name": "Wisdom 10:19",
+          "verse": 19,
+          "text": "inimicos autem illorum demersit in mare et ab altitudine inferorum eduxit illos ideo iusti tulerunt spolia impiorum "
+        },
+        {
+          "name": "Wisdom 10:20",
+          "verse": 20,
+          "text": "et decantaverunt Domine nomen sanctum tuum et victricem manum tuam laudaverunt pariter "
+        },
+        {
+          "name": "Wisdom 10:21",
+          "verse": 21,
+          "text": "quoniam sapientia aperuit os mutorum et linguas infantium fecit dissertas "
+        }
+      ]
+    },
+    {
+      "name": "Wisdom 11",
+      "chapter": 11,
+      "verses": [
+        {
+          "name": "Wisdom 11:1",
+          "verse": 1,
+          "text": "direxit opera illorum in manibus prophetae sancti "
+        },
+        {
+          "name": "Wisdom 11:2",
+          "verse": 2,
+          "text": "iter fecerunt per deserta quae non inhabitabantur et in locis secretis fixerunt casas "
+        },
+        {
+          "name": "Wisdom 11:3",
+          "verse": 3,
+          "text": "steterunt contra hostes et de inimicis se vindicaverunt "
+        },
+        {
+          "name": "Wisdom 11:4",
+          "verse": 4,
+          "text": "sitierunt et invocaverunt te et data est illis de petra altissima aqua et requies sitis de lapide duro "
+        },
+        {
+          "name": "Wisdom 11:5",
+          "verse": 5,
+          "text": "per quae enim poenas passi sunt inimici illorum "
+        },
+        {
+          "name": "Wisdom 11:6",
+          "verse": 6,
+          "text": "per haec cum illis deesset bene cum illis actum est "
+        },
+        {
+          "name": "Wisdom 11:7",
+          "verse": 7,
+          "text": "nam pro fonte quidem sempiterni fluminis humanum sanguinem dedisti iniustis "
+        },
+        {
+          "name": "Wisdom 11:8",
+          "verse": 8,
+          "text": "qui comminuerentur in traductione infantum occisorum dedisti illis abundantem aquam insperate "
+        },
+        {
+          "name": "Wisdom 11:9",
+          "verse": 9,
+          "text": "ostendens per sitim quae tunc fuit quemadmodum tuos exaltares et adversarios illorum necares "
+        },
+        {
+          "name": "Wisdom 11:10",
+          "verse": 10,
+          "text": "cum enim temptati sunt et quidem cum misericordia disciplinam accipientes scierunt quemadmodum cum ira iudicati impii tormenta paterentur "
+        },
+        {
+          "name": "Wisdom 11:11",
+          "verse": 11,
+          "text": "hos quidem tamquam pater monens probasti illos autem tamquam durus rex interrogans condemnasti "
+        },
+        {
+          "name": "Wisdom 11:12",
+          "verse": 12,
+          "text": "absentes enim et praesentes similiter torquebantur "
+        },
+        {
+          "name": "Wisdom 11:13",
+          "verse": 13,
+          "text": "duplex enim illos acceperat taedium et gemitus cum memoria praeteritorum "
+        },
+        {
+          "name": "Wisdom 11:14",
+          "verse": 14,
+          "text": "cum enim audirent per sua tormenta bene secum agi commemorati sunt Dominum "
+        },
+        {
+          "name": "Wisdom 11:15",
+          "verse": 15,
+          "text": "quem enim in expositione prava proiectum deriserunt in finem eventus mirati sunt non similiter iustis faciens "
+        },
+        {
+          "name": "Wisdom 11:16",
+          "verse": 16,
+          "text": "pro cogitationibus autem insensatis iniquitates illorum quod quidam errantes colebant mutos serpentes et bestias supervacuas inmisisti illis multitudinem mutorum animalium in vindictam "
+        },
+        {
+          "name": "Wisdom 11:17",
+          "verse": 17,
+          "text": "ut scirent quia per quae peccat quis per haec et torquetur "
+        },
+        {
+          "name": "Wisdom 11:18",
+          "verse": 18,
+          "text": "non enim inpossibilis erat omnipotens manus tua quae creavit orbem terrarum ex materia invisa inmittere illis multitudinem ursorum aut audaces leones "
+        },
+        {
+          "name": "Wisdom 11:19",
+          "verse": 19,
+          "text": "aut novi generis ira plenas et ignotas bestias aut vaporem igneum spirantes aut odorem fumi proferentes aut horrendas ab oculis scintillas emittentes "
+        },
+        {
+          "name": "Wisdom 11:20",
+          "verse": 20,
+          "text": "quarum non solum laesura poterat illos exterminare sed et aspectus per timorem occidere "
+        },
+        {
+          "name": "Wisdom 11:21",
+          "verse": 21,
+          "text": "sed et sine his uno spiritu occidi poterant persecutionem passi ab ipsis factis suis et dispersi per spiritum virtutis tuae sed omnia mensura et numero et pondere disposuisti "
+        },
+        {
+          "name": "Wisdom 11:22",
+          "verse": 22,
+          "text": "multum enim valere tibi soli superat semper et virtuti brachii tui quis resistet "
+        },
+        {
+          "name": "Wisdom 11:23",
+          "verse": 23,
+          "text": "quoniam tamquam momentum staterae sic ante te est orbis terrarum et tamquam gutta roris antelucani quae descendit in terram "
+        },
+        {
+          "name": "Wisdom 11:24",
+          "verse": 24,
+          "text": "sed misereris omnium quoniam omnia potes et dissimulas peccata hominum propter paenitentiam "
+        },
+        {
+          "name": "Wisdom 11:25",
+          "verse": 25,
+          "text": "diligis enim omnia quae sunt et nihil odisti horum quae fecisti nec enim odiens aliquid constituisti "
+        },
+        {
+          "name": "Wisdom 11:26",
+          "verse": 26,
+          "text": "quomodo autem posset aliquid permanere nisi tu voluisses aut quod a te vocatum non esset conservaretur "
+        },
+        {
+          "name": "Wisdom 11:27",
+          "verse": 27,
+          "text": "parcis autem omnibus quoniam tua sunt Domine qui animas amas "
+        }
+      ]
+    },
+    {
+      "name": "Wisdom 12",
+      "chapter": 12,
+      "verses": [
+        {
+          "name": "Wisdom 12:1",
+          "verse": 1,
+          "text": "bonus enim spiritus tuus est in omnibus "
+        },
+        {
+          "name": "Wisdom 12:2",
+          "verse": 2,
+          "text": "propter quod hos qui exerrant partibus corripis et de quibus peccant admonens adloqueris ut relicta malitia credant in te Domine "
+        },
+        {
+          "name": "Wisdom 12:3",
+          "verse": 3,
+          "text": "et illos enim antiquos inhabitatores sanctae tuae terrae odiens "
+        },
+        {
+          "name": "Wisdom 12:4",
+          "verse": 4,
+          "text": "quoniam odibilia tibi opera faciebant per medicamina et sacrificia iniusta "
+        },
+        {
+          "name": "Wisdom 12:5",
+          "verse": 5,
+          "text": "et filiorum necatores sine misericordia et comestores viscerum hominum devorationem et sanguinis a medio sacramento tuo "
+        },
+        {
+          "name": "Wisdom 12:6",
+          "verse": 6,
+          "text": "et auctores parentes animarum inauxiliatarum voluisti perdere per manus parentum nostrorum "
+        },
+        {
+          "name": "Wisdom 12:7",
+          "verse": 7,
+          "text": "ut dignam perciperent peregrinationem puerorum Dei quae tibi omnium carior est terra "
+        },
+        {
+          "name": "Wisdom 12:8",
+          "verse": 8,
+          "text": "sed et his tamquam hominibus pepercisti et misisti antecessores exercitus tui vespas ut illos paulatim exterminarent "
+        },
+        {
+          "name": "Wisdom 12:9",
+          "verse": 9,
+          "text": "non quia inpotens eras in bello subicere impios iustis aut bestiis saevis aut verbo duro simul exterminare "
+        },
+        {
+          "name": "Wisdom 12:10",
+          "verse": 10,
+          "text": "sed partibus iudicans dabas locum paenitentiae non ignorans quoniam nequa est natio illorum et naturalis malitia ipsorum et quoniam non poterat mutari cogitatio illorum in perpetuum "
+        },
+        {
+          "name": "Wisdom 12:11",
+          "verse": 11,
+          "text": "semen enim erat maledictum ab initio nec timens aliquem veniam dabas peccatis illorum "
+        },
+        {
+          "name": "Wisdom 12:12",
+          "verse": 12,
+          "text": "quis enim dicet tibi quid fecisti aut quis stabit contra iudicium tuum aut quis in conspectum tuum veniet vindex iniquorum hominum aut quis tibi inputabit si nationes perierint quas tu fecisti "
+        },
+        {
+          "name": "Wisdom 12:13",
+          "verse": 13,
+          "text": "nec enim est alius Deus quam tu cuius cura est de omnibus ut ostendas quoniam non iniuste iudicasti "
+        },
+        {
+          "name": "Wisdom 12:14",
+          "verse": 14,
+          "text": "neque rex neque tyrannus in conspectu tuo inquirent de his quos perdidisti "
+        },
+        {
+          "name": "Wisdom 12:15",
+          "verse": 15,
+          "text": "cum sis ergo iustus iuste omnia disponis ipsum quoque qui non debet puniri condemnas exterum aestimas a tua virtute "
+        },
+        {
+          "name": "Wisdom 12:16",
+          "verse": 16,
+          "text": "virtus enim tua iustitiae initium est et ob hoc quod omnium Dominus es omnibus te parcere facis "
+        },
+        {
+          "name": "Wisdom 12:17",
+          "verse": 17,
+          "text": "virtutem enim ostendis tu qui non crederis esse in virtute consummatus et hos qui sciunt audaciam traducis "
+        },
+        {
+          "name": "Wisdom 12:18",
+          "verse": 18,
+          "text": "tu autem dominator virtutis cum tranquillitate iudicas et cum magna reverentia disponis nos subest enim tibi cum voles posse "
+        },
+        {
+          "name": "Wisdom 12:19",
+          "verse": 19,
+          "text": "docuisti autem populum tuum per talia opera quoniam oportet iustum esse et humanum et bonae spei fecisti filios tuos quoniam das locum in peccatis paenitentiae "
+        },
+        {
+          "name": "Wisdom 12:20",
+          "verse": 20,
+          "text": "si enim inimicos servorum tuorum et debitos morti cum tanta cruciasti adtentione et liberasti dans tempus et locum per quae possint mutari a malitia "
+        },
+        {
+          "name": "Wisdom 12:21",
+          "verse": 21,
+          "text": "cum quanta diligentia iudicasti filios tuos quorum parentibus iuramenta et conventiones dedisti bonarum promissionum "
+        },
+        {
+          "name": "Wisdom 12:22",
+          "verse": 22,
+          "text": "cum ergo nobis disciplinam das inimicos nostros multipliciter flagellas ut bonitatem tuam cogitemus iudicantes et cum de nobis iudicatur speremus misericordiam "
+        },
+        {
+          "name": "Wisdom 12:23",
+          "verse": 23,
+          "text": "unde et illis qui in vita sua insensate et iniuste vixerunt per haec quae coluerunt dedisti summa tormenta "
+        },
+        {
+          "name": "Wisdom 12:24",
+          "verse": 24,
+          "text": "etenim in erroris via diutius erraverunt deos aestimantes haec quae in animalibus sunt supervacua infantum insensatorum more viventes "
+        },
+        {
+          "name": "Wisdom 12:25",
+          "verse": 25,
+          "text": "propter hoc tamquam pueris insensatis iudicium in derisum dedisti "
+        },
+        {
+          "name": "Wisdom 12:26",
+          "verse": 26,
+          "text": "qui autem ludibriis increpationis non correpti sunt dignum Dei iudicium experti sunt "
+        },
+        {
+          "name": "Wisdom 12:27",
+          "verse": 27,
+          "text": "in his enim quae patiebantur moleste ferebant in quibus patientes indignabantur per haec quos putabant deos in ipsis cum exterminarentur videntes illum quem olim negabant se nosse Deum verum agnoverunt propter quod et finis condemnationis illis veniet "
+        }
+      ]
+    },
+    {
+      "name": "Wisdom 13",
+      "chapter": 13,
+      "verses": [
+        {
+          "name": "Wisdom 13:1",
+          "verse": 1,
+          "text": "vani sunt autem omnes homines quibus non subest scientia Dei et de his quae videntur bona non potuerunt intellegere eum qui est neque operibus adtendentes agnoverunt quis esset artifex "
+        },
+        {
+          "name": "Wisdom 13:2",
+          "verse": 2,
+          "text": "sed aut ignem aut spiritum aut citatum aerem aut gyrum stellarum aut nimiam aquam aut solem et lunam rectores orbis terrarum deos putaverunt "
+        },
+        {
+          "name": "Wisdom 13:3",
+          "verse": 3,
+          "text": "quorum si specie delectati deos putaverunt sciant quanto dominator eorum speciosior est speciei enim generator haec omnia constituit "
+        },
+        {
+          "name": "Wisdom 13:4",
+          "verse": 4,
+          "text": "aut si virtutem et opera eorum mirati sunt intellegant ab ipsis quoniam qui haec constituit fortior est illis "
+        },
+        {
+          "name": "Wisdom 13:5",
+          "verse": 5,
+          "text": "a magnitudine enim speciei et creaturae cognoscibiliter poterit horum creator videri "
+        },
+        {
+          "name": "Wisdom 13:6",
+          "verse": 6,
+          "text": "sed tamen adhuc in his minor est querella et hii enim fortassis errant Deum quaerentes et volentes invenire "
+        },
+        {
+          "name": "Wisdom 13:7",
+          "verse": 7,
+          "text": "etenim cum in operibus illius conversentur inquirunt et persuasum habent quoniam bona sunt quae videntur "
+        },
+        {
+          "name": "Wisdom 13:8",
+          "verse": 8,
+          "text": "iterum autem nec his debet ignosci "
+        },
+        {
+          "name": "Wisdom 13:9",
+          "verse": 9,
+          "text": "si enim tantum potuerunt scire ut possent aestimare saeculum quomodo huius Dominum non facilius invenerunt "
+        },
+        {
+          "name": "Wisdom 13:10",
+          "verse": 10,
+          "text": "infelices autem sunt et inter mortuos spes illorum est qui appellaverunt deos opera manuum hominum aurum et argentum artis inventionem similitudines animalium aut lapidem inutilem opus manus antiquae "
+        },
+        {
+          "name": "Wisdom 13:11",
+          "verse": 11,
+          "text": "aut si quis artifex faber de silva lignum rectum secaverit et huius docte eradat omnem corticem et arte sua usus diligenter fabricet vas utile in conversatione vitae "
+        },
+        {
+          "name": "Wisdom 13:12",
+          "verse": 12,
+          "text": "reliquias autem eius operis ad praeparationem escae abutatur "
+        },
+        {
+          "name": "Wisdom 13:13",
+          "verse": 13,
+          "text": "et reliquum horum quod ad nullos usus facit lignum curvum et verticibus plenum sculpat diligenter per vacuitatem suam et per scientiam artis suae figuret illud et adsimilet illud imagini hominis "
+        },
+        {
+          "name": "Wisdom 13:14",
+          "verse": 14,
+          "text": "aut alicui ex animalibus illud conparet perliniens lubrica et rubicundum faciens fuco colorem illius et omnem maculam quae in illo est perliniens "
+        },
+        {
+          "name": "Wisdom 13:15",
+          "verse": 15,
+          "text": "et faciat ei dignam habitationem in pariete ponens illud confirmans ferro "
+        },
+        {
+          "name": "Wisdom 13:16",
+          "verse": 16,
+          "text": "ne forte cadat prospiciens illi sciens quoniam non potest se adiuvare imago enim est et opus est illi adiutorio "
+        },
+        {
+          "name": "Wisdom 13:17",
+          "verse": 17,
+          "text": "et de substantia sua et filiis suis et nuptiis votum faciens inquirit non erubescit loqui cum illo qui sine anima est "
+        },
+        {
+          "name": "Wisdom 13:18",
+          "verse": 18,
+          "text": "et pro sanitate quidem infirmum deprecatur et pro vita mortuum rogat et in adiutorium inutilem invocat "
+        },
+        {
+          "name": "Wisdom 13:19",
+          "verse": 19,
+          "text": "et pro itinere petit ab hoc qui ambulare non potest et de adquirendo et de operando et de omnium rerum eventu petit ab eo qui in omnibus est inutilis "
+        }
+      ]
+    },
+    {
+      "name": "Wisdom 14",
+      "chapter": 14,
+      "verses": [
+        {
+          "name": "Wisdom 14:1",
+          "verse": 1,
+          "text": "iterum alius navigare cogitans et per feros fluctus incipiens iter facere ligno portante se fragilius lignum invocat "
+        },
+        {
+          "name": "Wisdom 14:2",
+          "verse": 2,
+          "text": "illud enim cupiditas adquirendi excogitavit et artifex sapientia fabricavit sua "
+        },
+        {
+          "name": "Wisdom 14:3",
+          "verse": 3,
+          "text": "tua autem pater gubernat providentia quoniam dedisti et in mari viam et inter fluctus semitam firmissimam "
+        },
+        {
+          "name": "Wisdom 14:4",
+          "verse": 4,
+          "text": "ostendens quoniam potes ex omnibus sanare etiam si sine rate aliquis adeat "
+        },
+        {
+          "name": "Wisdom 14:5",
+          "verse": 5,
+          "text": "sed ut non esset vacua sapientiae tuae opera propter hoc etiam exiguo ligno credunt homines animas suas et transeuntes mare per ratem liberati sunt "
+        },
+        {
+          "name": "Wisdom 14:6",
+          "verse": 6,
+          "text": "sed ab initio cum perirent superbi gigantes spes orbis terrarum ad ratem confugiens remisit saeculo semen nativitatis quae manu tua erat gubernata "
+        },
+        {
+          "name": "Wisdom 14:7",
+          "verse": 7,
+          "text": "benedictum est enim lignum per quod fit iustitia "
+        },
+        {
+          "name": "Wisdom 14:8",
+          "verse": 8,
+          "text": "per manus autem quod fit maledictum et ipsum et qui fecit illud quia ille quidem operatus est illud autem cum esset fragile Deus cognominatus est "
+        },
+        {
+          "name": "Wisdom 14:9",
+          "verse": 9,
+          "text": "similiter autem odio sunt Deo impius et impietas eius "
+        },
+        {
+          "name": "Wisdom 14:10",
+          "verse": 10,
+          "text": "etenim quod factum est cum illo qui fecit tormenta patietur "
+        },
+        {
+          "name": "Wisdom 14:11",
+          "verse": 11,
+          "text": "propter hoc et idolis nationum non erit respectus quoniam creaturae Dei in odium factae sunt et in temptationem animis hominum et in muscipulum pedibus insipientium "
+        },
+        {
+          "name": "Wisdom 14:12",
+          "verse": 12,
+          "text": "initium enim fornicationis est exquisitio idolorum et adinventio illorum corruptio vitae est "
+        },
+        {
+          "name": "Wisdom 14:13",
+          "verse": 13,
+          "text": "neque erant ab initio neque erunt in perpetuum "
+        },
+        {
+          "name": "Wisdom 14:14",
+          "verse": 14,
+          "text": "supervacuitas enim hominum venit in orbem terrarum et ideo brevis illorum finis inventus est "
+        },
+        {
+          "name": "Wisdom 14:15",
+          "verse": 15,
+          "text": "acerbo enim luctu dolens pater cito sibi filii rapti faciens imaginem illum qui tunc homo mortuus fuerat nunc tamquam deum colere coepit et constituit inter servos suos sacra et sacrificia "
+        },
+        {
+          "name": "Wisdom 14:16",
+          "verse": 16,
+          "text": "deinde interveniente tempore convalescente iniqua consuetudine hic error tamquam lex custodita est et tyrannorum imperio colebantur figmenta "
+        },
+        {
+          "name": "Wisdom 14:17",
+          "verse": 17,
+          "text": "hos quos in palam honorare non poterant homines propter quod longe essent e longinquo figura illorum adlata evidentem imaginem regis quem honorare volebant fecerunt ut illum qui aberat tamquam praesentem colerent sua sollicitudine "
+        },
+        {
+          "name": "Wisdom 14:18",
+          "verse": 18,
+          "text": "provexit autem ad horum culturam et hos qui ignorabant artificis eximia diligentia "
+        },
+        {
+          "name": "Wisdom 14:19",
+          "verse": 19,
+          "text": "ille enim volens placere illi qui se adsumpsit elaboravit arte sua ut similitudinem in melius figuraret "
+        },
+        {
+          "name": "Wisdom 14:20",
+          "verse": 20,
+          "text": "multitudo autem adducta per speciem operis eum qui ante tempus tamquam homo honoratus fuerat nunc deum existimaverunt "
+        },
+        {
+          "name": "Wisdom 14:21",
+          "verse": 21,
+          "text": "et haec fuit vitae humanae deceptio quoniam aut adfectui aut regibus deservientes homines incommunicabile nomen lapidibus et lignis inposuerunt "
+        },
+        {
+          "name": "Wisdom 14:22",
+          "verse": 22,
+          "text": "et non sufficerat errasse eos circa Dei scientiam sed et in magno viventes inscientiae bello tot et tam magna mala pacem appellant "
+        },
+        {
+          "name": "Wisdom 14:23",
+          "verse": 23,
+          "text": "aut enim filios suos sacrificantes aut obscura sacrificia facientes aut insaniae plenas vigilias habentes "
+        },
+        {
+          "name": "Wisdom 14:24",
+          "verse": 24,
+          "text": "neque vitam neque nuptias mundas iam custodiunt sed alius alium per invidiam occidit aut adulterans contristat "
+        },
+        {
+          "name": "Wisdom 14:25",
+          "verse": 25,
+          "text": "et omnia commixta sunt sanguis homicidium furtum et fictio corruptio infidelitas turbatio et periurium tumultus bonorum "
+        },
+        {
+          "name": "Wisdom 14:26",
+          "verse": 26,
+          "text": "Domini inmemoratio animarum inquinatio nativitatis inmutatio nuptiarum inconstantia moechiae et inpudicitia "
+        },
+        {
+          "name": "Wisdom 14:27",
+          "verse": 27,
+          "text": "infandorum enim idolorum cultura omnis mali causa est et initium et finis "
+        },
+        {
+          "name": "Wisdom 14:28",
+          "verse": 28,
+          "text": "aut enim dum laetantur insaniunt aut vaticinantur falsa aut vivunt iniuste aut periurant cito "
+        },
+        {
+          "name": "Wisdom 14:29",
+          "verse": 29,
+          "text": "dum enim confidunt in idolis quae sunt sine anima male iurantes renoceri se non sperant "
+        },
+        {
+          "name": "Wisdom 14:30",
+          "verse": 30,
+          "text": "utraque ergo illis evenient digne quoniam male senserunt de Deo adtendentes idolis et iniuste iuraverunt in dolo contemnentes iustitiam "
+        },
+        {
+          "name": "Wisdom 14:31",
+          "verse": 31,
+          "text": "non enim iurantium est virtus sed peccantium poena perambulat semper in iniustorum praevaricationem "
+        }
+      ]
+    },
+    {
+      "name": "Wisdom 15",
+      "chapter": 15,
+      "verses": [
+        {
+          "name": "Wisdom 15:1",
+          "verse": 1,
+          "text": "tu autem Deus noster suavis et verus es patiens et misericordia disponens omnia "
+        },
+        {
+          "name": "Wisdom 15:2",
+          "verse": 2,
+          "text": "etenim si peccaverimus tui sumus scientes magnitudinem tuam et si non peccaverimus scimus quoniam apud te sumus conputati "
+        },
+        {
+          "name": "Wisdom 15:3",
+          "verse": 3,
+          "text": "nosse enim te consummata iustitia est et scire iustitiam et virtutem tuam radix est inmortalitatis "
+        },
+        {
+          "name": "Wisdom 15:4",
+          "verse": 4,
+          "text": "non enim in errorem induxit nos hominum malae artis excogitatio nec umbra picturae labor sine fructu effigies sculpta per varios colores "
+        },
+        {
+          "name": "Wisdom 15:5",
+          "verse": 5,
+          "text": "cuius aspectus insensato dat concupiscentiam et diligit mortuae imaginis effigiem sine anima "
+        },
+        {
+          "name": "Wisdom 15:6",
+          "verse": 6,
+          "text": "malorum amatores digni qui spem in talibus habent et qui faciunt illos et qui diligunt et qui colunt "
+        },
+        {
+          "name": "Wisdom 15:7",
+          "verse": 7,
+          "text": "sed et figulus mollem terram premens laboriose fingit ad usus nostros unumquodque vas et de eodem luto fingit quae munda sunt in usum vasa similiter et quae his sunt contraria horum autem vasorum qui sit usus iudex est figulus "
+        },
+        {
+          "name": "Wisdom 15:8",
+          "verse": 8,
+          "text": "et cum labore vanum deum de eodem fingit luto ille qui paulo ante de terra factus fuerat et post pusillum se ducit unde acceptus est repetitus debitum animae quem habebat "
+        },
+        {
+          "name": "Wisdom 15:9",
+          "verse": 9,
+          "text": "sed est illi cura non quia laboraturus est nec quoniam brevis illi vita est sed concertatur aurificibus et argentariis sed et aerarios imitatur et gloriam praefert quoniam res supervacuas fingit "
+        },
+        {
+          "name": "Wisdom 15:10",
+          "verse": 10,
+          "text": "cinis est cor eius et terra supervacua spes illius et luto vilior vita illius "
+        },
+        {
+          "name": "Wisdom 15:11",
+          "verse": 11,
+          "text": "quoniam ignoravit qui se finxit et qui inspiravit illi animam quae operatur et qui insuflavit spiritum vitalem "
+        },
+        {
+          "name": "Wisdom 15:12",
+          "verse": 12,
+          "text": "sed aestimaverunt ludum esse vitam nostram et conversationem vitae conpositam ad lucrum et oportere undecumque etiam ex malo adquirere "
+        },
+        {
+          "name": "Wisdom 15:13",
+          "verse": 13,
+          "text": "hic enim super omnes scit se delinquere qui ex terrae materia fragilia vasa et sculptilia fingit "
+        },
+        {
+          "name": "Wisdom 15:14",
+          "verse": 14,
+          "text": "omnes enim insipientes et infelices supra modum animae superbi sunt inimici populi tui et imperantes illi "
+        },
+        {
+          "name": "Wisdom 15:15",
+          "verse": 15,
+          "text": "quoniam omnia idola nationum aestimaverunt deos quibus neque oculorum visus est ad videndum neque nares ad percipiendum spiritum neque aures ad audiendum nec digiti manuum ad tractandum sed et pedes eorum pigri ad ambulandum "
+        },
+        {
+          "name": "Wisdom 15:16",
+          "verse": 16,
+          "text": "homo enim fecit illos et qui spiritum mutuatus est is finxit illos nemo enim sibi similem homo poterit deum fingere "
+        },
+        {
+          "name": "Wisdom 15:17",
+          "verse": 17,
+          "text": "cum sit enim mortalis mortuum fingit manibus iniquis melior est enim ipse his quos colit quia ipse quidem vixit cum esset mortalis illi autem numquam "
+        },
+        {
+          "name": "Wisdom 15:18",
+          "verse": 18,
+          "text": "sed et animalia miserrima colunt insensate enim conparata his aliis sunt deteriora "
+        },
+        {
+          "name": "Wisdom 15:19",
+          "verse": 19,
+          "text": "sed nec aspectu aliquis ex his animalibus bona potest conspicere effugit autem Dei laudem et benedictionem eius "
+        }
+      ]
+    },
+    {
+      "name": "Wisdom 16",
+      "chapter": 16,
+      "verses": [
+        {
+          "name": "Wisdom 16:1",
+          "verse": 1,
+          "text": "propter hoc per his similia passi sunt digne tormenta et per multitudinem bestiarum exterminati sunt "
+        },
+        {
+          "name": "Wisdom 16:2",
+          "verse": 2,
+          "text": "pro quibus tormentis bene disposuisti populum tuum quibus dedisti concupiscentiam delectamenti sui novum saporem escam parans eis ortygometram "
+        },
+        {
+          "name": "Wisdom 16:3",
+          "verse": 3,
+          "text": "ut illi quidem concupiscentes escam propter ea quae illis ostensa et missa sunt etiam a necessaria concupiscentia averterentur hi autem in brevi inopes facti novam gustaverunt escam "
+        },
+        {
+          "name": "Wisdom 16:4",
+          "verse": 4,
+          "text": "oportebat enim illis quidem sine excusatione supervenire interitum exercentibus tyrannidem his autem tantum ostendere quemadmodum inimici illorum exterminabantur "
+        },
+        {
+          "name": "Wisdom 16:5",
+          "verse": 5,
+          "text": "etenim cum supervenit illis saeva bestiarum ira morsibus perversarum colubrarum exterminabantur "
+        },
+        {
+          "name": "Wisdom 16:6",
+          "verse": 6,
+          "text": "non in perpetuum permansit ira tua sed ad correptionem in brevi turbati sunt signum habentes salutis ad commemorationem mandati legis tuae "
+        },
+        {
+          "name": "Wisdom 16:7",
+          "verse": 7,
+          "text": "qui enim conversus est non per hoc quod videbat sanabatur sed per te omnium salvatorem "
+        },
+        {
+          "name": "Wisdom 16:8",
+          "verse": 8,
+          "text": "et in hoc autem ostendisti inimicis nostris quia tu es qui liberas ab omni malo "
+        },
+        {
+          "name": "Wisdom 16:9",
+          "verse": 9,
+          "text": "illos enim lucustarum et muscarum occiderunt morsus et non est inventa sanitas animae illorum quia digni erant ab huiusmodi exterminari "
+        },
+        {
+          "name": "Wisdom 16:10",
+          "verse": 10,
+          "text": "filios autem tuos nec draconum venenatorum vicerunt dentes misericordia enim tua adveniens sanabat illos "
+        },
+        {
+          "name": "Wisdom 16:11",
+          "verse": 11,
+          "text": "in memoria enim sermonum tuorum examinabantur et salvabantur ne in altam incidentes oblivionem non possent tuo uti adiutorio "
+        },
+        {
+          "name": "Wisdom 16:12",
+          "verse": 12,
+          "text": "etenim neque herba neque malagma sanavit illos sed tuus Domine sermo qui sanat omnia "
+        },
+        {
+          "name": "Wisdom 16:13",
+          "verse": 13,
+          "text": "tu enim vitae et mortis habes potestatem et deducis ad portas mortis et reducis "
+        },
+        {
+          "name": "Wisdom 16:14",
+          "verse": 14,
+          "text": "homo autem occidit quidem per malitiam animam suam et cum exibit spiritus non revertetur nec revocabit animam quae recepta est "
+        },
+        {
+          "name": "Wisdom 16:15",
+          "verse": 15,
+          "text": "sed tuam manum effugere inpossibile est "
+        },
+        {
+          "name": "Wisdom 16:16",
+          "verse": 16,
+          "text": "negantes enim nosse te impii per fortitudinem brachii tui flagellati sunt novis aquis et grandinibus et pluviis persecutionem passi et per ignem consummati "
+        },
+        {
+          "name": "Wisdom 16:17",
+          "verse": 17,
+          "text": "quod enim mirabile erat in aqua quae omnia extinguit plus ignis valebat vindex est enim orbis iustorum "
+        },
+        {
+          "name": "Wisdom 16:18",
+          "verse": 18,
+          "text": "quodam enim tempore mansuetabatur ignis ne conburerentur quae ad impios missa erant animalia sed ut ipsi videntes scirent quoniam Dei iudicio patiuntur persecutionem "
+        },
+        {
+          "name": "Wisdom 16:19",
+          "verse": 19,
+          "text": "et quodam tempore in aqua super virtutem ignis ardebat ut iniquae terrae nationem exterminaret "
+        },
+        {
+          "name": "Wisdom 16:20",
+          "verse": 20,
+          "text": "pro quibus angelorum esca nutristi populum tuum et paratum panem e caelo praestitisti illis sine labore omne delectamentum in se habentem et omnis saporis suavitatem "
+        },
+        {
+          "name": "Wisdom 16:21",
+          "verse": 21,
+          "text": "substantia enim tua dulcedinem tuam quam in filios habes ostendebat et serviens uniuscuiusque voluntati ad quod quis volebat convertebatur "
+        },
+        {
+          "name": "Wisdom 16:22",
+          "verse": 22,
+          "text": "nix autem et glacies sustinebant vim ignis et non tabescebant ut scirent quoniam fructus inimicorum exterminabat ignis ardens in grandine et pluvia coruscans "
+        },
+        {
+          "name": "Wisdom 16:23",
+          "verse": 23,
+          "text": "hoc autem iterum ut nutrirentur iusti etiam suae virtutis oblitus est "
+        },
+        {
+          "name": "Wisdom 16:24",
+          "verse": 24,
+          "text": "creatura enim tibi factori deserviens excandescit in tormentum adversus iniustos et lenior fit ad benefaciendum pro his qui in te confidunt "
+        },
+        {
+          "name": "Wisdom 16:25",
+          "verse": 25,
+          "text": "propter hoc et tunc in omnia transfigurata omnium nutrici gratiae tuae deserviebant ad voluntatem horum qui a te desiderati sunt "
+        },
+        {
+          "name": "Wisdom 16:26",
+          "verse": 26,
+          "text": "ut scirent filii tui quos dilexisti Domine quoniam non nativitatis fructus pascunt homines sed sermo tuus hos qui in te crediderint conservat "
+        },
+        {
+          "name": "Wisdom 16:27",
+          "verse": 27,
+          "text": "quod enim ab igni non poterat exterminari statim ab exiguo radio solis calefactum tabescebat "
+        },
+        {
+          "name": "Wisdom 16:28",
+          "verse": 28,
+          "text": "ut notum omnibus esset quoniam oportet praevenire solem ad benedictionem tuam et ad orientem lucis tibi adorare "
+        },
+        {
+          "name": "Wisdom 16:29",
+          "verse": 29,
+          "text": "ingrati enim fides tamquam hibernalis glacies tabescit et disperiet tamquam aqua supervacua "
+        }
+      ]
+    },
+    {
+      "name": "Wisdom 17",
+      "chapter": 17,
+      "verses": [
+        {
+          "name": "Wisdom 17:1",
+          "verse": 1,
+          "text": "magna enim sunt iudicia tua et inenarrabilia verba tua propter hoc indisciplinatae animae erraverunt "
+        },
+        {
+          "name": "Wisdom 17:2",
+          "verse": 2,
+          "text": "dum enim persuasum habent iniqui posse dominari nationi sanctae vinculis tenebrarum et longae noctis conpediti inclusi sub tectis fugitivi perpetuae providentiae iacuerunt "
+        },
+        {
+          "name": "Wisdom 17:3",
+          "verse": 3,
+          "text": "et dum putant se latere in obscuris peccatis tenebroso oblivionis velamento dispersi sunt paventes horrende et cum admiratione nimia perturbati "
+        },
+        {
+          "name": "Wisdom 17:4",
+          "verse": 4,
+          "text": "neque enim quae continebat illos spelunca sine timore custodiebat quoniam sonitus descendens perturbabat illos et personae tristes apparentes pavorem illis praestabant "
+        },
+        {
+          "name": "Wisdom 17:5",
+          "verse": 5,
+          "text": "et ignis quidem nulla vis poterat illis lumen praebere nec siderum limpidae flammae inluminare poterant illam noctem horrendam "
+        },
+        {
+          "name": "Wisdom 17:6",
+          "verse": 6,
+          "text": "apparebat autem illis subitaneus ignis timore plenus et timore percussi illius quae non videbatur faciei aestimabant deteriora esse quae videbantur "
+        },
+        {
+          "name": "Wisdom 17:7",
+          "verse": 7,
+          "text": "et magicae artis adpositi erant derisus et sapientiae gloriae correptio cum contumelia "
+        },
+        {
+          "name": "Wisdom 17:8",
+          "verse": 8,
+          "text": "illi enim qui promittebant timores turbationes expellere se ab anima languente hi cum derisu pleni timore languebant "
+        },
+        {
+          "name": "Wisdom 17:9",
+          "verse": 9,
+          "text": "nam et si nihil illos ex monstris perturbabat transitu animalium et serpentium sibilatione commoti tremebundi peribant et aerem quem nulla ratione quis effugere posset negantes se videre "
+        },
+        {
+          "name": "Wisdom 17:10",
+          "verse": 10,
+          "text": "cum sit enim timida nequitia dat testimonium condemnata semper enim praesumit saeva conturbata conscientia "
+        },
+        {
+          "name": "Wisdom 17:11",
+          "verse": 11,
+          "text": "nihil enim est timor nisi praesumptionis adiutorium proditio cogitationis auxiliorum "
+        },
+        {
+          "name": "Wisdom 17:12",
+          "verse": 12,
+          "text": "et dum ab intro minor est expectatio maiorem putat scientiam eius causae de qua tormentum praestat "
+        },
+        {
+          "name": "Wisdom 17:13",
+          "verse": 13,
+          "text": "illi autem qui inpotentem vere noctem et ab infimis et ab altissimis inferis supervenientem eundem somnum dormientes "
+        },
+        {
+          "name": "Wisdom 17:14",
+          "verse": 14,
+          "text": "aliquando monstrorum exagitabantur timore aliquando animae deficiebant traductione subitaneus enim illis et insperatus timor supervenerat "
+        },
+        {
+          "name": "Wisdom 17:15",
+          "verse": 15,
+          "text": "deinde si quicumque ex illis decidisset custodiebatur in carcere sine ferro reclusus "
+        },
+        {
+          "name": "Wisdom 17:16",
+          "verse": 16,
+          "text": "si enim rusticus quis erat aut pastor aut agri laborum operarius praeoccupatus esset ineffugibilem sustinebat necessitatem "
+        },
+        {
+          "name": "Wisdom 17:17",
+          "verse": 17,
+          "text": "una enim catena tenebrarum omnes erant conligati sive spiritus sibilans aut inter spissos ramos avium sonus suavis aut vis aquae decurrentis nimium "
+        },
+        {
+          "name": "Wisdom 17:18",
+          "verse": 18,
+          "text": "aut sonus validus praecipitarum petrarum aut ludentium animalium cursus invisus aut mugientium valida bestiarum vox aut resonans de altissimis montibus echo deficientes faciebat illos prae timore "
+        },
+        {
+          "name": "Wisdom 17:19",
+          "verse": 19,
+          "text": "omnis enim orbis terrarum limpido luminabatur lumine et non inpeditis operibus continebatur "
+        },
+        {
+          "name": "Wisdom 17:20",
+          "verse": 20,
+          "text": "solis autem illis superposita erat gravis nox imago tenebrarum quae superventura illis erat ipsi ergo sibi erant graviores tenebris "
+        }
+      ]
+    },
+    {
+      "name": "Wisdom 18",
+      "chapter": 18,
+      "verses": [
+        {
+          "name": "Wisdom 18:1",
+          "verse": 1,
+          "text": "sanctis autem tuis maxima erat lux et horum quidem vocem audiebant sed figuram non videbant et quia non et ipsi per eadem passi erant magnificabant "
+        },
+        {
+          "name": "Wisdom 18:2",
+          "verse": 2,
+          "text": "et qui ante laesi erant quoniam non laedebantur gratias agebant et ut esset differentia donum petebant "
+        },
+        {
+          "name": "Wisdom 18:3",
+          "verse": 3,
+          "text": "propter quod igni ardentem columnam ducem habuerunt ignotae viae et solem sine laesura boni hospitii praestitisti "
+        },
+        {
+          "name": "Wisdom 18:4",
+          "verse": 4,
+          "text": "digni quidem illi carere luce et pati carcerem tenebrarum qui inclusos custodiebant filios tuos per quos incipiebat incorruptum legis lumen saeculo dari "
+        },
+        {
+          "name": "Wisdom 18:5",
+          "verse": 5,
+          "text": "cum cogitarent iustorum occidere infantes et uno exposito filio et liberato in traductionem illorum multitudinem filiorum abstulisti et pariter illos perdidisti in aquam validam "
+        },
+        {
+          "name": "Wisdom 18:6",
+          "verse": 6,
+          "text": "illa nox ante cognita est a parentibus nostris ut vere scientes quibus iuramentis crediderunt animaequiores essent "
+        },
+        {
+          "name": "Wisdom 18:7",
+          "verse": 7,
+          "text": "suscepta est autem a populo tuo sanitas quidem iustorum iniustorum autem exterminatio "
+        },
+        {
+          "name": "Wisdom 18:8",
+          "verse": 8,
+          "text": "sicut enim laesisti adversarios sic nos provocans magnificasti "
+        },
+        {
+          "name": "Wisdom 18:9",
+          "verse": 9,
+          "text": "absconse enim sacrificabant iusti pueri bonorum et iustitiae legem in concordia disposuerunt similiter bona et mala percepturos iustos patri iam decantantes laudes "
+        },
+        {
+          "name": "Wisdom 18:10",
+          "verse": 10,
+          "text": "resonabat autem inconveniens inimicorum vox et flebilis audiebatur planctus ploratorum infantium "
+        },
+        {
+          "name": "Wisdom 18:11",
+          "verse": 11,
+          "text": "simili autem poena servus cum domino adflictus et popularis homo regi similia passus "
+        },
+        {
+          "name": "Wisdom 18:12",
+          "verse": 12,
+          "text": "similiter ergo omnes uno nomine mortis mortuos habebant innumerabiles nec enim ad sepeliendum vivi sufficiebant quoniam uno momento quae erat praeclarior natio illorum exterminata est "
+        },
+        {
+          "name": "Wisdom 18:13",
+          "verse": 13,
+          "text": "de omnibus enim non credentes propter veneficia tunc cum fuit exterminium primogenitorum spoponderunt populum Dei se esse "
+        },
+        {
+          "name": "Wisdom 18:14",
+          "verse": 14,
+          "text": "cum enim quietum silentium contineret omnia et nox in suo cursu medium iter haberet "
+        },
+        {
+          "name": "Wisdom 18:15",
+          "verse": 15,
+          "text": "omnipotens sermo tuus de caelo a regalibus sedibus durus debellator in mediam exterminii terram prosilivit "
+        },
+        {
+          "name": "Wisdom 18:16",
+          "verse": 16,
+          "text": "gladius acutus insimulatum imperium tuum portans et stans replevit omnia morte et usque ad caelum adtingebat stans in terra "
+        },
+        {
+          "name": "Wisdom 18:17",
+          "verse": 17,
+          "text": "tum continuo visus somniorum malorum turbaverunt illos et timores supervenerunt insperati "
+        },
+        {
+          "name": "Wisdom 18:18",
+          "verse": 18,
+          "text": "et alius alibi proiectus semivivus propter quam moriebatur causam demonstrabat "
+        },
+        {
+          "name": "Wisdom 18:19",
+          "verse": 19,
+          "text": "visiones enim quae illos turbaverunt haec praemonebant ne inscii quare mala patiebantur perirent "
+        },
+        {
+          "name": "Wisdom 18:20",
+          "verse": 20,
+          "text": "tetigit autem tunc et iustos temptatio mortis et commotio in heremo facta est multitudinis sed non diu permansit ira "
+        },
+        {
+          "name": "Wisdom 18:21",
+          "verse": 21,
+          "text": "properans enim homo sine querella propugnavit proferens servitutis suae scutum orationem et per incensum deprecationem allegans restitit irae et finem inposuit necessitati ostendens quoniam tuus est famulus "
+        },
+        {
+          "name": "Wisdom 18:22",
+          "verse": 22,
+          "text": "vicit autem turbas non virtute corporis nec armatura potentiae sed verbo vexatorem subiecit iuramenta parentum et testamentum commemorans "
+        },
+        {
+          "name": "Wisdom 18:23",
+          "verse": 23,
+          "text": "cum enim iam acervatim cecidissent super alterutrum mortui interstetit et amputavit impetum et divisit illam quae ad vivos ducebat viam "
+        },
+        {
+          "name": "Wisdom 18:24",
+          "verse": 24,
+          "text": "in veste enim poderis quam habebat totus erat orbis terrarum et parentum magnalia in quattuor ordinibus lapidum erant sculpta et magnificentia tua in diademate capitis illius erat scripta "
+        },
+        {
+          "name": "Wisdom 18:25",
+          "verse": 25,
+          "text": "haec autem his cessit qui exterminabat et haec extimuit erat enim sola temptatio irae sufficiens "
+        }
+      ]
+    },
+    {
+      "name": "Wisdom 19",
+      "chapter": 19,
+      "verses": [
+        {
+          "name": "Wisdom 19:1",
+          "verse": 1,
+          "text": "impiis autem usque in novissimum sine misericordia ira supervenit praesciebat enim et futura illorum "
+        },
+        {
+          "name": "Wisdom 19:2",
+          "verse": 2,
+          "text": "quoniam ipsi cum reversi essent ut se ducerent et cum magna sollicitudine praemisissent illos consequebantur illos paenitentia acti "
+        },
+        {
+          "name": "Wisdom 19:3",
+          "verse": 3,
+          "text": "adhuc enim inter manus habentes luctus et deplorantes ad monumenta mortuorum aliam sibi adsumpserunt cogitationem inscientiae et quos rogantes proiecerunt hos tamquam fugitivos persequebantur "
+        },
+        {
+          "name": "Wisdom 19:4",
+          "verse": 4,
+          "text": "ducebat enim illos ad hunc finem digna necessitas et horum quae acciderant memorationem amittebant "
+        },
+        {
+          "name": "Wisdom 19:5",
+          "verse": 5,
+          "text": "ut eam quae deerat tormentis replerent punitionem et populus quidem tuus mirabiliter transiret illi autem novam mortem invenirent "
+        },
+        {
+          "name": "Wisdom 19:6",
+          "verse": 6,
+          "text": "omnis enim creatura ad suum genus ab initio refigurabatur deserviens tuis praeceptis ut pueri tui custodirentur inlaesi "
+        },
+        {
+          "name": "Wisdom 19:7",
+          "verse": 7,
+          "text": "nam nubis castra eorum adumbrabat et ex aqua quae ante erat terra arida apparuit et ex mari Rubro via sine inpedimento et campus germinans de profundo nimio "
+        },
+        {
+          "name": "Wisdom 19:8",
+          "verse": 8,
+          "text": "per quem omnis natio transivit quae tegebatur tua manu videntes mirabilia monstra "
+        },
+        {
+          "name": "Wisdom 19:9",
+          "verse": 9,
+          "text": "tamquam equi enim depaverunt et tamquam agni exultaverunt magnificantes te Domine qui liberasti illos "
+        },
+        {
+          "name": "Wisdom 19:10",
+          "verse": 10,
+          "text": "memores enim erant adhuc eorum quae in incolatu illorum facta fuerant quemadmodum pro natione animalium eduxit terra muscas et pro piscibus eructavit fluvius multitudinem ranarum "
+        },
+        {
+          "name": "Wisdom 19:11",
+          "verse": 11,
+          "text": "novissime autem viderunt novam creaturam avium cum abducti concupiscentia postulaverunt escam epulationis "
+        },
+        {
+          "name": "Wisdom 19:12",
+          "verse": 12,
+          "text": "in adlocutione enim desiderii ascendit illis de mari ortygometra et vexationes peccatoribus supervenerunt non sine illis quae ante facta erant argumentis per vim fluminum iuste enim patiebantur secundum suas nequitias "
+        },
+        {
+          "name": "Wisdom 19:13",
+          "verse": 13,
+          "text": "etenim detestabiliorem inhospitalitatem instituerunt alii quidem ignotos non recipiebant advenas alii autem bonos hospites in servitutem accipiebant "
+        },
+        {
+          "name": "Wisdom 19:14",
+          "verse": 14,
+          "text": "et non solum hoc sed et alius quis respectus erit illorum quoniam inviti recipiebant extraneos "
+        },
+        {
+          "name": "Wisdom 19:15",
+          "verse": 15,
+          "text": "qui autem cum laetitia receperunt hos qui eisdem usi erant iustitiis saevissimis adflixerunt doloribus "
+        },
+        {
+          "name": "Wisdom 19:16",
+          "verse": 16,
+          "text": "percussi sunt autem caecitate sicut illi in foribus iusti cum subitaneis cooperti essent tenebris unusquisque ostii sui transitum quaerebat "
+        },
+        {
+          "name": "Wisdom 19:17",
+          "verse": 17,
+          "text": "in se enim elementa dum convertuntur sicut in organo qualitatis sonus inmutatur et omnia suum sonum custodiunt unde est aestimare et ex ipso certo visu "
+        },
+        {
+          "name": "Wisdom 19:18",
+          "verse": 18,
+          "text": "agrestia enim in aquatica convertebantur et quaecumque erant natantia in terram transiebant "
+        },
+        {
+          "name": "Wisdom 19:19",
+          "verse": 19,
+          "text": "ignis in aqua valebat supra suam virtutem et aqua extinguentis naturae obliviscebatur "
+        },
+        {
+          "name": "Wisdom 19:20",
+          "verse": 20,
+          "text": "flammae e contrario corruptibilium animalium non vexaverunt carnes coambulantium nec dissolvebant illam quae facile dissolvitur sicut glacies bonam escam in omnibus enim Domine magnificasti populum tuum et honorasti et non despexisti in omni tempore et in omni loco adsistens eis  "
+        }
+      ]
+    }
+  ]
+}

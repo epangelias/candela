@@ -1,17 +1,17 @@
 #!/usr/bin/env -S deno run -A
 import { $, downloadFile } from '@/lib/utils/cli.ts';
-import { doesNotThrow } from 'node:assert';
 import { BibleData } from '@/lib/load-bible.ts';
 
 
-const action = Deno.args[0].toLowerCase();
+const action = Deno.args[0]?.toLowerCase();
 if (action == "add") await newBible();
 else if (action == "rm") await removeBible();
 else if (action == "list") await listBibles();
 else if (action == "list-all") await listAll();
 else if (action == "combine") await combineBibles();
+else if (action == "add-text") await addText();
 else {
-  console.log('Invalid action. Use "add", "rm", "list", or "list-all"');
+  console.log('Invalid action. Use "add", "rm", "list", "add-text", or "list-all"');
   Deno.exit(1);
 }
 
@@ -71,3 +71,60 @@ async function combineBibles() {
   console.log(OT.books.map(b => b.name).join('\n'));
   console.log(`Combined bible: ${versionName} ${OT.books.length} books`);
 }
+
+
+async function addText() {
+  const version = Deno.args[1] || prompt("Enter the Bible version (e.g., KJV):");
+
+  const bibleData: BibleData = JSON.parse(await Deno.readTextFile(`bibles/${version}.json`));
+
+  const textId = 'bible-' + version;
+
+  const versionName = prompt("Enter version name (e.g., King James Version):");
+  const description = prompt("Enter description:");
+  const language = prompt("Enter language (e.g., en):");
+  const rightToLeft = language == "he";
+
+  const booksList = bibleData.books.map((b, i) => ({
+    name: b.name,
+    order: i + 1,
+    chapters: b.chapters.length
+  }));
+
+  const metaData = {
+    textId,
+    version,
+    versionName,
+    tags: ["bible"],
+    description,
+    language,
+    rightToLeft,
+    books: booksList
+  }
+
+  const textDir = `texts/${textId}/${language}`;
+
+  await Deno.mkdir(`${textDir}/books`, { recursive: true });
+  await Deno.writeTextFile(`${textDir}/text.json`, JSON.stringify(metaData, null, 2));
+
+  for (const book of bibleData.books) {
+    const order = booksList.findIndex(b => b.name === book.name) + 1;
+
+    const bookData = {
+      name: book.name,
+      order: order,
+      chapters: book.chapters.map(c => ({
+        name: c.name,
+        chapter: c.chapter,
+        verses: c.verses.map(v => ({
+          name: v.name,
+          verse: v.verse,
+          text: v.text,
+        }))
+      }))
+    }
+    await Deno.writeTextFile(`${textDir}/books/${book.name}.json`, JSON.stringify(bookData, null, 2));
+  }
+}
+
+// Note: Will only show verse numbers if the verses have it, if not then it doesn't
