@@ -186,11 +186,11 @@ export default function WordsUI({ data }: { data: WordsData }) {
           </button>
           <button disabled={!selectedWords.value.size || loading.value} onClick={demoteWords} class='icon'>
             <IconArrowUp width={28} />
-            <span>Promote</span>
+            <span>Move Up</span>
           </button>
           <button disabled={!selectedWords.value.size || loading.value} onClick={promoteWords} class='icon'>
             <IconArrowDown width={28} />
-            <span>Demote</span>
+            <span>Move Down</span>
           </button>
           <button disabled={!selectedWords.value.size || loading.value} onClick={deleteWords} class='icon'>
             <IconTrash width={28} />

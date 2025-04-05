@@ -1,0 +1,30 @@
+.texts-ui {
+  height: 100%;
+
+  &>div {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    height: 100%;
+
+
+    .toolbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      h1 {
+        font-size: 1rem;
+      }
+    }
+
+    .scroll {
+      height: 100%;
+      overflow: auto;
+    }
+
+    &[data-hidden="true"] {
+      display: none;
+    }
+  }
+}

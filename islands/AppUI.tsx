@@ -5,7 +5,6 @@ import ChatIcon from 'tabler-icons/message-circle';
 import WordsIcon from 'tabler-icons/brain';
 import SearchIcon from 'tabler-icons/search';
 import OptionsIcon from 'tabler-icons/settings';
-import { useSignal } from '@preact/signals';
 import { UserUI } from '@/islands/UserUI.tsx';
 import { SearchUI } from '@/islands/SearchUI.tsx';
 import { IS_BROWSER } from 'fresh/runtime';
@@ -14,6 +13,7 @@ import { useEffect } from 'preact/hooks';
 import { useGlobal } from '@/islands/Global.tsx';
 import { ComponentChildren } from 'preact';
 import WordsUI from '@/islands/WordsUI.tsx';
+import { TextsUI } from '@/islands/TextsUI.tsx';
 
 export interface TabData {
   id: string;
@@ -44,7 +44,7 @@ export function AppUI({ chatData, wordsData }: { chatData: ChatData; wordsData: 
     {
       id: 'texts',
       title: getContent('Texts'),
-      content: <p>Texts</p>,
+      content: <TextsUI />,
       icon: InfoBible,
       passSelection: false,
     },

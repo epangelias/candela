@@ -1,7 +1,7 @@
 {
   "textId": "bible-LXXTR",
   "version": "LXXTR",
-  "versionName": "Septuagint Textus Receptus",
+  "versionName": "Ἡ Ἁγία Γραφή - Septuagint and Textus Receptus Bible",
   "tags": ["bible"],
   "description": "A Bible version using the Septuagint (LXX) for the Old Testament and the Textus Receptus for the New Testament, reflecting early Christian textual traditions.",
   "language": "gr",
