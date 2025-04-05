@@ -144,8 +144,12 @@
 }
 
 @media (max-width: 800px) {
-    .app-ui {
-        flex-direction: column;
+    .tabs {
+        order: 0;
+    }
+
+    .views {
+        order: 100;
     }
 
     .title {
