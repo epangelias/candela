@@ -5,6 +5,7 @@ import { useSignal } from '@preact/signals';
 import { useEffect } from 'preact/hooks';
 import IconBack from 'tabler-icons/arrow-left';
 import { IS_BROWSER } from 'fresh/runtime';
+import { Loader } from '@/components/Loader.tsx';
 
 export function TextsUI() {
   if (!IS_BROWSER) return <></>;
@@ -52,6 +53,7 @@ export function TextsUI() {
 
   function openBook(book: BookData) {
     currentView.value = 2;
+    if (bookData.value?.name !== book.name) bookData.value = null;
     currentBook.value = book.name;
 
     scrollToTop();
@@ -187,6 +189,13 @@ export function TextsUI() {
             ))}
           </select>
         </div>
+
+        {!bookData.value && (
+          <div className='load'>
+            <Loader width={24} />
+          </div>
+        )}
+
         <div class='book-content scroll' onScroll={onChapterScroll}>
           <div class='chapters'>
             {bookData.value?.chapters.map((chapter) => (
