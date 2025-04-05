@@ -88,6 +88,7 @@
           user-select: none;
           -webkit-user-select: none;
           cursor: pointer;
+          flex-grow: 1;
 
           h3 {
             padding: var(--spacing);
@@ -98,12 +99,15 @@
             .chapters {
               opacity: 0.5;
               float: right;
+              display: none;
             }
 
             &:hover {
               background-color: var(--bg4);
             }
+
           }
+
         }
       }
     }
@@ -140,5 +144,15 @@
         }
       }
     }
+  }
+}
+
+
+
+@media (max-width: 600px) {
+
+  .books,
+  .book {
+    width: 100% !important;
   }
 }
