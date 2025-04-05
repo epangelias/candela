@@ -4,6 +4,7 @@ import { BookData, TextMetadata } from '@/lib/texts-data.ts';
 import { useSignal } from '@preact/signals';
 import { useEffect } from 'preact/hooks';
 import IconBack from 'tabler-icons/arrow-left';
+import { IS_BROWSER } from 'fresh/runtime';
 
 export function TextsUI() {
   const global = useGlobal();
@@ -14,6 +15,8 @@ export function TextsUI() {
   const currentBook = useSignal<string | null>(localStorage.getItem('texts-currentBook') || null);
   const bookData = useSignal<BookData | null>(null);
   const currentChapter = useSignal<string | null>(null);
+
+  if (!IS_BROWSER) return <></>;
 
   async function loadTexts() {
     const language = global.user.value?.language;
