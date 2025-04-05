@@ -7,6 +7,8 @@ import IconBack from 'tabler-icons/arrow-left';
 import { IS_BROWSER } from 'fresh/runtime';
 
 export function TextsUI() {
+  if (!IS_BROWSER) return <></>;
+
   const global = useGlobal();
   const texts = useSignal<TextMetadata[]>([]);
   const filter = useSignal<string>('');
@@ -15,8 +17,6 @@ export function TextsUI() {
   const currentBook = useSignal<string | null>(localStorage.getItem('texts-currentBook') || null);
   const bookData = useSignal<BookData | null>(null);
   const currentChapter = useSignal<string | null>(null);
-
-  if (!IS_BROWSER) return <></>;
 
   async function loadTexts() {
     const language = global.user.value?.language;
