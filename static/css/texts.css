@@ -12,10 +12,18 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
+      margin: var(--spacing-05);
+      position: relative;
+      z-index: 20;
 
       h1 {
         font-size: 1rem;
       }
+    }
+
+    button.back {
+      padding: var(--spacing-05) var(--spacing-05);
+      display: flex;
     }
 
     .scroll {
@@ -25,6 +33,112 @@
 
     &[data-hidden="true"] {
       display: none;
+    }
+
+    &.texts-list {
+      .texts {
+        display: flex;
+        flex-direction: column;
+        gap: var(--spacing);
+        padding: var(--spacing-05);
+        height: 100%;
+        overflow: auto;
+
+        .text-item {
+          align-items: center;
+          gap: 5px;
+          padding: var(--spacing);
+          border-radius: var(--radius);
+          background-color: var(--bg3);
+          cursor: pointer;
+          flex-wrap: wrap;
+          user-select: none;
+          -webkit-user-select: none;
+
+          h3,
+          p {
+            margin: 0;
+          }
+
+          p {
+            text-wrap: none;
+            white-space: nowrap;
+            overflow: hidden;
+          }
+
+          &:hover {
+            background-color: var(--bg4);
+          }
+        }
+      }
+    }
+
+    &.text {
+
+      .books {
+        display: flex;
+        flex-direction: row;
+        padding: var(--spacing-05);
+        height: 100%;
+        flex-wrap: wrap;
+
+        .book {
+          width: 33%;
+          padding: var(--spacing-05);
+          user-select: none;
+          -webkit-user-select: none;
+          cursor: pointer;
+
+          h3 {
+            padding: var(--spacing);
+            background-color: var(--bg3);
+            border-radius: var(--radius);
+            margin: 0;
+
+            .chapters {
+              opacity: 0.5;
+              float: right;
+            }
+
+            &:hover {
+              background-color: var(--bg4);
+            }
+          }
+        }
+      }
+    }
+
+    &.book-item {
+      .chapter {
+        h3 {
+          position: sticky;
+          top: 0;
+          z-index: 10;
+          background-color: var(--bg1);
+          margin: 0;
+          margin-top: var(--spacing-2);
+          text-align: center;
+        }
+      }
+
+      .book-content {
+        margin-top: -30px;
+      }
+
+      .verse {
+        position: relative;
+        padding-left: 20px;
+
+        .verse-number {
+          left: 0;
+          top: 3px;
+          position: absolute;
+          user-select: none;
+          -webkit-user-select: none;
+          font-size: 0.6rem;
+          opacity: 0.8;
+        }
+      }
     }
   }
 }

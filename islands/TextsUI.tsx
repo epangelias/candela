@@ -3,6 +3,7 @@ import { useGlobal } from '@/islands/Global.tsx';
 import { BookData, TextMetadata } from '@/lib/texts-data.ts';
 import { useSignal } from '@preact/signals';
 import { useEffect } from 'preact/hooks';
+import IconBack from 'tabler-icons/arrow-left';
 
 export function TextsUI() {
   const global = useGlobal();
@@ -123,9 +124,11 @@ export function TextsUI() {
         </div>
       </div>
 
-      <div class='text-item' data-hidden={currentView.value !== 1}>
+      <div class='text' data-hidden={currentView.value !== 1}>
         <div className='toolbar'>
-          <button onClick={() => currentView.value = 0}>Back</button>
+          <button class='back' onClick={() => currentView.value = 0}>
+            <IconBack width={24} />
+          </button>
           <h1>{currentText.value?.versionName}</h1>
           <div></div>
         </div>
@@ -133,27 +136,26 @@ export function TextsUI() {
           <h3>{currentText.value?.versionName}</h3>
           <p>{currentText.value?.description}</p>
           <div class='books'>
-            <div className='chapters'>
-              {currentText.value?.books.map((book) => (
-                <div
-                  class='chapter-item'
-                  onClick={() => openBook(book as unknown as BookData)}
-                  key={book.name}
-                >
-                  <h3>
-                    {book.name} <span class='chapters'>({book.chapters})</span>
-                  </h3>
-                </div>
-              ))}
-            </div>
+            {currentText.value?.books.map((book) => (
+              <div
+                class='book'
+                onClick={() => openBook(book as unknown as BookData)}
+                key={book.name}
+              >
+                <h3>
+                  {book.name} <span class='chapters'>{book.chapters}</span>
+                </h3>
+              </div>
+            ))}
           </div>
         </div>
       </div>
 
       <div class='book-item' data-hidden={currentView.value !== 2}>
         <div className='toolbar'>
-          <button onClick={() => currentView.value = 1}>Back</button>
-          <h1>{currentBook.value}</h1>
+          <button onClick={() => currentView.value = 1} class='back'>
+            <IconBack width={24} />
+          </button>
           <select onInput={(e) => openChapter((e.target as HTMLSelectElement).value)} id='chapter-select'>
             {bookData.value?.chapters.map((chapter) => (
               <option
@@ -172,7 +174,11 @@ export function TextsUI() {
               <div className='chapter' key={chapter.name} id={chapter.name}>
                 <h3>{chapter.name}</h3>
                 <div className='verses'>
-                  {chapter.verses.map((verse) => <p>{verse.verse} {verse.text}</p>)}
+                  {chapter.verses.map((verse) => (
+                    <p class='verse'>
+                      <span class='verse-number'>{verse.verse}</span> {verse.text}
+                    </p>
+                  ))}
                 </div>
               </div>
             ))}
