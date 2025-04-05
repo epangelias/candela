@@ -33,6 +33,8 @@ export function TextsUI() {
       method: 'POST',
       body: { language, folder: currentText.value.folder, book: currentBook.value },
     });
+
+    if (!currentChapter.value) openChapter(bookData.value?.chapters[0].name);
   }
 
   function searchText(text: TextMetadata) {
@@ -48,15 +50,30 @@ export function TextsUI() {
   function openBook(book: BookData) {
     currentView.value = 2;
     currentBook.value = book.name;
+
+    scrollToTop();
+  }
+
+  function scrollToTop() {
+    const interval = setInterval(() => {
+      const element = document.querySelector('.book-content.scroll');
+      if (element) {
+        element.scrollTo({ top: 0 });
+        clearInterval(interval);
+      }
+    }, 100);
   }
 
   function openChapter(chapter: string) {
     currentChapter.value = chapter;
-    const element = document.getElementById(chapter);
-    if (element) {
-      element.scrollIntoView({ behavior: 'smooth' });
-    }
     localStorage.setItem('texts-currentChapter', chapter);
+    const interval = setInterval(() => {
+      const element = document.getElementById(chapter);
+      if (element) {
+        clearInterval(interval);
+        element.scrollIntoView();
+      }
+    }, 100);
   }
 
   function onChapterScroll(e: Event) {
@@ -93,7 +110,6 @@ export function TextsUI() {
       if (currentView.value != 2) return;
       if (!bookData.value) await loadBookData();
       const chapter = localStorage.getItem('texts-currentChapter');
-      await new Promise((r) => setTimeout(r, 100));
       if (chapter) openChapter(chapter);
     })();
   }, []);
