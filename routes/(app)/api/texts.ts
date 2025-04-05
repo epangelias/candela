@@ -1,5 +1,4 @@
 import { define } from '@/lib/utils/utils.ts';
-import { walk } from 'jsr:@std/fs@1/walk';
 import { TextMetadata } from '@/lib/texts-data.ts';
 
 async function getTexts(language: string) {
@@ -16,6 +15,7 @@ async function getTexts(language: string) {
       console.error("Error reading text.json in " + entry.path, e);
     }
   }
+  texts.reverse();
   return texts as TextMetadata[];
 }
 

@@ -1,0 +1,16 @@
+{
+  "textId": "church-fathers-english",
+  "version": null,
+  "versionName": "Writings of the Church Fathers",
+  "tags": ["church-fathers"],
+  "description": "This is a collection of writings from the early Church Fathers, including the Didache and other important texts.",
+  "language": "en",
+  "rightToLeft": false,
+  "books": [
+    {
+      "name": "Didache",
+      "order": 1,
+      "chapters": 16
+    }
+  ]
+}

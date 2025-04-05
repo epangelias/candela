@@ -1,0 +1,613 @@
+{
+  "name": "Didache",
+  "order": 0,
+  "chapters": [
+    {
+      "name": "Didache 0 - Doctrina Domini",
+      "chapter": 0,
+      "verses": [
+        {
+          "name": "Didache 0:0",
+          "verse": 0,
+          "text": "Doctrīna Dominī per duodecim apostolōs gentibus trādita."
+        }
+      ]
+    },
+    {
+      "name": "Didache 1 - Duae Viae et Primum Mandatum",
+      "chapter": 1,
+      "verses": [
+        {
+          "name": "Didache 1:1",
+          "verse": 1,
+          "text": "Duae viae sunt, altera vītae et altera mortis, sed multum interest inter duās viās."
+        },
+        {
+          "name": "Didache 1:2",
+          "verse": 2,
+          "text": "Via igitur lūcīs haec est: prīmum dīligēs Deum, quī tē creāvit, deinde proximum tuum sīcut tē ipsum; omnia vērō, quaecunque nōn vīs tibi fierī, nec tū alterī faciās."
+        },
+        {
+          "name": "Didache 1:3",
+          "verse": 3,
+          "text": "Doctrīna autem hōrum verbōrum haec est: benedīcite maledicentibus vōbīs et ōrāte prō inimīcīs vestrīs, ieiūnāte prō persequentibus vōs; quae enim grātia, sī dīligitis eōs, quī vōs dīligunt? Nōnne et gentēs īdem faciunt? Vōs autem dīligite eōs, quī ōdērunt vōs, neque inimīcum habēbitis."
+        },
+        {
+          "name": "Didache 1:4",
+          "verse": 4,
+          "text": "Abstinē ā carnālibus et corporālibus cupiditātibus. Sī quis tibi plāgam intulerit in dextram māxillam, praebē illī et alteram, et eris perfectus; sī quis angariāverit tē mīlle passūs, vāde cum illō duo milia; sī quis sustulerit pallium tuum, dā eī et tunicum; sī quis abstulerit ā tē, quod tuum est, nē repetās; neque enim potes."
+        },
+        {
+          "name": "Didache 1:5",
+          "verse": 5,
+          "text": "Omnī petentī tē tribue neque repetās; omnibus enim pater vult tribuī ex suīs dōnīs. Beātus, quī dat secundum mandātum; innocēns enim est. Vae eī, quī accipit; etenim sī quis indigēns quidem accipit, innocēns erit; quī autem nōn indigēns accipit, ratiōnem reddet, quārē accēperit et ad quid; in vinculīs cōnstitūtus inquīrētur dē eīs, quae fēcit, neque exībit inde, dōnec reddiderit novissimum quodrantem."
+        },
+        {
+          "name": "Didache 1:6",
+          "verse": 6,
+          "text": "Sed dē hāc rē quoque dictum est: sūdātō eleēmosyna tua in manibus tuīs, dōnec cognōverīs, cui dēs."
+        }
+      ]
+    },
+    {
+      "name": "Didache 2 - Secundum Mandatum: Peccatum Grave Prohibitum",
+      "chapter": 2,
+      "verses": [
+        {
+          "name": "Didache 2:1",
+          "verse": 1,
+          "text": "Secundum autem mandātum doctrīnae:"
+        },
+        {
+          "name": "Didache 2:2",
+          "verse": 2,
+          "text": "Nōn occīdēs, nōn adulterium faciēs, puerōs nōn corrumpēs, nōn fornicāberis, nōn fūrāberis, nōn incantābis, venēnum nōn miscēbis, nōn interficiēs foetum in abortiōne neque interimēs īnfantem nātum, nōn concupīscēs quae sunt proximī tuī."
+        },
+        {
+          "name": "Didache 2:3",
+          "verse": 3,
+          "text": "Nōn periūrābis, nōn falsum testimōnium dabis, nōn maledīcēs, iniūriae acceptae nōn recordāberis."
+        },
+        {
+          "name": "Didache 2:4",
+          "verse": 4,
+          "text": "Nōn eris duplicis sententiae nē bilinguis; laqueus enim mortis lingua duplex."
+        },
+        {
+          "name": "Didache 2:5",
+          "verse": 5,
+          "text": "Nōn erit sermō tuus mendāx neque inānis, sed replētus opere."
+        },
+        {
+          "name": "Didache 2:6",
+          "verse": 6,
+          "text": "Nōn eris avārus neque rapāx neque hypocrita neque malignus neque superbus; nōn capiēs malum cōnsilium adversus proximum tuum."
+        },
+        {
+          "name": "Didache 2:7",
+          "verse": 7,
+          "text": "Nōn ōderīs quemquam, sed aliōs arguēs, [aliōrum miserēberis], prō aliīs ōrābis, aliōs amābis plūs quam animam tuam."
+        }
+      ]
+    },
+    {
+      "name": "Didache 3 - Alia Peccata Prohibita",
+      "chapter": 3,
+      "verses": [
+        {
+          "name": "Didache 3:1",
+          "verse": 1,
+          "text": "Fīlī mī, fuge omne malum et quodcunque eī simile est."
+        },
+        {
+          "name": "Didache 3:2",
+          "verse": 2,
+          "text": "Nē fīās īrācundus, dūcit enim īra ad caedem, neque vehemēns neque lītigiōsus neque violentus; ex hīs omnibus enim caedēs nāscuntur."
+        },
+        {
+          "name": "Didache 3:3",
+          "verse": 3,
+          "text": "Fīlī mī, nē fīās concupīscēns, dūcit enim concupiscentia ad fornicātiōnem, neque verbīs turpibus ūtāris neque oculum extollās; ex hīs omnibus enim adulteria nāscuntur."
+        },
+        {
+          "name": "Didache 3:4",
+          "verse": 4,
+          "text": "Fīlī mī, nē fīās auspex, quoniam id dūcit ad īdōlolatrīam, neque incantātor neque mathēmaticus neque magus, neque ea vēlīs vidēre; ex hīs enim omnibus īdōlolatrīa nāscitur."
+        },
+        {
+          "name": "Didache 3:5",
+          "verse": 5,
+          "text": "Fīlī mī, nē fīās mendāx, quia mendācium dūcit ad fūrtum, neque argentī neque inānis glōriae cupidus; ex hīs enim omnibus fūrta nāscuntur."
+        },
+        {
+          "name": "Didache 3:6",
+          "verse": 6,
+          "text": "Fīlī mī, nē fīās mōrōsus, quoniam id dūcit ad blasphēmiam, neque īnsolēns neque improbus; ex hīs enim omnibus blasphēmiae nāscuntur."
+        },
+        {
+          "name": "Didache 3:7",
+          "verse": 7,
+          "text": "Sīs vērō mānsuētus, quoniam mānsuētī hērēditābunt terram."
+        },
+        {
+          "name": "Didache 3:8",
+          "verse": 8,
+          "text": "Fīās longanimis et misericors et sincērus et quiētus et bonus et contremīscēns semper ad verba, quae audīvistī."
+        },
+        {
+          "name": "Didache 3:9",
+          "verse": 9,
+          "text": "Nōn exaltābis tē ipsum neque animae tuae dabis īnsolentiam. Nōn adhaerēbit anima tua superbīs, sed iūstīs et humilibus uterīs."
+        },
+        {
+          "name": "Didache 3:10",
+          "verse": 10,
+          "text": "Quae tibi ēveniunt, ea tanquam bona accipiēs, cōnscius, sine Deō nihil fierī."
+        }
+      ]
+    },
+    {
+      "name": "Didache 4 - Varia Praecepta",
+      "chapter": 4,
+      "verses": [
+        {
+          "name": "Didache 4:1",
+          "verse": 1,
+          "text": "Fīlī mī, quī loquitur tibi verbum Deī, eius recordāberis nocte ac diē, timēbis eum sīcut Dominum; unde enim dominium dīcitur, ibi Dominus est."
+        },
+        {
+          "name": "Didache 4:2",
+          "verse": 2,
+          "text": "Requīrēs cotīdiē vultus sānctōrum, ut requiēscās in verbīs eōrum."
+        },
+        {
+          "name": "Didache 4:3",
+          "verse": 3,
+          "text": "Nōn faciēs discidium, sed pācābis pugnantēs; iūdicābis iūstē, nōn accipiēs persōnam in arguendīs cuiuspiam lāpsibus."
+        },
+        {
+          "name": "Didache 4:4",
+          "verse": 4,
+          "text": "Nōn ambigēs, utrum futūrum sit necne."
+        },
+        {
+          "name": "Didache 4:5",
+          "verse": 5,
+          "text": "Nōlī porrigere manūs tuās ad accipiendum, ad dandum vērō contrahere."
+        },
+        {
+          "name": "Didache 4:6",
+          "verse": 6,
+          "text": "Sī quid habēs per manūs tuās, dabis pretium ad redimendā peccāta tua."
+        },
+        {
+          "name": "Didache 4:7",
+          "verse": 7,
+          "text": "Nōn dubitābis dare neque murmurābis, cum dās; cognōscēs autem, quis sit bonus mercēdis retribūtor."
+        },
+        {
+          "name": "Didache 4:8",
+          "verse": 8,
+          "text": "Nōn repudiābis indigentem, commūnicābis autem in omnibus cum frātre tuō nec quidquam dīcēs proprium; nam sī in immortālibus cōnsortēs estis, quantō magis in mortālibus?"
+        },
+        {
+          "name": "Didache 4:9",
+          "verse": 9,
+          "text": "Nōn auferēs manum tuam ā fīliō tuō vel ā fīliā tuā, sed ā pueritiā docēbis eōs timōrem Deī."
+        },
+        {
+          "name": "Didache 4:10",
+          "verse": 10,
+          "text": "Nōn imperābis in amāritūdine tuā servō tuō vel ancillae, quī in eundem Deum spērant, nē forte nōn timeant Deum, quī super utrumque est; nōn enim venit secundum persōnam vocāre, sed ad eōs, quōs spīritus praeparāvit."
+        },
+        {
+          "name": "Didache 4:11",
+          "verse": 11,
+          "text": "Vōs autem servī subiciminī dominīs vestrīs tanquam imāginī Deī in verēcundiā et timōre."
+        },
+        {
+          "name": "Didache 4:12",
+          "verse": 12,
+          "text": "Ōderīs omnem hypocrisin et quodcunque displicet Dominō."
+        },
+        {
+          "name": "Didache 4:13",
+          "verse": 13,
+          "text": "Nē dērelinquās mandāta Dominī, cūstōdiēs vērō, quae accēpistī, neque addēns neque dēmēns."
+        },
+        {
+          "name": "Didache 4:14",
+          "verse": 14,
+          "text": "In ecclēsiā cōnfitēberis peccāta tua, neque accēdēs ad ōrātiōnem tuam in cōnscientiā malā. Haec est via vītae."
+        }
+      ]
+    },
+    {
+      "name": "Didache 5 - Via Mortis",
+      "chapter": 5,
+      "verses": [
+        {
+          "name": "Didache 5:1",
+          "verse": 1,
+          "text": "Mortīs vērō via haec est: prīmum omnium mala est ac maledictiōnis plēna: caedēs, adulteria, concupiscentiae, fornicātiōnēs, fūrta, īdōlolatrīae, magīae, venēficia, rapīnae, falsa testimōnia, simulātiōnēs, cor duplex, dolus, superbia, malitia, arrogantia, avāritia, turpiloquium, invidia, īnsolentia, fastus, ostentātiō;"
+        },
+        {
+          "name": "Didache 5:2",
+          "verse": 2,
+          "text": "bonōrum persecūtōrēs, ōsōrēs vēritātis, amātōrēs mendāciī, nōn cognōscentēs mercēdem iūstitiae, nōn adhaerentēs bonō neque iūdiciō iūstō, vigilantēs nōn ad bonum, sed ad malum, ā quibus longē abest mānsuētūdō et patientia, quī dīligunt inānia, sectantur remūnerātiōnem, nōn miserentur inopīs, nōn labōrant dē afflīctō, nōn cognōscentēs creātōrem suum, līberōrum interēmptōrēs, in abortiōne corrumpentēs creātūram Deī, āversantēs egēnum, opprimentēs afflīctum, dīvitum advocātī, pauperum inīquī iūdicēs, omnibus peccātīs inquinātī; līberēminī, fīliī, ab hīs omnibus."
+        }
+      ]
+    },
+    {
+      "name": "Didache 6 - Contra Falsos Doctores et Cibum Idolis Oblatum",
+      "chapter": 6,
+      "verses": [
+        {
+          "name": "Didache 6:1",
+          "verse": 1,
+          "text": "Vidē, nē quis tē abdūcat ab hāc viā doctrīnae, quoniam praeter Deum tē docet."
+        },
+        {
+          "name": "Didache 6:2",
+          "verse": 2,
+          "text": "Sī enim tōtum iugum Dominī portāre potes, perfectus eris; sī vērō nōn potes, faciās id, quod potes."
+        },
+        {
+          "name": "Didache 6:3",
+          "verse": 3,
+          "text": "Quod ad cibum attinet, quod potes portā; immolāta autem simulācrōrum valdē dēclīnā; servitūs enim sunt deōrum mortuōrum."
+        }
+      ]
+    },
+    {
+      "name": "Didache 7 - De Baptismo",
+      "chapter": 7,
+      "verses": [
+        {
+          "name": "Didache 7:1",
+          "verse": 1,
+          "text": "Dē baptismō autem, sīc baptīzāte; haec omnia postquam anteā dīxistis, baptīzāte in nōmine patris et fīliī et spīritūs sānctī in aquā vīvā."
+        },
+        {
+          "name": "Didache 7:2",
+          "verse": 2,
+          "text": "Sīn autem nōn habēs aquam vīvam, in aliā aquā baptīzā; sī nōn potes in frīgidā, in calidā."
+        },
+        {
+          "name": "Didache 7:3",
+          "verse": 3,
+          "text": "Sīn autem neutram habēs, effunde in caput ter aquam in nōmine patris et fīliī et spīritūs sānctī."
+        },
+        {
+          "name": "Didache 7:4",
+          "verse": 4,
+          "text": "Ante baptismum ieiūnātō baptīzāns et baptīzandus et sī quī aliī possunt; baptīzandum autem iubē ieiūnāre ūnum vel duōs diēs anteā."
+        }
+      ]
+    },
+    {
+      "name": "Didache 8 - Ieiunium et Oratio (Oratio Dominica)",
+      "chapter": 8,
+      "verses": [
+        {
+          "name": "Didache 8:1",
+          "verse": 1,
+          "text": "Ieiūnia vērō vestra nē fīant cum hypocritīs; ieiūnant enim secundā post sabbatum et quīntā; vōs autem ieiūnāte quārtā et sextā."
+        },
+        {
+          "name": "Didache 8:2",
+          "verse": 2,
+          "text": "Neque ōrātē sīcut hypocritae, sed sīcut praecēpit Dominus in ēvangeliō suō, ita ōrātē: pater noster, quī es in caelīs, sānctificētur nōmen tuum, adveniat rēgnum tuum, fīat voluntās tua sīcut in caelō et in terrā; pānem nostrum cotīdiānum dā nōbīs hodiē, et dīmitte nōbīs dēbitum nostrum, sīcut et nōs dīmittimus dēbitōribus nostrīs, et nē nōs indūcās in tentātiōnem, sed līberā nōs ā mālō, quoniam tua est virtūs et glōria in saecula."
+        },
+        {
+          "name": "Didache 8:3",
+          "verse": 3,
+          "text": "Ter in diē sīc ōrātē."
+        }
+      ]
+    },
+    {
+      "name": "Didache 9 - De Gratiarum Actione",
+      "chapter": 9,
+      "verses": [
+        {
+          "name": "Didache 9:1",
+          "verse": 1,
+          "text": "Quod ad grātiārum āctiōnem attinet, sīc grātiās agite;"
+        },
+        {
+          "name": "Didache 9:2",
+          "verse": 2,
+          "text": "prīmum dē calice: grātiās tibi agimus, pater noster, prō sānctā vīte Dāvīd puerī tuī, quam indicāstī nōbīs per Iēsum puerum tuum; glōria tibi in saecula."
+        },
+        {
+          "name": "Didache 9:3",
+          "verse": 3,
+          "text": "Dē pāne frāctō autem: grātiās tibi agimus, pater noster, prō vītā et scientiā, quam indicāstī nōbīs per Iēsum puerum tuum; glōria tibi in saecula."
+        },
+        {
+          "name": "Didache 9:4",
+          "verse": 4,
+          "text": "Sīcut hic pānis frāctus dispersus erat suprā montēs et collēctūs factus est ūnus, ita colligātur ecclēsia tua ā fīnibus terrae in rēgnum tuum; quoniam tua est glōria et virtūs per Iēsum Chrīstum in saecula."
+        },
+        {
+          "name": "Didache 9:5",
+          "verse": 5,
+          "text": "Nēmō autem edat neque bibat ā vestrā grātiārum āctiōne, nisi quī baptīzātī sunt in nōmine Iēsu; dē hōc etenim dīxit Dominus: nē date sānctum canibus."
+        }
+      ]
+    },
+    {
+      "name": "Didache 10 - Oratio Post Communionem",
+      "chapter": 10,
+      "verses": [
+        {
+          "name": "Didache 10:1",
+          "verse": 1,
+          "text": "Postquam autem implētī estis, sīc grātiās agite:"
+        },
+        {
+          "name": "Didache 10:2",
+          "verse": 2,
+          "text": "Grātiās tibi agimus, pater sānctē, prō sānctō nōmine tuō, quod fēcistī ut habitet in cordibus nostrīs, et prō scientiā et fide et immortālitāte, quam indicāstī nōbīs per Iēsum puerum tuum; glōriā tibi in saecula."
+        },
+        {
+          "name": "Didache 10:3",
+          "verse": 3,
+          "text": "Tū, Domine omnipotēns, creāstī omnia propter nōmen tuum, et cibum pōtumque dedistī hominibus ad fruendum, ut tibi grātiās agant, nōbīs autem largītus es spīrituālem cibum et pōtum et vītam aeternam per puerum tuum."
+        },
+        {
+          "name": "Didache 10:4",
+          "verse": 4,
+          "text": "Ante omnia grātiās tibi agimus, quod potēns es; glōria tibi in saecula."
+        },
+        {
+          "name": "Didache 10:5",
+          "verse": 5,
+          "text": "Recordāre, Domine, ecclēsiae tuae, ut eam līberēs ab omnī mālō eamque perficiās in cāritāte tuā, et collige eam ā quattuor ventīs sānctificātam in rēgnum tuum, quod eī parāstī, quoniam tua est virtūs et glōria in saecula."
+        },
+        {
+          "name": "Didache 10:6",
+          "verse": 6,
+          "text": "Adveniat grātia et praetereat mundus hic. Hosanna fīliō Dāvīd. Sī quis sānctus est, accēdat; sī quis nōn est, paenitentiam agat. Moranatha, āmēn."
+        },
+        {
+          "name": "Didache 10:7",
+          "verse": 7,
+          "text": "Prophētīs vērō permittite grātiās agere, quantās volunt."
+        }
+      ]
+    },
+    {
+      "name": "Didache 11 - De Doctoribus, Apostolis, et Prophetis",
+      "chapter": 11,
+      "verses": [
+        {
+          "name": "Didache 11:1",
+          "verse": 1,
+          "text": "Quī igitur ad vōs veniēns docuerit vōs haec omnia praedicta, eum suscipite."
+        },
+        {
+          "name": "Didache 11:2",
+          "verse": 2,
+          "text": "Sīn autem doctor ipse perversus doceat aliam doctrīnam, ita ut dissolvat, nē eum audītē; sī vērō docet, ita ut addat iūstitiam et scientiam Dominī, suscipite eum sīcut Dominum."
+        },
+        {
+          "name": "Didache 11:3",
+          "verse": 3,
+          "text": "Quod autem apostolōs attinet et prophētās, secundum dēcrētum ēvangeliī sīc facite."
+        },
+        {
+          "name": "Didache 11:4",
+          "verse": 4,
+          "text": "Omnis apostolus veniēns ad vōs suscipiātur sīcut Dominus;"
+        },
+        {
+          "name": "Didache 11:5",
+          "verse": 5,
+          "text": "nōn autem manēbit nisi ūnum diem, sī opus est et alterum; trēs autem sī maneat, pseudoprophēta est."
+        },
+        {
+          "name": "Didache 11:6",
+          "verse": 6,
+          "text": "Abiēns vērō apostolus nihil accipiat nisi pānem, dōnec dēvertat; sī argentum poscit, pseudoprophēta est."
+        },
+        {
+          "name": "Didache 11:7",
+          "verse": 7,
+          "text": "Et omnem prophētam loquentem in spīritū nē tentāte neque discernite; omne enim peccātum remittētur, hoc autem peccātum nōn remittētur."
+        },
+        {
+          "name": "Didache 11:8",
+          "verse": 8,
+          "text": "Nōn omnis, quī loquitur in spīritū, prophēta est, sed sī habet mōrēs Dominī; ex mōribus igitur cognōscētur pseudoprophēta et prophēta."
+        },
+        {
+          "name": "Didache 11:9",
+          "verse": 9,
+          "text": "Et nūllus prophēta dēcernēns mēnsam in spīritū edet ab eā, nisi pseudoprophēta est."
+        },
+        {
+          "name": "Didache 11:10",
+          "verse": 10,
+          "text": "Omnīs autem prophēta docēns vēritātem, sī quae docet nōn facit, pseudoprophēta est."
+        },
+        {
+          "name": "Didache 11:11",
+          "verse": 11,
+          "text": "Omnīs vērō prophēta probātus vērus, quī facit congregātiōnēs in mystērium mundānum, nec vērō docet omnia facienda esse, quae ipse facit, nōn iūdicābitur apud vōs; cum Deō enim habet iūdicium; eōdem enim modo ēgerant et veterēs prophētae."
+        },
+        {
+          "name": "Didache 11:12",
+          "verse": 12,
+          "text": "Quī autem dīxerit in spīritū: dā mihi argentum et alia quaedam, nē eum audiātis; sī vērō dīxerit, ut prō aliīs indigentibus dētur, nēmō eum iūdicet."
+        }
+      ]
+    },
+    {
+      "name": "Didache 12 - Receptio Christianorum",
+      "chapter": 12,
+      "verses": [
+        {
+          "name": "Didache 12:1",
+          "verse": 1,
+          "text": "Omnis, quī venit in nōmine Dominī, suscipiātur; posteā autem probantēs eum cognōscētis, intellēctum enim habēbitis dīiūdicantem dexteram et sinistram."
+        },
+        {
+          "name": "Didache 12:2",
+          "verse": 2,
+          "text": "Sī quidem veniēns trānsiēns est, adiuvāte eum quantum potestis; nōn manēbit autem apud vōs nisi duōs vel trēs diēs, sī necessārium est."
+        },
+        {
+          "name": "Didache 12:3",
+          "verse": 3,
+          "text": "Sī vērō apud vōs cōnsīdere vult et artifex est, labōrātō et ēditō."
+        },
+        {
+          "name": "Didache 12:4",
+          "verse": 4,
+          "text": "Sīn nōn exercet artem, prō prūdentiā vestrā cūrātē, nē piger vōbīscum vīvat Chrīstiānus."
+        },
+        {
+          "name": "Didache 12:5",
+          "verse": 5,
+          "text": "Sī nōn vult ita facere, ā Chrīstō lucrum quaerit; attendite ā talibus."
+        }
+      ]
+    },
+    {
+      "name": "Didache 13 - Sustentatio Prophetarum",
+      "chapter": 13,
+      "verses": [
+        {
+          "name": "Didache 13:1",
+          "verse": 1,
+          "text": "Omnis vērus prophēta, volēns cōnsīdere apud vōs, dignus est cibō suō."
+        },
+        {
+          "name": "Didache 13:2",
+          "verse": 2,
+          "text": "Similiter doctor vērus et ipse dignus est sīcut operārius cibō suō."
+        },
+        {
+          "name": "Didache 13:3",
+          "verse": 3,
+          "text": "Omnēs ergō prīmitiās prōvenientēs ē torculārī, āreā et bōbus atque ovibus sūmēs, ac dabis prīmitiās prophētīs; ipsī enim sunt summī sacerdōtēs vestrī."
+        },
+        {
+          "name": "Didache 13:4",
+          "verse": 4,
+          "text": "Sīn autem nōn habētis prophētam, date pauperibus."
+        },
+        {
+          "name": "Didache 13:5",
+          "verse": 5,
+          "text": "Sī pānem facis, sūme prīmitiās et dā secundum praeceptum."
+        },
+        {
+          "name": "Didache 13:6",
+          "verse": 6,
+          "text": "Similiter sī urceum vīnī vel oleī aperīs, sūme prīmitiās et dā prophētīs."
+        },
+        {
+          "name": "Didache 13:7",
+          "verse": 7,
+          "text": "Argentī et vestīmentī omnisque possessiōnis sūme prīmitiās, sīcut tibi placet, et dā secundum praeceptum."
+        }
+      ]
+    },
+    {
+      "name": "Didache 14 - Conventus Christianus in Die Dominico",
+      "chapter": 14,
+      "verses": [
+        {
+          "name": "Didache 14:1",
+          "verse": 1,
+          "text": "Diē dominicā autem convenientēs frangite pānem et grātiās agite, postquam dēlicta vestra cōnfessī estis, ut sit mundum sacrificium vestrum."
+        },
+        {
+          "name": "Didache 14:2",
+          "verse": 2,
+          "text": "Omnīs vērō, cui est contrōversia cum amīcō suō, nē conveniat vōbīscum, dōnec reconciliātī sunt, nē inquinētur sacrificium vestrum."
+        },
+        {
+          "name": "Didache 14:3",
+          "verse": 3,
+          "text": "Hoc enim est dictum ā Dominō: In omnī locō et tempore offerātur mihi sacrificium mundum, quoniam rēx magnus sum, dīcit Dominus, et nōmen meum mīrābile in gentibus."
+        }
+      ]
+    },
+    {
+      "name": "Didache 15 - Episcopi et Diaconi; Correctio Christiana",
+      "chapter": 15,
+      "verses": [
+        {
+          "name": "Didache 15:1",
+          "verse": 1,
+          "text": "Cōnstituite igitur vōbīs epīscopōs et diāconōs dignōs Dominō, virōs mānsuētōs et argentī nōn cupidōs et vērācēs et probātōs; vōbīs enim ministrant et ipsī ministerium prophētārum et doctōrum."
+        },
+        {
+          "name": "Didache 15:2",
+          "verse": 2,
+          "text": "Nē igitur contemnātis eōs; ipsī enim sunt honōrātī inter vōs ūnā cum prophētīs et doctōribus."
+        },
+        {
+          "name": "Didache 15:3",
+          "verse": 3,
+          "text": "Arguite autem vōs invicem, nōn in īrā, sed in aequanimitāte, sīcut habētis in ēvangeliō; et sī quis adversus alium dēlīquerit, nēmō loquātur cum eō, neque apud vōs audiātur, dōnec paenitentiam ēgerit."
+        },
+        {
+          "name": "Didache 15:4",
+          "verse": 4,
+          "text": "Ōrātiōnēs vestrās et eleēmosynās omnēsque āctiōnēs ita facite, sīcut habētis in ēvangeliō Dominī nostrī."
+        }
+      ]
+    },
+    {
+      "name": "Didache 16 - Vigilantia; Adventus Domini",
+      "chapter": 16,
+      "verses": [
+        {
+          "name": "Didache 16:1",
+          "verse": 1,
+          "text": "Vigilātē prō vītā vestrā; lucernae vestrae nē dēleantur, neque lumbī vestrī solvantur, sed parātī ēstote; ignōrātis enim hōram, in quō Dominus noster veniet."
+        },
+        {
+          "name": "Didache 16:2",
+          "verse": 2,
+          "text": "Crēbrō autem conveniētis, quaerentēs, quae spectant ad animās vestrās; nihil enim prōderit vōbīs omne tempus fideī vestrae, nisi in tempore novissimō perfectī fuerītis."
+        },
+        {
+          "name": "Didache 16:3",
+          "verse": 3,
+          "text": "Namque in diēbus novissimīs multiplicābuntur falsī prophētae et corruptōrēs, et convertentur ovēs in lupōs, et cāritās convertētur in odium."
+        },
+        {
+          "name": "Didache 16:4",
+          "verse": 4,
+          "text": "Cum enim aucta fuerit inīquitās, odiō sē invicem habēbunt et persequentur et prōdent; ac tum appārēbit orbis dēceptor tanquam fīlius Deī et faciet signa et prōdigia, et terra trādētur in manūs eius, et faciet inīqua, quae nunquam facta sunt ā saeculīs."
+        },
+        {
+          "name": "Didache 16:5",
+          "verse": 5,
+          "text": "Tum veniet creātūra hominum in ignem probātiōnis, et scandalizābuntur multī atque perībunt; quī vērō persevērāverint in fide suā, salvābuntur ex maledictō ipsō."
+        },
+        {
+          "name": "Didache 16:6",
+          "verse": 6,
+          "text": "Tuncque appārēbunt signa vēritātis; prīmum signum caelī apertī, deinde signum tubae, et tertium resurrēctiō mortuōrum,"
+        },
+        {
+          "name": "Didache 16:7",
+          "verse": 7,
+          "text": "neque vērō omnium, sed sīcut dictum est: veniet Dominus et omnēs sānctī cum eō."
+        },
+        {
+          "name": "Didache 16:8",
+          "verse": 8,
+          "text": "Tunc vidēbit mundus Dominum venientem suprā nūbēs caelī."
+        }
+      ]
+    }
+  ]
+}

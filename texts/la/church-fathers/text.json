@@ -1,0 +1,16 @@
+{
+  "textId": "church-fathers-english",
+  "version": null,
+  "versionName": "Scripta Patrum Ecclesiae",
+  "tags": ["church-fathers"],
+  "description": "Haec est collectio scriptorum a primis Patribus Ecclesiae, inclusa Didache et aliis textibus magni momenti.",
+  "language": "la",
+  "rightToLeft": false,
+  "books": [
+    {
+      "name": "Didache",
+      "order": 1,
+      "chapters": 16
+    }
+  ]
+}
