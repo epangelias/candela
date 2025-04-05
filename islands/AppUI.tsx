@@ -14,6 +14,7 @@ import { useGlobal } from '@/islands/Global.tsx';
 import { ComponentChildren } from 'preact';
 import WordsUI from '@/islands/WordsUI.tsx';
 import { TextsUI } from '@/islands/TextsUI.tsx';
+import { QuickUI } from '@/islands/QuickUI.tsx';
 
 export interface TabData {
   id: string;
@@ -84,6 +85,7 @@ export function AppUI({ chatData, wordsData }: { chatData: ChatData; wordsData: 
 
   return (
     <div class='app-ui'>
+      <QuickUI />
       <div class='views'>
         {tabs.map((tab, id) => (
           <div class='view' data-current={id == global.pageState.currentTabId.value}>{tab.content}</div>

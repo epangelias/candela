@@ -37,6 +37,9 @@ export async function generateChatCompletion(
   messages: AIMessage[],
   stream = false,
 ) {
+
+  options = { ...defaultTestOptions, ...options };
+
   messages = messages.map(({ role, content }) => ({ role, content }));
 
   const backendId = `${options.baseURL}:${options.apiKey}`;
