@@ -9,8 +9,11 @@
   "books": [
     {
       "name": "Didache",
-      "order": 1,
       "chapters": 16
+    },
+    {
+      "name": "Polycarp",
+      "chapters": 15
     }
   ]
 }

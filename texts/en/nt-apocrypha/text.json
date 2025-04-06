@@ -1,0 +1,14 @@
+{
+  "version": null,
+  "versionName": "New Testament Apocrypha",
+  "tags": ["apocrypha"],
+  "description": "Here are the ancient New Testament Apocrypha. The Apocrypha are documents that were not accepted into the canon of the New Testament by the orthodox church.",
+  "language": "en",
+  "rightToLeft": false,
+  "books": [
+    {
+      "name": "The Gospel of Thomas",
+      "chapters": 1
+    }
+  ]
+}
