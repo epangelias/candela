@@ -1,0 +1,15 @@
+{
+  "textId": "philosophy-english",
+  "version": null,
+  "versionName": "Philosophy",
+  "tags": ["philosophy"],
+  "description": "A collection of philosophical texts and writings.",
+  "language": "en",
+  "rightToLeft": false,
+  "books": [
+    {
+      "name": "Apology",
+      "chapters": 1
+    }
+  ]
+}
