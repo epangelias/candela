@@ -15,7 +15,6 @@ async function getTexts(language: string) {
       console.error("Error reading text.json in " + entry.path, e);
     }
   }
-  texts.reverse();
   return texts as TextMetadata[];
 }
 
