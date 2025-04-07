@@ -203,7 +203,7 @@ export function TextsUI() {
                 <h3>{chapter.name}</h3>
                 <div className='verses'>
                   {chapter.verses.map((verse) => (
-                    <p class='verse'>
+                    <p class='verse' data-title={verse.name || chapter.name}>
                       <span class='verse-number'>{verse.verse}</span> {verse.text}
                     </p>
                   ))}

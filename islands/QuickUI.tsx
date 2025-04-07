@@ -10,30 +10,48 @@ export function QuickUI() {
   const generating = useSignal(false);
   const message = useSignal('');
   const stopGenerating = useSignal<null | (() => void)>(null);
+  const lastChanged = useSignal(Date.now());
+  const timeout = useSignal<null | number>(null);
 
   useEffect(() => {
-    getResponse();
+    generating.value = false;
+    message.value = '';
+    stopGenerating.value?.();
+    const timeDiff = Date.now() - lastChanged.value;
+    lastChanged.value = Date.now();
+    if (timeDiff > 500) timeout.value = setTimeout(() => getResponse(), timeDiff);
   }, [global.pageState.selection.value]);
 
   function getResponse() {
-    const currentSelection = global.pageState.selection.value;
+    clearTimeout(timeout.value!);
     generating.value = false;
     message.value = '';
+    let currentSelection = `"${global.pageState.selection.value}" in "${global.pageState.selectionContext.value}"`;
+    if (currentSelection.length > 1000) currentSelection = global.pageState.selection.value;
+    if (currentSelection.length > 2000) return;
 
     if (!currentSelection) return;
 
+    console.log(currentSelection);
+
     stopGenerating.value?.();
-    stopGenerating.value = watchSSE('/api/quick-explain?' + currentSelection, {
-      onMessage(newMessage: AIMessage) {
-        if (newMessage == null) return generating.value = false;
-        message.value = newMessage.content;
-      },
-      onError() {
-        console.error('Error generating response');
-        message.value = '';
-        generating.value = false;
-      },
-    });
+    try {
+      stopGenerating.value = watchSSE('/api/quick-explain?' + currentSelection, {
+        onMessage(newMessage: AIMessage) {
+          if (newMessage == null) return generating.value = false;
+          message.value = newMessage.content;
+        },
+        onError() {
+          console.error('Error generating response');
+          message.value = '';
+          generating.value = false;
+        },
+      });
+    } catch (_e) {
+      console.error('Error generating response', _e);
+      message.value = '';
+      generating.value = false;
+    }
   }
 
   if (!IS_BROWSER || !global.pageState.selection.value) return <></>;

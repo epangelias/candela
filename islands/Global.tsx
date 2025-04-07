@@ -31,6 +31,14 @@ export function Global({ children, user, mailEnabled, stripeEnabled, pushEnabled
 
   useEffect(() => {
     const setSelection = () => {
+      const anchorNode = globalThis.getSelection()?.anchorNode;
+      const contextElement = anchorNode?.parentElement?.closest('*');
+      global.pageState.selectionContext.value = contextElement?.textContent || '';
+      if (contextElement?.hasAttribute('data-title')) {
+        global.pageState.selectionContext.value = contextElement.getAttribute('data-title')! + ' - ' +
+          global.pageState.selectionContext.value;
+      }
+
       const selection = globalThis.getSelection()?.toString() || '';
       if (selection != global.pageState.selection.value) {
         setTimeout(() => {

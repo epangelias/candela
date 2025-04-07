@@ -1,3 +1,1 @@
-- Make prompts in english, but tell to respond in selected language
-- Make it so that it translates question if not in target language
-- Add coptic, syriac (aramaic dialect still used today), maybe german for luthers bible
+- Let the text selection have the context too
