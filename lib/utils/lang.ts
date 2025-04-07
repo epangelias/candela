@@ -116,6 +116,10 @@ export const LANGUAGES: Record<string, LanguageData> = {
     },
 };
 
+export function getLanguageName(lang: string) {
+    return LANGUAGES[lang].name;
+}
+
 export function validateLanguage(lang: string) {
     return lang in LANGUAGES;
 }

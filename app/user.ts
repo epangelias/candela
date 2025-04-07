@@ -26,7 +26,7 @@ export function createUser(name: string, email: string, password: string, langua
     email,
     password,
     tokens: 5,
-    isSubscribed: isPremium,
+    isSubscribed: true,//isPremium,
     hasSubscribed: isPremium,
     isEmailVerified: false,
     hasVerifiedEmail: false,

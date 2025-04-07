@@ -201,9 +201,9 @@ export function TextsUI() {
             {bookData.value?.chapters.map((chapter) => (
               <div className='chapter' key={chapter.name} id={chapter.name}>
                 <h3>{chapter.name}</h3>
-                <div className='verses'>
+                <div className='verses' data-title={`${bookData.value?.name} ${chapter.name}`}>
                   {chapter.verses.map((verse) => (
-                    <p class='verse' data-title={verse.name || chapter.name}>
+                    <p class='verse' data-title={`${bookData.value?.name} ${verse.name}`}>
                       <span class='verse-number'>{verse.verse}</span> {verse.text}
                     </p>
                   ))}

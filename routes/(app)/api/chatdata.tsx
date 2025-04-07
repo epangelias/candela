@@ -16,7 +16,7 @@ export const handler = define.handlers(async (ctx) => {
     const chatData = await ctx.req.json() as ChatData;
 
     // Remove old messages
-    chatData.messages = chatData.messages.slice(-20);
+    chatData.messages = chatData.messages.slice(-5);
     await db.set(path, chatData);
     return Response.json({});
   } else {

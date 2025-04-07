@@ -32,7 +32,8 @@ export function QuickUI() {
   function getResponse() {
     generating.value = false;
     message.value = '';
-    let currentSelection = `"${global.pageState.selection.value}" in "${global.pageState.selectionContext.value}"`;
+    let currentSelection =
+      `${global.pageState.selection.value} (context: '${global.pageState.selectionContext.value}')`;
     if (currentSelection.length > 1000) currentSelection = global.pageState.selection.value;
     if (currentSelection.length > 2000) return console.error('response too long');
     if (!global.pageState.selection.value) return;

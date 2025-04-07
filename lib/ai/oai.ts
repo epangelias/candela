@@ -13,6 +13,7 @@ export interface OAIOptions {
   baseURL?: string;
   apiKey?: string;
   model: string;
+  max_tokens?: number;
 }
 
 const cache = new LruCache<string, OpenAI>(100);
@@ -53,5 +54,6 @@ export async function generateChatCompletion(
     model: options.model,
     messages: messages as ChatCompletionMessageParam[],
     stream,
+    max_tokens: options.max_tokens,
   }) as unknown as OpenAI.ChatCompletion;
 }

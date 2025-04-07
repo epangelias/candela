@@ -318,7 +318,7 @@ main:has(.app-ui) {
 .quick-ui {
     display: flex;
     justify-content: space-between;
-    ;
+    cursor: pointer;
     user-select: none;
     background-color: var(--bg3);
     white-space: nowrap;
@@ -327,5 +327,10 @@ main:has(.app-ui) {
 
     .content {
         overflow-x: auto;
+        scrollbar-width: none;
+    }
+
+    &:hover {
+        background-color: var(--bg4);
     }
 }
