@@ -62,12 +62,30 @@
                 }
 
                 ul {
-                    padding: 0;
+                    padding: 0 var(--spacing-05);
                     list-style: none;
 
-                    p,
-                    h3 {
-                        opacity: 0.7;
+                    li {
+                        cursor: pointer;
+                        background-color: var(--bg2);
+                        box-shadow: var(--field-shadow);
+                        margin-bottom: var(--spacing);
+                        border-radius: var(--radius-2);
+                        padding: var(--spacing) var(--spacing-2);
+
+                        &:hover {
+                            background-color: var(--bg3);
+                        }
+
+                        h3 {
+                            margin: 0;
+                        }
+
+                        &[data-smart="true"] {
+                            h3 {
+                                color: var(--primary);
+                            }
+                        }
                     }
                 }
 

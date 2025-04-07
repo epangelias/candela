@@ -38,7 +38,7 @@ export function TextsUI() {
       body: { language, folder: currentText.value.folder, book: currentBook.value },
     });
 
-    if (!currentChapter.value) openChapter(bookData.value?.chapters[0].name);
+    if (!currentChapter.value) viewChapter(bookData.value?.chapters[0].name);
   }
 
   function searchText(text: TextMetadata) {
@@ -69,7 +69,7 @@ export function TextsUI() {
     }, 100);
   }
 
-  function openChapter(chapter: string) {
+  function viewChapter(chapter: string) {
     currentChapter.value = chapter;
     localStorage.setItem('texts-currentChapter', chapter);
     const interval = setInterval(() => {
@@ -79,6 +79,17 @@ export function TextsUI() {
         element.scrollIntoView();
       }
     }, 100);
+  }
+
+  function viewVerse(verse: string) {
+    const interval = setInterval(() => {
+      const element = document.getElementById(verse);
+      if (element) {
+        clearInterval(interval);
+        const el = (verse.split(':')[1] == '1') ? element.parentElement!.previousSibling : element.previousSibling!;
+        el.scrollIntoView();
+      }
+    }, 150);
   }
 
   function onChapterScroll(e: Event) {
@@ -115,9 +126,29 @@ export function TextsUI() {
       if (currentView.value != 2) return;
       if (!bookData.value) await loadBookData();
       const chapter = localStorage.getItem('texts-currentChapter');
-      if (chapter) openChapter(chapter);
+      if (chapter) viewChapter(chapter);
     })();
   }, []);
+
+  useEffect(() => {
+    openVerse(global.pageState.selectedVerse.value);
+  }, [global.pageState.selectedVerse.value]);
+
+  async function openVerse(name: string) {
+    if (!name) return;
+    let book = name.split(' ').slice(0, -1).join(' ');
+    const chapter = name.split(' ').at(-1)!.split(':')[0];
+
+    const text = texts.value.find((t) => t.folder == 'bible');
+    if (!text) return console.error('text not found');
+    openText(text);
+    currentBook.value = book;
+    await loadBookData();
+    viewChapter(book + ' ' + chapter);
+    currentView.value = 2;
+    viewVerse(name);
+    console.log(name);
+  }
 
   return (
     <div class='texts-ui'>
@@ -177,7 +208,7 @@ export function TextsUI() {
           <button onClick={() => currentView.value = 1} class='back'>
             <IconBack width={24} />
           </button>
-          <select onInput={(e) => openChapter((e.target as HTMLSelectElement).value)} id='chapter-select'>
+          <select onInput={(e) => viewChapter((e.target as HTMLSelectElement).value)} id='chapter-select'>
             {bookData.value?.chapters.map((chapter) => (
               <option
                 key={chapter.name}
@@ -203,7 +234,12 @@ export function TextsUI() {
                 <h3>{chapter.name}</h3>
                 <div className='verses' data-title={`${bookData.value?.name} ${chapter.name}`}>
                   {chapter.verses.map((verse) => (
-                    <p class='verse' data-title={`${bookData.value?.name} ${verse.name}`}>
+                    <p
+                      class='verse'
+                      data-title={`${bookData.value?.name} ${verse.name}`}
+                      data-selected={verse.name === global.pageState.selectedVerse.value}
+                      id={verse.name}
+                    >
                       <span class='verse-number'>{verse.verse}</span> {verse.text}
                     </p>
                   ))}

@@ -49,25 +49,24 @@ export const handler = define.handlers({
             if (book == "Psalm") book = "Psalms";
 
             let bookData = await loadBook(ctx.state.user?.language, book);
-            const text = bookData
+            let text = bookData
                 ?.chapters.find(c => c.chapter == +chapter)
                 ?.verses.find(v => v.verse == +verse)?.text;
 
             if (!text) {
                 bookData = await loadBook("en", book);
-                return bookData
+                text = bookData
                     ?.chapters.find(c => c.chapter == +chapter)
                     ?.verses.find(v => v.verse == +verse)?.text || '';
             }
 
-            return text || null;
+            return { name: `${book} ${chapter}:${verse}`, description: text };
         }
 
         const results = [];
 
         for (const r of resultsData) {
-            const text = await getVerseText(r.document.verse_name);
-            results.push({ name: r.document.verse_name, description: text });
+            results.push(await getVerseText(r.document.verse_name));
         }
 
         return Response.json(results);

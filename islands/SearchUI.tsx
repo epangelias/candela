@@ -11,18 +11,14 @@ import { IS_BROWSER } from 'fresh/runtime';
 interface SearchResult {
   name: string;
   description: string;
+  smart?: true;
 }
 
 export function SearchUI() {
   const searchResults = useSignal<SearchResult[]>([]);
-  const smartSearchHTML = useSignal('');
   const loading = useSignal(false);
   const currentQuery = useSignal('');
   const global = useGlobal();
-
-  useEffect(() => {
-    if (IS_BROWSER) smartSearchHTML.value = `<p>${getContent('AskAndTheBibleAnswers', global)}</p>`;
-  }, [global.user.value]);
 
   useEffect(() => {
     if (
@@ -41,17 +37,19 @@ export function SearchUI() {
       loading.value = true;
 
       searchResults.value = [];
-      smartSearchHTML.value = '<p><div class="loader"></div></p>';
 
       searchResults.value = await fetchOrError('/api/search', {
         method: 'POST',
         body: { query },
       });
 
-      smartSearchHTML.value = (await fetchOrError<{ html: string }>('/api/smart-search', {
+      const { data } = await fetchOrError<{ data: SearchResult[] }>('/api/smart-search', {
         method: 'POST',
         body: { query },
-      })).html;
+      });
+
+      searchResults.value = searchResults.value.filter((s) => !data.find((d) => d.name === s.name));
+      searchResults.value = [...data, ...searchResults.value];
     } catch (e) {
     } finally {
       loading.value = false;
@@ -71,20 +69,30 @@ export function SearchUI() {
     await search(query);
   }
 
+  function openVerse(name: string) {
+    global.pageState.currentTabId.value = 2;
+    global.pageState.selectedVerse.value = name;
+  }
+
   return (
     <div class='search-ui'>
       <form onSubmit={onSubmit}>
         <Field type='search' name='query' placeholder={getContent('Search')} required />
         <button disabled={loading.value}>
-          {loading.value ? <Loader width={24} height={24} /> : <SearchIcon width={24} height={24} />}
+          {loading.value ? <Loader width={24} height={24} /> : <SearchIcon width={20} height={20} />}
         </button>
       </form>
       <div class='results'>
-        {currentQuery.value && <h2>"{currentQuery.value}"</h2>}
-        <div class='smart-search' dangerouslySetInnerHTML={{ __html: smartSearchHTML.value }}></div>
+        {currentQuery.value && <h2>"{currentQuery.value}" {loading.value && <Loader width={24} height={24} />}</h2>}
+        {!searchResults.value.length && getContent('AskAndTheBibleAnswers', global)}
         <ul>
           {searchResults.value.map((result) => (
-            <li>
+            <li
+              data-smart={!!result.smart}
+              onClick={() => openVerse(result.name)}
+              tabIndex={0}
+              key={result.name}
+            >
               <h3>{result.name}</h3>
               <p>{result.description}</p>
             </li>

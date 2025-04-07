@@ -5,7 +5,7 @@ import { STATUS_CODE } from '@std/http/status';
 import { getLanguageName } from '@/lib/utils/lang.ts';
 
 export const handler = define.handlers({
-  GET: async (ctx) => {
+  GET: (ctx) => {
     const query = decodeURIComponent(ctx.req.url.split('?')[1]);
     const word = query.split(" (context: '")[0];
 
@@ -36,7 +36,7 @@ export const handler = define.handlers({
             `This is the selection (language: ${user.language}): "${word}"\n${query}\nPlease let your response be in the language ${user.nativeLanguage}`,
         },
       ],
-      options: { model, max_tokens: 100 },
+      options: { model },
     });
   },
 });

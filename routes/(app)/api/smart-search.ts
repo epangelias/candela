@@ -64,8 +64,6 @@ export const handler = define.handlers({
 
         const verses = content.split('\n').map(v => v.trim().split('-')[0]).filter(v => v !== '');
 
-        let results = '';
-
         async function getVerseText(verseName: string) {
             const [_, _book, chapter, verse] = verseName.split(/(.+) (\d+):(\d+)/);
 
@@ -78,25 +76,30 @@ export const handler = define.handlers({
             book = book.replace("Psalm", "Psalms");
 
             let bookData = await loadBook(ctx.state.user?.language, book);
-            const text = bookData
+            let text = bookData
                 ?.chapters.find(c => c.chapter == +chapter)
                 ?.verses.find(v => v.verse == +verse)?.text;
 
             if (!text) {
                 bookData = await loadBook("en", book);
-                return bookData
+                text = bookData
                     ?.chapters.find(c => c.chapter == +chapter)
                     ?.verses.find(v => v.verse == +verse)?.text || '';
             }
 
-            return text || '';
+            return { description: text, name: `${book} ${chapter}:${verse}`, smart: true };
         }
+
+        const data = [];
 
         for (const v of verses) {
-            const text = await getVerseText(v);
-            results += `<h3>${v}</h3><p>${text}</p>\n`;
+            data.push(await getVerseText(v));
         }
 
-        return Response.json({ html: thinkingTag + results });
+        return Response.json({
+            thinkingTag,
+            data
+
+        });
     }
 })

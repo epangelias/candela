@@ -12,6 +12,7 @@ async function getBook(language: string, folder: string, book: string) {
 export const handler = define.handlers({
   POST: async ctx => {
     const { language, folder, book } = await ctx.req.json();
+    console.log({ language, folder, book });
     const data = await getBook(language, folder, book);
     return Response.json(data);
   }

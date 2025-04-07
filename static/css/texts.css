@@ -156,6 +156,11 @@
           font-size: 0.6rem;
           opacity: 0.8;
         }
+
+        &[data-selected="true"] {
+          color: var(--primary);
+          font-weight: 600;
+        }
       }
     }
   }
