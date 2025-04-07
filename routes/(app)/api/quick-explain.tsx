@@ -29,7 +29,7 @@ export const handler = define.handlers({
             `This is the selection (language: ${user.language}): "${query}"\nPlease let your response be in the language ${user.nativeLanguage}`,
         },
       ],
-      options: { model: 'llama-3.1-8b-instant' },
+      options: { model },
     });
   },
 });
