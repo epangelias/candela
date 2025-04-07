@@ -20,7 +20,7 @@ export const handler = define.handlers({
 
     const prompt = isWord
       ? `You will explain the meaning of the phrase in only 15 words, and very concisely. The selection will be in the language: ${appLanguage}, and your answer will be in the language ${nativeLanguage}. Do not repeat the selection, get straight to the point, and do not translate. Begin instantly from the first word the explanation or insight. Note that the origin of the selection comes from a biblical or other text.`
-      : `You will provide a helpful definition for the word under 15 words. The beginning of your response will be a list of 1-3 words separated by a comma that signify the meaning of the word. The context of the word may also be provided. After that, it will be followed by relevant contextual insights in no more than 10 more words, avoid mundane obvious facts but include scholarly insight that is not inherit in the text. The selection will be in the language: ${appLanguage}, and your answer will be in the language ${nativeLanguage}`;
+      : `You will provide a helpful definition for the word under 15 words. The beginning of your response will be a list of 1-3 words separated by a comma that signify the meaning of the word. The context of the word may also be provided. After that, it will be followed by relevant contextual insights in no more than 10 more words, avoid mundane obvious facts but include educated insight that is not inherit in the text. The selection will be in the language: ${appLanguage}, and your answer will be in the language ${nativeLanguage}. Do not label any section of the text since there is little space, include the pure, raw information.`;
 
     const model = 'meta-llama/llama-4-scout-17b-16e-instruct';
 

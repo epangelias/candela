@@ -58,7 +58,7 @@ export const handler = define.handlers({
         let content = result.choices[0].message.content!;
 
         const thinking = content.match(/<think>([\s\S]*)<\/think>/)?.[1];
-        const thinkingTag = `<small><details><summary style="float:right">Thinking &nbsp;</summary>${thinking}</details></small>`;
+        const thinkingTag = `<small><details><summary>Thinking &nbsp;</summary>${thinking}</details></small>`;
 
         content = content.replace(/<think>[\s\S]*<\/think>/, '');
 

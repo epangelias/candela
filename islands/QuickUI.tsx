@@ -4,7 +4,7 @@ import { useEffect } from 'preact/hooks';
 import { watchSSE } from '@/lib/stream/stream-client.ts';
 import { AIMessage } from '@/lib/ai/oai.ts';
 import { useSignal } from '@preact/signals';
-import CaretUp from 'tabler-icons/caret-up-filled';
+import CaretLeft from 'tabler-icons/caret-left-filled';
 
 export function QuickUI() {
   const global = useGlobal();
@@ -63,7 +63,7 @@ export function QuickUI() {
   return (
     <div class='quick-ui'>
       <div class='content' dangerouslySetInnerHTML={{ __html: message.value || '<div class="loader"></div>' }}></div>
-      <CaretUp height={24} />
+      <CaretLeft height={24} />
     </div>
   );
 }

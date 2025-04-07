@@ -19,6 +19,7 @@ export function SearchUI() {
   const loading = useSignal(false);
   const currentQuery = useSignal('');
   const global = useGlobal();
+  const thinkingTagContent = useSignal('');
 
   useEffect(() => {
     if (
@@ -37,16 +38,19 @@ export function SearchUI() {
       loading.value = true;
 
       searchResults.value = [];
+      thinkingTagContent.value = '';
 
       searchResults.value = await fetchOrError('/api/search', {
         method: 'POST',
         body: { query },
       });
 
-      const { data } = await fetchOrError<{ data: SearchResult[] }>('/api/smart-search', {
+      const { data, thinkingTag } = await fetchOrError<{ data: SearchResult[] }>('/api/smart-search', {
         method: 'POST',
         body: { query },
       });
+
+      thinkingTagContent.value = thinkingTag;
 
       searchResults.value = searchResults.value.filter((s) => !data.find((d) => d.name === s.name));
       searchResults.value = [...data, ...searchResults.value];
@@ -98,6 +102,7 @@ export function SearchUI() {
             </li>
           ))}
         </ul>
+        <p dangerouslySetInnerHTML={{ __html: thinkingTagContent.value }}></p>
       </div>
     </div>
   );
