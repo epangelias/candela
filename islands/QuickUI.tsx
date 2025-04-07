@@ -14,6 +14,7 @@ export function QuickUI() {
   const timeout = useSignal<null | number>(null);
 
   useEffect(() => {
+    if (global.pageState.selection.value) return;
     generating.value = false;
     message.value = '';
     stopGenerating.value?.();
@@ -30,9 +31,7 @@ export function QuickUI() {
     if (currentSelection.length > 1000) currentSelection = global.pageState.selection.value;
     if (currentSelection.length > 2000) return;
 
-    if (!currentSelection) return;
-
-    console.log(currentSelection);
+    if (global.pageState.selection.value) return;
 
     stopGenerating.value?.();
     try {
