@@ -63,6 +63,7 @@ export function StreamAI({ messages, options, onChunk, onEnd, onCancel }: Option
       stream.controller.abort();
       send(null);
       await trigger(onEnd);
+      stream.controller.abort();
     },
     async onCancel() {
       message.html = await renderMarkdown(removeThinkTags(message.content));

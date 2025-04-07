@@ -3,6 +3,7 @@ import { TextMetadata } from '@/lib/texts-data.ts';
 
 async function getTexts(language: string) {
   const texts = [];
+  console.log('./texts/' + language);
   for await (const entry of await Deno.readDir('./texts/' + language)) {
     try {
       if (!entry.isDirectory) continue;

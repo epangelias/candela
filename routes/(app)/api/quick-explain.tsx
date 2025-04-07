@@ -8,6 +8,7 @@ export const handler = define.handlers({
   GET: async (ctx) => {
     const query = decodeURIComponent(ctx.req.url.split('?')[1]);
     const word = query.split(" (context: '")[0];
+
     const isWord = word.split(' ').filter((q) => q.trim()).length > 1;
 
     const user = ctx.state.user;

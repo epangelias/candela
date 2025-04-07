@@ -36,11 +36,11 @@ export function QuickUI() {
       `${global.pageState.selection.value} (context: '${global.pageState.selectionContext.value}')`;
     if (currentSelection.length > 1000) currentSelection = global.pageState.selection.value;
     if (currentSelection.length > 2000) return console.error('response too long');
-    if (!global.pageState.selection.value) return;
+    if (!global.pageState.selection.value) return console.error('no selection');
 
-    stopGenerating.value?.();
     try {
-      stopGenerating.value = watchSSE('/api/quick-explain?' + currentSelection, {
+      stopGenerating.value?.();
+      stopGenerating.value = watchSSE('/api/quick-explain?' + encodeURIComponent(currentSelection), {
         onMessage(newMessage: AIMessage) {
           if (newMessage == null) return generating.value = false;
           message.value = newMessage.content;
