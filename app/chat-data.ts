@@ -15,7 +15,8 @@ const createFirstMessage = (name: string, language: string) => {
     es: `Ven, ${name}, y haz tu pregunta. Juntos buscaremos la verdad a través de la Palabra de Dios.`,
     la: `Veni, ${name}, et quaestionem tuam propone. Simul veritatem per Verbum Dei quaeremus.`,
     he: `בוא, ${name}, ושאל את שאלתך. יחד נחפש את האמת דרך דבר האלוהים.`,
-    gr: `Έλα, ${name}, και κάνε την ερώτησή σου. Μαζί θα αναζητήσουμε την αλήθεια μέσω του Λόγου του Θεού.`
+    gr: `Έλα, ${name}, και κάνε την ερώτησή σου. Μαζί θα αναζητήσουμε την αλήθεια μέσω του Λόγου του Θεού.`,
+    th: `จงมานะ, ${name}, และถามคำถามของท่านเถิด เราจะร่วมกันแสวงหาความจริงผ่านทางพระวจนะของพระเจ้า`
   };
 
   return messages[language] || messages.en; // Default to English if language is not recognized

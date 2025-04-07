@@ -5,13 +5,11 @@ export type LangContentName = 'Options' | 'Name' | 'Email' | 'Language' | 'Save'
 interface LanguageData {
     name: string;
     content: Record<LangContentName, string>;
-    defaultTranslation: string;
 }
 
 export const LANGUAGES: Record<string, LanguageData> = {
     en: {
         name: 'English',
-        defaultTranslation: "King James Version",
         content: {
             Options: 'Options',
             Name: 'Name',
@@ -32,7 +30,6 @@ export const LANGUAGES: Record<string, LanguageData> = {
     },
     es: {
         name: 'Español',
-        defaultTranslation: "Reina-Valera 1960",
         content: {
             Options: 'Opciones',
             Name: 'Nombre',
@@ -53,7 +50,6 @@ export const LANGUAGES: Record<string, LanguageData> = {
     },
     la: {
         name: 'Latin',
-        defaultTranslation: "Jerome's Vulgate",
         content: {
             Options: 'Optiones',
             Name: 'Nomen',
@@ -74,7 +70,6 @@ export const LANGUAGES: Record<string, LanguageData> = {
     },
     he: {
         name: 'עברית',
-        defaultTranslation: "Masoretic",
         content: {
             Options: 'אפשרויות',
             Name: 'שם',
@@ -95,7 +90,6 @@ export const LANGUAGES: Record<string, LanguageData> = {
     },
     gr: {
         name: 'Ελληνικά',
-        defaultTranslation: "Septuagint & Textus Receptus",
         content: {
             Options: 'Επιλογές',
             Name: 'Όνομα',
@@ -114,6 +108,26 @@ export const LANGUAGES: Record<string, LanguageData> = {
             Default: 'Πρότυπον',
         }
     },
+    th: {
+        name: 'ไทย',
+        content: {
+            Options: 'ตัวเลือก',
+            Name: 'ชื่อ',
+            Email: 'อีเมล',
+            Language: 'ภาษา',
+            Save: 'บันทึก',
+            SignOut: 'ออกจากระบบ',
+            Search: 'ค้นหา',
+            Texts: 'ข้อความ',
+            Words: 'คำ',
+            Chat: 'แชท',
+            AskAndTheBibleAnswers: 'ถามและพระคัมภีร์ตอบ!',
+            Saved: 'ที่บันทึกไว้',
+            Explain: 'อธิบาย',
+            NativeLanguage: 'ภาษาแม่',
+            Default: "ค่าเริ่มต้น",
+        }
+    }
 };
 
 export function getLanguageName(lang: string) {

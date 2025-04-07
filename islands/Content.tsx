@@ -4,7 +4,7 @@ import { GlobalData } from '@/app/types.ts';
 
 function getDefaultLanguage(): string {
   const browserLang = navigator.language || 'en';
-  const supportedLanguages = ['en', 'es', 'la', 'gr', 'he'];
+  const supportedLanguages = ['en', 'es', 'la', 'gr', 'he', 'th'];
   const defaultLanguage = supportedLanguages.includes(browserLang.substring(0, 2)) ? browserLang.substring(0, 2) : 'en';
   return defaultLanguage;
 }
@@ -43,6 +43,7 @@ export function SelectLanguage(props: { hidden?: boolean } = { hidden: false }) 
           <option value='la'>Latin</option>
           <option value='gr'>Greek</option>
           <option value='he'>Hebrew</option>
+          <option value='th'>ไทย</option>
         </select>
       </div>
       <div class='field' style={{ display: props.hidden ? 'none' : 'block' }}>
@@ -58,6 +59,7 @@ export function SelectLanguage(props: { hidden?: boolean } = { hidden: false }) 
           <option value='la'>Latin</option>
           <option value='gr'>Greek</option>
           <option value='he'>Hebrew</option>
+          <option value='th'>ไทย</option>
         </select>
       </div>
     </div>

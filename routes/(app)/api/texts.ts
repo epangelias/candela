@@ -21,8 +21,13 @@ async function getTexts(language: string) {
 
 export const handler = define.handlers({
   POST: async ctx => {
-    const { language } = await ctx.req.json();
-    const texts = await getTexts(language);
-    return Response.json(texts);
+    try {
+      const { language } = await ctx.req.json();
+      const texts = await getTexts(language);
+      return Response.json(texts);
+    } catch (e) {
+      console.error("Error loading texts", e);
+      return Response.error();
+    }
   }
 })
