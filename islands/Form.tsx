@@ -57,7 +57,7 @@ export function Form(props: JSX.HTMLAttributes<HTMLFormElement> & { method?: str
 
       const text = await res.text();
 
-      if (text && !res.redirected) showSuccess(text);
+      // if (text && !res.redirected) showSuccess(text);
     } catch (err) {
       showError(err instanceof Error ? err.message : 'An error occurred');
     } finally {

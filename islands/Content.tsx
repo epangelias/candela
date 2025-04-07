@@ -1,6 +1,5 @@
 import { getLanguageContent, LangContentName } from '@/lib/utils/lang.ts';
 import { useGlobal } from '@/islands/Global.tsx';
-import { GlobalData } from '@/app/types.ts';
 
 function getDefaultLanguage(): string {
   const browserLang = navigator.language || 'en';
@@ -32,12 +31,17 @@ export function getContent(name: LangContentName, global = useGlobal()) {
 
 export function SelectLanguage(props: { hidden?: boolean } = { hidden: false }) {
   return (
-    <div style={{ display: 'flex', gap: 'var(--spacing)' }}>
+    <div>
       <div class='field' style={{ display: props.hidden ? 'none' : 'block' }}>
         <label for='field-language'>
           <Content>Language</Content>
         </label>
-        <select name='language' id='field-language' value={getLanguage()}>
+        <select
+          name='language'
+          id='field-language'
+          value={getLanguage()}
+          style={{ width: '100%', marginBottom: 'var(--spacing)' }}
+        >
           <option value='en'>English</option>
           <option value='es'>Español</option>
           <option value='la'>Latin</option>
@@ -50,7 +54,7 @@ export function SelectLanguage(props: { hidden?: boolean } = { hidden: false }) 
         <label for='field-native-language'>
           <Content>NativeLanguage</Content>
         </label>
-        <select name='nativeLanguage' id='field-native-language' value={getNativeLanguage()}>
+        <select name='nativeLanguage' id='field-native-language' value={getNativeLanguage()} style={{ width: '100%' }}>
           <option value=''>
             <Content>Default</Content>
           </option>
